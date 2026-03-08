@@ -1,0 +1,77 @@
+baseURL: "https://analectastoa.com/"
+languageCode: "en-us"
+title: "Analecta Stoa"
+theme: "PaperMod"
+
+pagination:
+  pagerSize: 10
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: "production"
+  title: "Analecta Stoa"
+  description: "Reading summaries, excerpts, and curated details from classical literature — Tacitus, Josephus, Thucydides, and beyond."
+  author: "Your Name"
+  defaultTheme: "auto"
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+
+  homeInfoParams:
+    Title: "Analecta Stoa"
+    Content: >
+      Welcome. This is a reading companion for the great works of classical antiquity —
+      summaries, excerpts, and annotations drawn from historians, philosophers, and chroniclers
+      of the ancient world.
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/eduardo-aleman"
+
+taxonomies:
+  author: "authors"
+  category: "categories"
+  tag: "tags"
+  series: "series"
+
+menu:
+  main:
+    - identifier: "works"
+      name: "Works"
+      url: "/categories/"
+      weight: 10
+    - identifier: "authors"
+      name: "Authors"
+      url: "/authors/"
+      weight: 20
+    - identifier: "series"
+      name: "Series"
+      url: "/series/"
+      weight: 30
+    - identifier: "search"
+      name: "Search"
+      url: "/search/"
+      weight: 40
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 50
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
