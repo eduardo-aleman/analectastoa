@@ -1,0 +1,76 @@
+baseURL = "https://analectastoa.com/"
+languageCode = "en-us"
+title = "Analecta Stoa"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production"
+  title = "Analecta Stoa"
+  description = "Reading summaries, excerpts, and curated details from classical literature — Tacitus, Josephus, Thucydides, and beyond."
+  author = "Your Name"
+  defaultTheme = "auto"           # auto | light | dark
+  disableThemeToggle = false
+  ShowShareButtons = false
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true                  # Table of Contents for long articles
+  TocOpen = false
+  
+  [params.homeInfoParams]
+    Title = "Analecta Stoa"
+    Content = """
+Welcome. This is a reading companion for the great works of classical antiquity —
+summaries, excerpts, and annotations drawn from historians, philosophers, and chroniclers
+of the ancient world.
+"""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/YOUR_USERNAME"
+
+[taxonomies]
+  author = "authors"
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[menu]
+  [[menu.main]]
+    identifier = "works"
+    name = "Works"
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "authors"
+    name = "Authors"
+    url = "/authors/"
+    weight = 20
+  [[menu.main]]
+    identifier = "series"
+    name = "Series"
+    url = "/series/"
+    weight = 30
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 40
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 50
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]   # JSON required for search
