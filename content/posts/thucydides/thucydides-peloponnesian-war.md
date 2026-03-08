@@ -5,7 +5,7 @@ authors: ["Thucydides"]
 categories: ["Greek History"]
 tags: ["Athens", "Sparta", "Peloponnesian War", "Sicily", "Pericles", "Democracy"]
 series: ["Thucydides"]
-description: "Reading companion for Thucydides's History of the Peloponnesian War — the foundational text of Western historiography."
+summary: "Reading companion for Thucydides's History of the Peloponnesian War — the foundational text of Western historiography."
 ShowToc: true
 TocOpen: false
 draft: false
