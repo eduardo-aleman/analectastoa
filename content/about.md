@@ -5,7 +5,7 @@ url: "/about/"
 summary: "About Analecta Stoa"
 ---
 
-*Analecta Stoa* is a scholarly reading companion dedicated to the literature of classical antiquity. Its purpose is to make the great historical, philosophical, and rhetorical works of the ancient world more accessible through careful summaries, annotated excerpts, and critical commentary — without sacrificing the intellectual rigour these texts demand.
+*Analecta Stoa* is a reading companion dedicated to the literature of antiquity. Its purpose is to make some of the great historical, philosophical, and rhetorical works of the ancient world more accessible through careful summaries, annotated excerpts, and critical commentary — without sacrificing the intellectual rigour these texts demand.
 
 The title draws on two traditions. *Analecta* (ἀνάλεκτα), from the Greek, denotes gathered fragments or selected readings — a term historically applied to collections of literary remains and excerpts. *Stoa* evokes both the colonnaded walkway of the ancient agora, a place of public discourse and instruction, and the Stoic philosophical school that flourished in precisely the period many of these texts concern.
 

@@ -33,7 +33,7 @@ params:
   homeInfoParams:
     Title: "Analecta Stoa"
     Content: >
-      Welcome. This is my own personal curated companion to the great works of antiquity. Through a historiographical lens, the site offer summaries (by me), primary excerpts (by the authors), and scholarly annotations (by experts) needed to navigate the chronicles of the ancient world. 
+      Welcome. This is my own personal curated companion to the great works of antiquity. Through a historiographical lens, this sites offer summaries (by me), primary excerpts (by the authors), and scholarly annotations (by experts) needed to navigate the chronicles of the ancient world. 
       By examining how these foundational stories were first recorded, we gain a clearer mirror for understanding the complexities of our present day.
   socialIcons:
     - name: "github"
