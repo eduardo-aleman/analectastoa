@@ -19,7 +19,7 @@ params:
   env: "production"
   title: "Analecta Stoa"
   description: "Reading summaries, excerpts, and curated details from classical literature — Tacitus, Josephus, Thucydides, and beyond."
-  author: "Your Name"
+  author: "Eduardo Alemán"
   defaultTheme: "auto"
   disableThemeToggle: false
   ShowShareButtons: false
