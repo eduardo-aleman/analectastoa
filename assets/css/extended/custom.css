@@ -216,18 +216,6 @@ header#site-header,
 
 .post-content p { margin-bottom: 1.3rem; }
 
-/* Drop cap */
-.post-content > p:first-of-type::first-letter {
-  font-family: var(--font-body);
-  font-size: 3.8rem;
-  font-weight: 600;
-  float: left;
-  line-height: 0.82;
-  margin-right: 0.08em;
-  margin-top: 0.1em;
-  color: var(--accent);
-}
-
 /* Headings — Spectral at different weights, no separate display face */
 .post-content h2 {
   font-family: var(--font-ui);

@@ -23,11 +23,8 @@ The following texts are currently under active treatment on this site, or are pl
 
 ### History
 
-**Tacitus** — *Annals* (*Ab Excessu Divi Augusti*)
-: The masterwork of Latin historiography. Tacitus's account of the Julio-Claudian dynasty — from the death of Augustus through the reign of Nero — is unmatched in its psychological acuity and its corrosive treatment of power. Written in a dense, asymmetric Latin that resists easy paraphrase.
-
-**Tacitus** — *Histories* (*Historiae*)
-: The earlier work, covering the catastrophic year 69 CE and the Flavian dynasty. More dramatic in pace than the *Annals*, and indispensable for understanding the fragility of the Principate.
+**Thucydides** — *History of the Peloponnesian War*
+: The foundational text of Western historiography, and still its most demanding. Thucydides's insistence on human causation, his formal speeches, and his unflinching account of the Athenian catastrophe in Sicily repay repeated reading.
 
 **Josephus** — *The Jewish War* (*Bellum Judaicum*)
 : An eyewitness account — and, in part, a participant's account — of the Jewish revolt against Rome (66–73 CE) and the destruction of the Second Temple. Written first in Aramaic and then in Greek, it occupies an unusual position between Roman apologetics and Jewish lamentation.
@@ -35,19 +32,22 @@ The following texts are currently under active treatment on this site, or are pl
 **Josephus** — *Jewish Antiquities* (*Antiquitates Judaicae*)
 : A vast history of the Jewish people from creation to the eve of the revolt, self-consciously modelled on the *Roman Antiquities* of Dionysius of Halicarnassus. Books XVIII–XX are of particular interest for their tangled relationship to early Christian historiography.
 
-**Thucydides** — *History of the Peloponnesian War*
-: The foundational text of Western historiography, and still its most demanding. Thucydides's insistence on human causation, his formal speeches, and his unflinching account of the Athenian catastrophe in Sicily repay repeated reading.
+**Tacitus** — *Annals* (*Ab Excessu Divi Augusti*)
+: The masterwork of Latin historiography. Tacitus's account of the Julio-Claudian dynasty — from the death of Augustus through the reign of Nero — is unmatched in its psychological acuity and its corrosive treatment of power. Written in a dense, asymmetric Latin that resists easy paraphrase.
+
+**Tacitus** — *Histories* (*Historiae*)
+: The earlier work, covering the catastrophic year 69 CE and the Flavian dynasty. More dramatic in pace than the *Annals*, and indispensable for understanding the fragility of the Principate.
 
 **Suetonius** — *The Twelve Caesars* (*De Vita Caesarum*)
 : A counterpoint to Tacitus: anecdotal where Tacitus is analytical, titillating where Tacitus is austere. Indispensable precisely because of its difference in method and intent.
 
 ### Philosophy
 
-**Marcus Aurelius** — *Meditations* (*Τὰ εἰς ἑαυτόν*)
-: Private philosophical notebooks, never intended for publication. The *Meditations* are the most direct window into Stoic practice available from antiquity, and are read here alongside the historical sources for the Antonine period.
-
 **Epictetus** — *Discourses* and *Enchiridion*
 : The teaching of the freed slave who became the most influential Stoic of his generation. The *Enchiridion* is among the most concise and demanding works of practical philosophy ever composed.
+
+**Marcus Aurelius** — *Meditations* (*Τὰ εἰς ἑαυτόν*)
+: Private philosophical notebooks, never intended for publication. The *Meditations* are the most direct window into Stoic practice available from antiquity, and are read here alongside the historical sources for the Antonine period.
 
 ---
 
