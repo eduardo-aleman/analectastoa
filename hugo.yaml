@@ -33,13 +33,10 @@ params:
   homeInfoParams:
     Title: "Analecta Stoa"
     Content: >
-      Welcome. This is a reading companion for the great works of classical antiquity —
-      summaries, excerpts, and annotations drawn from historians, philosophers, and chroniclers
-      of the ancient world.
-
+      Welcome. This is a curated companion to the great works of antiquity. Through a historiographical lens, we offer the summaries, primary excerpts, and scholarly annotations needed to navigate the chronicles of the ancient world. By examining how these foundational stories were first recorded, we gain a clearer mirror for understanding the complexities of our present day.
   socialIcons:
     - name: "github"
-      url: "https://github.com/eduardo-aleman"
+      url: "https://github.com/eduardo-aleman/analectastoa"
 
 taxonomies:
   author: "authors"
