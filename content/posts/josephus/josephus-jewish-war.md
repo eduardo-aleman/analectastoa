@@ -1,6 +1,6 @@
 ---
 title: "The Jewish War"
-date: 2025-01-01
+date: 2026-01-08
 authors: ["Josephus"]
 categories: ["Jewish History", "Roman History"]
 tags: ["Jerusalem", "Second Temple", "Rome", "Vespasian", "Titus", "Masada", "Revolt"]
