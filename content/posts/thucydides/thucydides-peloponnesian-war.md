@@ -402,11 +402,3 @@ The literature on the Thucydidean speeches is enormous; the following are entry 
 ### The Sicilian Expedition
 
 **Peter Krentz and Everett Wheeler, eds.** aside, the single best treatment of the Sicilian Expedition as a historical event remains **Kagan's third volume** (*The Peace of Nicias and the Sicilian Expedition*). For its literary and structural significance within the *History*, Connor's *Thucydides* is again the essential guide. For the archaeology of Syracuse and the physical reality of the siege, **Brian Caven, *Dionysius I: War-Lord of Sicily* (1990)** provides useful context, and **A. W. Pickard-Cambridge's** older studies of Athenian military history remain valuable background.
-
----
-
-### A Note on Reading Order
-
-For a reader coming to Thucydides for the first time, the following sequence tends to work well: begin with a readable translation of the *History* itself — Warner or Crawley for narrative pleasure, Lattimore for precision — reading at minimum Books I, II (through the plague), III (the Mytilenean Debate and Corcyrean stasis), V (the *Melian Dialogue*), and Books VI and VII in full. Then read Kagan's one-volume history for the broader military and political context. Then return to Thucydides with Connor's *Thucydides* as a guide to what the literary and structural construction of the work is doing. De Romilly's study of imperialism and Allison's *Destined for War* can then provide the political-theoretical dimension. The commentaries — Gomme-Andrewes-Dover, Hornblower — are for sustained scholarly engagement and need not be read consecutively; they are reference works more than reading experiences.
-
-The *History* rewards multiple readings at different levels and at different points in a reader's life. It is one of those texts that changes not because the text changes but because the reader does — because experience of politics, institutions, and human failure makes passages that seemed merely analytical feel, on rereading, like precise descriptions of something you have personally witnessed. That quality of recognition across twenty-four centuries is, finally, what Thucydides meant by a possession for all time.
