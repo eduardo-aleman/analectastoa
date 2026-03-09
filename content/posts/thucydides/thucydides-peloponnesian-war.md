@@ -343,7 +343,7 @@ The history of Thucydides in English translation is itself an intellectual histo
 
 **Steven Lattimore (Hackett, 1998)** is now the preferred scholarly translation for classroom and academic use. Lattimore takes the difficulty of the Greek seriously — he does not smooth over ambiguities but tries to reproduce them in English, even at the cost of some readability — and his introduction and notes are genuinely helpful. For anyone who wants to engage seriously with what Thucydides is actually saying, rather than a readable approximation of it, this is the edition to use.
 
-For the speeches in particular — where the gap between translations is widest and the stakes are highest — it is worth reading two or three versions side by side. The *Funeral Oration*, the *Melian Dialogue*, and Pericles's last speech reward this comparative treatment: the differences between how Crawley, Warner, Lattimore, and Green handle the same passages reveal as much about Thucydides as any single version can.
+For the speeches in particular — where the gap between translations is widest and the stakes are highest — it is worth reading two or three versions side by side. The *Funeral Oration*, the *Melian Dialogue*, and Pericles's last speech reward this comparative treatment: the differences between how Crawley, Warner, and Lattimore handle the same passages reveal as much about Thucydides as any single version can.
 
 ---
 
