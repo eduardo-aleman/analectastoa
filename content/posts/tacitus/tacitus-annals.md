@@ -5,7 +5,7 @@ authors: ["Tacitus"]
 categories: ["Roman History"]
 tags: ["Augustus", "Tiberius", "Claudius", "Nero", "Principate", "Rome"]
 series: ["Tacitus"]
-description: "Reading companion for the Annals of Tacitus, covering the Julio-Claudian dynasty from the death of Augustus to the reign of Nero."
+summary: "Reading companion for the Annals of Tacitus, covering the Julio-Claudian dynasty from the death of Augustus to the reign of Nero."
 ShowToc: true
 TocOpen: false
 draft: false
