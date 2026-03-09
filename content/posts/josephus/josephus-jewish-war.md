@@ -5,7 +5,7 @@ authors: ["Josephus"]
 categories: ["Jewish History", "Roman History"]
 tags: ["Jerusalem", "Second Temple", "Rome", "Vespasian", "Titus", "Masada", "Revolt"]
 series: ["Josephus"]
-description: "Reading companion for Bellum Judaicum — Josephus's eyewitness account of the Jewish revolt against Rome and the destruction of the Second Temple."
+summary: "Reading companion for Bellum Judaicum — Josephus's eyewitness account of the Jewish revolt against Rome and the destruction of the Second Temple."
 ShowToc: true
 TocOpen: false
 draft: false
