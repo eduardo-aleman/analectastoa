@@ -343,8 +343,6 @@ The history of Thucydides in English translation is itself an intellectual histo
 
 **Steven Lattimore (Hackett, 1998)** is now the preferred scholarly translation for classroom and academic use. Lattimore takes the difficulty of the Greek seriously — he does not smooth over ambiguities but tries to reproduce them in English, even at the cost of some readability — and his introduction and notes are genuinely helpful. For anyone who wants to engage seriously with what Thucydides is actually saying, rather than a readable approximation of it, this is the edition to use.
 
-**Peter Green (University of California Press, 2021)** is the most recent major translation, by a classical scholar who is also an accomplished prose stylist. Green argues strenuously in his introduction for a more confrontational approach to Thucydides's famous difficulty, resisting the temptation to clarify what is genuinely unclear in the Greek. The result is sometimes demanding but consistently stimulating, and his introductory essays are among the best short orientation to Thucydides in the language.
-
 For the speeches in particular — where the gap between translations is widest and the stakes are highest — it is worth reading two or three versions side by side. The *Funeral Oration*, the *Melian Dialogue*, and Pericles's last speech reward this comparative treatment: the differences between how Crawley, Warner, Lattimore, and Green handle the same passages reveal as much about Thucydides as any single version can.
 
 ---
