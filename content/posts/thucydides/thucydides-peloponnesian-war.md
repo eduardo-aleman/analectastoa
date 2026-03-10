@@ -33,7 +33,7 @@ Thucydides reads like a different species of writer entirely:
 
 **Radical exclusion of the supernatural.** The gods do not act in Thucydides. Oracles appear only as things people believe in. The causes of events are always human — fear, honor, interest. He essentially invented secular historical explanation.
 
-**The speeches.** Thucydides punctuates his narrative with formal speeches — the Funeral Oration of Pericles, the *Melian Dialogue*, the Mytilenean Debate — which he acknowledges he could not have recorded verbatim. He tried to reproduce "the general sense of what was actually said" while keeping to "what was called for by each situation." The result is neither pure document nor pure invention: intellectual drama in which the arguments are real even if the words are reconstructed. The *Melian Dialogue* — in which Athenian envoys tell Melos that "the strong do what they can and the weak suffer what they must" — remains one of the most unflinching analyses of power ever written.
+**The speeches.** Thucydides punctuates his narrative with formal speeches — the *Funeral Oration of Pericles*, the *Melian Dialogue*, the *Mytilenean Debate* — which he acknowledges he could not have recorded verbatim. He tried to reproduce "the general sense of what was actually said" while keeping to "what was called for by each situation." The result is neither pure document nor pure invention: intellectual drama in which the arguments are real even if the words are reconstructed. The *Melian Dialogue* — in which Athenian envoys tell Melos that "the strong do what they can and the weak suffer what they must" — remains one of the most unflinching analyses of power ever written.
 
 **Structural analysis.** Thucydides distinguishes between the immediate cause of the war (disputes over Corcyra and Potidaea) and the truest cause (Spartan fear of growing Athenian power) — a distinction political scientists still use today. He understood that states, like people, can be driven to war by anxieties they barely articulate to themselves.
 
@@ -95,7 +95,7 @@ The most architecturally complex book. The Archaeology establishes Thucydides's 
 
 Book II opens with the Theban attack on Plataea, then delivers the Funeral Oration of Pericles — and within pages, the plague of 430. The juxtaposition is devastating: Pericles has just delivered the most eloquent defense of Athenian civilization ever recorded, and the city is dying in the streets. Thucydides does not editorialize. The structure speaks.
 
-Book III contains the Mytilenean Debate — the assembly's two-day argument over whether to massacre the population of a rebel ally — and the Corcyrean Revolution, Thucydides's analysis of civil war as a general political pathology. Both concern the corruption of judgment under pressure: placed in quick succession, the thematic orchestration is unmistakable.
+Book III contains the *Mytilenean Debate* — the assembly's two-day argument over whether to massacre the population of a rebel ally — and the Corcyrean Revolution, Thucydides's analysis of civil war as a general political pathology. Both concern the corruption of judgment under pressure: placed in quick succession, the thematic orchestration is unmistakable.
 
 ### Books IV–V — The Middle Years and the *Melian Dialogue*
 
