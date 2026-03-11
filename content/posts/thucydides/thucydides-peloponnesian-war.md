@@ -115,7 +115,7 @@ Noticeably different in texture. The speeches largely disappear. The narrative i
 
 Signs of incompletion are visible throughout: duplicate or inconsistent passages, a "second preface" at V.26 that reads as a note to himself never quite integrated, and cross-references pointing forward to discussions that never appear. Most conspicuously, the final decade of the war — the role of Persian gold, the Athenian defeat at Aegospotami, the fall of Athens in 404 — is simply absent. Thucydides knew it; his second preface says he lived until the war's end. He did not write it.
 
-Antiquity felt the incompleteness and produced two ancient responses: Xenophon's *Hellenica*, which begins almost exactly where Thucydides breaks off, and the anonymous Oxyrhynchus Historian, known only from fragments. Neither is Thucydides. Neither could be.
+Antiquity felt the incompleteness and produced two ancient responses: Xenophon's *Hellenica*, which begins almost exactly where Thucydides breaks off, and the anonymous *Oxyrhynchus Historian*, known only from fragments. Neither is Thucydides. Neither could be.
 
 ---
 
