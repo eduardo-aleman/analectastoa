@@ -21,7 +21,11 @@ The Peloponnesian War (431–404 BCE) engulfed virtually the entire Greek world,
 
 ### A Possession for All Time
 
-Near the opening of his *History*, Thucydides draws a sharp contrast between his work and everything before it. He dismisses the poets for embellishing events, the early chroniclers for writing to win an immediate audience rather than record what actually happened. What he is offering instead, he says, is something harder and more durable: a work for those who "want to understand clearly the events which happened in the past and which (human nature being what it is) will, at some time or other and in much the same ways, be repeated in the future."
+Near the opening of his *History*, Thucydides draws a sharp contrast between his work and everything before it. He dismisses the poets for embellishing events, the early chroniclers for writing to win an immediate audience rather than record what actually happened. What he is offering instead, he says, is something harder and more durable: a work for those who 
+
+> want to understand clearly the events which happened in the past and which (human nature being what it is) will, at some time or other and in much the same ways, be repeated in the future. 
+
+(All translations are from Paul Woodruff's *The Essential Thucydides: On Justice, Power, and Human Nature (Second Edition). Selections from The History of the Peloponnesian War*.)
 
 This is an astonishing claim. Thucydides is not simply saying his account is more accurate than Homer's. He is proposing a new theory of what history is *for*. The past is not a storehouse of glorious deeds or divine moral lessons — it is a pattern built into human nature itself, and if you study it with sufficient rigor and honesty, you will be equipped to understand the present and anticipate the future. History, in this view, is a form of political science.
 
@@ -33,11 +37,19 @@ Thucydides reads like a different species of writer entirely:
 
 **Radical exclusion of the supernatural.** The gods do not act in Thucydides. Oracles appear only as things people believe in. The causes of events are always human — fear, honor, interest. He essentially invented secular historical explanation.
 
-**The speeches.** Thucydides punctuates his narrative with formal speeches — the *Funeral Oration of Pericles*, the *Melian Dialogue*, the *Mytilenean Debate* — which he acknowledges he could not have recorded verbatim. He tried to reproduce "the general sense of what was actually said" while keeping to "what was called for by each situation." The result is neither pure document nor pure invention: intellectual drama in which the arguments are real even if the words are reconstructed. The *Melian Dialogue* — in which Athenian envoys tell Melos that "the strong do what they can and the weak suffer what they must" — remains one of the most unflinching analyses of power ever written.
+**The speeches.** Thucydides punctuates his narrative with formal speeches — the *Funeral Oration of Pericles*, the *Melian Dialogue*, the *Mytilenean Debate* — which he acknowledges he could not have recorded verbatim. He tried to reproduce "the general sense of what was actually said" while keeping to what was called for by each situation. 
 
-**Structural analysis.** Thucydides distinguishes between the immediate cause of the war (disputes over Corcyra and Potidaea) and the truest cause (Spartan fear of growing Athenian power) — a distinction political scientists still use today. He understood that states, like people, can be driven to war by anxieties they barely articulate to themselves.
+> The words particular people said in their speeches, either just before or during the war, were hard to record exactly, whether they were speeches I heard myself or those that were reported to me at second hand. I have written down what I thought the situation demanded for each speaker, keeping as near as possible to the general sense of what was actually said.
 
-**Moral unflinching-ness.** He traces, in real time, the corruption of language during the civil war at Corcyra: how words like "courage," "caution," and "loyalty" are systematically redefined to serve factional violence, until no shared standard of judgment remains. This passage reads less like ancient history than like a warning composed yesterday.
+The result is neither pure document nor pure invention: intellectual drama in which the arguments are real even if the words are reconstructed. The *Melian Dialogue* — in which Athenian envoys tell Melos that 
+
+> we both know that decisions about justice are made in human discussions only when both sides are under equal compulsion; but when one side is stronger, it gets as much as it can, and the weak must accept that. 
+
+It remains one of the most unflinching analyses of power ever written.
+
+**Structural analysis.** Thucydides distinguishes between the immediate cause of the war (disputes over Corcyra and Potidaea) and the truest cause (Spartan fear of growing Athenian power) — a distinction political scientists still use today. He understood that states, like people, can be driven to war by anxieties they barely articulate to themselves. 
+
+> I believe that the truest reason for the quarrel, though least evident in what was said at the time, was the growth of Athenian power, which put fear into the Lacedaemonians and so compelled them into war.
 
 **Incompleteness.** The *History* simply stops. We never get Thucydides's account of Sicily's aftermath, the revolution of 411, or the final Spartan victory. It reads like a ruin — and ruins last.
 
@@ -65,13 +77,21 @@ Thucydides's attack on myth operates on two fronts. Against the poets, he makes 
 
 ### The Evidentiary Standard
 
-Thucydides describes his evidentiary practice with self-awareness bordering on the painful. Personal participation ranks highest — his account of the plague is written with the clinical precision of a man who watched people die and survived himself. Reported testimony is treated with explicit caution, since witnesses to the same event frequently disagree "as they were partial to one side or the other, or as they remembered." When evidence is unavailable, he reasons from what is humanly and logically probable given the circumstances — not speculation but disciplined inference from known premises about human behavior and political motivation.
+Thucydides describes his evidentiary practice with self-awareness bordering on the painful. Personal participation ranks highest — his account of the plague is written with the clinical precision of a man who watched people die and survived himself. Reported testimony is treated with explicit caution, since witnesses to the same event frequently disagree as they were partial to one side or the other, or as they remembered. When evidence is unavailable, he reasons from what is humanly and logically probable given the circumstances — not speculation but disciplined inference from known premises about human behavior and political motivation.
+
+> And as for the real actions of the war, I did not think it right to set down either what I heard from people I happened to meet or what I merely believed to be true. Even for events at which I was present myself, I tracked down detailed information from other sources as far as I could. It was hard work to find out what happened, because those who were present at each event gave different reports, depending on which side they favored and how well they remembered.
 
 What he does not do — and this absence is itself a method — is appeal to divine will, fate, or any cause that cannot be traced to human decision and human character.
 
+> This history may not be the most delightful to hear, since there is no mythology in it. But those who want to look into the truth of what was done in the past—which, given the human condition, will recur in the future, either in the same fashion or nearly so—those readers will find this *History* valuable enough, as this was composed to be a possession for all time, and not to be heard for a prize at the moment of a contest.
+
 ### The Speeches: The Central Methodological Problem
 
-No aspect of Thucydides's method has generated more scholarly controversy than his roughly forty speeches, ranging from brief battlefield exhortations to extended deliberative debates. He addresses his method directly: he aimed to reproduce "the general sense of what was really said" while causing speakers to say "what I thought would best express what the situation called for."
+No aspect of Thucydides's method has generated more scholarly controversy than his roughly forty speeches, ranging from brief battlefield exhortations to extended deliberative debates. He addresses his method directly: he aimed to reproduce "the general sense of what was really said" while causing speakers to say what "the situation demanded".
+
+> The words particular people said in their speeches, either just before or during the war, were hard to record exactly,
+whether they were speeches I heard myself or those that were reported to me at second hand. I have written down what I thought the situation demanded for each speaker, keeping as near as possible to the general sense of what was
+actually said.
 
 This sentence has two halves that pull against each other — a commitment to accuracy and a license for invention — and both are operative at once, which is exactly what makes the speeches so strange and so powerful. Some are probably close to what was actually said. The *Melian Dialogue* reads like a philosophical dialogue, distilled to a purity no actual negotiation could achieve.
 
@@ -86,6 +106,8 @@ The speeches function as analytical instruments. By juxtaposing them — the Myt
 The *History* comes down to us in eight books — a division almost certainly not Thucydides's own, but the work of later Alexandrian editors. What Thucydides left was a continuous Greek prose manuscript that runs from the war's origins in 431 BCE to a sentence in 411 BCE, and then simply stops. The war it is describing still has seven years left to run.
 
 This is not a rhetorical device. It is a death.
+
+(Other editions, like Mynott's, structures the text based on Thucydides' method of dividing the war into summers and winters, as explicitly outlined in the text (e.g., II 1, V 20).)
 
 ### Book I — Archaeology and Causes
 
@@ -143,9 +165,12 @@ Democracy, in Thucydides's view, is not a natural equilibrium. It is an achievem
 
 The most philosophically radical passage in the *History* is Thucydides's account of the civil war at Corcyra in Book III. He observes that under the pressure of factional violence, words changed their meanings. The vocabulary of virtue was systematically reassigned to serve the vocabulary of power:
 
-> Reckless daring came to be regarded as courageous loyalty, cautious hesitation as specious cowardice, moderation as a cover for unmanliness, the ability to see all sides of a question as total inability to act.
+> Civil war ran through the cities; those it struck later heard what the first cities had done and far exceeded them
+in inventing artful means for attack and bizarre forms of revenge. And they reversed the usual way of using words to evaluate what they did. Ill-considered boldness was counted as loyal manliness; prudent hesitation was held
+to be cowardice in disguise, and moderation merely the cloak of an unmanly nature. A mind that could grasp the good of the whole was considered wholly lazy. Sudden fury was accepted as part of manly valor, while plotting for one’s own security was thought a reasonable excuse for delaying action. A man who expressed anger was always to be trusted, while one who opposed him was under suspicion. A man who made a plot was intelligent if it happened to succeed, while
+one who could smell out a plot was deemed even more clever. Anyone who took precautions, however, so as not to need to do either one (they would say), had been frightened by the other side into subverting his own political party. In brief, a man was praised if he could commit some evil action before anyone else did, or if he could urge on another person who had never meant to do such a thing.
 
-This is not merely hypocrisy — calling bad things good. It is deeper: the systematic inversion of evaluative language so that words no longer carry their original meanings, so that "courage" means willingness to commit violence for your faction, "caution" means disloyalty, "moderation" means weakness. Once the inversion is complete, the community loses its shared vocabulary of judgment — the common language in which disagreements can be adjudicated. When words no longer mean what they mean, argument becomes impossible, and what remains is force.
+This is not merely hypocrisy — calling bad things good. It is deeper: the systematic inversion of evaluative language so that words no longer carry their original meanings, so that "Ill-considered boldness" means "loyal manliness", "prudent hesitation" means cowardice, "moderation" means "the cloak of an unmanly nature". Once the inversion is complete, the community loses its shared vocabulary of judgment — the common language in which disagreements can be adjudicated. When words no longer mean what they mean, argument becomes impossible, and what remains is force.
 
 Every modern analyst of propaganda and political polarization is working in the territory Thucydides mapped. Hannah Arendt, George Orwell's essays on political prose, contemporary scholarship on the degradation of public discourse — all of it is, in a sense, commentary on this passage in Book III.
 
@@ -154,6 +179,8 @@ Every modern analyst of propaganda and political polarization is working in the 
 The Sicilian Expedition fails for specific, identifiable, human reasons: divided command, insufficient intelligence about Syracusan resistance, the recall of Alcibiades at the worst possible moment, Nicias's excessive caution combined with his terminal illness, the failure to take Syracuse before it could be reinforced. Thucydides traces them all. He does not say the gods brought Athens low.
 
 But he has also constructed the narrative so that the expedition's deeper cause is visible beneath the particular failures. The decision was made with fundamentally inadequate knowledge of what Athens was taking on — most Athenians did not know how large Sicily was, or that they would be fighting effectively the entire island. The decision was made in a state of collective fantasy, inflamed by the traditional Athenian tendency to believe that what Athens decided to do, Athens could do. The very qualities that made Athens great — its energy, ambition, democratic boldness, willingness to attempt what others would not dare — were, taken to their limit and uncorrected by honest self-assessment, the qualities that destroyed it.
+
+> It is hard to say how many men were captured altogether, but there were at least 7,000. This was the greatest action of the war—in my opinion, the greatest in all Greek history—the most glorious victory for the winners, and the worst calamity for the losers. They were utterly vanquished on all points, and none of their losses was small. It was “total destruction” as the saying is,36 for the army and navy alike. There was nothing that was not lost, and few out of many returned home. That is what happened on Sicily.
 
 ---
 
@@ -197,7 +224,11 @@ Thucydides maintains throughout what can only be called a compassionate detachme
 
 ### Translations
 
+**Jeremy Mynott (Cambridge, 2013)** - Mynott is attentive to the ambiguities and difficulties in the Greek in a way few translators are — where others smooth over a crux, he tends to flag it or render the tension faithfully. It's readable without chasing elegance. 
+
 **Thomas Hobbes (1629)** — the earliest major English translation, made before Hobbes had written his own philosophical work. Knotted and muscular, not always reliable, but an irreplaceable encounter between two of the most unsentimental minds in Western political thought.
+
+**Paul Woodruff (Hacket, 1993; revised 2021)** - curates key passages focused on the stark realism of Athenian power politics. It highlights the tension between justice and raw power, showing how human nature drives conflict, featuring, for example, the war's opening, the plague, the Mytilenean debate, the civil war in Corcyra, and the Sicilian Expedition. The book includes a mixture of full translations of key speeches and summaries of the surrounding historical context, making it easier to navigate than the complete *History*.
 
 **Richard Crawley (1874)** — fluent, dignified Victorian prose, with a genuinely moving Funeral Oration. The best starting point for a reader who wants the narrative to move, though he occasionally smooths over the Greek's notorious syntactic difficulty.
 
@@ -205,7 +236,9 @@ Thucydides maintains throughout what can only be called a compassionate detachme
 
 **Steven Lattimore (Hackett, 1998)** — the preferred scholarly translation for academic use. Lattimore takes the Greek's difficulty seriously, reproducing ambiguities rather than resolving them. The edition to use for serious engagement with what Thucydides is actually saying.
 
-For the speeches — where the gap between translations is widest — reading Crawley, Warner, and Lattimore side by side is worthwhile. The differences reveal as much about Thucydides as any single version.
+**
+
+For the speeches — where the gap between translations is widest — reading Crawley, Warner, Lattimore, and Mynott side by side is worthwhile. The differences reveal as much about Thucydides as any single version.
 
 ### General Studies
 
