@@ -94,7 +94,7 @@ The surviving portion of Book XVI (AD 65–66) is dominated by death — specifi
 ## Selected Excerpts
 
 **The opening sentence** (*Annals* I.1):  
-*Urbem Romam a principio reges habuere* — "The city of Rome was held at its foundation by kings." The bluntness is deliberate. In a single sentence Tacitus compresses Rome's constitutional history into an inexorable cycle: kings, consuls, temporary dictators, and now — implicitly — kings again. The entire preface that follows is a masterpiece of compressed political analysis, establishing the terms on which the whole work will proceed.
+*Urbem Romam a principio reges habuere* — "The City of Rome from its inception was held by kings." The bluntness is deliberate. In a single sentence Tacitus compresses Rome's constitutional history into an inexorable cycle: kings, consuls, temporary dictators, and now — implicitly — kings again. The entire preface that follows is a masterpiece of compressed political analysis, establishing the terms on which the whole work will proceed.
 
 **The death of Augustus** (*Annals* I.5–9):  
 Tacitus reports competing rumors about whether Livia hastened Augustus's death to ensure Tiberius's succession, then gives the range of public reactions to Augustus's reign — admiration, criticism, mixed assessment — in a series of reported speeches that serve as a kind of posthumous trial. The passage is a model of the Tacitean method: events are reported, interpretations are multiplied, and certainty is withheld.
