@@ -31,7 +31,17 @@ The survival of the text is complicated and incomplete. **Books I–VI** (coveri
 
 Book I opens with one of the most celebrated passages in Latin literature: a compressed and sardonic survey of Roman constitutional history from the kings through the Republic and the rise of Augustus. Tacitus then turns to the death of Augustus at Nola in AD 14, the mechanics of the succession, and the first acts of Tiberius. The bulk of the book covers the mutinies of the Pannonian and Rhine legions — soldiers demanding better pay and conditions, exploited by demagogues, and suppressed with a mixture of concession and severity by Germanicus and Drusus. Germanicus's campaign across the Rhine and his visit to the site of the Varian disaster (the Teutoburg Forest, AD 9) provide some of the most atmospheric writing in the work.
 
-> The first act of the new principate was the slaughter of Postumus Agrippa, unawares and unarmed, whom a centurion, despite bracing himself in spirit, dispatched only with difficulty. Tiberius did not speak about the matter in the senate: he was pretending there were orders from his father,in which he had written in advance to the tribune assigned to the guard that the latter should not hes- itate in putting Agrippa to death whenever he himself consummated his final day.
+#### Selected Excerpts
+
+**The opening sentence** (*Annals* I.1):
+*Urbem Romam a principio reges habuere* — "The City of Rome from its inception was held by kings." The bluntness is deliberate. In a single sentence Tacitus compresses Rome's constitutional history into an inexorable cycle: kings, consuls, temporary dictators, and now — implicitly — kings again. The entire preface that follows is a masterpiece of compressed political analysis, establishing the terms on which the whole work will proceed.
+
+**The death of Augustus** (*Annals* I.5–9):
+Tacitus reports competing rumors about whether Livia hastened Augustus's death to ensure Tiberius's succession, then gives the range of public reactions to Augustus's reign — admiration, criticism, mixed assessment — in a series of reported speeches that serve as a kind of posthumous trial. The passage is a model of the Tacitean method: events are reported, interpretations are multiplied, and certainty is withheld.
+
+#### More Selected Excerpts
+
+> The first act of the new principate was the slaughter of Postumus Agrippa, unawares and unarmed, whom a centurion, despite bracing himself in spirit, dispatched only with difficulty. Tiberius did not speak about the matter in the senate: he was pretending there were orders from his father, in which he had written in advance to the tribune assigned to the guard that the latter should not hesitate in putting Agrippa to death whenever he himself consummated his final day.
 
 > But at Rome there was a rush into servitude from consuls, fathers, equestrians. The more illustrious each was, the more false and frantic, and, with their looks composed to avoid delight at the passing—and too much gloom at the commencement—of a princeps,they blended tears with joy and mourning with sycophancy.
 
@@ -39,7 +49,7 @@ Book I opens with one of the most celebrated passages in Latin literature: a com
 
 > News of these events drove Tiberius—though reclusive and especially given to concealing all the grimmest matters—to dispatch his son Drusus along with community leaders and two praetorian cohorts, with no particularly fixed instructions but to make decisions in the light of the situation.
 
-> During the course of almost the same days,and from the same causes,the German legions were disrupted—all the more violently, given their greater numbers, and with high hopes that Germanicus Caesar would be unable to suffer the command of another and would entrust himself to the legions, who would handle everything by their own force.
+> During the course of almost the same days, and from the same causes, the German legions were disrupted—all the more violently, given their greater numbers, and with high hopes that Germanicus Caesar would be unable to suffer the command of another and would entrust himself to the legions, who would handle everything by their own force.
 
 > Meanwhile Germanicus, who (as we have said) was being responsible for a census throughout the Galliae, received the news that Augustus had passed away.
 
@@ -121,26 +131,6 @@ The surviving portion of Book XVI (AD 65–66) is dominated by death — specifi
 **The limits of historical truth.** Tacitus is unusually self-conscious about the problems of writing contemporary history under autocracy. Sources have been corrupted by fear or flattery; official accounts distort; survivors remember selectively. He frequently signals uncertainty about reported facts — particularly regarding secret decisions made in the emperor's household — and this epistemological caution is part of what makes his narrative so modern in feel. His famous claim to write *sine ira et studio* is both a genuine methodological aspiration and, given the bitterness of his prose, something of an irony.
 
 **The great individual against the system.** Alongside its political themes, the *Annals* is populated by figures of exceptional force — Germanicus, Agrippina the Elder, Sejanus, Agrippina the Younger, Seneca — whose ambitions, virtues, and vices Tacitus renders with psychological intensity. The tension between the private character and the public role, between what people are and what the Principate makes of them, is one of the work's most searching preoccupations.
-
-## Selected Excerpts
-
-**The opening sentence** (*Annals* I.1):
-*Urbem Romam a principio reges habuere* — "The City of Rome from its inception was held by kings." The bluntness is deliberate. In a single sentence Tacitus compresses Rome's constitutional history into an inexorable cycle: kings, consuls, temporary dictators, and now — implicitly — kings again. The entire preface that follows is a masterpiece of compressed political analysis, establishing the terms on which the whole work will proceed.
-
-**The death of Augustus** (*Annals* I.5–9):
-Tacitus reports competing rumors about whether Livia hastened Augustus's death to ensure Tiberius's succession, then gives the range of public reactions to Augustus's reign — admiration, criticism, mixed assessment — in a series of reported speeches that serve as a kind of posthumous trial. The passage is a model of the Tacitean method: events are reported, interpretations are multiplied, and certainty is withheld.
-
-**Germanicus at the Teutoburg Forest** (*Annals* I.61–62):
-Marching through the forest where Varus's three legions were annihilated in AD 9, Germanicus and his army encounter the bones of the unburied dead. The landscape itself becomes a document: scattered shields, broken weapons, whitened bones in the underbrush. The passage is among the most affecting in Roman historiography — mournful, precise, and alive to the horror of what had happened there.
-
-**The trial and death of Cremutius Cordus** (*Annals* IV.34–35):
-The historian Cremutius Cordus is prosecuted for praising Brutus and Cassius in his history. His defense speech — arguing that previous historians had written freely of Rome's internal conflicts without punishment — is followed by his starving himself to death and the public burning of his books. Tacitus adds, drily, that the books survived in private copies and were later republished. The passage is the locus classicus for Tacitean reflections on memory, censorship, and the futility of political persecution of ideas.
-
-**The fire of Rome** (*Annals* XV.38–44):
-The description of the fire's outbreak and spread, Nero's response, and the subsequent persecution of the Christians. The Christian passage (*Annals* XV.44) — brief, contemptuous in tone, but historically invaluable — describes their punishment as *exitiabilis superstitio* (a pernicious superstition) and notes that Christ was executed by the procurator Pontius Pilate under Tiberius. It is the earliest surviving non-Christian reference to the crucifixion.
-
-**The death of Seneca** (*Annals* XV.60–64):
-Seneca, implicated (probably unjustly) in the Pisonian conspiracy, receives Nero's order to die. His attempted suicide is protracted and painful; a scene modeled self-consciously on Plato's *Phaedo* and the death of Socrates. His wife Paulina tries to die alongside him. Tacitus renders the scene with controlled pathos, allowing Seneca's Stoic self-fashioning its dignity while also noting the gap between philosophical aspiration and physical reality.
 
 ## Further Reading
 
