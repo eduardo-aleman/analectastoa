@@ -8,7 +8,7 @@ series: ["Josephus"]
 summary: "Reading companion for Bellum Judaicum — Josephus's eyewitness account of the Jewish revolt against Rome and the destruction of the Second Temple."
 ShowToc: true
 TocOpen: false
-draft: false
+draft: true
 ---
 
 ## Overview
