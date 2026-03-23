@@ -9,6 +9,9 @@ summary: "Reading companion for Contra Galilaeos — Emperor Julian's philosophi
 ShowToc: true
 TocOpen: false
 draft: false
+cover:
+  image: "https://images.metmuseum.org/CRDImages/md/original/tem99357409o.jpg"
+  alt: "Gold Solidus of Julian (361–63)."
 ---
 ## Introduction
 
