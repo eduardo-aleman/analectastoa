@@ -1,5 +1,5 @@
 ---
-title: "Against the Galileans"
+title: "Introduction to Against the Galileans"
 date: 2025-01-01
 authors: ["Julian"]
 categories: ["Roman History", "Late Antiquity"]
