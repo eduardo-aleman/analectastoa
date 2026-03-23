@@ -12,6 +12,8 @@ draft: false
 cover:
   image: "https://images.metmuseum.org/CRDImages/md/original/tem99357409o.jpg"
   alt: "Gold Solidus of Julian (361–63)."
+  caption: "Gold Solidus of Julian (361–63) at the MET"
+
 ---
 ## Introduction
 
