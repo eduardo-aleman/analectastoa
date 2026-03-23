@@ -9,6 +9,10 @@ summary: "Reading companion for the Annals of Tacitus, covering the Julio-Claudi
 ShowToc: true
 TocOpen: false
 draft: false
+cover:
+  image: "plutei_1334388_large.jpg"
+  alt: "Manuscript of Cornelius Tacitus  Annals (Plut. 68.1) at the Biblioteca Medicea Laurenziana, Florence — 11th century (1001–1100)"
+  caption: "Manuscript of Cornelius Tacitus Annals (Plut. 68.1) at the Biblioteca Medicea Laurenziana, Florence — 11th century (1001–1100). CC BY-NC-SA"
 ---
 
 ## Overview
