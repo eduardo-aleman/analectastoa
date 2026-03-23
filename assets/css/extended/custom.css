@@ -208,7 +208,7 @@ header#site-header,
    ============================================================= */
 .post-cover img {
   width: 50%;
-  max-height: 360px;
+  max-height: 180px;
   object-fit: cover;
   object-position: center;
   border-radius: 0;
