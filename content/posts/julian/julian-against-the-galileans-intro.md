@@ -8,6 +8,9 @@ series: ["Julian"]
 summary: "Introduction for Contra Galilaeos — Emperor Julian's philosophical polemic against Christianity, preserved in fragments through Cyril of Alexandria's rebuttal."
 ShowToc: true
 TocOpen: false
+cover:
+  image: "https://images.metmuseum.org/CRDImages/md/original/tem99357409o.jpg"
+  alt: "Gold Solidus of Julian (361–63)."
 draft: true
 ---
 ## Introduction
