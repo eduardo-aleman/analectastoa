@@ -207,7 +207,7 @@ header#site-header,
    COVER IMAGE
    ============================================================= */
 .post-cover img {
-  width: 100%;
+  width: 50%;
   max-height: 360px;
   object-fit: cover;
   object-position: center;
