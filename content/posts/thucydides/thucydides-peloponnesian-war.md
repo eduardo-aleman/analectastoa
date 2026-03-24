@@ -9,6 +9,10 @@ summary: "Reading companion for Thucydides's History of the Peloponnesian War �
 ShowToc: true
 TocOpen: false
 draft: false
+cover:
+  image: "/object_E2747.jpg"
+  alt: "Nearly 2,300 years ago, a reader in provincial Egypt owned a copy of one of history's greatest works. This fragile papyrus preserves part of Thucydides' account of the Battle of Sphacteria — where a force of Spartan soldiers did the unthinkable and surrendered. Among the oldest manuscripts of Thucydides anywhere in the world, it bridges the ancient and modern transmission of a text that has never stopped being read. Thucydides, History of the Peloponnesian War, Book IV.36–41 · el-Hibeh, Egypt · Penn Museum, E 2747."
+  caption: "Nearly 2,300 years ago, a reader in provincial Egypt owned a copy of one of history's greatest works. This fragile papyrus preserves part of Thucydides' account of the Battle of Sphacteria — where a force of Spartan soldiers did the unthinkable and surrendered. Among the oldest manuscripts of Thucydides anywhere in the world, it bridges the ancient and modern transmission of a text that has never stopped being read. Thucydides, History of the Peloponnesian War, Book IV.36–41 · el-Hibeh, Egypt · Penn Museum, E 2747."
 ---
 
 ## Overview
