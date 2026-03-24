@@ -11,9 +11,9 @@ TocOpen: false
 draft: false
 cover:
   image: "/fol.1r.jpg"
-  alt: "Fol. 1r of BSB Cod.graec. 639 — the opening page of Josephus's Bellum Judaicum. The parchment is heavily worn and damaged, but the text is identifiable as the Proem (Preface) of the work."
-  caption: "Fol. 1r of BSB Cod.graec. 639 — the opening page of Josephus's Bellum Judaicum. The parchment is heavily worn and damaged, but the text is identifiable as the Proem (Preface) of the work. Greek minuscule, 11th century."
----
+  alt: "Fol. 1r of BSB Cod.graec. 639: the opening page of Josephus's Bellum Judaicum. The parchment is heavily worn and damaged, but the text is identifiable as the Proem (Preface) of the work." 
+  caption: "Fol. 1r of BSB Cod.graec. 639: the opening page of Josephus's Bellum Judaicum. The parchment is heavily worn and damaged, but the text is identifiable as the Proem (Preface) of the work. Greek minuscule, 11th century." 
+  ---
 
 ## Overview
 
