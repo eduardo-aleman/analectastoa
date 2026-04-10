@@ -1,18 +1,14 @@
 ---
 title: "Histories"
-date: 2026-03-13
+date: 2026-01-01
 authors: ["Polybius"]
 categories: ["Greek History"]
 tags: ["Rome", "Carthage", "Macedonia", "Hannibal", "Scipio", "Republic", "Hellenistic World"]
 series: ["Polybius"]
-summary: "Reading companion for the Histories of Polybius, covering Rome's rise to Mediterranean dominance from the First Punic War to the destruction of Carthage."
+description: "Reading companion for the Histories of Polybius, covering Rome's rise to Mediterranean dominance from the First Punic War to the destruction of Carthage."
 ShowToc: true
 TocOpen: false
 draft: false
-cover:
-  image: "/Vat.gr.124.jpg"
-  alt: "Vat. gr. 124, f. 1r. Opening of Polybius, Histories Book I, with ornamental title panel (ΠΟΛΥΒΙΟΥ ΙΣΤΟΡΙΩΝ Α) and decorated initial. Constantinople, 10th century. Biblioteca Apostolica Vaticana.."
-  caption: "Vat. gr. 124, f. 1r. Opening of Polybius, Histories Book I, with ornamental title panel (ΠΟΛΥΒΙΟΥ ΙΣΤΟΡΙΩΝ Α) and decorated initial. Constantinople, 10th century. Biblioteca Apostolica Vaticana."
 ---
 
 ## Overview
@@ -80,22 +76,22 @@ Two books deserve special notice for their subject matter rather than their narr
 ## Selected Excerpts
 
 **The programmatic preface** (*Histories* I.1–4):
-The opening of the *Histories* announces its scope with deliberate grandeur. Polybius asks whether any person of serious purpose could remain indifferent to a history that traces how the Romans subjected nearly the whole inhabited world to their power in fewer than fifty-three years. The preface introduces the concept of *symploke* — the interweaving of events across all theatres — and distinguishes between the mere pleasure of reading history and its practical utility for those who must govern. These pages establish the terms on which the entire work proceeds.
+The opening of the *Histories* announces its scope with deliberate grandeur. Polybius asks whether any person of serious purpose could remain indifferent to a history that traces how the Romans subjected nearly the whole inhabited world to their power in fewer than fifty-three years — what Paton renders as "a thing unique in history." The preface introduces the concept of *symploke* — the interweaving of events across all theatres — and distinguishes between the mere pleasure of reading history and its practical utility for those who must govern. These pages establish the terms on which the entire work proceeds.
 
 **Agelaus at Naupactus** (*Histories* V.104):
-Speaking to assembled Greek statesmen in 217 BC, Agelaus urges them to settle their internecine quarrels by invoking a famous image: those watching the clouds gathering in the West should fear that the victor — Roman or Carthaginian — will not rest content with dominating Italy and Africa but will extend his ambitions further. The speech is one of the most celebrated moments of political foresight in ancient historiography: a Greek statesman warning his contemporaries of what Polybius's entire work goes on to narrate.
+Speaking to assembled Greek statesmen in 217 BC, Agelaus urges them to settle their internecine quarrels by invoking a famous image. In Paton's rendering, he warns of "the clouds that were gathering in the west" — the victor of the Italian struggle, Roman or Carthaginian, would not rest content with his own domain but would come for Greece. The speech is one of the most celebrated moments of political foresight in ancient historiography: a Greek statesman warning his contemporaries of what Polybius's entire work goes on to narrate.
 
 **The theory of anacyclosis** (*Histories* VI.3–9):
-The fullest surviving ancient account of constitutional cycle theory. Polybius traces the natural progression from kingship through its degenerations and back, argues that the mixed constitution interrupts and suspends the cycle, and demonstrates through Roman history how this constitutional form produces stability. The analysis has been controversial since antiquity — Cicero adapted it, later constitutionalists drew on it — but its analytical ambition is undeniable. Whatever its philosophical debts, no ancient writer had previously applied constitutional theory to historical explanation with this degree of systematic rigor.
+The fullest surviving ancient account of constitutional cycle theory. Polybius traces the natural progression from kingship through its degenerations and back, argues that the mixed constitution interrupts and suspends the cycle, and demonstrates through Roman history how this constitutional form produces stability. The transition from good to corrupt forms happens, as Paton translates it, "not by deliberate intention but by necessity." The analysis has been controversial since antiquity — Cicero adapted it, later constitutionalists drew on it — but its analytical ambition is undeniable. Whatever its philosophical debts, no ancient writer had previously applied constitutional theory to historical explanation with this degree of systematic rigor.
 
 **The battle of Cannae** (*Histories* III.113–117):
-Polybius's account of Cannae (216 BC) is not the most vivid in antiquity — Livy's version is far more dramatic — but it is the most analytically precise. Polybius reconstructs Hannibal's tactical dispositions with care, explains the mechanics of the double envelopment, and calculates casualties with the dispassion of a man who had commanded armies himself. His analysis of why the Romans lost — not through cowardice but through being tactically outgeneralled — is the basis of almost every subsequent understanding of the battle.
+Polybius's account of Cannae (216 BC) is not the most vivid in antiquity — Livy's version is far more dramatic — but it is the most analytically precise. Polybius reconstructs Hannibal's tactical dispositions with care, explains the mechanics of the double envelopment, and calculates casualties with the dispassion of a man who had commanded armies himself. His analysis of why the Romans lost — not through cowardice but through being tactically outgeneralled — is the basis of almost every subsequent understanding of the battle. Paton captures the core of Polybius's verdict when he translates the Roman defeat as the consequence of Hannibal's foresight, "as if some god had ordained it."
 
 **The Roman legion against the Macedonian phalanx** (*Histories* XVIII.28–32):
-One of the most technically impressive passages in ancient military writing. Polybius argues that the phalanx is irresistible on flat, even ground but vulnerable to the legion's flexible tactical unit — the *maniple* — on broken terrain. The argument draws on his analysis of Cynoscephalae but is stated here as a general theorem. Its influence on Renaissance and early modern military thought was considerable, and it remains a point of reference in the historiography of ancient warfare.
+One of the most technically impressive passages in ancient military writing. Polybius argues that the phalanx is irresistible on flat, even ground but vulnerable to the legion's flexible tactical unit — the *maniple* — on broken terrain. The phalanx, as Paton translates Polybius's diagnosis, requires ground that is "level and clear," and the moment that condition fails, so does the formation. The argument draws on his analysis of Cynoscephalae but is stated here as a general theorem. Its influence on Renaissance and early modern military thought was considerable, and it remains a point of reference in the historiography of ancient warfare.
 
 **On the destruction of Carthage** (*Histories* XXXVI.9, fragment):
-In a fragment preserved by later authorities, Polybius records that Scipio Aemilianus, watching Carthage burn, quoted Homer on the fall of Troy and wept — then, turning to Polybius, expressed the fear that Rome might one day suffer the same fate. The scene is the emotional climax of the *Histories* and one of the most extraordinary recorded conversations in ancient historiography: a Roman general, at the moment of his greatest triumph, invoking the mutability of empires in the presence of the historian who has devoted his life to explaining Roman power.
+In a fragment preserved by later authorities, Polybius records that Scipio Aemilianus, watching Carthage burn, quoted Homer on the fall of Troy and wept — then, turning to Polybius, expressed the fear that Rome might one day suffer the same fate. Paton translates Scipio's admission as a reflection on "the vicissitudes of fortune" — a formulation that places the scene squarely within Polybius's larger preoccupation with *Tyche*. The scene is the emotional climax of the *Histories* and one of the most extraordinary recorded conversations in ancient historiography: a Roman general, at the moment of his greatest triumph, invoking the mutability of empires in the presence of the historian who has devoted his life to explaining Roman power.
 
 ## Further Reading
 
