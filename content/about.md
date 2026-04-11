@@ -5,15 +5,15 @@ url: "/about/"
 summary: "About Analecta Stoa"
 ---
 
-*Analecta Stoa* is a reading companion dedicated to the literature of antiquity. Its purpose is to make some of the great historical, philosophical, and rhetorical works of the ancient world more accessible through careful summaries, annotated excerpts, and critical commentary — without sacrificing the intellectual rigour these texts demand.
+*Analecta Stoa* is a reading companion dedicated to the literature of antiquity and the early medieval world. Its purpose is to make some of the great historical, philosophical, and rhetorical works of the ancient and post-classical traditions more accessible through careful summaries, annotated excerpts, and critical commentary — without sacrificing the intellectual rigour these texts demand.
 
 The title draws on two traditions. *Analecta* (ἀνάλεκτα), from the Greek, denotes gathered fragments or selected readings — a term historically applied to collections of literary remains and excerpts. *Stoa* evokes both the colonnaded walkway of the ancient agora, a place of public discourse and instruction, and the Stoic philosophical school that flourished in precisely the period many of these texts concern.
 
 ## Scope and Method
 
-The works treated here span roughly seven centuries of writing in Greek and Latin, from the historians of the fifth century BCE through the chroniclers of late antiquity. Primary attention is given to historical prose — the genre in which ancient writers most directly confronted questions of power, decline, memory, and moral judgment — though works of philosophy, biography, and oratory are treated where they illuminate the historical record.
+The works treated here span roughly fourteen centuries of writing in Greek and Latin, from the historians of the fifth century BCE through the chroniclers of the early medieval world. Primary attention is given to historical prose — the genre in which ancient and medieval writers most directly confronted questions of power, decline, memory, and moral judgment — though works of philosophy, biography, and oratory are treated where they illuminate the historical record.
 
-Each entry aims to do several things at once: to summarise faithfully without flattening, to quote generously where the original voice is irreplaceable, and to situate each passage within its broader literary and historical context. Citations follow the standard conventions of classical scholarship.
+Each entry aims to do several things at once: to summarise faithfully without flattening, to quote generously where the original voice is irreplaceable, and to situate each passage within its broader literary and historical context. Citations follow the standard conventions of classical and medieval scholarship.
 
 ---
 
@@ -40,6 +40,9 @@ The following texts are currently under active treatment on this site, or are pl
 
 **Suetonius** — *The Twelve Caesars* (*De Vita Caesarum*) (c. 121 CE)
 : A counterpoint to Tacitus: anecdotal where Tacitus is analytical, titillating where Tacitus is austere. Indispensable precisely because of its difference in method and intent.
+
+**Bede** — *Ecclesiastical History of the English People* (*Historia Ecclesiastica Gentis Anglorum*) (731 CE)
+: The foundational text of English historical writing, and the work that established the convention of dating years from the Incarnation. Composed at the monastery of Wearmouth-Jarrow in Northumbria, the *Historia* traces the Christianisation of Britain from the Roman mission of Augustine of Canterbury through to Bede's own era — a span of nearly seven centuries — organised not as mere chronicle but as providential narrative. It is at once a work of history, theology, hagiography, and political thought, and stands as the culmination of early medieval Latin scholarship in Britain.
 
 ### Philosophy
 
