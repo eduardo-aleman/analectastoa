@@ -206,3 +206,4 @@ Britain, an island In the Atlantic, formerly called Albion, lies to the north-we
 [^19]:  Cf. Caes., B. G., *passim*; Verg., Aen., VIII, 727.
 
 [^20]:  In his Hexameron.
+
