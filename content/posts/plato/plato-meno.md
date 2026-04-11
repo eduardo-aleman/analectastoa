@@ -1,6 +1,6 @@
 ---
 title: "Meno"
-date: 2026-04-10
+date: 2025-04-01
 authors: ["Plato"]
 categories: ["Ancient Philosophy"]
 tags:

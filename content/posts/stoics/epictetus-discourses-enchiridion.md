@@ -1,6 +1,6 @@
 ---
 title: "Discourses and Enchiridion"
-date: 2025-01-01
+date: 2025-06-01
 authors: ["Epictetus"]
 categories: ["Philosophy"]
 tags: ["Stoicism", "Epictetus", "Ethics", "Freedom", "Self-Mastery"]

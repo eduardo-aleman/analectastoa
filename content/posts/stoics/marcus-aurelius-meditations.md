@@ -1,6 +1,6 @@
 ---
 title: "Meditations"
-date: 2025-01-01
+date: 2025-07-01
 authors: ["Marcus Aurelius"]
 categories: ["Philosophy"]
 tags: ["Stoicism", "Marcus Aurelius", "Antonines", "Ethics", "Self-Examination"]

@@ -1,6 +1,6 @@
 ---
 title: "The Twelve Caesars"
-date: 2025-01-01
+date: 2025-08-01
 authors: ["Suetonius"]
 categories: ["Roman History", "Biography"]
 tags: ["Caesar", "Augustus", "Nero", "Caligula", "Domitian", "Principate", "Biography"]

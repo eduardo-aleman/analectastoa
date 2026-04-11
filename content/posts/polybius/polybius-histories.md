@@ -1,6 +1,6 @@
 ---
 title: "Histories"
-date: 2026-03-13
+date: 2025-05-01
 authors: ["Polybius"]
 categories: ["Greek History"]
 tags: ["Rome", "Carthage", "Macedonia", "Hannibal", "Scipio", "Republic", "Hellenistic World"]

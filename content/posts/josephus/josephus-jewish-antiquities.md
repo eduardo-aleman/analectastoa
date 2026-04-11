@@ -1,6 +1,6 @@
 ---
 title: "Jewish Antiquities"
-date: 2025-01-01
+date: 2025-02-01
 authors: ["Josephus"]
 categories: ["Jewish History", "Roman History"]
 tags: ["Second Temple", "Herod", "Scripture", "Rome", "Early Christianity"]

@@ -1,6 +1,6 @@
 ---
 title: "Histories"
-date: 2026-01-01
+date: 2025-10-01
 authors: ["Tacitus"]
 categories: ["Roman History"]
 tags: ["Year of the Four Emperors", "Vespasian", "Flavians", "Rome", "Civil War"]
