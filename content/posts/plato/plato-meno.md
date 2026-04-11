@@ -3,7 +3,16 @@ title: "Meno"
 date: 2026-04-10
 authors: ["Plato"]
 categories: ["Ancient Philosophy"]
-tags: ["Socrates", "Meno", "Virtue", "Knowledge", "Recollection", "Anamnesis", "Dialogue"]
+tags:
+  [
+    "Socrates",
+    "Meno",
+    "Virtue",
+    "Knowledge",
+    "Recollection",
+    "Anamnesis",
+    "Dialogue",
+  ]
 series: ["Plato"]
 summary: "Reading companion for Plato's Meno, a Socratic dialogue exploring whether virtue can be taught, and introducing the theory of recollection as a model of knowledge."
 ShowToc: true
@@ -1270,4 +1279,3 @@ SOCRATES: I do not care; as for Anytus, there will be another opportunity of tal
 MENO: That is excellent, Socrates.
 
 SOCRATES: Then, Meno, the conclusion is that virtue comes to the virtuous by the gift of God. But we shall never know the certain truth until, before asking how virtue is given, we enquire into the actual nature of virtue. I fear that I must go away, but do you, now that you are persuaded yourself, persuade our friend Anytus. And do not let him be so exasperated; if you can conciliate him, you will have done good service to the Athenian people.
-
