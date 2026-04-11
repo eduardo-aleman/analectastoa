@@ -11,8 +11,8 @@ TocOpen: false
 draft: false
 cover:
   image: "https://images.metmuseum.org/CRDImages/md/original/tem99357409o.jpg"
-  alt: "Gold Solidus of Julian (361–63)."
-  caption: "Gold Solidus of Julian (361–63) at the MET."
+  alt: "Gold Solidus of Julian (361–363), Byzantine, 361–363, Gold, The Metropolitan Museum of Art, New York — Gallery 301. Struck during the brief but consequential reign of Julian the Apostate, this gold solidus reflects the enduring power of Roman imperial coinage at a pivotal moment of transition. The emperor's portrait — rendered with classical precision on the obverse — evokes Julian's deliberate effort to revive pre-Christian Roman traditions, positioning himself as a philosopher-emperor in the mold of Marcus Aurelius. The solidus, introduced by Constantine I, had by this period become the backbone of Mediterranean commerce, its consistent gold purity a guarantee of imperial authority across vast distances. This coin stands as both a monetary instrument and a miniature monument — a gilded testament to a reign that lasted little more than two years, yet left an indelible mark on the history of the late Roman world."
+  caption: "Gold Solidus of Julian (361–363), Byzantine, 361–363, Gold, The Metropolitan Museum of Art, New York — Gallery 301. Struck during the brief but consequential reign of Julian the Apostate, this gold solidus reflects the enduring power of Roman imperial coinage at a pivotal moment of transition. The emperor's portrait — rendered with classical precision on the obverse — evokes Julian's deliberate effort to revive pre-Christian Roman traditions, positioning himself as a philosopher-emperor in the mold of Marcus Aurelius. The solidus, introduced by Constantine I, had by this period become the backbone of Mediterranean commerce, its consistent gold purity a guarantee of imperial authority across vast distances. This coin stands as both a monetary instrument and a miniature monument — a gilded testament to a reign that lasted little more than two years, yet left an indelible mark on the history of the late Roman world."
 
 ---
 ## Against the Galileans
