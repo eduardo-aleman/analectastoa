@@ -232,7 +232,7 @@ SOCRATES: I mean as I might say about anything; that a round, for example, is 'a
 
 MENO: Quite right; and that is just what I am saying about virtue—that there are other virtues as well as justice.
 
-SOCRATES: What are they? tell me the names of them, as I would tell you the names of the other figures if you asked me.
+SOCRATES: What are they? Tell me the names of them, as I would tell you the names of the other figures if you asked me.
 
 MENO: Courage and temperance and wisdom and magnanimity are virtues; and there are many others.
 
