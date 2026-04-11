@@ -161,6 +161,12 @@ What was done with regard to the faith of Christ, and what was the episcopal suc
 
 Moreover, I beseech all men who shall hear or read this history of our nation, that for my infirmities both of mind and body, they will offer up frequent intercessions to the throne of Grace. And I further pray, that in recompense for the labour wherewith I have recorded in the several provinces and more important places those events which I considered worthy of note and of interest to their inhabitants, I may for my reward have the benefit of their pious prayers.
 
+### BOOK I
+
+#### CHAP. I. *Of the Situation of Britain and Ireland, and of tkeir ancient inhabitants*.
+
+Britain, an island In the Atlantic, formerly called Albion, lies to the north-west, facing, though at a considerable distance, the coasts of Germany, France, and Spain, which form the greatest part of Europe. It extends 800 miles in length towards the north, and is 200 miles in breadth, except where several promontories extend further in breadth, by which its compass is made to be 4,875 miles.[^16] To the south lies Belgic Gaul. To its nearest shore there is an easy passage from the city of Rutubi Portus, by the English now corrupted into Reptacaestir.[^17] The distance from here across the sea to Gessoriacum,[^18] the nearest shore in the territory of the Morini,[^19] is fifty miles, or as some writers say, 4501 furlongs. On the other side of the island, where it opens upon the boundless ocean, it has the islands called Orcades. Britain is rich in grain and trees, and is well adapted for feeding cattle and beasts of burden. It also produces vines in some places, and has plenty of land and water fowl of divers sorts; it is remarkable also for rivers abounding in fish, and plentiful springs. It has the greatest plenty of salmon and eels; seals are also frequently taken, and dolphins, as also whales; besides many sorts of shell-fish, such as mussels, in which are often found excellent pearls of all colours, red, purple, violet and green, but chiefly white. There is also a great abundance of snails, of which the scarlet dye is made, a most beautiful red, which never fades with the heat of j the sun or exposure to rain, but the older it is, the more beautiful it becomes. It has both salt and hot springs, and from them flow rivers which furnish hot baths, proper for all ages and both sexes, in separate places, according to their requirements. For water, as St. Basil says,[^20] receives the quality of heat, when it runs along certain metals, and becomes not only hot but scalding. Britain is rich also in veins of metals, as copper, iron, lead, and silver; it produces a great deal of excellent jet, which is black and sparkling, and burns when put to the fire, and when set on fire, drives away serpents ; being warmed with rubbing, it attracts whatever is applied to it, like amber. The island was formerly distinguished by twenty-eight famous cities, besides innumerable forts, which were all strongly secured with walls, towers, gates, and bars. And, because it lies almost under the North Pole, the nights are light in summer, so that at midnight the beholders are often in doubt whether the evening twilight still continues, or that of the morning has come since the sun at night returns to the east in the northern regions without passing far beneath the earth. For this reason the days are of a great length in summer, and on the other hand, the nights in winter are eighteen hours long, for the sun then withdraws into southern parts. In like manner the nights are very short in summer, and the days in winter, that is, only six equinoctial hours. Whereas, in Armenia, Macedonia, Italy, and other countries of the same latitude, the longest day or night extends but to fifteen hours, and the shortest to nine.
+
 [^1]: King of Northumbria, cf. V, 23. He succeeded Osric, 729 A. D. In a revolt he was forcibly tonsured, 731, but restored. He voluntarily became a monk in Lindisfame in 737. The fact that Bede submitted the Ecclesiastical History to him for revision bears witness to his piety and learning.
 
 [^2]: Albinus, the first English abbot of the monastery of SS. Peter and Paul at Canterbury, succeeded Hadrian in 709 or 710. On his scholarship, cf. V, 20.
@@ -190,3 +196,13 @@ Moreover, I beseech all men who shall hear or read this history of our nation, t
 [^14]: The saint and hermit who was for two years Bishop of Lindisfarne, 685-687 : *v*. IV, 26-32. Bede wrote his life both in prose and verse.
 
 [^15]: Holy Island, off the coast of Northumberland. Aidan chose it as the place of his see and monastery in 635: *v*. III, 3.
+
+[^16]: This total varies in different authors. The first few pages of Bede are to a great extent copied out of Pliny, Solinus, Orosius, and Gildas.
+
+[^17]: Richborough, Kent.
+
+[^18]: Boulogne.
+
+[^19]:  Cf. Caes., B. G., *passim*; Verg., Aen., VIII, 727.
+
+[^20]:  In his Hexameron.
