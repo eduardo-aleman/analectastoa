@@ -151,10 +151,8 @@ Which being interpreted is : 'Before the inevitable journey hence, no man is wis
 
 ### PREFACE
 
-[^1]: King of Northumbria, cf. V, 23. He succeeded Osric, 729 A. D. In a revolt he was forcibly tonsured, 731, but restored. He voluntarily became a monk in Lindisfame in 737. The fact that Bede submitted the Ecclesiastical History to him for revision bears witness to his piety and learning.
-
 *To the most glorious king Ceolwulf [^1]. Bede, the servant of Christ and Priest.*
 
 I formerly, at your request, most readily sent to you the Ecclesiastical History of the English Nation, which I had lately published, for yon to read and judge; and I now send it again to be transcribed, and more fully studied at your leisure. And I rejoice greatly at the sincerity and zeal, with which you not only diligently give ear to hear the words of Holy Scripture, but also industriously take care to become acquainted with the actions and sayings of former men of renown, especially of our own nation. For if history relates good things of good men,"] the attentive hearer is excited to imitate that which is good; or if it recounts evil things of wicked persons, none the less the conscientious and devout hearer or reader, shunning that which is hurtful and wrong, is the more earnestly fired to perform those things which he knows to be good, and worthy of the service of Godj And as you have carefully marked this, you are desirous that the said history should be more fully made known to yourself, and to those over whom the Divine Authority has appointed you governor, from your great regard to the common good. But to the end that I may remove all occasion of doubting what I have written, both from yourself and other readers or hearers of this history, I will take care briefly to show you from what authors I chiefly learned the same.
 
----
+[^1]: King of Northumbria, cf. V, 23. He succeeded Osric, 729 A. D. In a revolt he was forcibly tonsured, 731, but restored. He voluntarily became a monk in Lindisfame in 737. The fact that Bede submitted the Ecclesiastical History to him for revision bears witness to his piety and learning.
