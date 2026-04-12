@@ -1,6 +1,6 @@
 ---
 title: "Historia Ecclesiastica Gentis Anglorum"
-date: 2025-01-01
+date: 2026-04-10
 authors: ["Bede"]
 categories: ["Medieval History", "Early Medieval"]
 tags: ["Bede", "Anglo-Saxon England", "Early Christianity", "Church History", "Northumbria", "Hagiography", "Latin Historiography", "8th Century"]
