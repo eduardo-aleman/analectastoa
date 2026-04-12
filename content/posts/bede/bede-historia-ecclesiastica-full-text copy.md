@@ -8,22 +8,22 @@ series: ["Bede"]
 summary: "Historia Ecclesiastica Gentis Anglorum — Bede's monumental ecclesiastical history of the English people, tracing the Christianisation of Britain from the Roman mission of Augustine of Canterbury to the early eighth century."
 ShowToc: true
 TocOpen: false
-draft: false
+draft: true
 cover:
   image: "/bede-historia-opening.jpg"
-  alt: "The Moore Bede, opening page of Bede's Historia Ecclesiastica Gentis Anglorum, Cambridge University Library MS Kk.5.16, fol. 1r, Northumbria, c. 737."
-  caption: "The Moore Bede, Cambridge University Library MS Kk.5.16, fol. 1r, Northumbria, c. 737."
+  alt: "The Moore Bede, opening page of Bede's Historia Ecclesiastica Gentis Anglorum, Cambridge University Library MS Kk.5.16, fol. 1r, Northumbria, c. 737, Cambridge University Library. Among the oldest surviving manuscripts of Bede's Ecclesiastical History, the Moore Bede was copied within a generation of the work's completion in 731 AD. The page displays the characteristic Insular minuscule script of early Northumbrian scriptoria, with a decorated initial 'S' opening the preface. The manuscript takes its name from John Moore, Bishop of Ely, whose library was presented to Cambridge University Library by King George I in 1715. Itself a near-contemporary witness to Bede's text, this manuscript is one of the most significant documents in the transmission of early medieval English history."
+  caption: "The Moore Bede, opening page of Bede's Historia Ecclesiastica Gentis Anglorum, Cambridge University Library MS Kk.5.16, fol. 1r, Northumbria, c. 737, Cambridge University Library. Among the oldest surviving manuscripts of Bede's Ecclesiastical History, the Moore Bede was copied within a generation of the work's completion in 731 AD. The page displays the characteristic Insular minuscule script of early Northumbrian scriptoria, with a decorated initial 'S' opening the preface. The manuscript takes its name from John Moore, Bishop of Ely, whose library was presented to Cambridge University Library by King George I in 1715. Itself a near-contemporary witness to Bede's text, this manuscript is one of the most significant documents in the transmission of early medieval English history."
 ---
 
-## Bede's Ecclesiastical History of the English People
+## BEDE'S ECCLESIASTICAL HISTORY OF THE ENGLISH PEOPLE
 
-*A Revised Translation with Introduction, Life, and Notes by A. M. Sellar, Late Vice-Principal of Lady Margaret Hall, Oxford*
+### A REVISED TRANSLATION WITH INTRODUCTION, LIFE, AND NOTES BY A. M. SELLAR LATE VICE-PRINCIPAL OF LADY MARGARET HALL, OXFORD
 
-## Editor's Preface
+### EDITOR'S PREFACE
 
 The English version of the "Ecclesiastical History" in the following pages is a revision of the translation of Dr. Giles, which is itself a revision of the earlier rendering of Stevens. In the present edition very considerable alterations have been made, but the work of Dr. Giles remains the basis of the translation. The Latin text used throughout is Mr. Plummer's. Since the edition of Dr. Giles appeared in 1842, so much fresh work on the subject has been done, and recent research has brought so many new facts to light, that it has been found necessary to rewrite the notes almost entirely, and to add a new introduction. After the appearance of Mr. Plummer's edition of the Historical Works of Bede, it might seem superfluous, for the present at least, to write any notes at all on the "Ecclesiastical History." The present volume, however, is intended to fulfil a different and much humbler function. There has been no attempt at any original work, and no new theories are advanced. The object of the book is merely to present in a short and convenient form the substance of the views held by trustworthy authorities, and it is hoped that it may be found useful by those students who have either no time or no inclination to deal with more important works. Among the books of which most use has been made, are Mr. Plummer's edition of the "Ecclesiastical History, Messrs. Mayor and Lumby's edition of Books III and IV, Dr. Bright's "Early English Church History," and Dr. Hunt's "History of the English Church from its foundation to the Norman Conquest. "Many of the articles in the "Dictionary of Christian Biography" and the "Dictionary of Christian Antiquities," Dr. Mason's "Mission of St. Augustine,"D r. Rhys's "Celtic Britain," and a number of other books, mentioned in the notes, have been consulted. For help received in different ways I wish to express my gratitude to various correspondents and friends. I am particularly indebted to Mr. Edward Bell, who has kindly revised my proofs and made many valuable suggestions. For information on certain points I have to thank the Rev. Charles Plummer, Fellow of Corpus Christi College, Oxford, Professor Lindsay of St. Andrews University, Miss Wordsworth, Principal, and Miss Lodge, Vice-Principal of Lady Margaret Hall, Oxford; and in a very special sense I wish to ackowledge my obligations to Miss Paterson, Assistant Librarian at the University Library, St. Andrews, whose unfailing kindness in verifying references, and supplying me with books, has greatly lightened my labours.
 
-## Introduction and Overview
+### INTRODUCTION
 
 There are, it has been estimated, in England and on the Continent, in all about 140 manuscripts of the "Ecclesiastical History." Of these, four date from the eighth century: the Moore MS. (Cambridge), so called, because, after being sold by auction in the reign of William Ill, it came into the possession of Bishop Moore, who bequeathed it to the University of Cambridge; Cotton, Tiberius A, xiv; Cotton, Tiberius C, ii; and the Namur MS. A detailed account of these, as well as of a great number of other manuscripts, will be found in Mr. Plummer's Introduction to his edition of Bede's Historical Works. He has been the first to collate the four oldest MSS., besides examining numerous others and collating them in certain passages. He has pointed out that two of the MSS. dating from the eighth century (the century in which Bede died), the Moore MS. and Cotton, Tiberius A, xiv, point to a common original which cannot be far removed from Bede's autograph. We are thus brought very near to our author, and may have more than in most cases the assurance that we have before us what he actually meant to say.
 
@@ -105,7 +105,7 @@ An important step is taken at this time by the Northern Picts in the acceptance 
 
 The book closes in Chapter 24 with a chronological summary of the whole work, an autobiographical sketch of the author, and a list of his works.
 
-## Life of Bede
+### LIFE OF BEDE
 
 Few lives afford less material for the biographer than Bede's; few seem to possess a more irresistible fascination. Often as the simple story has been told, the desire to tell it afresh appears to be perennial. And yet it is perhaps as wholly devoid of incident as any life could be. The short autobiographical sketch at the end of the "Ecclesiastical History" tells us practically all : that he was born in the territory of the twin monastery of Wearmouth and Jarrow; that at the age of seven he was sent by his kinsfolk to be brought up, first under the Abbot Benedict, afterwards under Ceolfrid ; that in his nineteenth year (the canonical age was twenty-five) he was admitted to the diaconate, and received priest's orders in his thirtieth year, in both instances at the hands of John, Bishop of Hexham, and by order of the Abbot Ceolfrid ; that he spent his whole life in the monastery in learning, in teaching, and in writing, and in the observance of the monastic rule and attendance at the daily services of the Church. Of his family we know nothing ; the name Beda appears to have been not uncommon. The fact that he was handed over by kinsmen ("cura propinquorum") to Abbot Benedict would seem to imply that he was an orphan when he entered the monastery at the age of seven, but it was not unusual for parents to dedicate their infant children to the religious life, in many cases even at an earlier age than Bede's. We may compare the story of the little boy, Aesica, at Barking, related by Bede, and of Elfled, the daughter of Oswy, dedicated by her father before she was a year old.
 
@@ -147,11 +147,170 @@ Which being interpreted is : 'Before the inevitable journey hence, no man is wis
 
 "But know this, that much could be told and written concerning him, but my want of learning cuts short my words. Nevertheless, with the help of God, I purpose at leisure to write more fully concerning him, of those things which I saw with my own eyes and heard with my own ears."
 
+## Table of Contents
+
+- [Bede's Ecclesiastical History of England](#bedes-ecclesiastical-history-of-england)
+- [Editor's Preface](#editors-preface)
+- [Introduction and Overview](#introduction-and-overview)
+- [Life of Bede](#life-of-bede)
+
+### Book I
+- [Chap. I. Of the Situation of Britain and Ireland, and of their ancient inhabitants](#chap-i)
+- [Chap. II. How Caius Julius Caesar was the first Roman that came into Britain. [54 AD]](#chap-ii)
+- [Chap. III. How Claudius, the second of the Romans who came into Britain, brought the islands Orcades into subjection to the Roman empire; and Vespasian, sent by him, reduced the Isle of Wight under the dominion of the Romans. [44 AD]](#chap-iii)
+- [Chap. IV. How Lucius, king of Britain, writing to Pope Eleutherus, desired to be made a Christian.](#chap-iv)
+- [Chap. V. How the Emperor Severus divided from the rest by a rampart that part of Britain which had been recovered.](#chap-v)
+- [Chap. VI. Of the reign of Diocletian, and how he persecuted the Christians. [286 AD]](#chap-vi)
+- [Chap. VIII. How, when the persecution ceased, the Church in Britain enjoyed peace till the time of the Arian heresy. [325 AD]](#chap-viii)
+- [Chap. IX. How during the reign of Gratian, Maximus, being created Emperor in Britain, returned into Gaul with a mighty army. [377 AD]](#chap-ix)
+- [Chap. X. How, in the reign of Arcadius, Pelagius, a Briton, insolently impugned the Grace of God. [395 AD]](#chap-x)
+- [Chap. XI. How during the reign of Honorius, Gratian and Constantine were created tyrants in Britain. [407 AD]](#chap-xi)
+- [Chap. XII. How the Britons, being ravaged by the Scots and Picts, sought succour from the Romans.](#chap-xii)
+- [Chap. XIII. How in the reign of Theodosius the younger, the Britons begging assistance of Aetius, the consul, could not obtain it. [446 AD]](#chap-xiii)
+- [Chap. XIV. How the Britons, compelled by the great famine, drove the barbarians out of their territories.](#chap-xiv)
+- [Chap. XV. How the Angles, being invited into Britain, at first drove off the enemy.](#chap-xv)
+- [Chap. XVI. How the Britons obtained their first victory over the Angles, under the command of Ambrosius, a Roman. [456 AD]](#chap-xvi)
+- [Chap. XVII. How Germanus the Bishop, sailing into Britain with Lupus, first quelled the tempest of the sea. [429 AD]](#chap-xvii)
+- [Chap. XVIII. How the same holy man gave sight to the blind daughter of a tribune. [429 AD]](#chap-xviii)
+- [Chap. XIX. How the same holy man, being detained there by sickness, quenched a fire by his prayers. [429 AD]](#chap-xix)
+- [Chap. XX. How the same Bishops brought help from Heaven to the Britons in a battle. [430 AD]](#chap-xx)
+- [Chap. XXI. How, when the Pelagian heresy began to spring up afresh, Germanus returned to Britain with Severus. [447 AD]](#chap-xxi)
+- [Chap. XXII. How the Britons, being for a time at rest from foreign invasions, wore themselves out by civil wars.](#chap-xxii)
+- [Chap. XXIII. How the holy Pope Gregory sent Augustine, with other monks, to preach to the English nation. [596 AD]](#chap-xxiii)
+- [Chap. XXIV. How he wrote to the bishop of Arles to entertain them. [596 AD]](#chap-xxiv)
+- [Chap. XXV. How Augustine, coming into Britain, first preached in the Isle of Thanet to the King of Kent. [597 AD]](#chap-xxv)
+- [Chap. XXVI. How St. Augustine in Kent followed the doctrine and manner of life of the primitive Church. [597 AD]](#chap-xxvi)
+- [Chap. XXVII. How St. Augustine, being made a bishop, sent to acquaint Pope Gregory with what had been done in Britain. [597–601 AD]](#chap-xxvii)
+- [Chap. XXVIII. How Pope Gregory wrote to the bishop of Arles to help Augustine in the work of God. [601 AD]](#chap-xxviii)
+- [Chap. XXIX. How the same Pope sent to Augustine the Pall and a letter, along with several ministers of the Word. [601 AD]](#chap-xxix)
+- [Chap. XXX. A copy of the letter which Pope Gregory sent to the Abbot Mellitus, then going into Britain. [601 AD]](#chap-xxx)
+- [Chap. XXXI. How Pope Gregory, by letter, exhorted Augustine not to glory in his miracles. [601 AD]](#chap-xxxi)
+- [Chap. XXXII. How Pope Gregory sent letters and gifts to King Ethelbert. [601 AD]](#chap-xxxii)
+- [Chap. XXXIII. How Augustine repaired the church of our Saviour, and built the monastery of the blessed Peter the Apostle.](#chap-xxxiii)
+- [Chap. XXXIV. How Ethelfrid, king of the Northumbrians, having vanquished the nations of the Scots, expelled them from the territories of the English. [603 AD]](#chap-xxxiv)
+
+### Book II
+- [Chap. I. At this time, that is, in the year of our Lord 605.](#book-ii-chap-i)
+- [Chap. II. In the meantime, Augustine, with the help of King Ethelbert.](#book-ii-chap-ii)
+- [Chap. III. In the year of our Lord 604, Augustine, Archbishop of Britain.](#book-ii-chap-iii)
+- [Chap. IV. Laurentius succeeded Augustine in the bishopric.](#book-ii-chap-iv)
+- [Chap. V. In the year of our Lord 616, which is the twenty-first year after Augustine.](#book-ii-chap-v)
+- [Chap. VI. Laurentius, being about to follow Mellitus and Justus, and to quit Britain.](#book-ii-chap-vi)
+- [Chap. VII. In this king's reign, the blessed Archbishop Laurentius was taken up to the heavenly kingdom.](#book-ii-chap-vii)
+- [Chap. VIII. Justus, bishop of the church of Rochester, immediately succeeded Mellitus in the archbishopric. [624 AD]](#book-ii-chap-viii)
+- [Chap. IX. At this time the nation of the Northumbrians.](#book-ii-chap-ix)
+- [Chap. X. At this time he received a letter from Pope Boniface exhorting him to embrace the faith.](#book-ii-chap-x)
+- [Chap. XI. The same pope also wrote to King Edwin's consort.](#book-ii-chap-xi)
+- [Chap. XII. Thus wrote the aforesaid Pope Boniface for the salvation of King Edwin and his nation.](#book-ii-chap-xii)
+- [Chap. XIII. The king, hearing these words, answered, that he was both willing and bound to receive.](#book-ii-chap-xiii)
+- [Chap. XIV. King Edwin, therefore, with all the nobility of the nation.](#book-ii-chap-xiv)
+- [Chap. XV. Edwin was so zealous for the true worship, that he likewise persuaded Earpwald.](#book-ii-chap-xv)
+- [Chap. XVI. Paulinus also preached the Word to the province of Lindsey.](#book-ii-chap-xvi)
+- [Chap. XVII. At that time Honorius, successor to Boniface, was Bishop of the Apostolic see.](#book-ii-chap-xvii)
+- [Chap. XVIII. In the meantime, Archbishop Justus was taken up to the heavenly kingdom.](#book-ii-chap-xviii)
+- [Chap. XIX. The same Pope Honorius also wrote to the Scots.](#book-ii-chap-xix)
+- [Chap. XX. Edwin reigned most gloriously seventeen years over the nations of the English and the Britons.](#book-ii-chap-xx)
+
+### Book III
+- [Chap. I. How King Edwin's next successors lost both the faith of their nation.](#book-iii-chap-i)
+- [Chap. II. How, among innumerable other miracles of healing wrought by the wood of the cross, which King Oswald erected, a certain man had his injured arm healed. [634 AD]](#book-iii-chap-ii)
+- [Chap. III. How the same King Oswald, asking a bishop of the Scottish nation, had Aidan sent him. [635 AD]](#book-iii-chap-iii)
+- [Chap. IV. When the nation of the Picts received the faith of Christ. [565 AD]](#book-iii-chap-iv)
+- [Chap. V. Of the life of Bishop Aidan. [635 AD]](#book-iii-chap-v)
+- [Chap. VI. Of King Oswald's wonderful piety and religion. [635–642 AD]](#book-iii-chap-vi)
+- [Chap. VII. How the West Saxons received the Word of God by the preaching of Birinus. [635–670 AD]](#book-iii-chap-vii)
+- [Chap. VIII. How Earconbert, King of Kent, ordered the idols to be destroyed. [640 AD]](#book-iii-chap-viii)
+- [Chap. IX. How miracles of healing have been frequently wrought in the place where King Oswald was killed. [642 AD]](#book-iii-chap-ix)
+- [Chap. X. How the dust of that place prevailed against fire.](#book-iii-chap-x)
+- [Chap. XI. How a light from Heaven stood all night over his relics, and how those possessed with devils were healed by them. [679–697 AD]](#book-iii-chap-xi)
+- [Chap. XII. How a little boy was cured of a fever at his tomb.](#book-iii-chap-xii)
+- [Chap. XIII. How a certain person in Ireland was restored, when at the point of death, by his relics.](#book-iii-chap-xiii)
+- [Chap. XIV. How on the death of Paulinus, Ithamar was made Bishop of Rochester; and of the wonderful humility of King Oswin, who was cruelly slain by Oswy. [644–651 AD]](#book-iii-chap-xiv)
+- [Chap. XV. How Bishop Aidan foretold to certain seamen that a storm would arise, and gave them some holy oil to calm it.](#book-iii-chap-xv)
+- [Chap. XVI. How the same Aidan, by his prayers, saved the royal city when it was fired by the enemy.](#book-iii-chap-xvi)
+- [Chap. XVII. How a prop of the church on which Bishop Aidan was leaning when he died, could not be consumed when the rest of the church was on fire. [651 AD]](#book-iii-chap-xvii)
+- [Chap. XVIII. Of the life and death of the religious King Sigbert.](#book-iii-chap-xviii)
+- [Chap. XIX. How Fursa built a monastery among the East Angles, and of his visions and sanctity.](#book-iii-chap-xix)
+- [Chap. XX. How, when Honorius died, Deusdedit became Archbishop of Canterbury. [653 AD]](#book-iii-chap-xx)
+- [Chap. XXI. How the province of the Midland Angles became Christian under King Peada. [653 AD]](#book-iii-chap-xxi)
+- [Chap. XXII. How under King Sigbert, through the preaching of Cedd, the East Saxons again received the faith. [653 AD]](#book-iii-chap-xxii)
+- [Chap. XXIII. How Bishop Cedd, having a place for building a monastery given him by King Ethelwald, consecrated it to the Lord with prayer and fasting. [659–664 AD]](#book-iii-chap-xxiii)
+- [Chap. XXIV. How when King Penda was slain, the province of the Mercians received the faith of Christ. [655 AD]](#book-iii-chap-xxiv)
+- [Chap. XXV. How the question arose about the due time of keeping Easter, with those that came out of Scotland. [664 AD]](#book-iii-chap-xxv)
+- [Chap. XXVI. How Colman, being worsted, returned home, and Tuda succeeded him in the bishopric. [664 AD]](#book-iii-chap-xxvi)
+- [Chap. XXVII. How Egbert, a holy man of the English nation, led a monastic life in Ireland. [664 AD]](#book-iii-chap-xxvii)
+- [Chap. XXVIII. How, when Tuda was dead, Wilfrid was ordained, in Gaul, and Ceadda, among the West Saxons, to be bishops for the province of the Northumbrians. [664 AD]](#book-iii-chap-xxviii)
+- [Chap. XXIX. How the priest Wighard was sent from Britain to Rome, to be ordained archbishop. [667 AD]](#book-iii-chap-xxix)
+- [Chap. XXX. How the East Saxons, during a pestilence, returned to idolatry, but were soon brought back from their error by the zeal of Bishop Jaruman. [665 AD]](#book-iii-chap-xxx)
+
+### Book IV
+- [Chap. I. How when Deusdedit died, Wighard was sent to Rome to receive the archbishopric.](#book-iv-chap-i)
+- [Chap. II. How Theodore visited all places; how the Churches of the English began to be instructed in the study of holy Scripture. [669 AD]](#book-iv-chap-ii)
+- [Chap. III. How the above-mentioned Ceadda was made Bishop of the province of Mercians. Of his life, death, and burial. [669 AD]](#book-iv-chap-iii)
+- [Chap. IV. How Bishop Colman, having left Britain, built two monasteries in the country of the Scots. [667 AD]](#book-iv-chap-iv)
+- [Chap. V. Of the death of the kings Oswy and Egbert, and of the synod held at the place Herutford. [670–673 AD]](#book-iv-chap-v)
+- [Chap. VI. How Wynfrid being deposed, Sexwulf received his bishopric, and Earconwald was made bishop of the East Saxons. [675 AD]](#book-iv-chap-vi)
+- [Chap. VII. How it was indicated by a light from heaven where the bodies of the nuns should be buried in the monastery of Berecingum. [675 AD]](#book-iv-chap-vii)
+- [Chap. VIII. How a little boy, dying in the same monastery, called upon a virgin that was to follow him. [675 AD]](#book-iv-chap-viii)
+- [Chap. IX. Of the signs which were shown from Heaven when the mother of that community departed this life. [675 AD]](#book-iv-chap-ix)
+- [Chap. X. How a blind woman, praying in the burial-place of that monastery, was restored to her sight. [675 AD]](#book-iv-chap-x)
+- [Chap. XI. How Sebbi, king of the same province, ended his life in a monastery. [694 AD]](#book-iv-chap-xi)
+- [Chap. XII. How Haedde succeeded Leutherius in the bishopric of the West Saxons. [673–681 AD]](#book-iv-chap-xii)
+- [Chap. XIII. How Bishop Wilfrid converted the province of the South Saxons to Christ. [681 AD]](#book-iv-chap-xiii)
+- [Chap. XIV. How a pestilence ceased through the intercession of King Oswald. [681–686 AD]](#book-iv-chap-xiv)
+- [Chap. XV. How King Caedwalla, king of the Gewissae, having slain Ethelwalch, wasted that province with cruel slaughter and devastation. [685 AD]](#book-iv-chap-xv)
+- [Chap. XVI. How the Isle of Wight received Christian inhabitants, and two royal youths of that island were killed immediately after Baptism. [686 AD]](#book-iv-chap-xvi)
+- [Chap. XVII. Of the Synod held in the plain of Haethfelth, Archbishop Theodore being president. [680 AD]](#book-iv-chap-xvii)
+- [Chap. XVIII. Of John, the precentor of the Apostolic see, who came into Britain to teach. [680 AD]](#book-iv-chap-xviii)
+- [Chap. XIX. How Queen Ethelthryth always preserved her virginity, and her body suffered no corruption in the grave. [660–696 AD]](#book-iv-chap-xix)
+- [Chap. XX. A Hymn concerning her.](#book-iv-chap-xx)
+- [Chap. XXI. How Bishop Theodore made peace between the kings Egfrid and Ethelred. [679 AD]](#book-iv-chap-xxi)
+- [Chap. XXII. How a certain captive's chains fell off when Masses were sung for him. [679 AD]](#book-iv-chap-xxii)
+- [Chap. XXIII. Of the life and death of the Abbess Hilda. [614–680 AD]](#book-iv-chap-xxiii)
+- [Chap. XXIV. That there was in her monastery a brother, on whom a gift of song was bestowed by Heaven. [680 AD]](#book-iv-chap-xxiv)
+- [Chap. XXV. Of the vision that appeared to a certain man of God before the monastery of the city Coludi was burned down.](#book-iv-chap-xxv)
+- [Chap. XXVI. Of the death of the Kings Egfrid and Hiothere. [684–685 AD]](#book-iv-chap-xxvi)
+- [Chap. XXVII. How Cuthbert, a man of God, was made bishop; and how he lived and taught whilst still in the monastic life. [685 AD]](#book-iv-chap-xxvii)
+- [Chap. XXVIII. How the same St. Cuthbert, living the life of an Anchorite, by his prayers obtained a spring in a dry soil. [676 AD]](#book-iv-chap-xxviii)
+- [Chap. XXIX. How this bishop foretold that his own death was at hand to the anchorite Herebert. [687 AD]](#book-iv-chap-xxix)
+- [Chap. XXX. How his body was found altogether uncorrupted after it had been buried eleven years. [698 AD]](#book-iv-chap-xxx)
+- [Chap. XXXI. Of one that was cured of a palsy at his tomb.](#book-iv-chap-xxxi)
+- [Chap. XXXII. Of one who was lately cured of a disease in his eye at the relics of St. Cuthbert.](#book-iv-chap-xxxii)
+
+### Book V
+- [Chap. I. How Ethelwald, successor to Cuthbert, leading a hermit's life, calmed a storm.](#book-v-chap-i)
+- [Chap. II. How Bishop John cured a dumb man by his blessing. [687 AD]](#book-v-chap-ii)
+- [Chap. III. How he healed a sick maiden by his prayers. [705 AD]](#book-v-chap-iii)
+- [Chap. IV. How he healed a thegn's wife that was sick, with holy water.](#book-v-chap-iv)
+- [Chap. V. How he likewise recalled by his prayers a thegn's servant from death.](#book-v-chap-v)
+- [Chap. VII. How Caedwalla, king of the West Saxons, went to Rome to be baptised. [688 AD]](#book-v-chap-vii)
+- [Chap. VIII. How, when Archbishop Theodore died, Bertwald succeeded him as archbishop. [690 AD]](#book-v-chap-viii)
+- [Chap. IX. How the holy man, Egbert, would have gone into Germany to preach, but could not. [Circ. 688 AD]](#book-v-chap-ix)
+- [Chap. X. How Wilbrord, preaching in Frisia, converted many to Christ; and how his two companions, the Hewalds, suffered martyrdom. [690 AD]](#book-v-chap-x)
+- [Chap. XI. How the venerable Suidbert in Britain, and Wilbrord at Rome, were ordained bishops for Friesland. [692 AD]](#book-v-chap-xi)
+- [Chap. XII. How one in the province of the Northumbrians, rose from the dead, and related many things which he had seen. [Circ. 696 AD]](#book-v-chap-xii)
+- [Chap. XIII. How another contrarywise before his death saw a book containing his sins, which was shown him by devils. [704–709 AD]](#book-v-chap-xiii)
+- [Chap. XIV. How another in like manner, being at the point of death, saw the place of punishment appointed for him in Hell.](#book-v-chap-xiv)
+- [Chap. XV. How divers churches of the Scots, at the instance of Adamnan, adopted the Catholic Easter. [703 AD]](#book-v-chap-xv)
+- [Chap. XVI. The account given in the aforesaid book of the place of our Lord's Nativity, Passion, and Resurrection.](#book-v-chap-xvi)
+- [Chap. XVII. What he likewise wrote of the place of our Lord's Ascension, and the tombs of the patriarchs.](#book-v-chap-xvii)
+- [Chap. XVIII. How the South Saxons received Eadbert and Eolla, and the West Saxons, Daniel and Aldhelm, for their bishops. [705 AD]](#book-v-chap-xviii)
+- [Chap. XIX. How Coinred, king of the Mercians, and Offa, king of the East Saxons, ended their days at Rome; and of the life and death of Bishop Wilfrid. [709 AD]](#book-v-chap-xix)
+- [Chap. XX. How Albinus succeeded to the godly Abbot Hadrian, and Acca to Bishop Wilfrid. [709 AD]](#book-v-chap-xx)
+- [Chap. XXI. How the Abbot Ceolfrid sent master-builders to the King of the Picts to build a church. [710 AD]](#book-v-chap-xxi)
+- [Chap. XXII. How the monks of Hi, and the monasteries subject to them, began to celebrate the canonical Easter at the preaching of Egbert. [716 AD]](#book-v-chap-xxii)
+- [Chap. XXIII. Of the present state of the English nation, or of all Britain. [725–731 AD]](#book-v-chap-xxiii)
+- [Chap. XXIV. Chronological recapitulation of the whole work; also concerning the author himself.](#book-v-chap-xxiv)
+
 ---
 
-## The Ecclesiastical History of the English People
+## Bibliography
 
-### Preface
+Bede. *Bede's Ecclesiastical History of England*. United Kingdom: Bell, 1907.
+
+## THE ECCLESIASTICAL HISTORY OF THE ENGLISH PEOPLE
+
+### PREFACE
 
 *To the most glorious king Ceolwulf [^1]. Bede, the servant of Christ and Priest.*
 
@@ -163,312 +322,11 @@ What was done with regard to the faith of Christ, and what was the episcopal suc
 
 Moreover, I beseech all men who shall hear or read this history of our nation, that for my infirmities both of mind and body, they will offer up frequent intercessions to the throne of Grace. And I further pray, that in recompense for the labour wherewith I have recorded in the several provinces and more important places those events which I considered worthy of note and of interest to their inhabitants, I may for my reward have the benefit of their pious prayers.
 
----
+### BOOK I
 
-## Book I
-
-### Chap. I. Of the Situation of Britain and Ireland, and of their Ancient Inhabitants
+#### CHAP. I. *Of the Situation of Britain and Ireland, and of tkeir ancient inhabitants*.
 
 Britain, an island In the Atlantic, formerly called Albion, lies to the north-west, facing, though at a considerable distance, the coasts of Germany, France, and Spain, which form the greatest part of Europe. It extends 800 miles in length towards the north, and is 200 miles in breadth, except where several promontories extend further in breadth, by which its compass is made to be 4,875 miles.[^16] To the south lies Belgic Gaul. To its nearest shore there is an easy passage from the city of Rutubi Portus, by the English now corrupted into Reptacaestir.[^17] The distance from here across the sea to Gessoriacum,[^18] the nearest shore in the territory of the Morini,[^19] is fifty miles, or as some writers say, 4501 furlongs. On the other side of the island, where it opens upon the boundless ocean, it has the islands called Orcades. Britain is rich in grain and trees, and is well adapted for feeding cattle and beasts of burden. It also produces vines in some places, and has plenty of land and water fowl of divers sorts; it is remarkable also for rivers abounding in fish, and plentiful springs. It has the greatest plenty of salmon and eels; seals are also frequently taken, and dolphins, as also whales; besides many sorts of shell-fish, such as mussels, in which are often found excellent pearls of all colours, red, purple, violet and green, but chiefly white. There is also a great abundance of snails, of which the scarlet dye is made, a most beautiful red, which never fades with the heat of j the sun or exposure to rain, but the older it is, the more beautiful it becomes. It has both salt and hot springs, and from them flow rivers which furnish hot baths, proper for all ages and both sexes, in separate places, according to their requirements. For water, as St. Basil says,[^20] receives the quality of heat, when it runs along certain metals, and becomes not only hot but scalding. Britain is rich also in veins of metals, as copper, iron, lead, and silver; it produces a great deal of excellent jet, which is black and sparkling, and burns when put to the fire, and when set on fire, drives away serpents ; being warmed with rubbing, it attracts whatever is applied to it, like amber. The island was formerly distinguished by twenty-eight famous cities, besides innumerable forts, which were all strongly secured with walls, towers, gates, and bars. And, because it lies almost under the North Pole, the nights are light in summer, so that at midnight the beholders are often in doubt whether the evening twilight still continues, or that of the morning has come since the sun at night returns to the east in the northern regions without passing far beneath the earth. For this reason the days are of a great length in summer, and on the other hand, the nights in winter are eighteen hours long, for the sun then withdraws into southern parts. In like manner the nights are very short in summer, and the days in winter, that is, only six equinoctial hours. Whereas, in Armenia, Macedonia, Italy, and other countries of the same latitude, the longest day or night extends but to fifteen hours, and the shortest to nine.
-
-### Chap. II. How Caius Julius Caesar was the First Roman that came into Britain [54 AD]
-
-### Chap. III. How Claudius, the Second of the Romans who came into Britain, brought the Islands Orcades into Subjection to the Roman Empire; and Vespasian reduced the Isle of Wight under the Dominion of the Romans [44 AD]
-
-### Chap. IV. How Lucius, King of Britain, writing to Pope Eleutherus, desired to be made a Christian
-
-### Chap. V. How the Emperor Severus divided from the Rest by a Rampart that Part of Britain which had been Recovered
-
-### Chap. VI. Of the Reign of Diocletian, and how he Persecuted the Christians [286 AD]
-
-### Chap. VIII. How, when the Persecution ceased, the Church in Britain enjoyed Peace till the Time of the Arian Heresy [325 AD]
-
-### Chap. IX. How during the Reign of Gratian, Maximus, being created Emperor in Britain, returned into Gaul with a Mighty Army [377 AD]
-
-### Chap. X. How, in the Reign of Arcadius, Pelagius, a Briton, insolently impugned the Grace of God [395 AD]
-
-### Chap. XI. How during the Reign of Honorius, Gratian and Constantine were created Tyrants in Britain [407 AD]
-
-### Chap. XII. How the Britons, being ravaged by the Scots and Picts, sought Succour from the Romans
-
-### Chap. XIII. How in the Reign of Theodosius the Younger, the Britons begging Assistance of Aetius, the Consul, could not obtain it [446 AD]
-
-### Chap. XIV. How the Britons, compelled by the Great Famine, drove the Barbarians out of their Territories
-
-### Chap. XV. How the Angles, being invited into Britain, at first drove off the Enemy
-
-### Chap. XVI. How the Britons obtained their First Victory over the Angles, under the Command of Ambrosius, a Roman [456 AD]
-
-### Chap. XVII. How Germanus the Bishop, sailing into Britain with Lupus, first quelled the Tempest of the Sea [429 AD]
-
-### Chap. XVIII. How the same Holy Man gave Sight to the Blind Daughter of a Tribune [429 AD]
-
-### Chap. XIX. How the same Holy Man, being detained there by Sickness, quenched a Fire by his Prayers [429 AD]
-
-### Chap. XX. How the same Bishops brought Help from Heaven to the Britons in a Battle [430 AD]
-
-### Chap. XXI. How, when the Pelagian Heresy began to spring up afresh, Germanus returned to Britain with Severus [447 AD]
-
-### Chap. XXII. How the Britons, being for a Time at Rest from Foreign Invasions, wore themselves out by Civil Wars
-
-### Chap. XXIII. How the Holy Pope Gregory sent Augustine, with other Monks, to preach to the English Nation [596 AD]
-
-### Chap. XXIV. How he wrote to the Bishop of Arles to entertain them [596 AD]
-
-### Chap. XXV. How Augustine, coming into Britain, first preached in the Isle of Thanet to the King of Kent [597 AD]
-
-### Chap. XXVI. How St. Augustine in Kent followed the Doctrine and Manner of Life of the Primitive Church [597 AD]
-
-### Chap. XXVII. How St. Augustine, being made a Bishop, sent to acquaint Pope Gregory with what had been done in Britain [597–601 AD]
-
-### Chap. XXVIII. How Pope Gregory wrote to the Bishop of Arles to help Augustine in the Work of God [601 AD]
-
-### Chap. XXIX. How the same Pope sent to Augustine the Pall and a Letter, along with several Ministers of the Word [601 AD]
-
-### Chap. XXX. A Copy of the Letter which Pope Gregory sent to the Abbot Mellitus, then going into Britain [601 AD]
-
-### Chap. XXXI. How Pope Gregory, by Letter, exhorted Augustine not to Glory in his Miracles [601 AD]
-
-### Chap. XXXII. How Pope Gregory sent Letters and Gifts to King Ethelbert [601 AD]
-
-### Chap. XXXIII. How Augustine repaired the Church of our Saviour, and built the Monastery of the Blessed Peter the Apostle
-
-### Chap. XXXIV. How Ethelfrid, King of the Northumbrians, having vanquished the Nations of the Scots, expelled them from the Territories of the English [603 AD]
-
----
-
-## Book II
-
-### Chap. I. At this time, that is, in the Year of our Lord 605
-
-### Chap. II. In the meantime, Augustine, with the Help of King Ethelbert
-
-### Chap. III. In the Year of our Lord 604, Augustine, Archbishop of Britain
-
-### Chap. IV. Laurentius succeeded Augustine in the Bishopric
-
-### Chap. V. In the Year of our Lord 616, which is the Twenty-First Year after Augustine
-
-### Chap. VI. Laurentius, being about to follow Mellitus and Justus, and to quit Britain
-
-### Chap. VII. In this King's Reign, the Blessed Archbishop Laurentius was taken up to the Heavenly Kingdom
-
-### Chap. VIII. Justus, Bishop of the Church of Rochester, immediately succeeded Mellitus in the Archbishopric [624 AD]
-
-### Chap. IX. At this time the Nation of the Northumbrians
-
-### Chap. X. At this time he received a Letter from Pope Boniface exhorting him to embrace the Faith
-
-### Chap. XI. The same Pope also wrote to King Edwin's Consort
-
-### Chap. XII. Thus wrote the aforesaid Pope Boniface for the Salvation of King Edwin and his Nation
-
-### Chap. XIII. The King, hearing these Words, answered, that he was both Willing and Bound to receive
-
-### Chap. XIV. King Edwin, therefore, with all the Nobility of the Nation
-
-### Chap. XV. Edwin was so Zealous for the True Worship, that he likewise persuaded Earpwald
-
-### Chap. XVI. Paulinus also preached the Word to the Province of Lindsey
-
-### Chap. XVII. At that time Honorius, Successor to Boniface, was Bishop of the Apostolic See
-
-### Chap. XVIII. In the meantime, Archbishop Justus was taken up to the Heavenly Kingdom
-
-### Chap. XIX. The same Pope Honorius also wrote to the Scots
-
-### Chap. XX. Edwin reigned most Gloriously Seventeen Years over the Nations of the English and the Britons
-
----
-
-## Book III
-
-### Chap. I. How King Edwin's next Successors lost both the Faith of their Nation
-
-### Chap. II. How, among innumerable other Miracles of Healing wrought by the Wood of the Cross, which King Oswald erected, a certain Man had his Injured Arm healed [634 AD]
-
-### Chap. III. How the same King Oswald, asking a Bishop of the Scottish Nation, had Aidan sent him [635 AD]
-
-### Chap. IV. When the Nation of the Picts received the Faith of Christ [565 AD]
-
-### Chap. V. Of the Life of Bishop Aidan [635 AD]
-
-### Chap. VI. Of King Oswald's Wonderful Piety and Religion [635–642 AD]
-
-### Chap. VII. How the West Saxons received the Word of God by the Preaching of Birinus [635–670 AD]
-
-### Chap. VIII. How Earconbert, King of Kent, ordered the Idols to be Destroyed [640 AD]
-
-### Chap. IX. How Miracles of Healing have been frequently wrought in the Place where King Oswald was Killed [642 AD]
-
-### Chap. X. How the Dust of that Place prevailed against Fire
-
-### Chap. XI. How a Light from Heaven stood all Night over his Relics, and how those Possessed with Devils were Healed by them [679–697 AD]
-
-### Chap. XII. How a Little Boy was Cured of a Fever at his Tomb
-
-### Chap. XIII. How a certain Person in Ireland was Restored, when at the Point of Death, by his Relics
-
-### Chap. XIV. How on the Death of Paulinus, Ithamar was made Bishop of Rochester; and of the Wonderful Humility of King Oswin, who was Cruelly Slain by Oswy [644–651 AD]
-
-### Chap. XV. How Bishop Aidan foretold to certain Seamen that a Storm would Arise, and gave them some Holy Oil to Calm it
-
-### Chap. XVI. How the same Aidan, by his Prayers, saved the Royal City when it was Fired by the Enemy
-
-### Chap. XVII. How a Prop of the Church on which Bishop Aidan was Leaning when he Died, could not be Consumed when the Rest of the Church was on Fire [651 AD]
-
-### Chap. XVIII. Of the Life and Death of the Religious King Sigbert
-
-### Chap. XIX. How Fursa built a Monastery among the East Angles, and of his Visions and Sanctity
-
-### Chap. XX. How, when Honorius died, Deusdedit became Archbishop of Canterbury [653 AD]
-
-### Chap. XXI. How the Province of the Midland Angles became Christian under King Peada [653 AD]
-
-### Chap. XXII. How under King Sigbert, through the Preaching of Cedd, the East Saxons again received the Faith [653 AD]
-
-### Chap. XXIII. How Bishop Cedd, having a Place for building a Monastery given him by King Ethelwald, consecrated it to the Lord with Prayer and Fasting [659–664 AD]
-
-### Chap. XXIV. How when King Penda was Slain, the Province of the Mercians received the Faith of Christ [655 AD]
-
-### Chap. XXV. How the Question arose about the Due Time of Keeping Easter, with those that came out of Scotland [664 AD]
-
-### Chap. XXVI. How Colman, being Worsted, returned Home, and Tuda succeeded him in the Bishopric [664 AD]
-
-### Chap. XXVII. How Egbert, a Holy Man of the English Nation, led a Monastic Life in Ireland [664 AD]
-
-### Chap. XXVIII. How, when Tuda was Dead, Wilfrid was ordained, in Gaul, and Ceadda, among the West Saxons, to be Bishops for the Province of the Northumbrians [664 AD]
-
-### Chap. XXIX. How the Priest Wighard was sent from Britain to Rome, to be ordained Archbishop [667 AD]
-
-### Chap. XXX. How the East Saxons, during a Pestilence, returned to Idolatry, but were soon brought back from their Error by the Zeal of Bishop Jaruman [665 AD]
-
----
-
-## Book IV
-
-### Chap. I. How when Deusdedit died, Wighard was sent to Rome to receive the Archbishopric
-
-### Chap. II. How Theodore visited all Places; how the Churches of the English began to be instructed in the Study of Holy Scripture [669 AD]
-
-### Chap. III. How the above-mentioned Ceadda was made Bishop of the Province of Mercians; of his Life, Death, and Burial [669 AD]
-
-### Chap. IV. How Bishop Colman, having left Britain, built Two Monasteries in the Country of the Scots [667 AD]
-
-### Chap. V. Of the Death of the Kings Oswy and Egbert, and of the Synod held at the Place Herutford [670–673 AD]
-
-### Chap. VI. How Wynfrid being Deposed, Sexwulf received his Bishopric, and Earconwald was made Bishop of the East Saxons [675 AD]
-
-### Chap. VII. How it was indicated by a Light from Heaven where the Bodies of the Nuns should be Buried in the Monastery of Berecingum [675 AD]
-
-### Chap. VIII. How a Little Boy, dying in the same Monastery, called upon a Virgin that was to Follow him [675 AD]
-
-### Chap. IX. Of the Signs which were shown from Heaven when the Mother of that Community departed this Life [675 AD]
-
-### Chap. X. How a Blind Woman, praying in the Burial-Place of that Monastery, was Restored to her Sight [675 AD]
-
-### Chap. XI. How Sebbi, King of the same Province, ended his Life in a Monastery [694 AD]
-
-### Chap. XII. How Haedde succeeded Leutherius in the Bishopric of the West Saxons [673–681 AD]
-
-### Chap. XIII. How Bishop Wilfrid converted the Province of the South Saxons to Christ [681 AD]
-
-### Chap. XIV. How a Pestilence ceased through the Intercession of King Oswald [681–686 AD]
-
-### Chap. XV. How King Caedwalla, having slain Ethelwalch, wasted that Province with Cruel Slaughter and Devastation [685 AD]
-
-### Chap. XVI. How the Isle of Wight received Christian Inhabitants, and Two Royal Youths of that Island were Killed immediately after Baptism [686 AD]
-
-### Chap. XVII. Of the Synod held in the Plain of Haethfelth, Archbishop Theodore being President [680 AD]
-
-### Chap. XVIII. Of John, the Precentor of the Apostolic See, who came into Britain to Teach [680 AD]
-
-### Chap. XIX. How Queen Ethelthryth always preserved her Virginity, and her Body suffered no Corruption in the Grave [660–696 AD]
-
-### Chap. XX. A Hymn concerning her
-
-### Chap. XXI. How Bishop Theodore made Peace between the Kings Egfrid and Ethelred [679 AD]
-
-### Chap. XXII. How a certain Captive's Chains fell off when Masses were sung for Him [679 AD]
-
-### Chap. XXIII. Of the Life and Death of the Abbess Hilda [614–680 AD]
-
-### Chap. XXIV. That there was in her Monastery a Brother, on whom a Gift of Song was bestowed by Heaven [680 AD]
-
-### Chap. XXV. Of the Vision that appeared to a certain Man of God before the Monastery of the City Coludi was Burned Down
-
-### Chap. XXVI. Of the Death of the Kings Egfrid and Hiothere [684–685 AD]
-
-### Chap. XXVII. How Cuthbert, a Man of God, was made Bishop; and how he Lived and Taught whilst still in the Monastic Life [685 AD]
-
-### Chap. XXVIII. How the same St. Cuthbert, living the Life of an Anchorite, by his Prayers obtained a Spring in a Dry Soil [676 AD]
-
-### Chap. XXIX. How this Bishop foretold that his own Death was at Hand to the Anchorite Herebert [687 AD]
-
-### Chap. XXX. How his Body was found altogether Uncorrupted after it had been Buried Eleven Years [698 AD]
-
-### Chap. XXXI. Of one that was Cured of a Palsy at his Tomb
-
-### Chap. XXXII. Of one who was lately Cured of a Disease in his Eye at the Relics of St. Cuthbert
-
----
-
-## Book V
-
-### Chap. I. How Ethelwald, Successor to Cuthbert, leading a Hermit's Life, calmed a Storm
-
-### Chap. II. How Bishop John cured a Dumb Man by his Blessing [687 AD]
-
-### Chap. III. How he healed a Sick Maiden by his Prayers [705 AD]
-
-### Chap. IV. How he healed a Thegn's Wife that was Sick, with Holy Water
-
-### Chap. V. How he likewise recalled by his Prayers a Thegn's Servant from Death
-
-### Chap. VII. How Caedwalla, King of the West Saxons, went to Rome to be Baptised [688 AD]
-
-### Chap. VIII. How, when Archbishop Theodore died, Bertwald succeeded him as Archbishop [690 AD]
-
-### Chap. IX. How the Holy Man Egbert would have gone into Germany to Preach, but could not [Circ. 688 AD]
-
-### Chap. X. How Wilbrord, preaching in Frisia, converted many to Christ; and how his Two Companions, the Hewalds, suffered Martyrdom [690 AD]
-
-### Chap. XI. How the Venerable Suidbert in Britain, and Wilbrord at Rome, were ordained Bishops for Friesland [692 AD]
-
-### Chap. XII. How one in the Province of the Northumbrians rose from the Dead, and related many Things which he had Seen [Circ. 696 AD]
-
-### Chap. XIII. How another contrarywise before his Death saw a Book containing his Sins, which was shown him by Devils [704–709 AD]
-
-### Chap. XIV. How another in like Manner, being at the Point of Death, saw the Place of Punishment appointed for him in Hell
-
-### Chap. XV. How divers Churches of the Scots, at the Instance of Adamnan, adopted the Catholic Easter [703 AD]
-
-### Chap. XVI. The Account given in the aforesaid Book of the Place of our Lord's Nativity, Passion, and Resurrection
-
-### Chap. XVII. What he likewise wrote of the Place of our Lord's Ascension, and the Tombs of the Patriarchs
-
-### Chap. XVIII. How the South Saxons received Eadbert and Eolla, and the West Saxons, Daniel and Aldhelm, for their Bishops [705 AD]
-
-### Chap. XIX. How Coinred, King of the Mercians, and Offa, King of the East Saxons, ended their Days at Rome; and of the Life and Death of Bishop Wilfrid [709 AD]
-
-### Chap. XX. How Albinus succeeded to the Godly Abbot Hadrian, and Acca to Bishop Wilfrid [709 AD]
-
-### Chap. XXI. How the Abbot Ceolfrid sent Master-Builders to the King of the Picts to Build a Church [710 AD]
-
-### Chap. XXII. How the Monks of Hi, and the Monasteries subject to them, began to celebrate the Canonical Easter at the Preaching of Egbert [716 AD]
-
-### Chap. XXIII. Of the Present State of the English Nation, or of All Britain [725–731 AD]
-
-### Chap. XXIV. Chronological Recapitulation of the Whole Work; also concerning the Author Himself
-
----
-
-## Bibliography
-
-Bede. *Bede's Ecclesiastical History of England*. United Kingdom: Bell, 1907.
-
-## Footnotes
-
 
 [^1]: King of Northumbria, cf. V, 23. He succeeded Osric, 729 A. D. In a revolt he was forcibly tonsured, 731, but restored. He voluntarily became a monk in Lindisfame in 737. The fact that Bede submitted the Ecclesiastical History to him for revision bears witness to his piety and learning.
 
@@ -509,3 +367,4 @@ Bede. *Bede's Ecclesiastical History of England*. United Kingdom: Bell, 1907.
 [^19]:  Cf. Caes., B. G., *passim*; Verg., Aen., VIII, 727.
 
 [^20]:  In his Hexameron.
+
