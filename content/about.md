@@ -26,6 +26,9 @@ The following texts are currently under active treatment on this site, or are pl
 **Thucydides** — *History of the Peloponnesian War* (c. 400 BCE)
 : The foundational text of Western historiography, and still its most demanding. Thucydides's insistence on human causation, his formal speeches, and his unflinching account of the Athenian catastrophe in Sicily repay repeated reading.
 
+**Diodorus Siculus** — *Library of History* (*Bibliotheca Historica*) (c. 60–30 BCE)
+: An ambitious universal history in forty books, spanning from mythological origins to the campaigns of Julius Caesar. Unique among ancient historical works in its geographical and chronological breadth, the *Bibliotheca* draws on a wide array of sources — many of them now lost — making it an indispensable repository for traditions otherwise irrecoverable. Books I–V (on Egypt, Mesopotamia, North Africa, Greece, and the islands) and XI–XX (covering the classical and early Hellenistic periods) survive intact; the remainder is known only through fragments and excerpts. Diodorus is rarely praised for his prose style, but the scale of his undertaking and the sources he preserves give him a significance that more polished contemporaries cannot match.
+
 **Josephus** — *The Jewish War* (*Bellum Judaicum*) (c. 75–79 CE)
 : An eyewitness account — and, in part, a participant's account — of the Jewish revolt against Rome (66–73 CE) and the destruction of the Second Temple. Written first in Aramaic and then in Greek, it occupies an unusual position between Roman apologetics and Jewish lamentation.
 
@@ -48,6 +51,9 @@ The following texts are currently under active treatment on this site, or are pl
 
 **Plato** — *Meno* (c. 385 BCE)
 : A transitional Socratic dialogue exploring the nature of virtue (ἀρετή) and whether it can be taught. It introduces the theory of anamnesis (recollection) and contains the famous geometric demonstration with a slave boy.
+
+**Aristotle** — *Nicomachean Ethics* (*Ἠθικὰ Νικομάχεια*) (c. 349–347 BCE)
+: The most systematic and influential treatment of moral philosophy to survive from antiquity. Addressed to the question of how a human being should live — what constitutes *eudaimonia*, flourishing or happiness — the *Ethics* proceeds through an analysis of virtue (ἀρετή), practical wisdom (*phronēsis*), friendship (*philia*), and pleasure that remains philosophically alive in a way few ancient texts can claim. It is read here not only as a work of ethics but as a document of the Athenian intellectual world in which it was composed, and in productive tension with the Stoic tradition that both absorbed and contested its legacy.
 
 **Epictetus** — *Discourses* and *Enchiridion* (c. 108 CE)
 : The teaching of the freed slave who became the most influential Stoic of his generation. The *Enchiridion* is among the most concise and demanding works of practical philosophy ever composed.
