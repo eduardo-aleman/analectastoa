@@ -40,6 +40,9 @@ params:
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.svg"
+  footer:
+      text: >-
+          © 2024-{{ now.Format "2006" }} Eduardo Alemán — CC BY-NC-ND 4.0 
 
   homeInfoParams:
     Title: "Analecta Stoa"
