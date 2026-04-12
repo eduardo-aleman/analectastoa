@@ -486,21 +486,6 @@ header#site-header,
   color: var(--secondary);
   border-top: 1px solid var(--tertiary);
   background: var(--theme);
-  display: flex;          /* add these  */
-  flex-wrap: wrap;        /*            */
-  justify-content: center;/*            */
-  gap: 0.5rem 1.5rem;    /*            */
-  padding: 1.2rem 2rem;  /*            */
-}
-
-.footer a {
-  color: var(--secondary);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-
-.footer a:hover {
-  color: var(--accent);
 }
 
 /* =============================================================
