@@ -1,6 +1,6 @@
 ---
 title: "Phaedo"
-date: 2026-04-12
+date: 2026-03-17
 authors: ["Plato"]
 categories: ["Ancient Philosophy"]
 tags:

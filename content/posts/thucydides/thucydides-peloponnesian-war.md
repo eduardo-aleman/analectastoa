@@ -1,6 +1,6 @@
 ---
 title: "History of the Peloponnesian War"
-date: 2025-11-01
+date: 2026-04-10
 authors: ["Thucydides"]
 categories: ["Greek History"]
 tags: ["Athens", "Sparta", "Peloponnesian War", "Sicily", "Pericles", "Democracy", "Imperialism"]
