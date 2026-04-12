@@ -5,7 +5,7 @@ authors: ["Julian"]
 categories: ["Roman History", "Late Antiquity"]
 tags: ["Julian the Apostate", "Early Christianity", "Hellenism", "Polemic", "Roman Religion", "Philosophy", "4th Century"]
 series: ["Julian"]
-summary: "Reading companion for Contra Galilaeos — Emperor Julian's philosophical polemic against Christianity, preserved in fragments through Cyril of Alexandria's rebuttal."
+summary: "Reading companion and full text of Contra Galilaeos — Emperor Julian's philosophical polemic against Christianity, preserved in fragments through Cyril of Alexandria's rebuttal."
 ShowToc: true
 TocOpen: false
 draft: false
