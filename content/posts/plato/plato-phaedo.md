@@ -1260,4 +1260,6 @@ Such was the end, Echecrates, of our friend, who was, as we may say, of all thos
 
 [1](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo#note-link1) [**Hom. Il. 8.14**](https://www.perseus.tufts.edu/hopper/text?doc=Hom.%20Il.%208.14&lang=original)
 
-Plato. Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler; Introduction by W.R.M. Lamb. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1966\.  
+Plato. Phaedo. Translated by Harold North Fowler. Perseus Digital Library. Medford, MA: Tufts University. Accessed April 12, 2026. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo.
+
+
