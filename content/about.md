@@ -13,7 +13,7 @@ The title draws on two traditions. *Analecta* (ἀνάλεκτα), from the Gree
 
 The works treated here span roughly fourteen centuries of writing in Greek and Latin, from the historians of the fifth century BCE through the chroniclers of the early medieval world. Primary attention is given to historical prose — the genre in which ancient and medieval writers most directly confronted questions of power, decline, memory, and moral judgment — though works of philosophy, biography, and oratory are treated where they illuminate the historical record.
 
-Each entry aims to do several things at once: to summarise faithfully without flattening, to quote generously where the original voice is irreplaceable, and to situate each passage within its broader literary and historical context. Citations follow the standard conventions of classical and medieval scholarship.
+Each entry aims to do several things at once: to summarise faithfully without flattening, to quote generously where the original voice is irreplaceable, and to situate each passage within its broader literary and historical context. Citations follow the standard conventions of classical and medieval scholarship. A few translations in the public domain are presented fully.
 
 ---
 
