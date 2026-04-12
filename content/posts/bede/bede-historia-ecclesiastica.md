@@ -8,7 +8,7 @@ series: ["Bede"]
 summary: "Reading companion for the Historia Ecclesiastica Gentis Anglorum — Bede's monumental ecclesiastical history of the English people, tracing the Christianisation of Britain from the Roman mission of Augustine of Canterbury to the early eighth century."
 ShowToc: true
 TocOpen: false
-draft: false
+draft: true
 cover:
   image: "/bede-historia-opening.jpg"
   alt: "The Moore Bede, opening page of Bede's Historia Ecclesiastica Gentis Anglorum, Cambridge University Library MS Kk.5.16, fol. 1r, Northumbria, c. 737, Cambridge University Library. Among the oldest surviving manuscripts of Bede's Ecclesiastical History, the Moore Bede was copied within a generation of the work's completion in 731 AD. The page displays the characteristic Insular minuscule script of early Northumbrian scriptoria, with a decorated initial 'S' opening the preface. The manuscript takes its name from John Moore, Bishop of Ely, whose library was presented to Cambridge University Library by King George I in 1715. Itself a near-contemporary witness to Bede's text, this manuscript is one of the most significant documents in the transmission of early medieval English history."
