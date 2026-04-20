@@ -43,7 +43,7 @@ params:
   homeInfoParams:
     Title: "Analecta Stoa"
     Content: >
-      Welcome. This is my personal curated companion to the great works of antiquity. Through a historiographical lens, this site offers incisive summaries, essential primary excerpts, and nuanced annotations needed to navigate the multifaceted chronicles of the ancient world. By examining how these foundational stories were first recorded, we gain a sharper mirror for understanding the deep-seated complexities of our present day.
+      Welcome! This is my personal guide to the great works of the ancient world — a space I've put together for anyone curious about where our stories come from. You'll find clear summaries, key passages from the original texts, and notes to help you make sense of it all. By looking at how these foundational works were first written down and passed along, we can start to see surprising reflections of our own world today.
   socialIcons:
     - name: "other"
       url: "https://ealeman.com"
