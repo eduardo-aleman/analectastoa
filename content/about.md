@@ -50,7 +50,11 @@ Each entry aims to do several things at once: to summarise faithfully without
 flattening, to quote generously where the original voice is irreplaceable, and
 to situate each passage within its broader literary and historical context.
 Citations follow the standard conventions of classical and medieval scholarship.
-A few translations in the public domain are presented fully.
+Where a work is short enough to permit it — as with Julian's *Against the
+Galileans* or Plato's *Meno* — and a suitable edition exists in the public
+domain, the text is given in full, together with the introduction and commentary
+of the editor or translator. The scholarly apparatus that surrounds a great
+text is itself part of its reception history, and is treated accordingly.
 
 ### The Secondary Tradition
 
