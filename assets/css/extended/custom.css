@@ -240,8 +240,12 @@ header#site-header,
 
 .post-content p { margin-bottom: 1.3rem; }
 
-/* Headings — Spectral at different weights, no separate display face */
+/* h2 gets overflow:hidden to create a new block formatting
+   context — this keeps its border-bottom contained within the
+   non-floated area, so it never draws across a floated figure.
+   No clear: needed, so no whitespace gap is introduced. */
 .post-content h2 {
+  overflow: hidden;
   font-family: var(--font-ui);
   font-size: 0.68rem;
   font-weight: 500;
@@ -544,4 +548,30 @@ header#site-header,
   html { font-size: 17px; }
   .post-title { font-size: 1.8rem; }
   .post-content > p:first-of-type::first-letter { font-size: 3rem; }
+}
+
+/* =============================================================
+   IMAGE WITH CAPTION
+     Scoped to .post-content so that homepage .entry-cover
+     figures are completely unaffected. float: left enables
+     text wrap inside article body; clear: left on headings
+     (above) ensures section breaks never overlap the image.
+     Remove deprecated align="left/center" attributes from
+     your HTML — float and text-align handle positioning here.
+   ============================================================= */
+
+.post-content figure {
+  display: table;
+  margin-left: 0;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.post-content figcaption {
+  display: table-caption;
+  caption-side: bottom;
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
 }

@@ -19,6 +19,8 @@ markup:
   goldmark:
     extensions:
       typographer: false
+    renderer:
+      unsafe: true
 
 params:
   env: "production"

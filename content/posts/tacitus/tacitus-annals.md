@@ -17,8 +17,10 @@ cover:
 
 ## Overview
 
-<img src="/augustus.png" alt="Portrait head of the Roman Emperor Augustus" width="250">
-*Portrait head of the Roman Emperor Augustus, bronze with inlaid glass and stone eyes, c. 27–25 BC. Discovered buried beneath a temple at Meroë, modern-day Sudan — war loot taken from a statue in Egypt. British Museum, London. Photo: Eduardo Alemán.*
+<figure>
+<img src="/augustus.png" alt="Portrait head of the Roman Emperor Augustus" width="250" align="left">
+<figcaption align="center"><i>Portrait head of the Roman Emperor Augustus, bronze with inlaid glass and stone eyes, c. 27–25 BC. Discovered buried beneath a temple at Meroë, modern-day Sudan — war loot taken from a statue in Egypt. British Museum, London. Photo: Eduardo Alemán.</i>
+</figcaption></figure>
 
 The *Annals* (*Annales*) is the major historical work of Publius Cornelius Tacitus, composed in the early second century AD, probably between c. 109 and 120. It narrates the history of the Roman Empire from the death of Augustus in AD 14 to the death of Nero in AD 68, covering the reigns of Tiberius, Caligula, Claudius, and Nero — the four successors of the first emperor and the last of the Julio-Claudian dynasty. The work originally comprised eighteen books (though ancient authorities differ on the precise total), of which roughly half survive. The *Annals* stands alongside the *Histories* as the fullest extant account of early imperial Rome and is the foundational text for any serious study of the Principate. In the Latin literary tradition it occupies a position of the highest importance: Tacitus is regarded as one of the supreme Latin prose stylists, and the *Annals* — dense, ironic, and relentlessly political — is his masterpiece.
 
@@ -82,8 +84,10 @@ Tacitus reports competing rumors about whether Livia hastened Augustus's death t
 
 ### Book II
 
-<img src="/germanicus.png" alt="Portrait of Germanicus" width="250">
-*Portrait head of Germanicus, carved from green basanite (volcanic rock), c. AD 14–20. The nose was broken and a cross inscribed on the forehead in late antiquity, likely as an act of Christian defacement. Discovered in Egypt. British Museum, London. Photo: Eduardo Alemán.*
+<figure>
+<img src="/germanicus.png" alt="Portrait of Germanicus" width="250" align="right">
+<figcaption align="center"><i>Portrait head of Germanicus, carved from green basanite (volcanic rock), c. AD 14–20. The nose was broken and a cross inscribed on the forehead in late antiquity, likely as an act of Christian defacement. Discovered in Egypt. British Museum, London. Photo: Eduardo Alemán.</i>
+</figcaption></figure>
 
 Book II continues Germanicus's campaigns in Germany and his celebrated victories — Idistaviso, the Angrivarian Wall — which Tiberius watches with growing unease. The book then pivots east: Germanicus is dispatched to the Orient, where he reorganizes the provinces of Asia and Syria, comes into conflict with the governor Gnaeus Calpurnius Piso, and visits Egypt in defiance of Augustus's ruling that senators required imperial permission to enter that strategically vital province. Germanicus falls ill at Antioch and dies in AD 19, convinced he has been poisoned by Piso on Tiberius's orders. His deathbed speech and the grief of his companions are rendered with exceptional pathos.
 
