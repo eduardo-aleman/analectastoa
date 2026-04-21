@@ -567,9 +567,16 @@ header#site-header,
   color: var(--primary);
   border: 1px solid var(--border);
   border-radius: 0;
+  /* Transitions handle the fade effect when .hidden is toggled */
+  transition: background 0.2s, color 0.2s, opacity 0.2s, visibility 0.2s;
+  visibility: visible;
+  opacity: 1;
+}
+
+/* New class to match the JavaScript toggle logic */
+.top-link.hidden {
   visibility: hidden;
   opacity: 0;
-  transition: background 0.2s, color 0.2s, opacity 0.2s;
 }
 
 .top-link:hover {
