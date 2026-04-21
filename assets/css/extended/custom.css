@@ -292,7 +292,7 @@ header#site-header,
 /* Blockquotes */
 .post-content blockquote {
   position: relative;
-  overflow: hidden;       /* new BFC — prevents overlap with floated figures */
+  clear: left;            /* drop below any floated figure before rendering */
   margin: 2.5rem 0;
   padding: 1.1rem 1.5rem 1.1rem 2rem;
   border-left: 2px solid var(--accent);
