@@ -17,10 +17,8 @@ cover:
 
 ## Overview
 
-<figure>
-<img src="/augustus.png" alt="Portrait head of the Roman Emperor Augustus" width="250" align="left">
-<figcaption align="center"><i>Portrait head of the Roman Emperor Augustus, bronze with inlaid glass and stone eyes, c. 27–25 BC. Discovered buried beneath a temple at Meroë, modern-day Sudan — war loot taken from a statue in Egypt. British Museum, London. Photo: Eduardo Alemán.</i>
-</figcaption></figure>
+![Portrait head of the Roman Emperor Augustus](/augustus.png)
+*Portrait head of the Roman Emperor Augustus, bronze with inlaid glass and stone eyes, c. 27–25 BC. Discovered buried beneath a temple at Meroë, modern-day Sudan — war loot taken from a statue in Egypt. British Museum, London. Photo: Eduardo Alemán.*
 
 The *Annals* (*Annales*) is the major historical work of Publius Cornelius Tacitus, composed in the early second century AD, probably between c. 109 and 120. It narrates the history of the Roman Empire from the death of Augustus in AD 14 to the death of Nero in AD 68, covering the reigns of Tiberius, Caligula, Claudius, and Nero — the four successors of the first emperor and the last of the Julio-Claudian dynasty. The work originally comprised eighteen books (though ancient authorities differ on the precise total), of which roughly half survive. The *Annals* stands alongside the *Histories* as the fullest extant account of early imperial Rome and is the foundational text for any serious study of the Principate. In the Latin literary tradition it occupies a position of the highest importance: Tacitus is regarded as one of the supreme Latin prose stylists, and the *Annals* — dense, ironic, and relentlessly political — is his masterpiece.
 
