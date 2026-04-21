@@ -84,6 +84,11 @@ Tacitus reports competing rumors about whether Livia hastened Augustus's death t
 
 ### Book II
 
+<figure>
+<img src="/germanicus.png" alt="Portrait of Germanicus" width="250" align="left">
+<figcaption align="center"><i>Portrait head of Germanicus, carved from green basanite (volcanic rock), c. AD 14–20. The nose was broken and a cross inscribed on the forehead in late antiquity, likely as an act of Christian defacement. Discovered in Egypt. British Museum, London. Photo: Eduardo Alemán.</i>
+</figcaption></figure>
+
 Book II continues Germanicus's campaigns in Germany and his celebrated victories — Idistaviso, the Angrivarian Wall — which Tiberius watches with growing unease. The book then pivots east: Germanicus is dispatched to the Orient, where he reorganizes the provinces of Asia and Syria, comes into conflict with the governor Gnaeus Calpurnius Piso, and visits Egypt in defiance of Augustus's ruling that senators required imperial permission to enter that strategically vital province. Germanicus falls ill at Antioch and dies in AD 19, convinced he has been poisoned by Piso on Tiberius's orders. His deathbed speech and the grief of his companions are rendered with exceptional pathos.
 
 #### Selected Excerpts
