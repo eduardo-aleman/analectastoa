@@ -31,8 +31,10 @@
 
 /* =============================================================
    DARK MODE — warm dark
+   Fix: was `.dark`, must be `html.dark` so PaperMod's class
+   toggle on <html> correctly overrides :root variables.
    ============================================================= */
-.dark {
+html.dark {
   --theme:    #191510;
   --entry:    #221d15;
   --primary:  #e0d6c4;
@@ -540,6 +542,15 @@ header#site-header,
 ::-webkit-scrollbar-thumb:hover { background: var(--accent); }
 
 ::selection { background: var(--accent); color: #fff; }
+
+/* =============================================================
+   BACK TO TOP BUTTON
+   Ensures the button is never covered by other stacking
+   contexts, which can silently block click events.
+   ============================================================= */
+#top-link {
+  z-index: 999;
+}
 
 /* =============================================================
    RESPONSIVE
