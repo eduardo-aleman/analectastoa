@@ -11,8 +11,11 @@
 
 /* =============================================================
    LIGHT MODE — warm parchment
+   Declared on both :root and body so that body.dark overrides
+   cleanly with no cascade ambiguity.
    ============================================================= */
-:root {
+:root,
+body {
   --theme:    #f6f1e9;
   --entry:    #eee8d8;
   --primary:  #1a1610;
@@ -31,10 +34,10 @@
 
 /* =============================================================
    DARK MODE — warm dark
-   Fix: was `.dark`, must be `html.dark` so PaperMod's class
-   toggle on <html> correctly overrides :root variables.
+   PaperMod toggles the `dark` class on <body>, so the selector
+   must be body.dark — not .dark or html.dark.
    ============================================================= */
-html.dark {
+body.dark {
   --theme:    #191510;
   --entry:    #221d15;
   --primary:  #e0d6c4;

@@ -34,6 +34,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  ShowScrollToTop: true
   ShowToc: true
   TocOpen: false
   assets:
