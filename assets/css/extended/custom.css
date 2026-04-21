@@ -292,7 +292,10 @@ header#site-header,
 
 .post-content a:hover { color: var(--accent-hover); }
 
-/* Blockquotes */
+/* Blockquotes
+   Uses --content instead of --secondary for text color so that
+   both light and dark mode have sufficient foreground contrast
+   against the --entry background. */
 .post-content blockquote {
   position: relative;
   margin: 2.5rem 0;
@@ -302,7 +305,7 @@ header#site-header,
   font-style: italic;
   font-weight: 300;
   font-size: 1.05rem;
-  color: var(--secondary);
+  color: var(--content);
   line-height: 1.75;
   border-radius: 0;
 }
@@ -546,11 +549,38 @@ header#site-header,
 
 /* =============================================================
    BACK TO TOP BUTTON
-   Ensures the button is never covered by other stacking
-   contexts, which can silently block click events.
+   Full styling — position, size, shape, color, transition.
+   Visibility is toggled by PaperMod's inline JS in footer.html.
    ============================================================= */
-#top-link {
+.top-link {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
   z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  background: var(--tertiary);
+  color: var(--primary);
+  border: 1px solid var(--border);
+  border-radius: 0;
+  visibility: hidden;
+  opacity: 0;
+  transition: background 0.2s, color 0.2s, opacity 0.2s;
+}
+
+.top-link:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.top-link svg {
+  width: 14px;
+  height: 14px;
 }
 
 /* =============================================================
