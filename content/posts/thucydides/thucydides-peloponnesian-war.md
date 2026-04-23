@@ -183,6 +183,11 @@ But he has also constructed the narrative so that the expedition's deeper cause 
 
 ## Selected Passages
 
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bust_Pericles_Chiaramonti.jpg" alt="Bust of Pericles wearing a Corinthian helmet" width="250" align="left">
+<figcaption align="center"><i>Bust of Pericles wearing a Corinthian helmet. Roman copy of a lost 5th-century BC Greek bronze original attributed to the sculptor Kresilas. t is inscribed "Pericles, son of Xanthippus, Athenian". Vatican Museums, Museo Chiaramonti, Rome. </i>
+</figcaption></figure>
+
 ### The Funeral Oration (Book II, 35–46)
 
 Delivered by Pericles at the end of the war's first year, over the bodies of the Athenian dead. Pericles argues that democracy is not merely a form of government but a form of civilization — one in which participation is open to all citizens regardless of class, in which private life is free from interference, in which the city is beautiful and its pleasures available to everyone. His most audacious claim is that free men fighting for a civilization they love are as effective as trained automatons — that the Athenian way of life is not a weakness to be compensated for by military discipline but a source of genuine strength.
