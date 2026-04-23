@@ -249,7 +249,7 @@ Thucydides's account makes the mechanism of the disaster legible without editori
 ### The Retreat from Syracuse (Book VII, 75–87)
 
 <figure>
-<img src="/static/demosthenes.png" width="250">
+<img src="/demosthenes.png" width="250">
 <figcaption>
 <i>Marble bust of the renowned ancient Greek orator and statesman, Demosthenes. Roman copy of a Greek Hellenistic original bronze statue sculpted by Polyeuktos around 280 BC. Demosthenes was famous for his powerful speeches advocating against the Macedonian domination of Athens. The bust is currently housed in the British Museum in London.</i>
 </figcaption>
