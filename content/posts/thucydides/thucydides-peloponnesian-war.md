@@ -248,13 +248,6 @@ Thucydides's account makes the mechanism of the disaster legible without editori
 
 ### The Retreat from Syracuse (Book VII, 75–87)
 
-<figure>
-<img src="/demosthenes.png" width="250">
-<figcaption>
-<i>Marble bust of the renowned ancient Greek orator and statesman, Demosthenes. Roman copy of a Greek Hellenistic original bronze statue sculpted by Polyeuktos around 280 BC. Demosthenes was famous for his powerful speeches advocating against the Macedonian domination of Athens. The bust is currently housed in the British Museum in London.</i>
-</figcaption>
-</figure>
-
 The Athenian army retreats from Syracuse beginning in autumn 413 BCE, and Thucydides's account is the most sustained piece of tragic narrative in ancient prose. It moves step by step with forty thousand men as they dissolve from an army into refugees into bodies. The retreat begins in collective shame; they are abandoning their own unburied dead, a violation of religious duty that marks the point at which normal human and religious life has ceased to be available to them.
 
 The Syracusans harry the column constantly. Demosthenes's division is surrounded and surrenders; he and his men sit down in an olive grove and wait. Nicias's division reaches the river Assinarus and what follows is as close to pure horror as Thucydides's controlled prose ever comes: men throwing themselves into water already running with blood from the dying upstream, trampling each other, cut down from the banks. Nicias surrenders personally, asking only that his men be spared. They are not.
