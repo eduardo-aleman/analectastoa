@@ -606,7 +606,7 @@ header#site-header,
      text wrap inside article body; clear: left on headings
      (above) ensures section breaks never overlap the image.
      Remove deprecated align="left/center" attributes from
-     your HTML — float and text-align handle positioning here.
+     HTML — float and text-align handle positioning here.
    ============================================================= */
 
 .post-content figure {

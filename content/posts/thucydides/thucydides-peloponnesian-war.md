@@ -115,6 +115,13 @@ The most architecturally complex book. The Archaeology establishes Thucydides's 
 
 ### Books II–III — The First Years, Mytilene and Corcyra
 
+
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bust_Pericles_Chiaramonti.jpg" alt="Bust of Pericles wearing a Corinthian helmet" width="250">
+<figcaption><i>Bust of Pericles wearing a Corinthian helmet. Roman copy of a lost 5th-century BC Greek bronze original attributed to the sculptor Kresilas. t is inscribed "Pericles, son of Xanthippus, Athenian". Vatican Museums, Museo Chiaramonti, Rome. </i>
+</figcaption>
+</figure>
+
 Book II opens with the Theban attack on Plataea, then delivers the Funeral Oration of Pericles — and within pages, the plague of 430. The juxtaposition is devastating: Pericles has just delivered the most eloquent defense of Athenian civilization ever recorded, and the city is dying in the streets. Thucydides does not editorialize. The structure speaks.
 
 Book III contains the *Mytilenean Debate* — the assembly's two-day argument over whether to massacre the population of a rebel ally — and the Corcyrean Revolution, Thucydides's analysis of civil war as a general political pathology. Both concern the corruption of judgment under pressure. Placed in quick succession, the thematic orchestration is unmistakable.
@@ -183,11 +190,6 @@ But he has also constructed the narrative so that the expedition's deeper cause 
 
 ## Selected Passages
 
-<figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bust_Pericles_Chiaramonti.jpg" alt="Bust of Pericles wearing a Corinthian helmet" width="250" align="left">
-<figcaption align="center"><i>Bust of Pericles wearing a Corinthian helmet. Roman copy of a lost 5th-century BC Greek bronze original attributed to the sculptor Kresilas. t is inscribed "Pericles, son of Xanthippus, Athenian". Vatican Museums, Museo Chiaramonti, Rome. </i>
-</figcaption></figure>
-
 ### The Funeral Oration (Book II, 35–46)
 
 Delivered by Pericles at the end of the war's first year, over the bodies of the Athenian dead. Pericles argues that democracy is not merely a form of government but a form of civilization — one in which participation is open to all citizens regardless of class, in which private life is free from interference, in which the city is beautiful and its pleasures available to everyone. His most audacious claim is that free men fighting for a civilization they love are as effective as trained automatons — that the Athenian way of life is not a weakness to be compensated for by military discipline but a source of genuine strength.
@@ -245,6 +247,13 @@ It is a catastrophic miscalculation. Alcibiades — brilliant, unscrupulous, the
 Thucydides's account makes the mechanism of the disaster legible without editorializing about it. The assembly was not deceived in any simple sense — both arguments were heard. What failed was the assembly's capacity to evaluate the arguments honestly, because Alcibiades had made empire feel necessary and glorious, and Nicias's honesty about the expedition's scale had been metabolized as enthusiasm. The History up to this point has shown Athens becoming what it claimed to oppose. This scene shows something subtler: the moment a democracy votes itself into catastrophe in full possession of the relevant information, having simply processed it through the wrong filter.
 
 ### The Retreat from Syracuse (Book VII, 75–87)
+
+<figure>
+<img src="/static/demosthenes.png" width="250">
+<figcaption>
+<i>Marble bust of the renowned ancient Greek orator and statesman, Demosthenes. Roman copy of a Greek Hellenistic original bronze statue sculpted by Polyeuktos around 280 BC. Demosthenes was famous for his powerful speeches advocating against the Macedonian domination of Athens. The bust is currently housed in the British Museum in London.</i>
+</figcaption>
+</figure>
 
 The Athenian army retreats from Syracuse beginning in autumn 413 BCE, and Thucydides's account is the most sustained piece of tragic narrative in ancient prose. It moves step by step with forty thousand men as they dissolve from an army into refugees into bodies. The retreat begins in collective shame; they are abandoning their own unburied dead, a violation of religious duty that marks the point at which normal human and religious life has ceased to be available to them.
 
