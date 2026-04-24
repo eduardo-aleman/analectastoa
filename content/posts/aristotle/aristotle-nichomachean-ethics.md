@@ -71,6 +71,12 @@ This is not a concession to sloppiness. It is a philosophical point about what r
 
 ### The Role of Habit and Character
 
+<figure>
+<img src="/aristotle.jpeg" width="250">
+<figcaption><i>One of the most celebrated likenesses of the ancient world, this marble head is a Roman copy of a portrait commissioned shortly after the death of Aristotle (384–322 BC), likely by his successor Theophrastus for the Lyceum in Athens. The original bronze is attributed to the sculptor Euphranor or his school and is thought to have been created around 330 BC, during Aristotle's lifetime.<strong>Provenance: </strong>Formerly in the Imperial Habsburg Collections, Vienna; transferred to the Kunsthistorisches Museum upon its founding, 1891.</i>
+</figcaption>
+</figure>
+
 One of Aristotle's most consequential departures from Plato is his insistence that virtue is not primarily a matter of knowledge. Plato's Socrates had argued, in one form or another, that wrongdoing is always a form of ignorance — that if you truly understood the good, you would pursue it. Aristotle finds this psychologically naive. We have all had the experience of knowing what we should do and failing to do it. He takes this experience seriously.
 
 For Aristotle, virtue (*aretē*) is a stable disposition of character (*hexis*) — not an act, not a feeling, not a belief, but a settled tendency to perceive situations correctly and to respond to them with the right emotional register and the right action. These dispositions are acquired through practice: we become courageous by doing courageous things, just by doing just things, temperate by practicing temperance. There is no shortcut through intellectual understanding:
