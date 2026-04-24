@@ -44,7 +44,7 @@ Above all, the *Ethics* is a serious book — one that takes seriously the diffi
 ---
 <figure>
 <img src="/aristotle.jpg" width="250">
-<figcaption><i>One of the most celebrated likenesses of the ancient world, this marble head is a Roman copy of a portrait commissioned shortly after the death of Aristotle (384–322 BC), likely by his successor Theophrastus for the Lyceum in Athens. The original bronze is attributed to the sculptor Euphranor or his school and is thought to have been created around 330 BC, during Aristotle's lifetime.<strong>Provenance: </strong>Formerly in the Imperial Habsburg Collections, Vienna; transferred to the Kunsthistorisches Museum upon its founding, 1891.</i>
+<figcaption><i>One of the most celebrated likenesses of the ancient world, this marble head is a Roman copy of a portrait commissioned shortly after the death of Aristotle (384–322 BC), likely by his successor Theophrastus for the Lyceum in Athens. The original bronze is attributed to the sculptor Euphranor or his school and is thought to have been created around 330 BC, during Aristotle's lifetime.<strong>Provenance: </strong> Formerly in the Imperial Habsburg Collections, Vienna; transferred to the Kunsthistorisches Museum upon its founding, 1891.</i>
 </figcaption>
 </figure>
 
