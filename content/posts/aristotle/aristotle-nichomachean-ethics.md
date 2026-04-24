@@ -42,6 +42,11 @@ The *Ethics* also sits at the intersection of several large controversies in con
 Above all, the *Ethics* is a serious book — one that takes seriously the difficulty of living well, refuses cheap consolation, and treats its reader as someone capable of genuine moral reflection. That remains rarer than it should be.
 
 ---
+<figure>
+<img src="/aristotle.jpg" width="250">
+<figcaption><i>One of the most celebrated likenesses of the ancient world, this marble head is a Roman copy of a portrait commissioned shortly after the death of Aristotle (384–322 BC), likely by his successor Theophrastus for the Lyceum in Athens. The original bronze is attributed to the sculptor Euphranor or his school and is thought to have been created around 330 BC, during Aristotle's lifetime.<strong>Provenance: </strong>Formerly in the Imperial Habsburg Collections, Vienna; transferred to the Kunsthistorisches Museum upon its founding, 1891.</i>
+</figcaption>
+</figure>
 
 ## The Author
 
@@ -70,12 +75,6 @@ This has consequences for the kind of precision we should expect:
 This is not a concession to sloppiness. It is a philosophical point about what rigor means in a domain where the evidence is human experience and the method is practical wisdom rather than demonstration. The person who demands geometric certainty from ethics has misunderstood what ethics is about.
 
 ### The Role of Habit and Character
-
-<figure>
-<img src="/aristotle.jpeg" width="250">
-<figcaption><i>One of the most celebrated likenesses of the ancient world, this marble head is a Roman copy of a portrait commissioned shortly after the death of Aristotle (384–322 BC), likely by his successor Theophrastus for the Lyceum in Athens. The original bronze is attributed to the sculptor Euphranor or his school and is thought to have been created around 330 BC, during Aristotle's lifetime.<strong>Provenance: </strong>Formerly in the Imperial Habsburg Collections, Vienna; transferred to the Kunsthistorisches Museum upon its founding, 1891.</i>
-</figcaption>
-</figure>
 
 One of Aristotle's most consequential departures from Plato is his insistence that virtue is not primarily a matter of knowledge. Plato's Socrates had argued, in one form or another, that wrongdoing is always a form of ignorance — that if you truly understood the good, you would pursue it. Aristotle finds this psychologically naive. We have all had the experience of knowing what we should do and failing to do it. He takes this experience seriously.
 
