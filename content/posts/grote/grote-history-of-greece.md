@@ -1,6 +1,6 @@
 ---
 title: "History of Greece"
-date: 2026-04-24
+date: 2026-02-24
 authors: ["George Grote"]
 categories: ["Ancient History"]
 tags: ["Greek Drama", "Rhetoric", "Dialectics", "Sophists", "Classical Athens", "Greek Philosophy", "Athenian Culture", "Fifth Century BC"]
