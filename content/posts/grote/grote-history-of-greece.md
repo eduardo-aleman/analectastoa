@@ -28,6 +28,21 @@ cover:
 
 ## George Grote
 
+<figure>
+  <img src="/george_grote.jpg" width="250" alt="Portrait of George Grote by Thomas Stewardson, 1824">
+  <figcaption>
+    <i>George Grote (1794–1871)</i><br>
+    <i>Thomas Stewardson, oil on canvas, 1824</i><br><br>
+    Portrait of the eminent historian and political reformer George Grote, painted when he was
+    thirty years old — a decade before he began his monumental twelve-volume
+    <i>History of Greece</i> (1846–1856), the work that would define his legacy. Grote was also
+    a co-founder of University College London and a prominent advocate of utilitarian reform
+    alongside his close friend John Stuart Mill.<br><br>
+    Presented to the National Portrait Gallery by the sitter's widow, Harriet Grote (née Lewin), in 1873.<br>
+    National Portrait Gallery, London — NPG 365
+  </figcaption>
+</figure>
+
 ### Chapter LXVII — The Drama. Rhetoric and Dialectics. The Sophists.
 
 Respecting the political history of Athens during the few years
@@ -1611,21 +1626,6 @@ First, Kalliklês himself is not a sophist, nor represented by Plato as such. He
 Secondly, if any man will read attentively the course of the dialogue, he will see that the doctrine of Kalliklês is such as no one dared publicly to propound. So it is conceived both by Kalliklês himself, and by Sokratês. The former first takes up the conversation, by saying that his predecessor Pôlus had become entangled in a contradiction, because he had not courage enough openly to announce an unpopular and odious doctrine; but he, Kalliklês, was less shamefaced, and would speak out boldly that doctrine which others kept to themselves for fear of shocking the hearers. "Certainly (says Sokratês to him) your audacity is abundantly shown by the doctrine which you have just laid down; you set forth plainly that which other people think, but do not choose to utter."[^612] Now, opinions of which Pôlus, an insolent young man, was afraid to proclaim himself the champion, must have been revolting indeed to the sentiments of hearers. How then can any reasonable man believe, that such opinions were not only openly propounded, but seriously inculcated as truth upon audiences of youthful hearers, by the sophists? We know that the teaching of the latter was public in the highest degree; publicity was pleasing as well as profitable to them; among the many disparaging epithets heaped upon them, ostentation and vanity are two of the most conspicuous. Whatever they taught, they taught publicly; and I contend, with full conviction, that, had they even agreed with Kalliklês in this opinion, they could neither have been sufficiently audacious, nor sufficiently their own enemies, to make it a part of their public teaching; but would have acted like Pôlus, and kept the doctrine to themselves.
 
 Thirdly, this latter conclusion will be rendered doubly certain, when we consider of what city we are now speaking. Of all places in the world, the democratical Athens is the last in which the doctrine advanced by Kalliklês could possibly have been professed by a public teacher; or even by Kalliklês himself, in any public meeting. It is unnecessary to remind the reader how profoundly democratical was the sentiment and morality of the Athenians,—how much they loved their laws, their constitution, and their political equality,—how jealous their apprehension was of any nascent or threatening despotism. All this is not simply admitted, but even exaggerated, by Mr. Mitford, Wachsmuth, and other anti-democratical writers, who often draw from it materials for their abundant censures. Now the very point which Sokratês, in this dialogue, called "Gorgias," seeks to establish against Kalliklês, against the rhetors, and against the sophists, is, that they courted, flattered, and truckled to the sentiment of the Athenian people, with degrading subservience; that they looked to the immediate gratification simply, and not to permanent moral improvement of the people; that they had not courage to address to them any unpalatable truths, however salutary, but would shift and modify opinions in every way, so as to escape giving offence;[^613] that no man who put himself prominently forward at Athens had any chance of success, unless he became moulded and assimilated, from the core, to the people and their type of sentiment.[^614] Granting such charges to be true, how is it conceivable that any sophist, or any rhetor, could venture to enforce upon an Athenian public audience the doctrine laid down by Kalliklês? To tell such an audience: "Your laws and institutions are all violations of the law of nature, contrived to disappoint the Alkibiadês or Napoleon among you of his natural right to become your master, and to deal with you petty men as his slaves. All your unnatural precautions, and conventional talk, in favor of legality and equal dealing, will turn out to be nothing better than pitiful impotence,[^615] as soon as *he* finds a good opportunity of standing forward in his full might and energy, so as to put you into your proper places, and show you what privileges Nature intends for her favorites!" Conceive such a doctrine propounded by a lecturer to assembled Athenians! A doctrine just as revolting to Nikias as to Kleon, and which even Alkibiadês would be forced to affect to disapprove; since it is not simply anti-popular, not simply despotic, but the drunken extravagance of despotism. The Great man, as depicted by Kalliklês, stands in the same relation to ordinary mortals, as Jonathan Wild the Great, in the admirable parody of Fielding.
-
-<figure>
-  <img src="/george_grote.jpg" width="250" alt="Portrait of George Grote by Thomas Stewardson, 1824">
-  <figcaption>
-    <i>George Grote (1794–1871)</i><br>
-    <i>Thomas Stewardson, oil on canvas, 1824</i><br><br>
-    Portrait of the eminent historian and political reformer George Grote, painted when he was
-    thirty years old — a decade before he began his monumental twelve-volume
-    <i>History of Greece</i> (1846–1856), the work that would define his legacy. Grote was also
-    a co-founder of University College London and a prominent advocate of utilitarian reform
-    alongside his close friend John Stuart Mill.<br><br>
-    Presented to the National Portrait Gallery by the sitter's widow, Harriet Grote (née Lewin), in 1873.<br>
-    National Portrait Gallery, London — NPG 365
-  </figcaption>
-</figure>
 
 That sophists, whom Plato accuses of slavish flattery to the democratical ear, should gratuitously insult it by the proposition of such tenets, is an assertion not merely untrue, but utterly absurd. Even as to Sokratês, we know from Xenophon how much the Athenians were offended with him, and how much it was urged by the accusers on his trial, that in his conversations he was wont to cite with peculiar relish the description, in the second book of the Iliad, of Odysseus following the Grecian crowd, when running away from the agora to get on shipboard, and prevailing upon them to come back, by gentle words addressed to the chiefs, but by blows of his stick, accompanied with contemptuous reprimand, to the common people. The indirect evidence thus afforded, that Sokratês countenanced unequal dealing and ill usage towards the many, told much against him in the minds of the dikasts. What would they have felt then towards a sophist who publicly professed the political morality of Kalliklês? The truth is, not only was it impossible that any such morality, or anything of the same type even much diluted, could find its way into the educational lectures of professors at Athens, but the fear would be in the opposite direction. If the sophist erred in either way, it would be in that which Sokratês imputes, by making his lectures over-democratical. Nay, if we suppose any opportunity to have arisen of discussing the doctrine of Kalliklês, he would hardly omit to flatter the ears of the surrounding democrats by enhancing the beneficent results of legality and equal dealing, and by denouncing this "natural despot," or undisclosed Napoleon, as one who must either take his place under such restraints, or find a place in some other city.
 
