@@ -1634,6 +1634,21 @@ Most of the pupils of the sophists, as of Sokratês[^623] himself, were young me
 
 The intimations given in Plato, of the enthusiastic reception which Protagoras, Prodikus, and other sophists[^627] met with in the various cities; the description which we read, in the dialogue called Protagoras, of the impatience of the youthful Hippokratês, on hearing of the arrival of that sophist, insomuch that he awakens Sokratês before daylight, in order to obtain an introduction to the new-comer and profit by his teaching; the readiness of such rich young men to pay money, and to devote time and trouble, for the purpose of acquiring a personal superiority apart from their wealth and station; the ardor with which Kallias is represented as employing his house for the hospitable entertainment, and his fortune for the aid, of the sophists; all this makes upon my mind an impression directly the reverse of that ironical and contemptuous phraseology with which it is set forth by Plato. Such sophists had nothing to recommend them except superior knowledge and intellectual force, combined with an imposing personality, making itself felt in their lectures and conversation. It is to this that the admiration was shown; and the fact that it was so shown, brings to view the best attributes of the Greek, especially the Athenian mind. It exhibits those qualities of which Periklês made emphatic boast in his celebrated funeral oration;[^628] conception of public speech as a practical thing, not meant as an excuse for inaction, but combined with energetic action, and turning it to good account by full and open discussion beforehand; profound sensibility to the charm of manifested intellect, without enervating the powers of execution or endurance. Assuredly, a man like Protagoras, arriving in a city with all this train of admiration laid before him, must have known very little of his own interest or position, if he began to preach a low or corrupt morality. If it be true generally, as Voltaire has remarked, that "any man who should come to preach a relaxed morality would be pelted," much more would it be true of a sophist like Protagoras, arriving in a foreign city with all the prestige of a great intellectual name, and with the imagination of youths on fire to hear and converse with him, that any similar doctrine would destroy his reputation at once. Numbers of teachers have made their reputation by inculcating overstrained asceticism; it will be hard to find an example of success in the opposite vein.
 
+<figure>
+  <img src="/george_grote.jpg" width="250" alt="Portrait of George Grote by Thomas Stewardson, 1824">
+  <figcaption>
+    <i>George Grote (1794–1871)</i><br>
+    <i>Thomas Stewardson, oil on canvas, 1824</i><br><br>
+    Portrait of the eminent historian and political reformer George Grote, painted when he was
+    thirty years old — a decade before he began his monumental twelve-volume
+    <i>History of Greece</i> (1846–1856), the work that would define his legacy. Grote was also
+    a co-founder of University College London and a prominent advocate of utilitarian reform
+    alongside his close friend John Stuart Mill.<br><br>
+    Presented to the National Portrait Gallery by the sitter's widow, Harriet Grote (née Lewin), in 1873.<br>
+    National Portrait Gallery, London — NPG 365
+  </figcaption>
+</figure>
+
 ---
 
 [^576]: Aristot. Rhetoric. ii, 26. Ritter (p. 582) and Brandis (p. 521) quote very unfairly the evidence of the "Clouds" of Aristophanês, as establishing this charge, and that of corrupt teaching generally, against the sophists as a body. If Aristophanês is a witness against any one, he is a witness against Sokratês, who is the person singled out for attack in the "Clouds." But these authors, not admitting Aristophanês as an evidence against Sokratês, whom he *does* attack, nevertheless quote him as an evidence against men like Protagoras and Gorgias, whom he *does not* attack.
