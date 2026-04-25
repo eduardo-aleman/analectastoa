@@ -39,7 +39,10 @@ cover:
     a co-founder of University College London and a prominent advocate of utilitarian reform
     alongside his close friend John Stuart Mill.<br><br>
     Presented to the National Portrait Gallery by the sitter's widow, Harriet Grote (née Lewin), in 1873.<br>
-    National Portrait Gallery, London — NPG 365
+    National Portrait Gallery, London — NPG 365<br>
+    <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/" target="_blank" rel="noopener noreferrer">
+      CC BY-NC-ND 3.0
+    </a>
   </figcaption>
 </figure>
 
