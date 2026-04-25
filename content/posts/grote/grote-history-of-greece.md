@@ -18,8 +18,8 @@ cover:
 > **George Grote**, *History of Greece*, Chapter LXVII.
 > First published London: John Murray, 1846–1856. Twelve volumes.
 > This text is in the **public domain**. The present edition reproduces
-> the chapters in full from the first edition, with original footnotes
-> preserved. No copyright permission is required for reproduction or
+> the chapter in full from the first edition, with original footnotes
+> preserved, but numbers changed. No copyright permission is required for reproduction or
 > quotation.
 
 ---
