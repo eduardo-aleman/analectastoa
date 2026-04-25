@@ -19,7 +19,7 @@ cover:
 > First published London: John Murray, 1846–1856. Twelve volumes.
 > This text is in the **public domain**. The present edition reproduces
 > the chapter in full from the first edition, with original footnotes
-> preserved, but numbers changed. No copyright permission is required for reproduction or
+> preserved, but numbers changed to start in 1 instead of 508. No copyright permission is required for reproduction or
 > quotation.
 
 ---
