@@ -48,6 +48,8 @@ cover:
 
 ### Chapter LXVII — The Drama. Rhetoric and Dialectics. The Sophists.
 
+#### Athens immediately after Eukleidês — Political history little known
+
 Respecting the political history of Athens during the few years
 immediately succeeding the restoration of the democracy, we have
 unfortunately little or no information. But in the spring of 399
@@ -61,6 +63,8 @@ happened. Though literature and philosophy are now becoming separate
 departments in Greece, each exercises a marked influence on the
 other, and the state of dramatic literature will be seen to be one of
 the causes directly contributing to the fate of Sokratês.
+
+#### Extraordinary development of dramatic genius
 
 During the century of the Athenian democracy between Kleisthenês and
 Eukleidês, there had been produced a development of dramatic genius,
@@ -86,6 +90,8 @@ been inferior in merit to theirs.[^508]
     third for the prize; Euphorion, son of Æschylus, being first,
     Sophoklês second. Yet these two tragedies are the masterpieces
     now remaining of Sophoklês and Euripidês.
+
+#### Gradual enlargement of tragedy
 
 The tragic drama belonged essentially to the festivals in honor of
 the god Dionysus; being originally a chorus sung in his honor, to
@@ -120,6 +126,8 @@ the project was realized before the invasion of Xerxes, we do not
 accurately know; but after his destructive occupation of Athens,
 the theatre, if any existed previously, would have to be rebuilt or
 renovated along with other injured portions of the city.
+
+#### Abundance of new tragedy at Athens
 
 It was under that great development of the power of Athens which
 followed the expulsion of Xerxes, that the theatre with its
@@ -175,6 +183,8 @@ interesting.
     as a hundred and twenty compositions are ascribed to Neophron,
     forty-four to Achæus, forty to Ion (Welcker, ib. p. 889).
 
+#### Accessibility of the theatre to the poorest citizens
+
 Moreover, what is not less important to notice, all this abundance
 found its way to the minds of the great body of the citizens,
 not excepting even the poorest. For the theatre is said to have
@@ -219,6 +229,8 @@ can we tell how the finances of the state were affected by it.[^511]
     distribution became extended, in times posterior to the Thirty;
     see M. Schneider's book, p. 17; also Notes, 29–196.
 
+#### Theôrikon, or festival-pay
+
 Such was the original theôrikon, or festival-pay, introduced by
 Periklês at Athens; a system of distributing the public money,
 gradually extended to other festivals in which there was no
@@ -236,6 +248,8 @@ which they afterwards reached, however, I shall speak in a future
 volume: at present, I deal with the theôrikon only in its primitive
 function and effect, of enabling all Athenians indiscriminately to
 witness the representation of the tragedies.
+
+#### Effect of the tragedies on the public mind of Athens
 
 We cannot doubt that the effect of these compositions upon the public
 sympathies, as well as upon the public judgment and intelligence,
@@ -263,6 +277,8 @@ their genius, nowhere else were original tragedies composed and
 acted, though hardly any considerable city was without a theatre.[^512]
 
 [^512]: See Plato, *Lachês*, c. 6, p. 183, B.; and Welcker, *Griech. Tragöd.* p. 930.
+
+#### Æschylus, Sophoklês, and Euripidês — modifications of tragedy
 
 The three great tragedians — Æschylus, Sophoklês, and
 Euripidês — distinguished above all their competitors, as well by
@@ -347,6 +363,8 @@ in due subordination to his grand poetical purpose.
     comparandus. In affectibus vero tum omnibus mirus, tum in iis qui
     miseratione constant, facile præcipuus." (Quintil. *Inst. Orat.* x, 1.)
 
+#### Popularity arising from expenditure of money on the festivals
+
 The transformation of the tragic muse from Æschylus to Euripidês
 is the more deserving of notice, as it shows us how Attic tragedy
 served as the natural prelude and encouragement to the rhetorical
@@ -379,6 +397,8 @@ accusations.
 
     Compare the speech of Alkibiadês, Thuc. vi, 16, and Theophrastus
     ap. Cic. *de Officiis*, ii, 16.
+
+#### Growth and development of comedy at Athens
 
 The full splendor of the comic muse was considerably later than that
 of the tragic. Even down to 460 B.C. (about the time when Periklês
@@ -463,6 +483,8 @@ to unmeasured libel.
     Compare Will. Schneider, *Attisches Theater-Wesen*, Notes, pp.
     22–25; Bernhardy, *Griechische Litteratur*, sect. 67, p. 292.
 
+#### Comic poets before Aristophanês — Kratinus, etc.
+
 Out of all the once abundant compositions of Attic comedy, nothing
 has reached us except eleven plays of Aristophanês. That poet himself
 singles out Magnês, Kratês, and Kratinus, among predecessors whom
@@ -508,6 +530,8 @@ vehemence of libel or in popularity.
 
 [^523]: Aristophan. *Equit.* 525, *seq.*
 
+#### Exposure of citizens by name in comedy — forbidden for a time — then renewed — Kratês and the milder comedy
+
 It is remarkable that, in 440 B.C., a law was passed forbidding comic
 authors to ridicule any citizen by name in their compositions; which
 prohibition, however, was rescinded after two years, an interval
@@ -537,6 +561,8 @@ called the Old Comedy into the Middle and New Comedy.
     *Frag. Cratini*, vol. ii, p. 93, Ὀδυσσεῖς: compare also the first
     volume of the same work, p. 43: also Runkel, *Cratini Fragm.* p. 38
     (Leips. 1827).
+
+#### Aristophanês
 
 But it is in Aristophanês that the genius of the old libellous comedy
 appears in its culminating perfection. At least we have before us
@@ -574,6 +600,8 @@ to this new phase; but his earlier and more numerous comedies, from
 the "Acharneis," in 425 B.C. to the "Frogs," in 405 B.C., only a few
 months before the fatal battle of Ægospotami, exhibit the continuous,
 unexhausted, untempered flow of the stream first opened by Kratinus.
+
+#### Comedy in its effect on the Athenian mind
 
 Such abundance both of tragic and comic poetry, each of first-rate
 excellence, formed one of the marked features of Athenian life, and
@@ -621,6 +649,8 @@ influence of comedy on the Athenian mind.
     persons unmolested.
 
 [^526]: Aristoph. *Ran.* 1067; also *Vesp.* 1095.
+
+#### Mistaken estimate of the comic writers, as good witnesses or just critics
 
 In reference to individual men, and to Sokratês[^527] especially, the
 Athenians seem to have been unfavorably biased by the misapplied
@@ -695,6 +725,8 @@ as to purpose, however unworthy of comparison in every other respect.
     Jester, in the *Symposion* of Xenophon; most of which is extremely
     Aristophanic, ii, 10, 14.
 
+#### Aversion of Solon to the drama when nascent
+
 This rise and development of dramatic poetry in Greece — so abundant,
 so varied, and so rich in genius — belongs to the fifth century B.C. It
 had been in the preceding century nothing more than an unpretending
@@ -714,6 +746,8 @@ poetry which constituted the previous stock of the Grecian world.
 [^531]: Plutarch, *Solon*, c. 29. See the previous volumes of this
     History, ch. xxi, vol. ii, p. 145; ch. xxix, vol. iv, pp. 83, 84.
 
+#### Dramatic poetry as compared with the former kinds of poetry
+
 Such transformations in the poetry, or, to speak more justly, in the
 literature — for before the year 500 B.C. the two expressions were
 equivalent — of Greece, were at once products, marks, and auxiliaries,
@@ -726,6 +760,8 @@ impressive novelty: and so assuredly it would have been regarded by
 Solon, the largest mind of his own age, if he could have risen again,
 a century and a quarter after his death, to witness the Antigonê of
 Sophoklês, the Medea of Euripidês, or the Acharneis of Aristophanês.
+
+#### Ethical sentiment, interest, and debate, infused into the drama
 
 Its novelty does not consist merely in the high order of imagination
 and judgment required for the construction of a drama at once regular
@@ -817,6 +853,8 @@ before, but also, by raising these grave and touching questions,
 addresses a stimulus and challenge to the intellect, spurring it on
 to ethical speculation.
 
+#### The drama formed the stage of transition to rhetoric, dialectics, and ethical philosophy
+
 Putting all these points together, we see how much wider was the
 intellectual range of tragedy, and how considerable is the mental
 progress which it betokens, as compared with the lyric and gnomic
@@ -831,6 +869,8 @@ sovereign and instructed reason. It was through the intermediate
 stage of tragedy that Grecian literature passed into the rhetoric,
 dialectics, and ethical speculation, which marked the fifth century
 B.C.
+
+#### Practical value and necessity of rhetorical accomplishments
 
 Other simultaneous causes, arising directly out of the business of
 real life, contributed to the generation of these same capacities and
@@ -883,6 +923,8 @@ those friends who might be placed under the like necessity.
     enforced not less emphatically by Aristotle (*Rhetoric.* i, 1, 3)
     than by Kalliklês in the *Gorgias* of Plato, c. 91, p. 486, B.
 
+#### Rhetoric and dialectics
+
 Here then were ample motives, arising out of practical prudence not
 less than from the stimulus of ambition, to cultivate the power
 both of continuous harangue, and of concise argumentation, or
@@ -903,6 +945,8 @@ permanent name both in rhetoric and dialectics: Empedoklês of
 Agrigentum in the former; Zeno of Elea, in Italy, in the latter.[^536]
 
 [^536]: Aristotel. ap. Diog. Laërt. viii, 57.
+
+#### Empedoklês of Agrigentum — first name in the rhetorical movement
 
 Both these distinguished men bore a conspicuous part in politics,
 and both on the popular side; Empedoklês against an oligarchy,
@@ -936,6 +980,8 @@ Gorgias was his pupil.
 
 [^539]: *De Rerum Naturâ*, i, 719.
 
+#### Zeno of Elea — first name in the dialectical movement
+
 The dialectical movement emanated at the same time from the Eleatic
 school of philosophers — Zeno, and his contemporary the Samian
 Melissus, 460–440 — if not from their common teacher Parmenidês.
@@ -943,6 +989,8 @@ Melissus also, as well as Zeno and Empedoklês, was a distinguished
 citizen as well as a philosopher; having been in command of the
 Samian fleet at the time of the revolt from Athens, and having in
 that capacity gained a victory over the Athenians.
+
+#### Eleatic school — Parmenidês
 
 All the philosophers of the fifth century B.C., prior to Sokratês,
 inheriting from their earliest poetical predecessors the vast and
@@ -993,6 +1041,8 @@ elements, heat and cold, or light and darkness.
     his edition of the Aristotelian treatise, *De Melisso, Xenophane,
     et Gorgiâ*, p. 144.
 
+#### Zeno and Melissus — their dialectic attacks upon the opponents of Parmenidês
+
 Parmenidês set forth this doctrine of the One and All in a poem,
 of which but a few fragments now remain, so that we understand
 very imperfectly the positive arguments employed to recommend it.
@@ -1035,6 +1085,8 @@ hypothesis.[^546]
 [^546]: See the Fragments of Melissus collected by Mullach, in his
     publication cited in a previous note, p. 81, *seq.*
 
+#### Zeno at Athens — his conversation both with Periklês and with Sokratês
+
 Zeno published a treatise to maintain the thesis above described,
 which he also upheld by personal conversations and discussions,
 in a manner doubtless far more efficacious than his writing; the
@@ -1055,6 +1107,8 @@ B.C.[^548]
 
 [^548]: Compare Plutarch, *Periklês*, c. 3; Plato, *Parmenidês*, pp.
     126, 127; Plato, *Alkibiad.* i. ch. 14, p. 119, A.
+
+#### Early manifestation, and powerful efficacy, of the negative arm in Grecian philosophy
 
 His appearance constitutes a remarkable era in Grecian philosophy,
 because he first brought out the extraordinary aggressive or negative
@@ -1100,6 +1154,8 @@ comprehension of the truth is attainable.[^549]
 
 [^549]: Plato, *Parmenid.* pp. 135, 136.
 
+#### Rhetoric and dialectics — men of active life and men of speculation — two separate lines of intellectual activity
+
 We thus find ourselves, from the year 450 B.C., downwards, in
 presence of two important classes of men in Greece, unknown to Solon
 or even to Kleisthenês, the Rhetoricians, and the Dialecticians;
@@ -1134,6 +1190,8 @@ of the moment.
 
 [^550]: See Aristotel. *De Sophist. Elenchis*, c. 11, p. 172, ed.
     Bekker; and his *Topica*, ix, 5, p. 154.
+
+#### Standing antithesis between these two intellectual classes — vein of ignorance at Athens, hostile to both
 
 Although there were numerous Athenians, who combined, in various
 proportions, speculative with practical study, yet generally
@@ -1187,6 +1245,8 @@ cross-examination as authentic materials for history.
     and Isokratês; see Stahr's *Aristotelia*, ch. iii, vol. i, pp. 37,
     68.
 
+#### Gradual enlargement of the field of education at Athens — increased knowledge and capacity of the musical teachers
+
 If ever there was need to invoke this rare sentiment of candor, it is
 when we come to discuss the history of the persons called sophists,
 who now for the first time appear as of note; the practical teachers
@@ -1234,6 +1294,8 @@ fire, and earth.
 
 [^555]: Isokratês, Or. xv, *De Permutat.* sect. 287. Compare Brandis,
     *Gesch. der Gr. Röm. Philosophie*, part i, sect. 48, p. 196.
+
+#### The sophists — true Greek meaning of that word — invidious sentiment implied in it
 
 Now such musical teachers as Damon and the others above mentioned,
 were sophists, not merely in the natural and proper Greek sense
@@ -1287,6 +1349,8 @@ purpose in addressing them.
 [^562]: Diogen. Laërt. ix, 65.
 
 [^563]: Eurip. *Med.* 289.
+
+#### The name sophist applied by Plato in a peculiar sense, in his polemics against the eminent paid teachers
 
 Now when (in the period succeeding 450 B.C.) the rhetorical and
 musical teachers came to stand before the public at Athens in
@@ -1347,6 +1411,8 @@ who disliked either their profession or their persons.[^566]
     by others, but also considered himself as such, though the
     appellation was one which he did not like.
 
+#### Misconceptions arising from Plato's peculiar use of the word sophist
+
 Great thinkers and writers, like Plato and Aristotle, have full right
 to define and employ words in a sense of their own, provided they
 give due notice. But it is essential that the reader should keep in
@@ -1379,6 +1445,8 @@ paid teachers of the Sokratic age.
     Philos.* sects. lxxxiv–lxxxvii; by *Zeller*, *Geschichte der
     Philosoph.* ii; and, indeed, by almost all who treat of the
     sophists.
+
+#### Paid teachers or sophists of the Sokratic age — Protagoras, Gorgias, etc.
 
 The paid teachers, with whom, under the name of The Sophists, he
 brings Sokratês into controversy, were Protagoras of Abdêra, Gorgias
@@ -1420,6 +1488,8 @@ them with the obnoxious title of sophists.
 [^568]: Compare Isokratês, Orat. xiii. *cont. Sophistas*, sects. 19–21.
 
 [^569]: Aristot. *Sophist. Elench.* c. 33; Cicero, *Brut.* c. 12.
+
+#### Plato and the sophists — two different points of view — the reformer and theorist against the practical teacher
 
 The hostility of Plato against these teachers — for it is he, and
 not Sokratês, who was peculiarly hostile to them, as may be seen
@@ -1478,6 +1548,8 @@ taught in his school, for practical life and duties.
 
 [^570]: See a striking passage in Plato, *Theætet.* c. 24, pp. 173, 174.
 
+#### The sophists were professional teachers for active life, like Isokratês and Quintilian
+
 To understand the essential difference between the practical and
 the theoretical point of view, we need only look to Isokratês,
 the pupil of Gorgias, and himself a sophist. Though not a man of
@@ -1496,6 +1568,8 @@ counterpart of those whom Plato arraigns as the sophists.
 [^571]: Isokratês, Orat. v (*ad. Philip.*), sect. 14; Orat. x (*Enc.
     Hel.*), sect. 2; Orat. xiii (*adv. Sophist.*), sect. 9; Orat. xii
     (*Panath.*), sect. 126; Orat. xv (*Perm.*), sect. 90.
+
+#### Misinterpretations of the dialogues of Plato as carrying evidence against the sophists
 
 We know these latter chiefly from the evidence of Plato, their
 pronounced enemy; yet even his evidence, when construed candidly and
@@ -1538,38 +1612,43 @@ teachers, who are determined to embrace their profession and to
 discharge its important duties, like other professional men, by the
 prospect either of deriving an income or of making a figure in it,
 or both, whether they have any peculiar relish for the occupation
-or not. But modern writers, in describing Protagoras or Gorgias,
-while they adopt the sneering language of Plato against teaching
-for pay, low purposes, tricks to get money from the rich, etc., use
-terms which lead the reader to believe that there was something
-in these sophists peculiarly greedy, exorbitant, and truckling;
-something beyond the mere fact of asking and receiving remuneration.
-Now not only there is no proof that any of them were thus dishonest
-or exorbitant, but in the case of Protagoras, even his enemy Plato
-furnishes a proof that he was not so. In the Platonic dialogue
-termed Protagoras, that sophist is introduced as describing the
-manner in which he proceeded respecting remuneration from his pupils.
-"I make no stipulation beforehand: when a pupil parts from me, I
-ask from him such a sum as I think the time and the circumstances
-warrant; and I add, that if he deems the demand too great, he has
-only to make up his own mind what is the amount of improvement
-which my company has procured to him, and what sum he considers
-an equivalent for it. I am content to accept the sum so named by
-himself, only requiring him to go into a temple and make oath that
-it is his sincere belief."[^575] It is not easy to imagine a more
-dignified way of dealing than this, nor one which more thoroughly
-attests an honorable reliance on the internal consciousness of the
-scholar, on the grateful sense of improvement realized, which to
-every teacher constitutes a reward hardly inferior to the payment
-that proceeds from it, and which, in the opinion of Sokratês,
-formed the only legitimate reward. Such is not the way in which the
-corruptors of mankind go to work.
+or not.
 
 [^573]: Plato, *Sophistes*, c. 52, p. 268.
 
 [^574]: Cicero, *Academ.* iv, 23.
 
+#### The sophists as paid teachers — no proof that they were greedy or exorbitant — proceeding of Protagoras
+
+But modern writers, in describing Protagoras or Gorgias, while they
+adopt the sneering language of Plato against teaching for pay, low
+purposes, tricks to get money from the rich, etc., use terms which
+lead the reader to believe that there was something in these sophists
+peculiarly greedy, exorbitant, and truckling; something beyond the
+mere fact of asking and receiving remuneration. Now not only there is
+no proof that any of them were thus dishonest or exorbitant, but in
+the case of Protagoras, even his enemy Plato furnishes a proof that
+he was not so. In the Platonic dialogue termed Protagoras, that
+sophist is introduced as describing the manner in which he proceeded
+respecting remuneration from his pupils. "I make no stipulation
+beforehand: when a pupil parts from me, I ask from him such a sum as
+I think the time and the circumstances warrant; and I add, that if
+he deems the demand too great, he has only to make up his own mind
+what is the amount of improvement which my company has procured to
+him, and what sum he considers an equivalent for it. I am content to
+accept the sum so named by himself, only requiring him to go into a
+temple and make oath that it is his sincere belief."[^575] It is not
+easy to imagine a more dignified way of dealing than this, nor one
+which more thoroughly attests an honorable reliance on the internal
+consciousness of the scholar, on the grateful sense of improvement
+realized, which to every teacher constitutes a reward hardly inferior
+to the payment that proceeds from it, and which, in the opinion of
+Sokratês, formed the only legitimate reward. Such is not the way in
+which the corruptors of mankind go to work.
+
 [^575]: Plato, *Protagoras*, c. 16, p. 328, B.
+
+#### The sophists as rhetorical teachers — groundless accusations against them in that capacity, made also against Sokratês, Isokratês, and others
 
 That which stood most prominent in the teaching of Gorgias and the
 other sophists, was, that they cultivated and improved the powers
@@ -1586,73 +1665,23 @@ but a mere unscientific knack, enslaved to the dominant prejudices,
 and nothing better than an impostrous parody on the true political
 art." Now though Aristotle, following the Platonic vein, calls this power of making the worse appear the better reason, "the promise of Protagoras,"[^576] the accusation ought never to be urged as if it bore specially against the teachers of the Sokratic age. It is an argument against rhetorical teaching generally; against all the most distinguished teachers of pupils for active life, throughout the ancient world, from Protagoras, Gorgias, Isokratês, etc., down to Quintilian. Not only does the argument bear equally against all, but it was actually urged against all. Isokratês[^577] and Quintilian both defend themselves against it: Aristotle replies to it in the beginning of his treatise on rhetoric: nor was there ever any man, indeed, against whom it was pressed with greater bitterness of calumny than Sokratês, by Aristophanês, in his comedy of the "Clouds," as well as by other comic composers. Sokratês complains of it in his defence before his judges;[^578] characterizing such accusations in their true point of view, as being "the stock reproaches against all who pursue philosophy." They are indeed only one of the manifestations, ever varying in form though the same in spirit, of the antipathy of ignorance against dissenting innovation or superior mental accomplishments; which antipathy, intellectual men themselves, when it happens to make on their side in a controversy, are but too ready to invoke. Considering that we have here the materials of defence, as well as of attack, supplied by Sokratês and Plato, it might have been expected that modern writers would have refrained from employing such an argument to discredit Gorgias or Protagoras; the rather, as they have before their eyes, in all the countries of modern Europe, the profession of lawyers and advocates, who lend their powerful eloquence without distinction to the cause of justice or injustice, and who, far from being regarded as the corrupters of society, are usually looked upon, for that very reason among others, as indispensable auxiliaries to a just administration of law.
 
-Though writing was less the business of these sophists than personal teaching, several of them published treatises. Thrasymachus and Theodôrus both set forth written precepts on the art of rhetoric;[^579] precepts which have not descended to us, but which appear to have been narrow and special, bearing directly upon practice, and relating chiefly to the proper component parts of an oration. To Aristotle, who had attained that large and comprehensive view of the theory of rhetoric which still remains to instruct us in his splendid treatise, the views of Thrasymachus appeared unimportant, serving to him only as hints and materials. But their effect must have been very different when they first appeared, and when young men were first enabled to analyze the parts of an harangue, to understand the dependence of one upon the other, and call them by their appropriate names; all illustrated, let us recollect, by oral exposition on the part of the master, which was the most impressive portion of the whole.
+#### Thrasymachus — his rhetorical precepts
 
-Prodikus, again, published one or more treatises intended to elucidate the ambiguities of words, and to point out the different significations of terms apparently, but not really, equivalent. For this Plato often ridicules him, and the modern historians of philosophy generally think it right to adopt the same tone. Whether the execution of the work was at all adequate to its purpose, we have no means of judging; but assuredly the purpose was one preëminently calculated to aid Grecian thinkers and dialecticians; for no man can study their philosophy without seeing how lamentably they were hampered by enslavement to the popular phraseology, and by inferences founded on mere verbal analogy. At a time when neither dictionary nor grammar existed, a teacher who took care, even punctilious care, in fixing the meaning of important words of his discourse, must be considered as guiding the minds of his hearers in a salutary direction; salutary, we may add, even to Plato himself, whose speculations would most certainly have been improved by occasional hints from such a monitor.
-
-Protagoras, too, is said to have been the first who discriminated and gave names to the various modes and forms of address, an analysis well calculated to assist his lessons on right speaking:[^580] he appears also to have been the first who distinguished the three genders of nouns. We hear further of a treatise which he wrote on wrestling, or most probably on gymnastics generally, as well as a collection of controversial dialogues.[^581] But his most celebrated treatise was one entitled "Truth," seemingly on philosophy generally. Of this treatise, we do not even know the general scope or purport. In one of his treatises, he confessed his inability to satisfy himself about the existence of the gods, in these words:[^582] "Respecting the gods, I neither know whether they exist, nor what are their attributes: the uncertainty of the subject, the shortness of human life, and many other causes, debar me from this knowledge." That the believing public of Athens were seriously indignant at this passage, and that it caused the author to be threatened with prosecution, and forced to quit Athens, we can perfectly understand; though there seems no sufficient proof of the tale that he was drowned in his outward voyage. But that modern historians of philosophy, who consider the pagan gods to be fictions, and the religion to be repugnant to any reasonable mind, should concur in denouncing Protagoras on this ground as a corrupt man, is to me less intelligible. Xenophanês,[^583] and probably many other philosophers, had said the same thing before him. Nor is it easy to see what a superior man was to do, who could not adjust his standard of belief to such fictions; or what he could say, if he said anything, less than the words cited above from Protagoras; which appear, as far as we can appreciate them, standing without the context, to be a brief mention, in modest and circumspect phrases, of the reason why he said nothing about the gods, in a treatise where the reader would expect to find much upon the subject.[^584] Certain it is that in the Platonic dialogue, called "Protagoras," that sophist is introduced speaking about the gods exactly in the manner that any orthodox pagan might naturally adopt.
-
-The other fragment preserved of Protagoras, relates to his view of the cognitive process, and of truth generally. He taught, that "Man is the measure of all things; both of that which exists, and of that which does not exist:" a doctrine canvassed and controverted by Plato, who represents that Protagoras affirmed knowledge to consist in sensation, and considered the sensations of each individual man to be, to him, the canon and measure of truth. We know scarce anything of the elucidations or limitations with which Protagoras may have accompanied his general position: and if even Plato, who had good means of knowing them, felt it ungenerous to insult an orphan doctrine whose father was recently dead, and could no longer defend it,[^585] much more ought modern authors, who speak with mere scraps of evidence before them, to be cautious how they heap upon the same doctrine insults much beyond those which Plato recognizes. In so far as we can pretend to understand the theory, it was certainly not more incorrect than several others then afloat, from the Eleatic school and other philosophers; while it had the merit of bringing into forcible relief, though in an erroneous manner, the essentially relative nature of cognition,[^586] relative, not indeed to the sensitive faculty alone, but to that reinforced and guided by the other faculties of man, memorial and ratiocinative. And had it been even more incorrect than it really is, there would be no warrant for those imputations which modern authors build upon it, against the morality of Protagoras. No such imputations are countenanced in the discussion which Plato devotes to the doctrine: indeed, if the vindication which he sets forth against himself on behalf of Protagoras be really ascribable to that sophist, it would give an exaggerated importance to the distinction between Good and Evil, into which the distinction between Truth and Falsehood is considered by the Platonic Protagoras as resolvable. The subsequent theories of Plato and Aristotle respecting cognition, were much more systematic and elaborate, the work of men greatly superior in speculative genius to Protagoras: but they would not have been what they were, had not Protagoras, as well as others gone before them, with suggestions more partial and imperfect.
-
-From Gorgias there remains one short essay, preserved in one of the Aristotelian, or Pseudo-Aristotelian treatises,[^587] on a metaphysical thesis. He professes to demonstrate that nothing exists: that if anything exist, it is unknowable; and granting it even to exist and to be knowable by any one man, he could never communicate it to others. The modern historians of philosophy here prefer the easier task of denouncing the skepticism of the sophist, instead of performing the duty incumbent on them of explaining his thesis in immediate sequence with the speculations which preceded it. In our sense of the words, it is a monstrous paradox: but construing them in their legitimate filiation from the Eleatic philosophers immediately before him, it is a plausible, not to say conclusive, deduction from principles which they would have acknowledged.[^588] The word existence, as they understood it, did not mean phenomenal, but ultra-phenomenal existence. They looked upon the phenomena of sense as always coming and going, as something essentially transitory, fluctuating, incapable of being surely known, and furnishing at best grounds only for conjecture. They searched by cogitation for what they presumed to be the really existent something or substance—the noumenon, to use a Kantian phrase—lying behind or under the phenomena, which noumenon they recognized as the only appropriate subject of knowledge. They discussed much, as I have before remarked, whether it was one or many; noumenon in the singular, or noumena in the plural. Now the thesis of Gorgias related to this ultra-phenomenal existence, and bore closely upon the arguments of Zeno and Melissus, the Eleatic reasoners of his elder contemporaries. He denied that any such ultra-phenomenal something, or noumenon, existed, or could be known, or could be described. Of this tripartite thesis, the first negation was neither more untenable, nor less untenable, than that of those philosophers who before him had argued for the affirmative: on the two last points, his conclusions were neither paradoxical nor improperly skeptical, but perfectly just, and have been ratified by the gradual abandonment, either avowed or implied, of such ultra-phenomenal researches among the major part of philosophers. It may fairly be presumed that these doctrines were urged by Gorgias for the purpose of diverting his disciples from studies which he considered as unpromising and fruitless: just as we shall find his pupil Isokratês afterwards enforcing the same view, discouraging speculations of this nature, and recommending rhetorical exercise as preparation for the duties of an active citizen.[^589] Nor must we forget that Sokratês himself discouraged physical speculations even more decidedly than either of them.
-
-If the censures cast upon the alleged skepticism of Gorgias and Protagoras are partly without sufficient warrant, partly without any warrant at all, much more may the same remark be made respecting the graver reproaches heaped upon their teaching on the score of immorality or corruption. It has been common with recent German historians of philosophy to translate from Plato and dress up a fiend called "Die Sophistik," (Sophistic,) whom they assert to have poisoned and demoralized, by corrupt teaching, the Athenian moral character, so that it became degenerate at the end of the Peloponnesian war, compared with what it had been in the time of Miltiadês and Aristeidês.
-
-Now, in the first place, if the abstraction "Die Sophistik" is to have any definite meaning, we ought to have proof that the persons styled sophists had some doctrines, principles, or method, both common to them all and distinguishing them from others. But such a supposition is untrue: there were no such common doctrines, or principles, or method, belonging to them; even the name by which they are known did not belong to them, any more than to Sokratês and others; they had nothing in common except their profession, as paid teachers, qualifying young men "to think, speak, and act,"—these are the words of Isokratês, and better words it would not be easy to find—with credit to themselves as citizens. Moreover, such community of profession did not at that time imply near so much analogy of character as it does now, when the path of teaching has been beaten into a broad and visible high road, with measured distances and stated intervals: Protagoras and Gorgias found predecessors, indeed, but no binding precedents to copy; so that each struck out more or less a road of his own. And accordingly, we find Plato, in his dialogue called "Protagoras," wherein Protagoras, Prodikus, and Hippias, are all introduced, imparting a distinct type of character and distinct method to each, not without a strong admixture of reciprocal jealousy between them; while Thrasymachus, in the Republic, and Euthydêmus, in the dialogue so called, are again painted each with colors of his own, different from all the three above named. We have not the least reason for presuming that Gorgias agreed in the opinion of Protagoras: "Man is the measure of all things;" and we may infer, even from Plato himself, that Protagoras would have opposed the views expressed by Thrasymachus in the first book of the Republic. It is impossible therefore to predicate anything concerning doctrines, methods, or tendencies, common and peculiar to all the sophists. There were none such; nor has the abstract word, "Die Sophistik," any real meaning, except such qualities, whatever they may be, as are inseparable from the profession or occupation of public teaching. And if, at present, every candid critic would be ashamed to cast wholesale aspersions on the entire body of professional teachers, much more is such censure unbecoming in reference to the ancient sophists, who were distinguished from each other by stronger individual peculiarities.
-
-If, then, it were true that in the interval between 480 B.C. and the end of the Peloponnesian war, a great moral deterioration had taken place in Athens and in Greece generally, we should have to search for some other cause than this imaginary abstraction called sophistic. But—and this is the second point—the matter of fact here alleged is as untrue, as the cause alleged is unreal. Athens, at the close of the Peloponnesian war, was not more corrupt than Athens in the days of Miltiadês and Aristeidês. If we revert to that earlier period, we shall find that scarcely any acts of the Athenian people have drawn upon them sharper censure—in my judgment, unmerited—than their treatment of these very two statesmen; the condemnation of Miltiadês, and the ostracism of Aristeidês. In writing my history of that time, far from finding previous historians disposed to give the Athenians credit for public virtue, I have been compelled to contend against a body of adverse criticism, imputing to them gross ingratitude and injustice. Thus the contemporaries of Miltiadês and Aristeidês, when described as matter of present history, are presented in anything but flattering colors; except their valor at Marathon and Salamis, which finds one unanimous voice of encomium. But when these same men have become numbered among the mingled recollections and fancies belonging to the past,—when a future generation comes to be present, with its appropriate stock of complaint and denunciation,—then it is that men find pleasure in dressing up the virtues of the past, as a count in the indictment against their own contemporaries. Aristophanês,[^590] writing during the Peloponnesian war, denounced the Demos of his day as degenerated from the virtue of that Demos which had surrounded Miltiadês and Aristeidês: while Isokratês,[^591] writing as an old man, between 350–340 B.C., complains in like manner of his own time, boasting how much better the state of Athens had been in his youth: which period of his youth fell exactly during the life of Aristophanês, in the last half of the Peloponnesian war.
-
-Such illusions ought to impose on no one without a careful comparison of facts; and most assuredly that comparison will not bear out the allegation of increased corruption and degeneracy, between the age of Miltiadês and the end of the Peloponnesian war. Throughout the whole of Athenian history, there are no acts which attest so large a measure of virtue and judgment pervading the whole people, as the proceedings after the Four Hundred and after the Thirty. Nor do I believe that the contemporaries of Miltiadês would have been capable of such heroism; for that appellation is by no means too large for the case. I doubt whether they would have been competent to the steady self-denial of retaining a large sum in reserve during the time of peace, both prior to the Peloponnesian war and after the Peace of Nikias; or of keeping back the reserve fund of one thousand talents, while they were forced to pay taxes for the support of the war; or of acting upon the prudent, yet painfully trying, policy recommended by Periklês, so as to sustain an annual invasion without either going out to fight or purchasing peace by ignominious concessions. If bad acts such as Athens committed during the later years of the war, for example, the massacre of the Melian population, were not done equally by the contemporaries of Miltiadês, this did not arise from any superior humanity or principle on their part, but from the fact that they were not exposed to the like temptation, brought upon them by the possession of imperial power. The condemnation of the six generals after the battle of Arginusæ, if we suppose the same conduct on their part to have occurred in 490 B.C., would have been decreed more rapidly and more unceremoniously than it was actually decreed in 406 B.C. For at that earlier date there existed no psephism of Kannônus, surrounded by prescriptive respect; no graphê paranomôn; no such habits of established deference to a dikastery solemnly sworn, with full notice to defendants and full time of defence measured by the clock; none of those securities which a long course of democracy had gradually worked into the public morality of every Athenian, and which, as we saw in a former chapter, interposed a serious barrier to the impulse of the moment, though ultimately overthrown by its fierceness. A far less violent impulse would have sufficed for the same mischief in 490 B.C., when no such barriers existed. Lastly, if we want a measure of the appreciating sentiment of the Athenian public, towards a strict and decorous morality in the narrow sense, in the middle of the Peloponnesian war, we have only to consider the manner in which they dealt with Nikias. I have shown, in describing the Sicilian expedition, that the gravest error which the Athenians ever committed, that which shipwrecked both their armament at Syracuse and their power at home, arose from their unmeasured esteem for the respectable and pious Nikias, which blinded them to the grossest defects of generalship and public conduct. Disastrous as such misjudgment was, it counts at least as a proof that the moral corruption alleged to have been operated in their characters, is a mere fiction. Nor let it be supposed that the nerve and resolution which once animated the combatants of Marathon and Salamis, had disappeared in the latter years of the Peloponnesian war. On the contrary, the energetic and protracted struggle of Athens, after the irreparable calamity at Syracuse, forms a worthy parallel to her resistance in the time of Xerxes, and maintained unabated that distinctive attribute which Periklês had set forth as the main foundation of her glory, that of never giving way before misfortune.[^592] Without any disparagement to the armament at Salamis, we may remark that the patriotism of the fleet at Samos, which rescued Athens from the Four Hundred, was equally devoted and more intelligent; and that the burst of effort, which sent a subsequent fleet to victory at Arginusæ, was to the full as strenuous.
-
-If, then, we survey the eighty-seven years of Athenian history, between the battle of Marathon and the renovation of the democracy after the Thirty, we shall see no ground for the assertion, so often made, of increased and increasing moral and political corruption. It is my belief that the people had become both morally and politically better, and that their democracy had worked to their improvement. The remark made by Thucydidês, on the occasion of the Korkyræan bloodshed,—on the violent and reckless political antipathies, arising out of the confluence of external warfare with internal party-feud,[^593]—wherever else it may find its application, has no bearing upon Athens: the proceedings after the Four Hundred and after the Thirty prove the contrary. And while Athens may thus be vindicated on the moral side, it is indisputable that her population had acquired a far larger range of ideas and capacities than they possessed at the time of the battle of Marathon. This, indeed, is the very matter of fact deplored by Aristophanês, and admitted by those writers, who, while denouncing the sophists, connect such enlarged range of ideas with the dissemination of the pretended sophistical poison. In my judgment, not only the charge against the sophists as poisoners, but even the existence of such poison in the Athenian system, deserves nothing less than an emphatic denial.
-
-Let us examine again the names of these professional teachers, beginning with Prodikus, one of the most renowned. Who is there that has not read the well-known fable called "The Choice of Hercules," which is to be found in every book professing to collect impressive illustrations of elementary morality? Who does not know that its express purpose is, to kindle the imaginations of youth in favor of a life of labor for noble objects, and against a life of indulgence? It was the favorite theme on which Prodikus lectured, and on which he obtained the largest audience.[^594] If it be of striking simplicity and effect even to a modern reader, how much more powerfully must it have worked upon the audience for whose belief it was specially adapted, when set off by the oral expansions of its author! Xenophon wondered that the Athenian dikasts dealt with Sokratês as a corruptor of youth,—Isokratês wondered that a portion of the public made the like mistake about him,—and I confess my wonder to be not less, that not only Aristophanês,[^595] but even the modern writers on Grecian philosophy, should rank Prodikus in the same unenviable catalogue. This is the only composition[^596] remaining from him; indeed, the only composition remaining from any one of the sophists, excepting the thesis of Gorgias, above noticed. It served, not merely as a vindication of Prodikus against such reproach, but also as a warning against implicit confidence in the sarcastic remarks of Plato,—which include Prodikus as well as the other sophists,—and in the doctrines which he puts into the mouth of the sophists generally, in order that Sokratês may confute them. The commonest candor would teach us, that if a polemical writer of dialogue chooses to put indefensible doctrine into the mouth of the opponent, we ought to be cautious of condemning the latter upon such very dubious proof.
-
-Welcker and other modern authors treat Prodikus as "the most innocent" of the sophists, and except him from the sentence which they pass upon the class generally. Let us see, therefore, what Plato himself says about the rest of them, and first about Protagoras. If it were not the established practice with readers of Plato to condemn Protagoras beforehand, and to put upon every passage relating to him not only a sense as bad as it will bear, but much worse than it will fairly bear, they would probably carry away very different inferences from the Platonic dialogue called by that sophist's name, and in which he is made to bear a chief part. That dialogue is itself enough to prove that Plato did not conceive Protagoras either as a corrupt, or unworthy, or incompetent teacher. The course of the dialogue exhibits him as not master of the theory of ethics, and unable to solve various difficulties with which that theory is expected to grapple; moreover, as no match for Sokratês in dialectics, which Plato considered as the only efficient method of philosophical investigation. In so far, therefore, as imperfect acquaintance with the science or theory upon which rules of art, or the precepts bearing on practice, repose, disqualifies a teacher from giving instruction in such art or practice, to that extent Protagoras is exposed as wanting. And if an expert dialectician, like Plato, had passed Isokratês or Quintilian, or the large majority of teachers past or present, through a similar cross-examination as to the theory of their teaching, an ignorance not less manifest than that of Protagoras would be brought out. The antithesis which Plato sets forth, in so many of his dialogues, between precept or practice, accompanied by full knowledge of the scientific principles from which it must be deduced, if its rectitude be disputed,—and unscientific practice, without any such power of deduction or defence, is one of the most valuable portions of his speculations: he exhausts his genius to render it conspicuous in a thousand indirect ways, and to shame his readers, if possible, into the loftier and more rational walk of thought. But it is one thing to say of a man, that he does not know the theory of what he teaches, or of the way in which he teaches; it is another thing to say, that he actually teaches that which scientific theory would not prescribe as the best; it is a third thing, graver than both, to say that his teaching is not only below the exigences of science, but even corrupt and demoralizing. Now of these three points, it is the first only which Plato in his dialogue makes out against Protagoras: even the second, he neither affirms nor insinuates; and as to the third, not only he never glances at it, even indirectly, but the whole tendency of the discourse suggests a directly contrary conclusion. As if sensible that when an eminent opponent was to be depicted as puzzled and irritated by superior dialectics, it was but common fairness to set forth his distinctive merits also, Plato gives a fable, and expository harangue, from the mouth of Protagoras,[^597] upon the question whether virtue is teachable. This harangue is, in my judgment, very striking and instructive; and so it would have been probably accounted, if commentators had not read it with a preëstablished persuasion that whatever came from the lips of a sophist must be either ridiculous or immoral.[^598] It is the only part of Plato's works wherein any account is rendered of the growth of that floating, uncertified, self-propagating body of opinion, upon which the cross-examining analysis of Sokratês is brought to bear, as will be seen in the following chapter.
-
-Protagoras professes to teach his pupils "good counsel" in their domestic and family relations, as well as how to speak and act in the most effective manner for the weal of the city. Since this comes from Protagoras, the commentators of Plato pronounce it to be miserable morality; but it coincides, almost to the letter, with that which Isokratês describes himself as teaching, a generation afterwards, and substantially even with that which Xenophon represents Sokratês as teaching; nor is it easy to set forth, in a few words, a larger scheme of practical duty.[^599] And if the measure of practical duty, which Protagoras devoted himself to teach, was thus serious and extensive, even the fraction of theory assigned to him in his harangue, includes some points better than that of Plato himself. For Plato seems to have conceived the ethical end, to each individual, as comprising nothing more than his own permanent happiness and moral health; and in this very dialogue, he introduces Sokratês as maintaining virtue to consist only in a right calculation of a man's own personal happiness and misery. But here we find Protagoras speaking in a way which implies a larger, and, in my opinion, a juster, appreciation of the ethical end, as including not only reference to a man's own happiness, but also obligations towards the happiness of others. Without at all agreeing in the harsh terms of censure which various critics pronounce upon that theory which Sokratês is made to set forth in the Platonic Protagoras, I consider his conception of the ethical end essentially narrow and imperfect, not capable of being made to serve as basis for deduction of the best ethical precepts. Yet such is the prejudice with which the history of the sophists has been written, that the commentators on Plato accuse the sophists of having originated what they ignorantly term, "the base theory of utility," here propounded by Sokratês himself; complimenting the latter on having set forth those larger views which in this dialogue belong only to Protagoras.[^600]
-
-So far as concerns Protagoras, therefore, the evidence of Plato himself may be produced to show that he was not a corrupt teacher, but a worthy companion of Prodikus; worthy also of that which we know him to have enjoyed, the society and conversation of Periklês. Let us now examine what Plato says about a third sophist, Hippias of Elis; who figures both in the dialogue called "Protagoras," and in two distinct dialogues known by the titles of "Hippias Major and Minor." Hippias is represented as distinguished for the wide range of his accomplishments, of which in these dialogues he ostentatiously boasts. He could teach astronomy, geometry, and arithmetic, which subjects Protagoras censured him for enforcing too much upon his pupils; so little did these sophists agree in any one scheme of doctrine or education. Besides this, he was a poet, a musician, an expositor of the poets, and a lecturer with a large stock of composed matter,—on subjects moral, political, and even legendary,—treasured up in a very retentive memory. He was a citizen much employed as envoy by his fellow-citizens: to crown all, his manual dexterity was such that he professed to have made with his own hands all the attire and ornaments which he wore on his person. If, as is sufficiently probable, he was a vain and ostentatious man,—defects not excluding an useful and honorable career,—we must at the same time give him credit for a variety of acquisitions such as to explain a certain measure of vanity.[^601] The style in which Plato handles Hippias is very different from that in which he treats Protagoras. It is full of sneer and contemptuous banter, insomuch that even Stallbaum,[^602] after having repeated a great many times that this was a vile sophist, who deserved no better treatment, is forced to admit that the petulance is carried rather too far, and to suggest that the dialogue must have been a juvenile work of Plato. Be this as it may, amidst so much unfriendly handling, not only we find no imputation against Hippias, of having preached a low or corrupt morality, but Plato inserts that which furnishes good, though indirect, proof of the contrary. For Hippias is made to say that he had already delivered, and was about to deliver again, a lecture composed by himself with great care, wherein he enlarged upon the aims and pursuits which a young man ought to follow. The scheme of his discourse was, that after the capture of Troy, the youthful Neoptolemus was introduced as asking the advice of Nestor about his own future conduct; in reply to which, Nestor sets forth to him what was the plan of life incumbent on a young man of honorable aspirations, and unfolds to him the full details of regulated and virtuous conduct by which it ought to be filled up.[^603] The selection of two such names, among the most venerated in all Grecian legend, as monitor and pupil, is a stamp clearly attesting the vein of sentiment which animated the composition. Morality preached by Nestor for the edification of Neoptolemus, might possibly be too high for Athenian practice; but most certainly it would not err on the side of corruption, selfishness, or over-indulgence. We may fairly presume that this discourse composed by Hippias would not be unworthy, in spirit and purpose, to be placed by the side of "The Choice of Hercules," nor its author by that of Prodikus as a moral teacher.
-
-The dialogue entitled "Gorgias," in Plato, is carried on by Sokratês with three different persons one after the other,—Gorgias, Pôlus, and Kalliklês. Gorgias of Leontini in Sicily, as a rhetorical teacher, acquired greater celebrity than any man of his time, during the Peloponnesian war: his abundant powers of illustration, his florid ornaments, his artificial structure of sentences distributed into exact antithetical fractions, all spread a new fashion in the art of speaking, which for the time was very popular, but afterwards became discredited. If the line could be clearly drawn between rhetors and sophists, Gorgias ought rather to be ranked with the former.[^604] In the conversation with Gorgias, Sokratês exposes the fallacy and imposture of rhetoric and rhetorical teaching, as cheating an ignorant audience into persuasion without knowledge, and as framed to satisfy the passing caprice, without any regard to the permanent welfare and improvement of the people. Whatever real inculpation may be conveyed in these arguments against a rhetorical teacher, Gorgias must bear in common with Isokratês and Quintilian, and under the shield of Aristotle. But save and except rhetorical teaching, no dissemination of corrupt morality is ascribed to him by Plato; who, indeed, treats him with a degree of respect which surprises the commentators.[^605]
-
-The tone of the dialogue changes materially when it passes to Pôlus and Kalliklês, the former of whom is described as a writer on rhetoric, and probably a teacher also.[^606] There is much insolence in Pôlus, and no small asperity in Sokratês. Yet the former maintains no arguments which justify the charge of immorality against himself or his fellow-teachers. He defends the tastes and sentiments common to every man in Greece, and shared even by the most estimable Athenians, Periklês, Nikias, and Aristokratês;[^607] while Sokratês prides himself on standing absolutely alone, and having no support except from his irresistible dialectics, whereby he is sure of extorting reluctant admission from his adversary. How far Sokratês may be right, I do not now inquire: it is sufficient that Pôlus, standing as he does amidst company at once so numerous and so irreproachable, cannot be fairly denounced as a poisoner of the youthful mind.
-
-Pôlus presently hands over the dialogue to Kalliklês, who is here represented, doubtless, as laying down doctrines openly and avowedly anti-social. He distinguishes between the law of nature and the law—both written and unwritten, for the Greek word substantially includes both—of society. According to the law of nature, Kalliklês says, the strong man—the better or more capable man—puts forth his strength to the full for his own advantage, without limit or restraint; overcomes the resistance which weaker men are able to offer; and seizes for himself as much as he pleases of the matter of enjoyment. He has no occasion to restrain any of his appetites or desires; the more numerous and pressing they are, so much the better for him, since his power affords him the means of satiating them all. The many, who have the misfortune to be weak, must be content with that which he leaves them, and submit to it as best they can. This, Kalliklês says, is what actually happens in a state of nature; this is what is accounted just, as is evident by the practice of independent communities, not included in one common political society, towards each other; this is *justice*, by nature, or according to the law of nature. But when men come into society, all this is reversed. The majority of individuals know very well that they are weak, and that their only chance of security or comfort consists in establishing laws to restrain this strong man, reinforced by a moral sanction of praise and blame devoted to the same general end. They catch him, like a young lion, whilst his mind is yet tender, and fascinate him by talk and training into a disposition conformable to that measure and equality which the law enjoins. Here, then, is justice according to the law of society; a factitious system, built up by the many for their own protection and happiness, to the subversion of the law of nature, which arms the strong man with a right to encroachment and license. Let a fair opportunity occur, and the favorite of Nature will be seen to kick off his harness, tread down the laws, break through the magic circle of opinion around him, and stand forth again as lord and master of the many; regaining that glorious position which nature has assigned to him as his right. Justice by nature, and justice by law and society, are thus, according to Kalliklês, not only distinct, but mutually contradictory. He accuses Sokratês of having jumbled the two together in his argument.[^608]
-
-It has been contended by many authors that this anti-social reasoning—true enough, in so far as it states simple[^609] matter of fact and probability; immoral, in so far as it erects the power of the strong man into a right; and inviting many comments, if I could find a convenient place for them—represents the morality commonly and publicly taught by the persons called sophists at Athens.[^610] I deny this assertion emphatically. Even if I had no other evidence to sustain my denial, except what has been already extracted, from the unfriendly writings of Plato himself, respecting Protagoras and Hippias,—with what we know from Xenophon about Prodikus,—I should consider my case made out as vindicating the sophists generally from such an accusation. If refutation to the doctrine of Kalliklês were needed, it would be obtained quite as efficaciously from Prodikus and Protagoras as from Sokratês and Plato.
-
-But this is not the strongest part of the vindication.
-
-First, Kalliklês himself is not a sophist, nor represented by Plato as such. He is a young Athenian citizen, of rank and station, belonging to the deme Acharnæ; he is intimate with other young men of condition in the city, has recently entered into active political life, and bends his whole soul towards it; he disparages philosophy, and speaks with utter contempt about the sophists.[^611] If, then, it were even just, which I do not admit, to infer from opinions put into the mouth of one sophist, that the same were held by another or by all of them, it would not be the less unjust to draw the like inference from opinions professed by one who is not a sophist, and who despises the whole profession.
-
-Secondly, if any man will read attentively the course of the dialogue, he will see that the doctrine of Kalliklês is such as no one dared publicly to propound. So it is conceived both by Kalliklês himself, and by Sokratês. The former first takes up the conversation, by saying that his predecessor Pôlus had become entangled in a contradiction, because he had not courage enough openly to announce an unpopular and odious doctrine; but he, Kalliklês, was less shamefaced, and would speak out boldly that doctrine which others kept to themselves for fear of shocking the hearers. "Certainly (says Sokratês to him) your audacity is abundantly shown by the doctrine which you have just laid down; you set forth plainly that which other people think, but do not choose to utter."[^612] Now, opinions of which Pôlus, an insolent young man, was afraid to proclaim himself the champion, must have been revolting indeed to the sentiments of hearers. How then can any reasonable man believe, that such opinions were not only openly propounded, but seriously inculcated as truth upon audiences of youthful hearers, by the sophists? We know that the teaching of the latter was public in the highest degree; publicity was pleasing as well as profitable to them; among the many disparaging epithets heaped upon them, ostentation and vanity are two of the most conspicuous. Whatever they taught, they taught publicly; and I contend, with full conviction, that, had they even agreed with Kalliklês in this opinion, they could neither have been sufficiently audacious, nor sufficiently their own enemies, to make it a part of their public teaching; but would have acted like Pôlus, and kept the doctrine to themselves.
-
-Thirdly, this latter conclusion will be rendered doubly certain, when we consider of what city we are now speaking. Of all places in the world, the democratical Athens is the last in which the doctrine advanced by Kalliklês could possibly have been professed by a public teacher; or even by Kalliklês himself, in any public meeting. It is unnecessary to remind the reader how profoundly democratical was the sentiment and morality of the Athenians,—how much they loved their laws, their constitution, and their political equality,—how jealous their apprehension was of any nascent or threatening despotism. All this is not simply admitted, but even exaggerated, by Mr. Mitford, Wachsmuth, and other anti-democratical writers, who often draw from it materials for their abundant censures. Now the very point which Sokratês, in this dialogue, called "Gorgias," seeks to establish against Kalliklês, against the rhetors, and against the sophists, is, that they courted, flattered, and truckled to the sentiment of the Athenian people, with degrading subservience; that they looked to the immediate gratification simply, and not to permanent moral improvement of the people; that they had not courage to address to them any unpalatable truths, however salutary, but would shift and modify opinions in every way, so as to escape giving offence;[^613] that no man who put himself prominently forward at Athens had any chance of success, unless he became moulded and assimilated, from the core, to the people and their type of sentiment.[^614] Granting such charges to be true, how is it conceivable that any sophist, or any rhetor, could venture to enforce upon an Athenian public audience the doctrine laid down by Kalliklês? To tell such an audience: "Your laws and institutions are all violations of the law of nature, contrived to disappoint the Alkibiadês or Napoleon among you of his natural right to become your master, and to deal with you petty men as his slaves. All your unnatural precautions, and conventional talk, in favor of legality and equal dealing, will turn out to be nothing better than pitiful impotence,[^615] as soon as *he* finds a good opportunity of standing forward in his full might and energy, so as to put you into your proper places, and show you what privileges Nature intends for her favorites!" Conceive such a doctrine propounded by a lecturer to assembled Athenians! A doctrine just as revolting to Nikias as to Kleon, and which even Alkibiadês would be forced to affect to disapprove; since it is not simply anti-popular, not simply despotic, but the drunken extravagance of despotism. The Great man, as depicted by Kalliklês, stands in the same relation to ordinary mortals, as Jonathan Wild the Great, in the admirable parody of Fielding.
-
-That sophists, whom Plato accuses of slavish flattery to the democratical ear, should gratuitously insult it by the proposition of such tenets, is an assertion not merely untrue, but utterly absurd. Even as to Sokratês, we know from Xenophon how much the Athenians were offended with him, and how much it was urged by the accusers on his trial, that in his conversations he was wont to cite with peculiar relish the description, in the second book of the Iliad, of Odysseus following the Grecian crowd, when running away from the agora to get on shipboard, and prevailing upon them to come back, by gentle words addressed to the chiefs, but by blows of his stick, accompanied with contemptuous reprimand, to the common people. The indirect evidence thus afforded, that Sokratês countenanced unequal dealing and ill usage towards the many, told much against him in the minds of the dikasts. What would they have felt then towards a sophist who publicly professed the political morality of Kalliklês? The truth is, not only was it impossible that any such morality, or anything of the same type even much diluted, could find its way into the educational lectures of professors at Athens, but the fear would be in the opposite direction. If the sophist erred in either way, it would be in that which Sokratês imputes, by making his lectures over-democratical. Nay, if we suppose any opportunity to have arisen of discussing the doctrine of Kalliklês, he would hardly omit to flatter the ears of the surrounding democrats by enhancing the beneficent results of legality and equal dealing, and by denouncing this "natural despot," or undisclosed Napoleon, as one who must either take his place under such restraints, or find a place in some other city.
-
-I have thus shown, even from Plato himself, that the doctrine ascribed to Kalliklês neither did enter, nor could have entered, into the lectures of a sophist or professed teacher. The same conclusion may be maintained respecting the doctrine of Thrasymachus in the first book of the "Republic." Thrasymachus was a rhetorical teacher, who had devised precepts respecting the construction of an oration and the training of young men for public speaking. It is most probable that he confined himself, like Gorgias, to this department, and that he did not profess to give moral lectures, like Protagoras and Prodikus. But granting him to have given such, he would not talk about justice in the way in which Plato makes him talk, if he desired to give any satisfaction to an Athenian audience. The mere brutality and ferocious impudence of demeanor even to exaggeration, with which Plato invests him, is in itself a strong proof that the doctrine, ushered in with such a preface, was not that of a popular and acceptable teacher, winning favor in public audiences. He defines justice to be "the interest of the superior power; that rule, which, in every society, the dominant power prescribes, as being for its own advantage." A man is just, he says, for the advantage of another, not for his own: he is weak, cannot help himself, and must submit to that which the stronger authority, whether despot, oligarchy, or commonwealth, commands.
-
-This theory is essentially different from the doctrine of Kalliklês, as set forth a few pages back; for Thrasymachus does not travel out of society to insist upon anterior rights dating from a supposed state of nature; he takes societies as he finds them, recognizing the actual governing authority of each as the canon and constituent of justice or injustice. Stallbaum and other writers have incautiously treated the two theories as if they were the same; and with something even worse than want of caution, while they pronounce the theory of Thrasymachus to be detestably immoral, announce it as having been propounded not by him only, but by *The Sophists*; thus, in their usual style, dealing with the sophists as if they were a school, sect, or partnership with mutual responsibility. Whoever has followed the evidence which I have produced respecting Protagoras and Prodikus, will know how differently these latter handled the question of justice.
-
-But the truth is, that the theory of Thrasymachus, though incorrect and defective, is not so detestable as these writers represent. What makes it seem detestable, is the style and manner in which he is made to put it forward; which causes the just man to appear petty and contemptible, while it surrounds the unjust man with enviable attributes. Now this is precisely the circumstance which revolts the common sentiments of mankind, as it revolts also the critics who read what is said by Thrasymachus. The moral sentiments exist in men's minds in complex and powerful groups, associated with some large words and emphatic forms of speech. Whether an ethical theory satisfies the exigencies of reason, or commands and answers to all the phenomena, a common audience will seldom give themselves the trouble to consider with attention; but what they imperiously exact, and what is indispensable to give the theory any chance of success, is, that it shall exhibit to their feelings the just man as respectable and dignified, and the unjust man as odious and repulsive. Now that which offends in the language ascribed to Thrasymachus is, not merely the absence, but the reversal, of this condition; the presentation of the just man as weak and silly, and of injustice in all the *prestige* of triumph and dignity. And for this very reason, I venture to infer that such a theory was never propounded by Thrasymachus to any public audience in the form in which it appears in Plato. For Thrasymachus was a rhetor, who had studied the principles of his art: now we know that these common sentiments of an audience, were precisely what the rhetors best understood, and always strove to conciliate. Even from the time of Gorgias, they began the practice of composing beforehand declamations upon the general heads of morality, which were ready to be introduced into actual speeches as occasion presented itself, and in which appeal was made to the moral sentiments foreknown as common, with more or less of modification, to all the Grecian assemblies. The real Thrasymachus, addressing any audience at Athens, would never have wounded these sentiments, as the Platonic Thrasymachus is made to do in the "Republic." Least of all would he have done this, if it be true of him, as Plato asserts of the rhetors and sophists generally, that they thought about nothing but courting popularity, without any sincerity of conviction.
-
-Though Plato thinks fit to bring out the opinion of Thrasymachus with accessories unnecessarily offensive, and thus to enhance the dialectical triumph of Sokratês by the brutal manners of the adversary, he was well aware that he had not done justice to the opinion itself, much less confuted it. The proof of this is, that in the second book of the "Republic," after Thrasymachus has disappeared, the very same opinion is taken up by Glaukon and Adeimantus, and set forth by both of them, though they disclaim entertaining it as their own, as suggesting grave doubts and difficulties which they desire to hear solved by Sokratês. Those who read attentively the discourses of Glaukon and Adeimantus, will see that the substantive opinion ascribed to Thrasymachus, apart from the brutality with which he is made to state it, does not even countenance the charge of immoral teaching against *him*, much less against the sophists generally. Hardly anything in Plato's compositions is more powerful than those discourses. They present, in a perspicuous and forcible manner, some of the most serious difficulties with which ethical theory is required to grapple. And Plato can answer them only in one way, by taking society to pieces, and reconstructing it in the form of his imaginary republic. The speeches of Glaukon and Adeimantus form the immediate preface to the striking and elaborate description which he goes through, of his new state of society, nor do they receive any other answer than what is implied in that description. Plato indirectly confesses that he cannot answer them, assuming social institutions to continue unreformed: and his reform is sufficiently fundamental.[^616]
-
-I call particular attention to this circumstance, without which we cannot fairly estimate the sophists, or practical teachers of Athens, face to face with their accuser-general, Plato. He was a great and systematic theorist, whose opinions on ethics, politics, cognition, religion, etc., were all wrought into harmony by his own mind, and stamped with that peculiarity which is the mark of an original intellect. So splendid an effort of speculative genius is among the marvels of the Grecian world. His dissent from all the societies which he saw around him, not merely democratical, but oligarchical and despotic also, was of the deepest and most radical character. Nor did he delude himself by the belief, that any partial amendment of that which he saw around could bring about the end which he desired: he looked to nothing short of a new genesis of the man and the citizen, with institutions calculated from the beginning to work out the full measure of perfectibility. His fertile scientific imagination realized this idea in the "Republic." But that very systematic and original character, which lends so much value and charm to the substantive speculations of Plato, counts as a deduction from his trustworthiness as critic or witness, in reference to the living agents whom he saw at work in Athens and other cities, as statesmen, generals, or teachers. His criticisms are dictated by his own point of view, according to which the entire society was corrupt, and all the instruments who carried on its functions were of essentially base metal. Whoever will read either the "Gorgias" or the "Republic," will see in how sweeping and indiscriminate a manner he passes his sentence of condemnation. Not only all the sophists and all the rhetors,[^617] but all the musicians and dithyrambic or tragic poets; all the statesmen, past as well as present, not excepting even the great Periklês, receive from his hands one common stamp of dishonor. Every one of these men are numbered by Plato among the numerous category of flatterers, who minister to the immediate gratification and to the desires of the people, without looking to their permanent improvement, or making them morally better. "Periklês and Kimon (says Sokratês in the 'Gorgias') are nothing but servants or ministers who supply the immediate appetites and tastes of the people; just as the baker and the confectioner do in their respective departments, without knowing or caring whether the food will do any real good, a point which the physician alone can determine. As ministers, they are clever enough: they have provided the city amply with tribute, walls, docks, ships, and *such other follies*: but I (Sokratês) am the only man in Athens who aim, so far as my strength permits, at the true purpose of politics, the mental improvement of the people."[^618] So wholesale a condemnation betrays itself as the offspring, and the consistent offspring, of systematic peculiarity of vision, the prejudice of a great and able mind.
-
-It would be not less unjust to appreciate the sophists or the statesmen of Athens from the point of view of Plato, than the present teachers and politicians of England or France from that of Mr. Owen or Fourier. Both the one and the other class labored for society as it stood at Athens: the statesmen carried on the business of practical politics, the sophist trained up youth for practical life in all its departments, as family men, citizens, and leaders, to obey as well as to command. Both accepted the system as it stood, without contemplating the possibility of a new birth of society: both ministered to certain exigences, held their anchorage upon certain sentiments, and bowed to a certain morality, actually felt among the living men around them. That which Plato says of the statesmen of Athens is perfectly true, that they were only servants or ministers of the people. He, who tried the people and the entire society by comparison with an imaginary standard of his own, might deem all these ministers worthless in the lump, as carrying on a system too bad to be mended; but, nevertheless, the difference between a competent and an incompetent minister, between Periklês and Nikias, was of unspeakable moment to the security and happiness of the Athenians. What the sophists on their part undertook was, to educate young men so as to make them better qualified for statesmen or ministers; and Protagoras would have thought it sufficient honor to himself,—as well as sufficient benefit to Athens, which assuredly it would have been,—if he could have inspired any young Athenian with the soul and the capacities of his friend and companion Periklês.
-
-So far is Plato from considering the sophists as the corruptors of Athenian morality, that he distinctly protests against that supposition, in a remarkable passage of the "Republic." It is, he says, the whole people, or the society, with its established morality, intelligence, and tone of sentiment, which is intrinsically vicious; the teachers of such a society must be vicious also, otherwise their teaching would not be received; and even if their private teaching were ever so good, its effect would be washed away, except in some few privileged natures, by the overwhelming deluge of pernicious social influences.[^619] Nor let any one imagine, as modern readers are but too ready to understand it, that this poignant censure is intended for Athens so far forth as a democracy. Plato was not the man to preach king-worship, or wealth-worship, as social or political remedies: he declares emphatically that not one of the societies then existing was such that a truly philosophical nature could be engaged in active functions under it.[^620] These passages would be alone sufficient to repel the assertions of those who denounce the sophists as poisoners of Athenian morality, on the alleged authority of Plato.
-
-Nor is it at all more true that they were men of mere words, and made their pupils no better,—a charge just as vehemently pressed against Sokratês as against the sophists,—and by the same class of enemies, such as Anytus,[^621] Aristophanês, Eupolis, etc. It was mainly from sophists like Hippias that the Athenian youth learned what they knew of geometry, astronomy, and arithmetic: but the range of what is called special science, possessed even by the teacher, was at that time very limited; and the matter of instruction communicated was expressed under the general title of "Words, or Discourses," which were always taught by the sophists, in connection with thought, and in reference to a practical use. The capacities of thought, speech, and action, are conceived in conjunction by Greeks generally, and by teachers like Isokratês and Quintilian especially; and when young men in Greece, like the Bœotian Proxenus, put themselves under training by Gorgias or any other sophist, it was with a view of qualifying themselves, not merely to speak, but to act.[^622]
-
-Most of the pupils of the sophists, as of Sokratês[^623] himself, were young men of wealth; a fact, at which Plato sneers, and others copy him, as if it proved that they cared only about high pay. But I do not hesitate to range myself on the side of Isokratês,[^624] and to contend that the sophist himself had much to lose by corrupting his pupils,—an argument used by Sokratês in defending himself before the dikastery, and just as valid in defence of Protagoras or Prodikus,[^625]—and strong personal interest in sending them forth accomplished and virtuous; that the best-taught youth were decidedly the most free from crime and the most active towards good; that among the valuable ideas and feelings which a young Athenian had in his mind, as well as among the good pursuits which he followed, those which he learned from the sophists counted nearly as the best; that, if the contrary had been the fact, fathers would not have continued so to send their sons, and pay their money. It was not merely that these teachers countervailed in part the temptations to dissipated enjoyment, but also that they were personally unconcerned in the acrimonious slander and warfare of party in his native city; that the topics with which they familiarized him were, the general interests and duties of men and citizens; that they developed the germs of morality in the ancient legends, as in Prodikus's fable, and amplified in his mind all the undefined cluster of associations connected with the great words of morality; that they vivified in him the sentiment of Pan-Hellenic brotherhood; and that, in teaching him the art of persuasion,[^626] they could not but make him feel the dependence in which he stood towards those who were to be persuaded, together with the necessity under which he lay of so conducting himself as to conciliate their good-will.
-
-The intimations given in Plato, of the enthusiastic reception which Protagoras, Prodikus, and other sophists[^627] met with in the various cities; the description which we read, in the dialogue called Protagoras, of the impatience of the youthful Hippokratês, on hearing of the arrival of that sophist, insomuch that he awakens Sokratês before daylight, in order to obtain an introduction to the new-comer and profit by his teaching; the readiness of such rich young men to pay money, and to devote time and trouble, for the purpose of acquiring a personal superiority apart from their wealth and station; the ardor with which Kallias is represented as employing his house for the hospitable entertainment, and his fortune for the aid, of the sophists; all this makes upon my mind an impression directly the reverse of that ironical and contemptuous phraseology with which it is set forth by Plato. Such sophists had nothing to recommend them except superior knowledge and intellectual force, combined with an imposing personality, making itself felt in their lectures and conversation. It is to this that the admiration was shown; and the fact that it was so shown, brings to view the best attributes of the Greek, especially the Athenian mind. It exhibits those qualities of which Periklês made emphatic boast in his celebrated funeral oration;[^628] conception of public speech as a practical thing, not meant as an excuse for inaction, but combined with energetic action, and turning it to good account by full and open discussion beforehand; profound sensibility to the charm of manifested intellect, without enervating the powers of execution or endurance. Assuredly, a man like Protagoras, arriving in a city with all this train of admiration laid before him, must have known very little of his own interest or position, if he began to preach a low or corrupt morality. If it be true generally, as Voltaire has remarked, that "any man who should come to preach a relaxed morality would be pelted," much more would it be true of a sophist like Protagoras, arriving in a foreign city with all the prestige of a great intellectual name, and with the imagination of youths on fire to hear and converse with him, that any similar doctrine would destroy his reputation at once. Numbers of teachers have made their reputation by inculcating overstrained asceticism; it will be hard to find an example of success in the opposite vein.
-
----
+Though writing was less the business of these sophists than personal
+teaching, several of them published treatises. Thrasymachus and
+Theodôrus both set forth written precepts on the art of rhetoric;[^579]
+precepts which have not descended to us, but which appear to have
+been narrow and special, bearing directly upon practice, and relating
+chiefly to the proper component parts of an oration. To Aristotle,
+who had attained that large and comprehensive view of the theory of
+rhetoric which still remains to instruct us in his splendid treatise,
+the views of Thrasymachus appeared unimportant, serving to him only
+as hints and materials. But their effect must have been very different
+when they first appeared, and when young men were first enabled to
+analyze the parts of an harangue, to understand the dependence of one
+upon the other, and call them by their appropriate names; all illustrated,
+let us recollect, by oral exposition on the part of the master, which
+was the most impressive portion of the whole.
 
 [^576]: Aristot. Rhetoric. ii, 26. Ritter (p. 582) and Brandis (p. 521) quote very unfairly the evidence of the "Clouds" of Aristophanês, as establishing this charge, and that of corrupt teaching generally, against the sophists as a body. If Aristophanês is a witness against any one, he is a witness against Sokratês, who is the person singled out for attack in the "Clouds." But these authors, not admitting Aristophanês as an evidence against Sokratês, whom he *does* attack, nevertheless quote him as an evidence against men like Protagoras and Gorgias, whom he *does not* attack.
 
@@ -1661,6 +1690,62 @@ The intimations given in Plato, of the enthusiastic reception which Protagoras, 
 [^578]: Plato, Sok. Apolog. c. 10, p. 23, D. τὰ κατὰ πάντων τῶν φιλοσοφούντων πρόχειρα ταῦτα λέγουσιν, ὅτι τὰ μετέωρα καὶ τὰ ὑπὸ γῆς, καὶ θεοὺς μὴ νομίζειν, καὶ τὸν ἥττω λόγον κρείττω ποιεῖν (διδάσκω). Compare a similar expression in Xenophon, Memorab. i, 2, 31. τὸ κοινῇ τοῖς φιλοσόφοις ὑπὸ τῶν πολλῶν ἐπιτιμώμενον, etc. The same unfairness, in making this point tell against the sophists exclusively, is to be found in Westermann, Geschichte der Griech. Beredsamkeit sects. 30, 64.
 
 [^579]: See the last chapter of Aristotle De Sophisticis Elenchis. He notices these early rhetorical teachers, also, in various parts of the treatise on rhetoric. Quintilian, however, still thought the precepts of Theodôrus and Thrasymachus worthy of his attention (Inst. Orat. iii, 3).
+
+#### Prodikus — his discrimination of words analogous in meaning
+
+Prodikus, again, published one or more treatises intended to elucidate
+the ambiguities of words, and to point out the different significations
+of terms apparently, but not really, equivalent. For this Plato often
+ridicules him, and the modern historians of philosophy generally think
+it right to adopt the same tone. Whether the execution of the work
+was at all adequate to its purpose, we have no means of judging; but
+assuredly the purpose was one preëminently calculated to aid Grecian
+thinkers and dialecticians; for no man can study their philosophy
+without seeing how lamentably they were hampered by enslavement to
+the popular phraseology, and by inferences founded on mere verbal
+analogy. At a time when neither dictionary nor grammar existed, a
+teacher who took care, even punctilious care, in fixing the meaning
+of important words of his discourse, must be considered as guiding
+the minds of his hearers in a salutary direction; salutary, we may
+add, even to Plato himself, whose speculations would most certainly
+have been improved by occasional hints from such a monitor.
+
+#### Protagoras — his treatise on Truth — his opinions about the pagan gods
+
+Protagoras, too, is said to have been the first who discriminated and
+gave names to the various modes and forms of address, an analysis
+well calculated to assist his lessons on right speaking:[^580] he
+appears also to have been the first who distinguished the three
+genders of nouns. We hear further of a treatise which he wrote on
+wrestling, or most probably on gymnastics generally, as well as a
+collection of controversial dialogues.[^581] But his most celebrated
+treatise was one entitled "Truth," seemingly on philosophy generally.
+Of this treatise, we do not even know the general scope or purport.
+In one of his treatises, he confessed his inability to satisfy
+himself about the existence of the gods, in these words:[^582]
+"Respecting the gods, I neither know whether they exist, nor what are
+their attributes: the uncertainty of the subject, the shortness of
+human life, and many other causes, debar me from this knowledge."
+That the believing public of Athens were seriously indignant at this
+passage, and that it caused the author to be threatened with
+prosecution, and forced to quit Athens, we can perfectly understand;
+though there seems no sufficient proof of the tale that he was
+drowned in his outward voyage. But that modern historians of
+philosophy, who consider the pagan gods to be fictions, and the
+religion to be repugnant to any reasonable mind, should concur in
+denouncing Protagoras on this ground as a corrupt man, is to me less
+intelligible. Xenophanês,[^583] and probably many other philosophers,
+had said the same thing before him. Nor is it easy to see what a
+superior man was to do, who could not adjust his standard of belief
+to such fictions; or what he could say, if he said anything, less
+than the words cited above from Protagoras; which appear, as far as
+we can appreciate them, standing without the context, to be a brief
+mention, in modest and circumspect phrases, of the reason why he
+said nothing about the gods, in a treatise where the reader would
+expect to find much upon the subject.[^584] Certain it is that in
+the Platonic dialogue, called "Protagoras," that sophist is introduced
+speaking about the gods exactly in the manner that any orthodox pagan
+might naturally adopt.
 
 [^580]: Quintilian, Inst. Orat. iii. 4, 10; Aristot. Rhetor. iii, 5. See the passages cited in Preller, Histor. Philos. ch. iv, p. 132, note *d*, who affirms respecting Protagoras: "alia inani grammaticorum principiorum ostentatione novare conabatur," which the passages cited do not prove.
 
@@ -1672,15 +1757,269 @@ The intimations given in Plato, of the enthusiastic reception which Protagoras, 
 
 [^584]: The satyrical writer Timon (ap. Sext. Emp. ix, 57), speaking in very respectful terms about Protagoras, notices particularly the guarded language which he used in this sentence about the gods; though this precaution did not enable him to avoid the necessity of flight. Protagoras spoke: Πᾶσαν ἔχων φυλακὴν ἐπιεικείης· τὰ μὲν οὐ οἱ / Χραίσμησ᾽, ἀλλὰ φυγῆς ἐπεμαίετο ὄφρα μὴ οὕτως / Σωκρατικὸν πίνων ψυχρὸν πότον Ἀΐδα δύῃ. It would seem, by the last line, as if Protagoras had survived Sokratês.
 
+#### His view of the cognitive process and its relative nature
+
+The other fragment preserved of Protagoras, relates to his view of
+the cognitive process, and of truth generally. He taught, that "Man
+is the measure of all things; both of that which exists, and of that
+which does not exist:" a doctrine canvassed and controverted by Plato,
+who represents that Protagoras affirmed knowledge to consist in
+sensation, and considered the sensations of each individual man to
+be, to him, the canon and measure of truth. We know scarce anything
+of the elucidations or limitations with which Protagoras may have
+accompanied his general position: and if even Plato, who had good
+means of knowing them, felt it ungenerous to insult an orphan
+doctrine whose father was recently dead, and could no longer defend
+it,[^585] much more ought modern authors, who speak with mere scraps
+of evidence before them, to be cautious how they heap upon the same
+doctrine insults much beyond those which Plato recognizes. In so far
+as we can pretend to understand the theory, it was certainly not more
+incorrect than several others then afloat, from the Eleatic school
+and other philosophers; while it had the merit of bringing into
+forcible relief, though in an erroneous manner, the essentially
+relative nature of cognition,[^586] relative, not indeed to the
+sensitive faculty alone, but to that reinforced and guided by the
+other faculties of man, memorial and ratiocinative. And had it been
+even more incorrect than it really is, there would be no warrant for
+those imputations which modern authors build upon it, against the
+morality of Protagoras. No such imputations are countenanced in the
+discussion which Plato devotes to the doctrine: indeed, if the
+vindication which he sets forth against himself on behalf of
+Protagoras be really ascribable to that sophist, it would give an
+exaggerated importance to the distinction between Good and Evil,
+into which the distinction between Truth and Falsehood is considered
+by the Platonic Protagoras as resolvable. The subsequent theories of
+Plato and Aristotle respecting cognition, were much more systematic
+and elaborate, the work of men greatly superior in speculative genius
+to Protagoras: but they would not have been what they were, had not
+Protagoras, as well as others gone before them, with suggestions more
+partial and imperfect.
+
 [^585]: Plato, Theætet. 18, p. 164, E. Οὔτι ἄν, οἶμαι, ὦ φίλε, εἴπερ γε ὁ πατὴρ τοῦ ἑτέρου μύθου ἔζη—ἀλλὰ πολλὰ ἂν ἤμυνε· νῦν δὲ ὄρφανον αὐτὸν ὄντα ἡμεῖς προπηλακίζομεν ... ἀλλὰ δὴ αὐτοὶ κινδυνεύσομεν τοῦ δικαίου ἕνεκ᾽ αὐτῷ βοηθεῖν. This theory of Protagoras is discussed in the dialogue called Theætetus, p. 152, *seq.*, in a long but desultory way. See Sextus Empiric. Pyrrhonic. Hypol. i. 216–219, et contra Mathematicos, vii, 60–64. The explanation which Sextus gives of the Protagorean doctrine, in the former passage, cannot be derived from the treatise of Protagoras himself; since he makes use of the word ὕλη in the philosophical sense, which was not adopted until the days of Plato and Aristotle. It is difficult to make out what Diogenes Laërtius states about other tenets of Protagoras, and to reconcile them with the doctrine of "man being the measure of all things," as explained by Plato (Diog. Laërt. ix, 51, 57).
 
 [^586]: Aristotle (in one of the passages of his Metaphysica, wherein he discusses the Protagorean doctrine, x, i, p. 1053, B.) says that this doctrine comes to nothing more than saying, that man, so far as cognizant, or so far as percipient, is the measure of all things; in other words, that knowledge, or perception, is the measure of all things. This, Aristotle says, is trivial, and of no value, though it sounds like something of importance: Πρωταγόρας δ᾽ ἄνθρωπόν φησι πάντων εἶναι μέτρον, ὥσπερ ἂν εἰ τὸν ἐπιστήμονα εἰπὼν ἢ τὸν αἰσθανόμενον· τούτους δ᾽ ὅτι ἔχουσιν ὁ μὲν αἴσθησιν ὁ δὲ ἐπιστήμην· ἅ φαμεν εἶναι μέτρα τῶν ὑποκειμένων. Οὐθὲν δὴ λέγων περιττὸν φαίνεταί τι λέγειν. It appears to me, that to insist upon the essentially relative nature of cognizable truth, was by no means a trivial or unimportant doctrine, as Aristotle pronounces it to be; especially when we compare it with the unmeasured conceptions of the objects and methods of scientific research which were so common in the days of Protagoras. Compare Metaphysic. iii, 5, pp. 1008, 1009, where it will be seen how many other thinkers of that day carried the same doctrine, seemingly, further than Protagoras. Protagoras remarked that the observed movements of the heavenly bodies did not coincide with that which the astronomers represented them to be, and to which they applied their mathematical reasonings. This remark was a criticism on the mathematical astronomers of his day—ἐλέγχων τοὺς γεωμέτρας (Aristot. Metaph. iii, 2, p. 998, A). We know too little how far his criticism may have been deserved, to assent to the general strictures of Ritter, Gesch. der Phil. vol. i, p. 633.
+
+#### Gorgias — his treatise on physical subjects — misrepresentations of the scope of it
+
+From Gorgias there remains one short essay, preserved in one of the
+Aristotelian, or Pseudo-Aristotelian treatises,[^587] on a metaphysical
+thesis. He professes to demonstrate that nothing exists: that if
+anything exist, it is unknowable; and granting it even to exist and
+to be knowable by any one man, he could never communicate it to
+others. The modern historians of philosophy here prefer the easier
+task of denouncing the skepticism of the sophist, instead of
+performing the duty incumbent on them of explaining his thesis in
+immediate sequence with the speculations which preceded it. In our
+sense of the words, it is a monstrous paradox: but construing them
+in their legitimate filiation from the Eleatic philosophers
+immediately before him, it is a plausible, not to say conclusive,
+deduction from principles which they would have acknowledged.[^588]
+The word existence, as they understood it, did not mean phenomenal,
+but ultra-phenomenal existence. They looked upon the phenomena of
+sense as always coming and going, as something essentially transitory,
+fluctuating, incapable of being surely known, and furnishing at best
+grounds only for conjecture. They searched by cogitation for what
+they presumed to be the really existent something or substance — the
+noumenon, to use a Kantian phrase — lying behind or under the
+phenomena, which noumenon they recognized as the only appropriate
+subject of knowledge. They discussed much, as I have before remarked,
+whether it was one or many; noumenon in the singular, or noumena in
+the plural. Now the thesis of Gorgias related to this ultra-phenomenal
+existence, and bore closely upon the arguments of Zeno and Melissus,
+the Eleatic reasoners of his elder contemporaries. He denied that any
+such ultra-phenomenal something, or noumenon, existed, or could be
+known, or could be described. Of this tripartite thesis, the first
+negation was neither more untenable, nor less untenable, than that of
+those philosophers who before him had argued for the affirmative: on
+the two last points, his conclusions were neither paradoxical nor
+improperly skeptical, but perfectly just, and have been ratified by
+the gradual abandonment, either avowed or implied, of such
+ultra-phenomenal researches among the major part of philosophers. It
+may fairly be presumed that these doctrines were urged by Gorgias for
+the purpose of diverting his disciples from studies which he
+considered as unpromising and fruitless: just as we shall find his
+pupil Isokratês afterwards enforcing the same view, discouraging
+speculations of this nature, and recommending rhetorical exercise as
+preparation for the duties of an active citizen.[^589] Nor must we
+forget that Sokratês himself discouraged physical speculations even
+more decidedly than either of them.
 
 [^587]: See the treatise entitled De Melisso, Xenophane et Gorgiâ in Bekker's edition of Aristotle's Works, vol. i, p. 979, *seq.*; also the same treatise, with a good preface and comments, by Mullach, p. 62 *seq.*: compare Sextus Emp. adv. Mathemat. vii, 65, 87.
 
 [^588]: See the note of Mullach, on the treatise mentioned in the preceding note, p. 72. He shows that Gorgias followed in the steps of Zeno and Melissus.
 
 [^589]: Isokratês De Permutatione, Or. xv, s. 287; Xenoph. Memorab. i, 1, 14.
+
+#### Unfounded accusations against the sophists
+
+If the censures cast upon the alleged skepticism of Gorgias and
+Protagoras are partly without sufficient warrant, partly without any
+warrant at all, much more may the same remark be made respecting the
+graver reproaches heaped upon their teaching on the score of
+immorality or corruption. It has been common with recent German
+historians of philosophy to translate from Plato and dress up a fiend
+called "Die Sophistik," (Sophistic,) whom they assert to have poisoned
+and demoralized, by corrupt teaching, the Athenian moral character,
+so that it became degenerate at the end of the Peloponnesian war,
+compared with what it had been in the time of Miltiadês and Aristeidês.
+
+#### They were not a sect or school, with common doctrines or method; they were a profession, with strong individual peculiarities
+
+Now, in the first place, if the abstraction "Die Sophistik" is to
+have any definite meaning, we ought to have proof that the persons
+styled sophists had some doctrines, principles, or method, both
+common to them all and distinguishing them from others. But such a
+supposition is untrue: there were no such common doctrines, or
+principles, or method, belonging to them; even the name by which
+they are known did not belong to them, any more than to Sokratês
+and others; they had nothing in common except their profession, as
+paid teachers, qualifying young men "to think, speak, and act," —
+these are the words of Isokratês, and better words it would not be
+easy to find — with credit to themselves as citizens. Moreover, such
+community of profession did not at that time imply near so much
+analogy of character as it does now, when the path of teaching has
+been beaten into a broad and visible high road, with measured
+distances and stated intervals: Protagoras and Gorgias found
+predecessors, indeed, but no binding precedents to copy; so that
+each struck out more or less a road of his own. And accordingly,
+we find Plato, in his dialogue called "Protagoras," wherein
+Protagoras, Prodikus, and Hippias, are all introduced, imparting a
+distinct type of character and distinct method to each, not without
+a strong admixture of reciprocal jealousy between them; while
+Thrasymachus, in the Republic, and Euthydêmus, in the dialogue so
+called, are again painted each with colors of his own, different
+from all the three above named. We have not the least reason for
+presuming that Gorgias agreed in the opinion of Protagoras: "Man is
+the measure of all things;" and we may infer, even from Plato
+himself, that Protagoras would have opposed the views expressed by
+Thrasymachus in the first book of the Republic. It is impossible
+therefore to predicate anything concerning doctrines, methods, or
+tendencies, common and peculiar to all the sophists. There were none
+such; nor has the abstract word, "Die Sophistik," any real meaning,
+except such qualities, whatever they may be, as are inseparable from
+the profession or occupation of public teaching. And if, at present,
+every candid critic would be ashamed to cast wholesale aspersions on
+the entire body of professional teachers, much more is such censure
+unbecoming in reference to the ancient sophists, who were
+distinguished from each other by stronger individual peculiarities.
+
+#### The Athenian character was not really corrupted, between 480 B.C. and 405 B.C.
+
+If, then, it were true that in the interval between 480 B.C. and the
+end of the Peloponnesian war, a great moral deterioration had taken
+place in Athens and in Greece generally, we should have to search for
+some other cause than this imaginary abstraction called sophistic.
+But — and this is the second point — the matter of fact here alleged
+is as untrue, as the cause alleged is unreal. Athens, at the close of
+the Peloponnesian war, was not more corrupt than Athens in the days
+of Miltiadês and Aristeidês. If we revert to that earlier period, we
+shall find that scarcely any acts of the Athenian people have drawn
+upon them sharper censure — in my judgment, unmerited — than their
+treatment of these very two statesmen; the condemnation of Miltiadês,
+and the ostracism of Aristeidês. In writing my history of that time,
+far from finding previous historians disposed to give the Athenians
+credit for public virtue, I have been compelled to contend against a
+body of adverse criticism, imputing to them gross ingratitude and
+injustice. Thus the contemporaries of Miltiadês and Aristeidês, when
+described as matter of present history, are presented in anything but
+flattering colors; except their valor at Marathon and Salamis, which
+finds one unanimous voice of encomium. But when these same men have
+become numbered among the mingled recollections and fancies belonging
+to the past, — when a future generation comes to be present, with its
+appropriate stock of complaint and denunciation, — then it is that men
+find pleasure in dressing up the virtues of the past, as a count in
+the indictment against their own contemporaries. Aristophanês,[^590]
+writing during the Peloponnesian war, denounced the Demos of his day
+as degenerated from the virtue of that Demos which had surrounded
+Miltiadês and Aristeidês: while Isokratês,[^591] writing as an old
+man, between 350–340 B.C., complains in like manner of his own time,
+boasting how much better the state of Athens had been in his youth:
+which period of his youth fell exactly during the life of
+Aristophanês, in the last half of the Peloponnesian war.
+
+Such illusions ought to impose on no one without a careful comparison
+of facts; and most assuredly that comparison will not bear out the
+allegation of increased corruption and degeneracy, between the age of
+Miltiadês and the end of the Peloponnesian war. Throughout the whole
+of Athenian history, there are no acts which attest so large a
+measure of virtue and judgment pervading the whole people, as the
+proceedings after the Four Hundred and after the Thirty. Nor do I
+believe that the contemporaries of Miltiadês would have been capable
+of such heroism; for that appellation is by no means too large for
+the case. I doubt whether they would have been competent to the
+steady self-denial of retaining a large sum in reserve during the
+time of peace, both prior to the Peloponnesian war and after the
+Peace of Nikias; or of keeping back the reserve fund of one thousand
+talents, while they were forced to pay taxes for the support of the
+war; or of acting upon the prudent, yet painfully trying, policy
+recommended by Periklês, so as to sustain an annual invasion without
+either going out to fight or purchasing peace by ignominious
+concessions. If bad acts such as Athens committed during the later
+years of the war, for example, the massacre of the Melian
+population, were not done equally by the contemporaries of Miltiadês,
+this did not arise from any superior humanity or principle on their
+part, but from the fact that they were not exposed to the like
+temptation, brought upon them by the possession of imperial power.
+The condemnation of the six generals after the battle of Arginusæ,
+if we suppose the same conduct on their part to have occurred in 490
+B.C., would have been decreed more rapidly and more unceremoniously
+than it was actually decreed in 406 B.C. For at that earlier date
+there existed no psephism of Kannônus, surrounded by prescriptive
+respect; no graphê paranomôn; no such habits of established deference
+to a dikastery solemnly sworn, with full notice to defendants and
+full time of defence measured by the clock; none of those securities
+which a long course of democracy had gradually worked into the public
+morality of every Athenian, and which, as we saw in a former chapter,
+interposed a serious barrier to the impulse of the moment, though
+ultimately overthrown by its fierceness. A far less violent impulse
+would have sufficed for the same mischief in 490 B.C., when no such
+barriers existed. Lastly, if we want a measure of the appreciating
+sentiment of the Athenian public, towards a strict and decorous
+morality in the narrow sense, in the middle of the Peloponnesian war,
+we have only to consider the manner in which they dealt with Nikias.
+I have shown, in describing the Sicilian expedition, that the gravest
+error which the Athenians ever committed, that which shipwrecked both
+their armament at Syracuse and their power at home, arose from their
+unmeasured esteem for the respectable and pious Nikias, which blinded
+them to the grossest defects of generalship and public conduct.
+Disastrous as such misjudgment was, it counts at least as a proof
+that the moral corruption alleged to have been operated in their
+characters, is a mere fiction. Nor let it be supposed that the nerve
+and resolution which once animated the combatants of Marathon and
+Salamis, had disappeared in the latter years of the Peloponnesian
+war. On the contrary, the energetic and protracted struggle of Athens,
+after the irreparable calamity at Syracuse, forms a worthy parallel
+to her resistance in the time of Xerxes, and maintained unabated
+that distinctive attribute which Periklês had set forth as the main
+foundation of her glory, that of never giving way before
+misfortune.[^592] Without any disparagement to the armament at
+Salamis, we may remark that the patriotism of the fleet at Samos,
+which rescued Athens from the Four Hundred, was equally devoted and
+more intelligent; and that the burst of effort, which sent a
+subsequent fleet to victory at Arginusæ, was to the full as
+strenuous.
+
+If, then, we survey the eighty-seven years of Athenian history,
+between the battle of Marathon and the renovation of the democracy
+after the Thirty, we shall see no ground for the assertion, so often
+made, of increased and increasing moral and political corruption. It
+is my belief that the people had become both morally and politically
+better, and that their democracy had worked to their improvement. The
+remark made by Thucydidês, on the occasion of the Korkyræan
+bloodshed, — on the violent and reckless political antipathies,
+arising out of the confluence of external warfare with internal
+party-feud,[^593] — wherever else it may find its application, has no
+bearing upon Athens: the proceedings after the Four Hundred and after
+the Thirty prove the contrary. And while Athens may thus be vindicated
+on the moral side, it is indisputable that her population had
+acquired a far larger range of ideas and capacities than they
+possessed at the time of the battle of Marathon. This, indeed, is
+the very matter of fact deplored by Aristophanês, and admitted by
+those writers, who, while denouncing the sophists, connect such
+enlarged range of ideas with the dissemination of the pretended
+sophistical poison. In my judgment, not only the charge against the
+sophists as poisoners, but even the existence of such poison in the
+Athenian system, deserves nothing less than an emphatic denial.
 
 [^590]: Aristophan. Equit. 1316–1321.
 
@@ -1690,11 +2029,139 @@ The intimations given in Plato, of the enthusiastic reception which Protagoras, 
 
 [^593]: Thucydidês (iii, 82) specifies very distinctly the cause to which he ascribes the bad consequences which he depicts. He makes no allusion to sophists or sophistical teaching; though Brandis (Gesch. der Gr. Röm. Philos. i, p. 518, not. f.) drags in "the sophistical spirit of the statesmen of that time," as if it were the cause of the mischief, and as if it were to be found in the speeches of Thucydidês, i, 76, v, 105. There cannot be a more unwarranted assertion; nor can a learned man like Brandis be ignorant, that such words as "the sophistical spirit," (Der sophistische Geist,) are understood by a modern reader in a sense totally different from its true Athenian sense.
 
+#### Prodikus — The choice of Hercules
+
+Let us examine again the names of these professional teachers,
+beginning with Prodikus, one of the most renowned. Who is there that
+has not read the well-known fable called "The Choice of Hercules,"
+which is to be found in every book professing to collect impressive
+illustrations of elementary morality? Who does not know that its
+express purpose is, to kindle the imaginations of youth in favor of
+a life of labor for noble objects, and against a life of indulgence?
+It was the favorite theme on which Prodikus lectured, and on which
+he obtained the largest audience.[^594] If it be of striking
+simplicity and effect even to a modern reader, how much more
+powerfully must it have worked upon the audience for whose belief it
+was specially adapted, when set off by the oral expansions of its
+author! Xenophon wondered that the Athenian dikasts dealt with
+Sokratês as a corruptor of youth, — Isokratês wondered that a portion
+of the public made the like mistake about him, — and I confess my
+wonder to be not less, that not only Aristophanês,[^595] but even the
+modern writers on Grecian philosophy, should rank Prodikus in the
+same unenviable catalogue. This is the only composition[^596]
+remaining from him; indeed, the only composition remaining from any
+one of the sophists, excepting the thesis of Gorgias, above noticed.
+It served, not merely as a vindication of Prodikus against such
+reproach, but also as a warning against implicit confidence in the
+sarcastic remarks of Plato, — which include Prodikus as well as the
+other sophists, — and in the doctrines which he puts into the mouth of
+the sophists generally, in order that Sokratês may confute them. The
+commonest candor would teach us, that if a polemical writer of
+dialogue chooses to put indefensible doctrine into the mouth of the
+opponent, we ought to be cautious of condemning the latter upon such
+very dubious proof.
+
 [^594]: Xenoph. Memor. ii, 1, 21–34. Καὶ Πρόδικος δὲ ὁ σοφὸς ἐν τῷ συγγράμματι τῷ περὶ Ἡρακλέους, ὅπερ δὴ καὶ πλείστοις ἐπιδείκνυται, ὡσαύτως περὶ τῆς ἀρετῆς ἀποφαίνεται, etc. Xenophon here introduces Sokratês himself as bestowing much praise on the moral teaching of Prodikus.
 
 [^595]: See Fragment iii, of the Ταγηνισταὶ of Aristophanês, Meineke, Fragment. Aristoph. p. 1140.
 
 [^596]: Xenophon gives only the substance of Prodikus's lecture, not his exact words. But he gives what may be called the whole substance, so that we can appreciate the scope as well as the handling of the author. We cannot say the same of an extract given (in the Pseudo-Platonic Dialogue Axiochus, c. 7, 8) from a lecture said to have been delivered by Prodikus, respecting the miseries of human life, pervading all the various professions and occupations. It is impossible to make out distinctly, either how much really belongs to Prodikus, or what was his scope and purpose, if any such lecture was really delivered.
+
+#### Protagoras — real estimate exhibited of him by Plato
+
+Welcker and other modern authors treat Prodikus as "the most
+innocent" of the sophists, and except him from the sentence which
+they pass upon the class generally. Let us see, therefore, what Plato
+himself says about the rest of them, and first about Protagoras. If
+it were not the established practice with readers of Plato to condemn
+Protagoras beforehand, and to put upon every passage relating to him
+not only a sense as bad as it will bear, but much worse than it will
+fairly bear, they would probably carry away very different inferences
+from the Platonic dialogue called by that sophist's name, and in
+which he is made to bear a chief part. That dialogue is itself enough
+to prove that Plato did not conceive Protagoras either as a corrupt,
+or unworthy, or incompetent teacher. The course of the dialogue
+exhibits him as not master of the theory of ethics, and unable to
+solve various difficulties with which that theory is expected to
+grapple; moreover, as no match for Sokratês in dialectics, which
+Plato considered as the only efficient method of philosophical
+investigation. In so far, therefore, as imperfect acquaintance with
+the science or theory upon which rules of art, or the precepts
+bearing on practice, repose, disqualifies a teacher from giving
+instruction in such art or practice, to that extent Protagoras is
+exposed as wanting. And if an expert dialectician, like Plato, had
+passed Isokratês or Quintilian, or the large majority of teachers
+past or present, through a similar cross-examination as to the theory
+of their teaching, an ignorance not less manifest than that of
+Protagoras would be brought out. The antithesis which Plato sets
+forth, in so many of his dialogues, between precept or practice,
+accompanied by full knowledge of the scientific principles from which
+it must be deduced, if its rectitude be disputed, — and unscientific
+practice, without any such power of deduction or defence, is one of
+the most valuable portions of his speculations: he exhausts his
+genius to render it conspicuous in a thousand indirect ways, and to
+shame his readers, if possible, into the loftier and more rational
+walk of thought. But it is one thing to say of a man, that he does
+not know the theory of what he teaches, or of the way in which he
+teaches; it is another thing to say, that he actually teaches that
+which scientific theory would not prescribe as the best; it is a
+third thing, graver than both, to say that his teaching is not only
+below the exigences of science, but even corrupt and demoralizing.
+Now of these three points, it is the first only which Plato in his
+dialogue makes out against Protagoras: even the second, he neither
+affirms nor insinuates; and as to the third, not only he never glances
+at it, even indirectly, but the whole tendency of the discourse
+suggests a directly contrary conclusion. As if sensible that when an
+eminent opponent was to be depicted as puzzled and irritated by
+superior dialectics, it was but common fairness to set forth his
+distinctive merits also, Plato gives a fable, and expository
+harangue, from the mouth of Protagoras,[^597] upon the question
+whether virtue is teachable. This harangue is, in my judgment, very
+striking and instructive; and so it would have been probably
+accounted, if commentators had not read it with a preëstablished
+persuasion that whatever came from the lips of a sophist must be
+either ridiculous or immoral.[^598] It is the only part of Plato's
+works wherein any account is rendered of the growth of that floating,
+uncertified, self-propagating body of opinion, upon which the
+cross-examining analysis of Sokratês is brought to bear, as will be
+seen in the following chapter.
+
+Protagoras professes to teach his pupils "good counsel" in their
+domestic and family relations, as well as how to speak and act in the
+most effective manner for the weal of the city. Since this comes from
+Protagoras, the commentators of Plato pronounce it to be miserable
+morality; but it coincides, almost to the letter, with that which
+Isokratês describes himself as teaching, a generation afterwards,
+and substantially even with that which Xenophon represents Sokratês
+as teaching; nor is it easy to set forth, in a few words, a larger
+scheme of practical duty.[^599] And if the measure of practical duty,
+which Protagoras devoted himself to teach, was thus serious and
+extensive, even the fraction of theory assigned to him in his
+harangue, includes some points better than that of Plato himself. For
+Plato seems to have conceived the ethical end, to each individual, as
+comprising nothing more than his own permanent happiness and moral
+health; and in this very dialogue, he introduces Sokratês as
+maintaining virtue to consist only in a right calculation of a man's
+own personal happiness and misery. But here we find Protagoras
+speaking in a way which implies a larger, and, in my opinion, a
+juster, appreciation of the ethical end, as including not only
+reference to a man's own happiness, but also obligations towards the
+happiness of others. Without at all agreeing in the harsh terms of
+censure which various critics pronounce upon that theory which
+Sokratês is made to set forth in the Platonic Protagoras, I consider
+his conception of the ethical end essentially narrow and imperfect,
+not capable of being made to serve as basis for deduction of the best
+ethical precepts. Yet such is the prejudice with which the history of
+the sophists has been written, that the commentators on Plato accuse
+the sophists of having originated what they ignorantly term, "the
+base theory of utility," here propounded by Sokratês himself;
+complimenting the latter on having set forth those larger views which
+in this dialogue belong only to Protagoras.[^600]
+
+So far as concerns Protagoras, therefore, the evidence of Plato
+himself may be produced to show that he was not a corrupt teacher,
+but a worthy companion of Prodikus; worthy also of that which we
+know him to have enjoyed, the society and conversation of Periklês.
 
 [^597]: Plato, Protagoras, p. 320, D. c. 11, *et seq.*, especially p. 322, D, where Protagoras lays it down that no man is fit to be a member of a social community, who has not in his bosom both δίκη and αἰδὼς,—that is, a sense of reciprocal obligation and right between himself and others,—and a sensibility to esteem or reproach from others. He lays these fundamental attributes down as what a good ethical theory must assume or exact in every man.
 
@@ -1704,27 +2171,289 @@ The intimations given in Plato, of the enthusiastic reception which Protagoras, 
 
 [^600]: Stallbaum, Prolegomena ad Platonis Menonem, p. 9. Whoever will compare this criticism with the Protagoras of Plato, c. 36, 37, especially p. 357, B, wherein Sokratês identifies good with pleasure and evil with pain, and wherein he considers right conduct to consist in justly calculating the items of pleasure and pain one against the other, ἡ μετρητικὴ τέχνη, will be astonished how a critic on Plato could write what is above cited. I am aware that there are other parts of Plato's dialogues in which he maintains a doctrine different from that just alluded to. Accordingly, Stallbaum (in his Prolegomena to the Protagoras, p. 30) contends that Plato is here setting forth a doctrine not his own, but is reasoning on the principles of Protagoras, for the purpose of entrapping and confounding him. I am happy to be able to vindicate Plato against the disgrace of so dishonest a spirit of argumentation as that which Stallbaum ascribes to him. Plato most certainly does not reason here upon the doctrines or principles of Protagoras; for the latter begins by positively denying the doctrine, and is only brought to admit it in a very qualified manner, c. 35, p. 351, D. There is something peculiarly striking in this appeal of Protagoras to his whole past life, as rendering it impossible for him to admit what he evidently looked upon as a base theory. Yet Stallbaum actually ventures to take it away from Sokratês, who not only propounds it confidently, but reasons it out in a clear and forcible manner, and to fasten it on Protagoras, who first disclaims it and then only admits it under reserve. What makes the case worse is, that he fastens it not only on Protagoras, but on the sophists collectively, by that monstrous fiction which treats them as a doctrinal sect.
 
+#### Hippias of Elis — how he is represented by Plato
+
+Let us now examine what Plato says about a third sophist, Hippias of
+Elis; who figures both in the dialogue called "Protagoras," and in
+two distinct dialogues known by the titles of "Hippias Major and
+Minor." Hippias is represented as distinguished for the wide range
+of his accomplishments, of which in these dialogues he ostentatiously
+boasts. He could teach astronomy, geometry, and arithmetic, which
+subjects Protagoras censured him for enforcing too much upon his
+pupils; so little did these sophists agree in any one scheme of
+doctrine or education. Besides this, he was a poet, a musician, an
+expositor of the poets, and a lecturer with a large stock of composed
+matter, — on subjects moral, political, and even legendary, — treasured
+up in a very retentive memory. He was a citizen much employed as
+envoy by his fellow-citizens: to crown all, his manual dexterity was
+such that he professed to have made with his own hands all the attire
+and ornaments which he wore on his person. If, as is sufficiently
+probable, he was a vain and ostentatious man, — defects not excluding
+an useful and honorable career, — we must at the same time give him
+credit for a variety of acquisitions such as to explain a certain
+measure of vanity.[^601] The style in which Plato handles Hippias is
+very different from that in which he treats Protagoras. It is full of
+sneer and contemptuous banter, insomuch that even Stallbaum,[^602]
+after having repeated a great many times that this was a vile sophist,
+who deserved no better treatment, is forced to admit that the
+petulance is carried rather too far, and to suggest that the dialogue
+must have been a juvenile work of Plato. Be this as it may, amidst
+so much unfriendly handling, not only we find no imputation against
+Hippias, of having preached a low or corrupt morality, but Plato
+inserts that which furnishes good, though indirect, proof of the
+contrary. For Hippias is made to say that he had already delivered,
+and was about to deliver again, a lecture composed by himself with
+great care, wherein he enlarged upon the aims and pursuits which a
+young man ought to follow. The scheme of his discourse was, that
+after the capture of Troy, the youthful Neoptolemus was introduced
+as asking the advice of Nestor about his own future conduct; in reply
+to which, Nestor sets forth to him what was the plan of life incumbent
+on a young man of honorable aspirations, and unfolds to him the full
+details of regulated and virtuous conduct by which it ought to be
+filled up.[^603] The selection of two such names, among the most
+venerated in all Grecian legend, as monitor and pupil, is a stamp
+clearly attesting the vein of sentiment which animated the
+composition. Morality preached by Nestor for the edification of
+Neoptolemus, might possibly be too high for Athenian practice; but
+most certainly it would not err on the side of corruption, selfishness,
+or over-indulgence. We may fairly presume that this discourse
+composed by Hippias would not be unworthy, in spirit and purpose, to
+be placed by the side of "The Choice of Hercules," nor its author by
+that of Prodikus as a moral teacher.
+
 [^601]: See about Hippias, Plato, Protagoras, c. 9, p. 318, E.; Stallbaum, Prolegom. ad Platon. Hipp. Maj. p. 147, *seq.*; Cicero, de Orator. iii, 33; Plato, Hipp. Minor, c. 10, p. 368, B.
 
 [^602]: Stallbaum, Proleg. ad Plat. Hipp. Maj. p. 150.
 
 [^603]: Plato, Hippias Major, p. 286, A, B.
 
+#### Gorgias, Pôlus, and Kalliklês
+
+The dialogue entitled "Gorgias," in Plato, is carried on by Sokratês
+with three different persons one after the other, — Gorgias, Pôlus,
+and Kalliklês. Gorgias of Leontini in Sicily, as a rhetorical
+teacher, acquired greater celebrity than any man of his time, during
+the Peloponnesian war: his abundant powers of illustration, his
+florid ornaments, his artificial structure of sentences distributed
+into exact antithetical fractions, all spread a new fashion in the
+art of speaking, which for the time was very popular, but afterwards
+became discredited. If the line could be clearly drawn between rhetors
+and sophists, Gorgias ought rather to be ranked with the former.[^604]
+In the conversation with Gorgias, Sokratês exposes the fallacy and
+imposture of rhetoric and rhetorical teaching, as cheating an
+ignorant audience into persuasion without knowledge, and as framed
+to satisfy the passing caprice, without any regard to the permanent
+welfare and improvement of the people. Whatever real inculpation may
+be conveyed in these arguments against a rhetorical teacher, Gorgias
+must bear in common with Isokratês and Quintilian, and under the
+shield of Aristotle. But save and except rhetorical teaching, no
+dissemination of corrupt morality is ascribed to him by Plato; who,
+indeed, treats him with a degree of respect which surprises the
+commentators.[^605]
+
 [^604]: Plato, Menon, p. 95, A.; Foss, De Gorgiâ Leontino, p. 27, *seq.*
 
 [^605]: See the observations of Groen van Prinsterer and Stallbaum, Stallbaum ad Platon. Gorg. c. 1.
+
+#### Doctrine advanced by Pôlus
+
+The tone of the dialogue changes materially when it passes to Pôlus
+and Kalliklês, the former of whom is described as a writer on
+rhetoric, and probably a teacher also.[^606] There is much insolence
+in Pôlus, and no small asperity in Sokratês. Yet the former maintains
+no arguments which justify the charge of immorality against himself
+or his fellow-teachers. He defends the tastes and sentiments common
+to every man in Greece, and shared even by the most estimable
+Athenians, Periklês, Nikias, and Aristokratês;[^607] while Sokratês
+prides himself on standing absolutely alone, and having no support
+except from his irresistible dialectics, whereby he is sure of
+extorting reluctant admission from his adversary. How far Sokratês
+may be right, I do not now inquire: it is sufficient that Pôlus,
+standing as he does amidst company at once so numerous and so
+irreproachable, cannot be fairly denounced as a poisoner of the
+youthful mind.
 
 [^606]: Plato, Gorgias, c. 17, p. 462, B.
 
 [^607]: Plato, Gorgias, c. 27, p. 472, A. Καὶ νῦν (say Sokratês) περὶ ὧν σὺ λέγεις ὀλίγου σοι πάντες συμφήσουσι ταῦτα Ἀθηναῖοι καὶ ξένοι—μαρτυρήσουσί σοι, ἐὰν μὲν βούλῃ, Νικίας ὁ Νικηράτου καὶ οἱ ἀδελφοὶ μετ᾽ αὐτοῦ—ἐὰν δὲ βούλῃ, Ἀριστοκράτης ὁ Σκελλίου—ἐὰν δὲ βούλῃ, ἡ Περικλέους ὅλη οἰκία, ἢ ἄλλη συγγένεια, ἥντινα ἂν βούλῃ τῶν ἐνθάδε ἐκλέξασθαι. Ἀλλ᾽ ἐγώ σοι εἷς ὢν οὐχ ὁμολογῶ.... Ἐγὼ δὲ ἂν μὴ σὲ αὐτὸν ἕνα ὄντα μάρτυρα παράσχωμαι ὁμολογοῦντα περὶ ὧν λέγω, οὐδὲν οἶμαι ἄξιον λόγου μοι πεπεράνθαι περὶ ὧν ἂν ἡμῖν ὁ λόγος ᾖ.
 
+#### Doctrine advanced by Kalliklês — anti-social
+
+Pôlus presently hands over the dialogue to Kalliklês, who is here
+represented, doubtless, as laying down doctrines openly and avowedly
+anti-social. He distinguishes between the law of nature and the
+law — both written and unwritten, for the Greek word substantially
+includes both — of society. According to the law of nature, Kalliklês
+says, the strong man — the better or more capable man — puts forth his
+strength to the full for his own advantage, without limit or
+restraint; overcomes the resistance which weaker men are able to
+offer; and seizes for himself as much as he pleases of the matter
+of enjoyment. He has no occasion to restrain any of his appetites
+or desires; the more numerous and pressing they are, so much the
+better for him, since his power affords him the means of satiating
+them all. The many, who have the misfortune to be weak, must be
+content with that which he leaves them, and submit to it as best
+they can. This, Kalliklês says, is what actually happens in a state
+of nature; this is what is accounted just, as is evident by the
+practice of independent communities, not included in one common
+political society, towards each other; this is *justice*, by nature,
+or according to the law of nature. But when men come into society,
+all this is reversed. The majority of individuals know very well
+that they are weak, and that their only chance of security or comfort
+consists in establishing laws to restrain this strong man, reinforced
+by a moral sanction of praise and blame devoted to the same general
+end. They catch him, like a young lion, whilst his mind is yet
+tender, and fascinate him by talk and training into a disposition
+conformable to that measure and equality which the law enjoins. Here,
+then, is justice according to the law of society; a factitious system,
+built up by the many for their own protection and happiness, to the
+subversion of the law of nature, which arms the strong man with a
+right to encroachment and license. Let a fair opportunity occur, and
+the favorite of Nature will be seen to kick off his harness, tread
+down the laws, break through the magic circle of opinion around him,
+and stand forth again as lord and master of the many; regaining that
+glorious position which nature has assigned to him as his right.
+Justice by nature, and justice by law and society, are thus, according
+to Kalliklês, not only distinct, but mutually contradictory. He
+accuses Sokratês of having jumbled the two together in his
+argument.[^608]
+
 [^608]: This doctrine asserted by Kalliklês will be found in Plato, Gorgias, c. 39, 40, pp. 483, 484.
+
+#### Kalliklês is not a sophist
+
+It has been contended by many authors that this anti-social
+reasoning — true enough, in so far as it states simple[^609] matter of
+fact and probability; immoral, in so far as it erects the power of
+the strong man into a right; and inviting many comments, if I could
+find a convenient place for them — represents the morality commonly
+and publicly taught by the persons called sophists at Athens.[^610] I
+deny this assertion emphatically. Even if I had no other evidence to
+sustain my denial, except what has been already extracted, from the
+unfriendly writings of Plato himself, respecting Protagoras and
+Hippias, — with what we know from Xenophon about Prodikus, — I should
+consider my case made out as vindicating the sophists generally from
+such an accusation. If refutation to the doctrine of Kalliklês were
+needed, it would be obtained quite as efficaciously from Prodikus and
+Protagoras as from Sokratês and Plato.
+
+But this is not the strongest part of the vindication.
+
+First, Kalliklês himself is not a sophist, nor represented by Plato
+as such. He is a young Athenian citizen, of rank and station,
+belonging to the deme Acharnæ; he is intimate with other young men
+of condition in the city, has recently entered into active political
+life, and bends his whole soul towards it; he disparages philosophy,
+and speaks with utter contempt about the sophists.[^611] If, then,
+it were even just, which I do not admit, to infer from opinions put
+into the mouth of one sophist, that the same were held by another or
+by all of them, it would not be the less unjust to draw the like
+inference from opinions professed by one who is not a sophist, and
+who despises the whole profession.
 
 [^609]: See the same matter of fact strongly stated by Sokratês in the Memorab. of Xenophon, ii, 1, 13.
 
 [^610]: Schleiermacher (in the Prolegomena to his translation of the Theætetus, p. 183) represents that Plato intended to refute Aristippus in the person of Kalliklês; which supposition he sustains, by remarking that Aristippus affirmed that there was no such thing as justice by nature, but only by law and convention. But the affirmation of Kalliklês is the direct contrary of that which Schleiermacher ascribes to Aristippus. Ritter and Brandis are yet more incorrect in their accusations of the sophists, founded upon this same doctrine. The former says (p. 581): "It is affirmed as a common tenet of the sophists, there is no right by nature, but only by convention;" compare Brandis, p. 521. The very passages to which these writers refer, as far as they prove anything, prove the contrary of what they assert; and Preller actually imputes the contrary tenet to the sophists (Histor. Philosoph. c. 4, p. 130, Hamburg, 1838) with just as little authority. Both Ritter and Brandis charge the sophists with wickedness for this alleged tenet; for denying that there was any right by nature, and allowing no right except by convention; a doctrine which had been maintained before them by Archelaus (Diogen. Laërt. ii, 16). Now Plato (Legg. x, p. 889), whom these writers refer to, charges certain wise men—σοφοὺς ἰδιώτας τε καὶ ποιητὰς (he does not mention sophists)—with wickedness, but on the ground directly opposite; because *they did acknowledge a right by nature, of greater authority than the right laid down by the legislator*; and because they encouraged pupils to follow this supposed right of nature, disobeying the law; interpreting the right of nature as Kalliklês does in the Gorgias! Teachers are thus branded as wicked men by Ritter and Brandis, for the negative, and by Plato, if he here means the sophists, for the affirmative doctrine.
 
 [^611]: Plato, Gorgias, c. 37, p. 481, D; c. 41, p. 485, B, D; c. 42, p. 487, C; c. 50, p. 495, B; c. 70, p. 515, A. σὺ μὲν αὐτὸς ἄρτι ἄρχει πράττειν τὰ τῆς πόλεως πράγματα; compare c. 55, p. 500, C. His contempt for the sophists, c. 75, p. 519, E, with the note of Heindorf.
+
+#### The doctrine put into his mouth could never have been laid down in any public lecture among the Athenians
+
+Secondly, if any man will read attentively the course of the
+dialogue, he will see that the doctrine of Kalliklês is such as no
+one dared publicly to propound. So it is conceived both by Kalliklês
+himself, and by Sokratês. The former first takes up the conversation,
+by saying that his predecessor Pôlus had become entangled in a
+contradiction, because he had not courage enough openly to announce
+an unpopular and odious doctrine; but he, Kalliklês, was less
+shamefaced, and would speak out boldly that doctrine which others
+kept to themselves for fear of shocking the hearers. "Certainly (says
+Sokratês to him) your audacity is abundantly shown by the doctrine
+which you have just laid down; you set forth plainly that which other
+people think, but do not choose to utter."[^612] Now, opinions of
+which Pôlus, an insolent young man, was afraid to proclaim himself
+the champion, must have been revolting indeed to the sentiments of
+hearers. How then can any reasonable man believe, that such opinions
+were not only openly propounded, but seriously inculcated as truth
+upon audiences of youthful hearers, by the sophists? We know that the
+teaching of the latter was public in the highest degree; publicity was
+pleasing as well as profitable to them; among the many disparaging
+epithets heaped upon them, ostentation and vanity are two of the
+most conspicuous. Whatever they taught, they taught publicly; and I
+contend, with full conviction, that, had they even agreed with
+Kalliklês in this opinion, they could neither have been sufficiently
+audacious, nor sufficiently their own enemies, to make it a part of
+their public teaching; but would have acted like Pôlus, and kept the
+doctrine to themselves.
+
+Thirdly, this latter conclusion will be rendered doubly certain,
+when we consider of what city we are now speaking. Of all places in
+the world, the democratical Athens is the last in which the doctrine
+advanced by Kalliklês could possibly have been professed by a public
+teacher; or even by Kalliklês himself, in any public meeting. It is
+unnecessary to remind the reader how profoundly democratical was the
+sentiment and morality of the Athenians, — how much they loved their
+laws, their constitution, and their political equality, — how jealous
+their apprehension was of any nascent or threatening despotism. All
+this is not simply admitted, but even exaggerated, by Mr. Mitford,
+Wachsmuth, and other anti-democratical writers, who often draw from
+it materials for their abundant censures. Now the very point which
+Sokratês, in this dialogue, called "Gorgias," seeks to establish
+against Kalliklês, against the rhetors, and against the sophists, is,
+that they courted, flattered, and truckled to the sentiment of the
+Athenian people, with degrading subservience; that they looked to the
+immediate gratification simply, and not to permanent moral improvement
+of the people; that they had not courage to address to them any
+unpalatable truths, however salutary, but would shift and modify
+opinions in every way, so as to escape giving offence;[^613] that no
+man who put himself prominently forward at Athens had any chance of
+success, unless he became moulded and assimilated, from the core, to
+the people and their type of sentiment.[^614] Granting such charges to
+be true, how is it conceivable that any sophist, or any rhetor, could
+venture to enforce upon an Athenian public audience the doctrine laid
+down by Kalliklês? To tell such an audience: "Your laws and
+institutions are all violations of the law of nature, contrived to
+disappoint the Alkibiadês or Napoleon among you of his natural right
+to become your master, and to deal with you petty men as his slaves.
+All your unnatural precautions, and conventional talk, in favor of
+legality and equal dealing, will turn out to be nothing better than
+pitiful impotence,[^615] as soon as *he* finds a good opportunity of
+standing forward in his full might and energy, so as to put you into
+your proper places, and show you what privileges Nature intends for
+her favorites!" Conceive such a doctrine propounded by a lecturer to
+assembled Athenians! A doctrine just as revolting to Nikias as to
+Kleon, and which even Alkibiadês would be forced to affect to
+disapprove; since it is not simply anti-popular, not simply despotic,
+but the drunken extravagance of despotism. The Great man, as depicted
+by Kalliklês, stands in the same relation to ordinary mortals, as
+Jonathan Wild the Great, in the admirable parody of Fielding.
+
+That sophists, whom Plato accuses of slavish flattery to the
+democratical ear, should gratuitously insult it by the proposition of
+such tenets, is an assertion not merely untrue, but utterly absurd.
+Even as to Sokratês, we know from Xenophon how much the Athenians
+were offended with him, and how much it was urged by the accusers on
+his trial, that in his conversations he was wont to cite with peculiar
+relish the description, in the second book of the Iliad, of Odysseus
+following the Grecian crowd, when running away from the agora to get
+on shipboard, and prevailing upon them to come back, by gentle words
+addressed to the chiefs, but by blows of his stick, accompanied with
+contemptuous reprimand, to the common people. The indirect evidence
+thus afforded, that Sokratês countenanced unequal dealing and ill
+usage towards the many, told much against him in the minds of the
+dikasts. What would they have felt then towards a sophist who publicly
+professed the political morality of Kalliklês? The truth is, not only
+was it impossible that any such morality, or anything of the same
+type even much diluted, could find its way into the educational
+lectures of professors at Athens, but the fear would be in the
+opposite direction. If the sophist erred in either way, it would be
+in that which Sokratês imputes, by making his lectures over-democratical.
+Nay, if we suppose any opportunity to have arisen of discussing the
+doctrine of Kalliklês, he would hardly omit to flatter the ears of
+the surrounding democrats by enhancing the beneficent results of
+legality and equal dealing, and by denouncing this "natural despot,"
+or undisclosed Napoleon, as one who must either take his place under
+such restraints, or find a place in some other city.
 
 [^612]: Plato, Gorgias, c. 38, p. 482, E. ἐκ ταύτης γὰρ αὖ τῆς ὁμολογίας αὐτὸς ὑπὸ σοῦ συμποδισθεὶς ἐν τοῖς λόγοις ἐπεστομίσθη (Polus), αἰσχυνθεὶς ἃ ἐνόει εἰπεῖν· σὺ γὰρ τῷ ὄντι, ὦ Σώκρατες, εἰς τοιαῦτα ἄγεις φορτικὰ καὶ δημηγορικὰ, φάσκων τὴν ἀλήθειαν διώκειν ... ἐὰν οὖν τις αἰσχύνηται καὶ μὴ τολμᾷ λέγειν ἅπερ νοεῖ, ἀναγκάζεται ἐναντία λέγειν. Καὶ μὴν (says Sokratês to Kalliklês, c. 42, p. 487, D.) ὅτι γε οἷος παῤῥησιάζεσθαι καὶ μὴ αἰσχύνεσθαι, αὐτός τε φῂς, καὶ ὁ λόγος, ὃν ὀλίγον πρότερον ἔλεγες, ὁμολογεῖ σοι. Again, c. 47, p. 492, D. Οὐκ ἀγεννῶς γε, ὦ Καλλικλεῖς, ἐπεξέρχει τῷ λόγῳ παῤῥησιαζόμενος· σαφῶς γὰρ σὺ νῦν λέγεις ἃ οἱ ἄλλοι διανοοῦνται μὲν, λέγειν δὲ οὐκ ἐθέλουσι.
 
@@ -1734,19 +2463,275 @@ The intimations given in Plato, of the enthusiastic reception which Protagoras, 
 
 [^615]: Plato, Gorgias, c. 46, p. 492, C (the words of Kalliklês). Τὰ δὲ ἄλλα ταῦτ᾽ ἐστὶ τὰ καλλωπίσματα, τὰ παρὰ φύσιν ξυνθήματα, ἀνθρώπων φλυαρία καὶ οὐδενὸς ἄξια.
 
-[^616]: I omitted to notice the Dialogue of Plato entitled Euthydemus, wherein Sokratês is introduced in conversation with the two persons called sophists, Euthydemus and Dionysodorus, who are represented as propounding a number of verbal quibbles, assertions of double sense, arising from equivocal grammar or syntax,—fallacies of mere diction, without the least plausibility as to the sense,—specimens of jests and hoax, p. 278, B. They are described as extravagantly conceited, while Sokratês is painted with his usual affectation of deference and modesty. He himself, during a part of the dialogue, carries on conversation in his own dialectical manner with the youthful Kleinias; who is then handed over to be taught by Euthydemus and Dionysodorus; so that the contrast between their style of questioning, and that of Sokratês, is forcibly brought out. To bring out this contrast, appears to me the main purpose of the dialogue, as has already been remarked by Socher and others (see Stallbaum, Prolegom. ad Euthydem. pp. 15–65): but its construction, its manner, and its result, previous to the concluding conversation between Sokratês and Kriton separately, is so thoroughly comic, that Ast, on this and other grounds, rejects it as spurious and unworthy of Plato (see Ast, über Platons Leben und Schriften, pp. 414–418). Without agreeing in Ast's inference, I recognize the violence of the caricature which Plato has here presented under the characters of Euthydemus and Dionysodorus. And it is for this reason, among many others, that I protest the more emphatically against the injustice of Stallbaum and the commentators generally, who consider these two persons as disciples of Protagoras, and samples of what is called "Sophistica," the sophistical practice, the sophists generally. There is not the smallest ground for considering these two men as disciples of Protagoras, who is presented to us, even by Plato himself, under an aspect as totally different from them as it is possible to imagine. Euthydemus and Dionysodorus are described, by Plato himself in this very dialogue, as old men who had been fencing-masters, and who had only within the last two years applied themselves to the eristic or controversial dialogue (Euthyd. c. 1, p. 272, C.; c. 3, p. 273, E). Schleiermacher himself accounts their personal importance so mean, that he thinks Plato could not have intended to attack them, but meant to attack Antisthenês and the Megaric school of philosophers (Prolegom. ad Euthydem. vol. iii, pp. 403, 404, of his translation of Plato). So contemptible does Plato esteem them, that Krito blames Sokratês for having so far degraded himself as to be seen talking with them before many persons (p. 305, B, c. 30). The name of Protagoras occurs only once in the dialogue, in reference to the doctrine, started by Euthydemus, that false propositions or contradictory propositions were impossible, because no one could either think about or talk about *that which was not*, or *the non-existent* (p. 284, A; 286, C). This doctrine is said by Sokratês to have been much talked of "by Protagoras, and by men yet earlier than he." It is idle to infer from such a passage, any connection or analogy between these men and Protagoras, as Stallbaum labors to do throughout his Prolegomena; affirming (in his note on p. 286, C,) most incorrectly, that Protagoras maintained this doctrine about τὸ μὴ ὂν, or the non-existent, because he had *too great faith* in the evidence of the senses; whereas we know from Plato that it had its rise with Parmenidês, who rejected the evidence of the senses entirely (see Plato, Sophist. 24, p. 237, A, with Heindorf and Stallbaum's notes). Diogenes Laërtius (ix, 8, 53) falsely asserts that Protagoras was the *first* to broach the doctrine, and even cites as his witness Plato in the Euthydemus, where the exact contrary is stated. Whoever broached it first, it was a doctrine following plausibly from the then received Realism, and Plato was long perplexed before he could solve the difficulty to his own satisfaction (Theætet. p. 187, D). I do not doubt that there were in Athens persons who abused the dialectical exercise for frivolous puzzles, and it was well for Plato to compose a dialogue exhibiting the contrast between these men and Sokratês. But to treat Euthydemus and Dionysodorus as samples of "The Sophists," is altogether unwarranted.
+#### Doctrine of Thrasymachus in the "Republic" of Plato
+
+I have thus shown, even from Plato himself, that the doctrine
+ascribed to Kalliklês neither did enter, nor could have entered, into
+the lectures of a sophist or professed teacher. The same conclusion
+may be maintained respecting the doctrine of Thrasymachus in the
+first book of the "Republic." Thrasymachus was a rhetorical teacher,
+who had devised precepts respecting the construction of an oration
+and the training of young men for public speaking. It is most
+probable that he confined himself, like Gorgias, to this department,
+and that he did not profess to give moral lectures, like Protagoras
+and Prodikus. But granting him to have given such, he would not talk
+about justice in the way in which Plato makes him talk, if he desired
+to give any satisfaction to an Athenian audience. The mere brutality
+and ferocious impudence of demeanor even to exaggeration, with which
+Plato invests him, is in itself a strong proof that the doctrine,
+ushered in with such a preface, was not that of a popular and
+acceptable teacher, winning favor in public audiences. He defines
+justice to be "the interest of the superior power; that rule, which,
+in every society, the dominant power prescribes, as being for its
+own advantage." A man is just, he says, for the advantage of another,
+not for his own: he is weak, cannot help himself, and must submit to
+that which the stronger authority, whether despot, oligarchy, or
+commonwealth, commands.
+
+#### Such doctrine not common to all the sophists — what is offensive in it is, the manner in which it is put forward
+
+This theory is essentially different from the doctrine of Kalliklês,
+as set forth a few pages back; for Thrasymachus does not travel out
+of society to insist upon anterior rights dating from a supposed
+state of nature; he takes societies as he finds them, recognizing
+the actual governing authority of each as the canon and constituent
+of justice or injustice. Stallbaum and other writers have incautiously
+treated the two theories as if they were the same; and with something
+even worse than want of caution, while they pronounce the theory of
+Thrasymachus to be detestably immoral, announce it as having been
+propounded not by him only, but by *The Sophists*; thus, in their
+usual style, dealing with the sophists as if they were a school,
+sect, or partnership with mutual responsibility. Whoever has followed
+the evidence which I have produced respecting Protagoras and
+Prodikus, will know how differently these latter handled the question
+of justice.
+
+But the truth is, that the theory of Thrasymachus, though incorrect
+and defective, is not so detestable as these writers represent. What
+makes it seem detestable, is the style and manner in which he is made
+to put it forward; which causes the just man to appear petty and
+contemptible, while it surrounds the unjust man with enviable
+attributes. Now this is precisely the circumstance which revolts the
+common sentiments of mankind, as it revolts also the critics who read
+what is said by Thrasymachus. The moral sentiments exist in men's
+minds in complex and powerful groups, associated with some large words
+and emphatic forms of speech. Whether an ethical theory satisfies the
+exigencies of reason, or commands and answers to all the phenomena, a
+common audience will seldom give themselves the trouble to consider
+with attention; but what they imperiously exact, and what is
+indispensable to give the theory any chance of success, is, that it
+shall exhibit to their feelings the just man as respectable and
+dignified, and the unjust man as odious and repulsive. Now that which
+offends in the language ascribed to Thrasymachus is, not merely the
+absence, but the reversal, of this condition; the presentation of the
+just man as weak and silly, and of injustice in all the *prestige*
+of triumph and dignity. And for this very reason, I venture to infer
+that such a theory was never propounded by Thrasymachus to any public
+audience in the form in which it appears in Plato. For Thrasymachus
+was a rhetor, who had studied the principles of his art: now we know
+that these common sentiments of an audience, were precisely what the
+rhetors best understood, and always strove to conciliate. Even from
+the time of Gorgias, they began the practice of composing beforehand
+declamations upon the general heads of morality, which were ready to
+be introduced into actual speeches as occasion presented itself, and
+in which appeal was made to the moral sentiments foreknown as common,
+with more or less of modification, to all the Grecian assemblies. The
+real Thrasymachus, addressing any audience at Athens, would never
+have wounded these sentiments, as the Platonic Thrasymachus is made
+to do in the "Republic." Least of all would he have done this, if it
+be true of him, as Plato asserts of the rhetors and sophists
+generally, that they thought about nothing but courting popularity,
+without any sincerity of conviction.
+
+#### Opinion of Thrasymachus afterwards brought out by Glaukon — with less brutality, and much greater force of reason
+
+Though Plato thinks fit to bring out the opinion of Thrasymachus with
+accessories unnecessarily offensive, and thus to enhance the
+dialectical triumph of Sokratês by the brutal manners of the
+adversary, he was well aware that he had not done justice to the
+opinion itself, much less confuted it. The proof of this is, that
+in the second book of the "Republic," after Thrasymachus has
+disappeared, the very same opinion is taken up by Glaukon and
+Adeimantus, and set forth by both of them, though they disclaim
+entertaining it as their own, as suggesting grave doubts and
+difficulties which they desire to hear solved by Sokratês. Those who
+read attentively the discourses of Glaukon and Adeimantus, will see
+that the substantive opinion ascribed to Thrasymachus, apart from the
+brutality with which he is made to state it, does not even countenance
+the charge of immoral teaching against *him*, much less against the
+sophists generally. Hardly anything in Plato's compositions is more
+powerful than those discourses. They present, in a perspicuous and
+forcible manner, some of the most serious difficulties with which
+ethical theory is required to grapple. And Plato can answer them only
+in one way, by taking society to pieces, and reconstructing it in the
+form of his imaginary republic. The speeches of Glaukon and Adeimantus
+form the immediate preface to the striking and elaborate description
+which he goes through, of his new state of society, nor do they
+receive any other answer than what is implied in that description.
+Plato indirectly confesses that he cannot answer them, assuming social
+institutions to continue unreformed: and his reform is sufficiently
+fundamental.[^616]
+
+[^616]: I omitted to notice the Dialogue of Plato entitled Euthydemus, wherein Sokratês is introduced in conversation with the two persons called sophists, Euthydemus and Dionysodorus, who are represented as propounding a number of verbal quibbles, assertions of double sense, arising from equivocal grammar or syntax,—fallacies of mere diction, without the least plausibility as to the sense,—specimens of jests and hoax, p. 278, B. They are described as extravagantly conceited, while Sokratês is painted with his usual affectation of deference and modesty. He himself, during a part of the dialogue, carries on conversation in his own dialectical manner with the youthful Kleinias; who is then handed over to be taught by Euthydemus and Dionysodorus; so that the contrast between their style of questioning, and that of Sokratês, is forcibly brought out. To bring out this contrast, appears to me the main purpose of the dialogue, as has already been remarked by Socher and others (see Stallbaum, Prolegom. ad Euthydem. pp. 15–65): but its construction, its manner, and its result, previous to the concluding conversation between Sokratês and Kriton separately, is so thoroughly comic, that Ast, on this and other grounds, rejects it as spurious and unworthy of Plato (see Ast, über Platons Leben und Schriften, pp. 414–418). Without agreeing in Ast's inference, I recognize the violence of the caricature which Plato has here presented under the characters of Euthydemus and Dionysodorus. And it is for this reason, among many others, that I protest the more emphatically against the injustice of Stallbaum and the commentators generally, who consider these two persons as disciples of Protagoras, and samples of what is called "Sophistica," the sophistical practice, the sophists generally. There is not the smallest ground for considering these two men as disciples of Protagoras, who is presented to us, even by Plato himself, under an aspect as totally different from them as it is possible to imagine. Euthydemus and Dionysodorus are described, by Plato himself in this very dialogue, as old men who had been fencing-masters, and who had only within the last two years applied themselves to the eristic or controversial dialogue (Euthyd. c. 1, p. 272, C.; c. 3, p. 273, E). Schleiermacher himself accounts their personal importance so mean, that he thinks Plato could not have intended to attack them, but meant to attack Antisthenês and the Megaric school of philosophers (Prolegom. ad Euthydem. vol. iii, pp. 403, 404, of his translation of Plato). So contemptible does Plato esteem them, that Krito blames Sokratês for having so far degraded himself as to be seen talking with them before many persons (p. 305, B, c. 30). The name of Protagoras occurs only once in the dialogue, in reference to the doctrine, started by Euthydemus, that false propositions or contradictory propositions were impossible, because no one could either think about or talk about *that which was not*, or *the non-existent* (p. 284, A; 286, C). This doctrine is said by Sokratês to have been much talked of "by Protagoras, and by men yet earlier than he." It is idle to infer from such a passage, any connection or analogy between these men and Protagoras, as Stallbaum labors to do throughout his Prolegomena; affirming (in his note on p. 286, C,) most incorrectly, that Protagoras maintained this doctrine about τὸ μὴ ὂν, or the non-existent, because he had *too great faith* in the evidence of the senses; whereas we know from Plato that it had its rise with Parmenidês, who rejected the evidence of the senses entirely (see Plato, Sophist. 24, p. 237, A, with Heindorf and Stallbaum's notes). Diogenes Laërtius (ix, 8, 53) falsely asserts that Protagoras was the *first* to broach the doctrine, and even cites as his witness Plato in the Euthydemus, where the exact contrary is stated. Without agreeing in Ast's inference, I recognize the violence of the caricature which Plato has here presented under the characters of Euthydemus and Dionysodorus. And it is for this reason, among many others, that I protest the more emphatically against the injustice of Stallbaum and the commentators generally, who consider these two persons as disciples of Protagoras, and samples of what is called "Sophistica," the sophistical practice, the sophists generally. There is not the smallest ground for considering these two men as disciples of Protagoras, who is presented to us, even by Plato himself, under an aspect as totally different from them as it is possible to imagine. Euthydemus and Dionysodorus are described, by Plato himself in this very dialogue, as old men who had been fencing-masters, and who had only within the last two years applied themselves to the eristic or controversial dialogue (Euthyd. c. 1, p. 272, C.; c. 3, p. 273, E). Schleiermacher himself accounts their personal importance so mean, that he thinks Plato could not have intended to attack them, but meant to attack Antisthenês and the Megaric school of philosophers (Prolegom. ad Euthydem. vol. iii, pp. 403, 404, of his translation of Plato). So contemptible does Plato esteem them, that Krito blames Sokratês for having so far degraded himself as to be seen talking with them before many persons (p. 305, B, c. 30). The name of Protagoras occurs only once in the dialogue, in reference to the doctrine, started by Euthydemus, that false propositions or contradictory propositions were impossible, because no one could either think about or talk about *that which was not*, or *the non-existent* (p. 284, A; 286, C). This doctrine is said by Sokratês to have been much talked of "by Protagoras, and by men yet earlier than he." It is idle to infer from such a passage, any connection or analogy between these men and Protagoras, as Stallbaum labors to do throughout his Prolegomena; affirming (in his note on p. 286, C,) most incorrectly, that Protagoras maintained this doctrine about τὸ μὴ ὂν, or the non-existent, because he had *too great faith* in the evidence of the senses; whereas we know from Plato that it had its rise with Parmenidês, who rejected the evidence of the senses entirely (see Plato, Sophist. 24, p. 237, A, with Heindorf and Stallbaum's notes). Diogenes Laërtius (ix, 8, 53) falsely asserts that Protagoras was the *first* to broach the doctrine, and even cites as his witness Plato in the Euthydemus, where the exact contrary is stated. Whoever broached it first, it was a doctrine following plausibly from the then received Realism, and Plato was long perplexed before he could solve the difficulty to his own satisfaction (Theætet. p. 187, D). I do not doubt that there were in Athens persons who abused the dialectical exercise for frivolous puzzles, and it was well for Plato to compose a dialogue exhibiting the contrast between these men and Sokratês. But to treat Euthydemus and Dionysodorus as samples of "The Sophists," is altogether unwarranted.
+
+#### Plato against the sophists generally — his category of accusation comprehends all society, with all the poets and statesmen
+
+I call particular attention to this circumstance, without which we
+cannot fairly estimate the sophists, or practical teachers of Athens,
+face to face with their accuser-general, Plato. He was a great and
+systematic theorist, whose opinions on ethics, politics, cognition,
+religion, etc., were all wrought into harmony by his own mind, and
+stamped with that peculiarity which is the mark of an original
+intellect. So splendid an effort of speculative genius is among the
+marvels of the Grecian world. His dissent from all the societies
+which he saw around him, not merely democratical, but oligarchical
+and despotic also, was of the deepest and most radical character.
+Nor did he delude himself by the belief, that any partial amendment
+of that which he saw around could bring about the end which he
+desired: he looked to nothing short of a new genesis of the man and
+the citizen, with institutions calculated from the beginning to work
+out the full measure of perfectibility. His fertile scientific
+imagination realized this idea in the "Republic." But that very
+systematic and original character, which lends so much value and
+charm to the substantive speculations of Plato, counts as a
+deduction from his trustworthiness as critic or witness, in reference
+to the living agents whom he saw at work in Athens and other cities,
+as statesmen, generals, or teachers. His criticisms are dictated by
+his own point of view, according to which the entire society was
+corrupt, and all the instruments who carried on its functions were
+of essentially base metal. Whoever will read either the "Gorgias" or
+the "Republic," will see in how sweeping and indiscriminate a manner
+he passes his sentence of condemnation. Not only all the sophists
+and all the rhetors,[^617] but all the musicians and dithyrambic or
+tragic poets; all the statesmen, past as well as present, not
+excepting even the great Periklês, receive from his hands one common
+stamp of dishonor. Every one of these men are numbered by Plato among
+the numerous category of flatterers, who minister to the immediate
+gratification and to the desires of the people, without looking to
+their permanent improvement, or making them morally better. "Periklês
+and Kimon (says Sokratês in the 'Gorgias') are nothing but servants
+or ministers who supply the immediate appetites and tastes of the
+people; just as the baker and the confectioner do in their respective
+departments, without knowing or caring whether the food will do any
+real good, a point which the physician alone can determine. As
+ministers, they are clever enough: they have provided the city amply
+with tribute, walls, docks, ships, and *such other follies*: but I
+(Sokratês) am the only man in Athens who aim, so far as my strength
+permits, at the true purpose of politics, the mental improvement of
+the people."[^618] So wholesale a condemnation betrays itself as the
+offspring, and the consistent offspring, of systematic peculiarity of
+vision, the prejudice of a great and able mind.
 
 [^617]: Plato, Gorgias, c. 57, 58; pp. 502, 503.
 
 [^618]: Plato, Gorgias, c. 72, 73, p. 517 (Sokratês speaks): Ἀληθεῖς ἄρα οἱ ἔμπροσθεν λόγοι ἦσαν, ὅτι οὐδένα ἡμεῖς ἴσμεν ἄνδρα ἀγαθὸν γεγονότα τὰ πολιτικὰ ἐν τῇδε τῇ πόλει. Ὦ δαιμόνιε, οὐδ᾽ ἐγὼ ψέγω τούτους (Periklês and Kimon) ὥς γε διακόνους εἶναι πόλεως, ἀλλά μοι δοκοῦσι τῶν γε νῦν διακονικώτεροι γεγονέναι καὶ μᾶλλον οἷοί τε ἐκπορίζειν τῇ πόλει ὧν ἐπεθύμει. Ἀλλὰ γὰρ μεταβιβάζειν τὰς ἐπιθυμίας καὶ μὴ ἐπιτρέπειν, πείθοντες καὶ βιαζόμενος ἐπὶ τοῦτο, ὅθεν ἔμελλον ἀμείνους ἔσεσθαι οἱ πολῖται, ὡς ἔπος εἰπεῖν, οὐδὲν τούτων διέφερον ἐκεῖνοι· ὅπερ μόνον ἔργον ἐστὶν ἀγαθοῦ πολίτου. Ἄνευ γὰρ σωφροσύνης καὶ δικαιοσύνης, λιμένων καὶ νεωρίων καὶ τειχῶν καὶ φόρων καὶ τοιούτων φλυαριῶν ἐμπεπλήκασι τὴν πόλιν (c. 74, p. 519, A). Οἶμαι (says Sokratês, c. 77, p. 521, D.) μετ᾽ ὀλίγων Ἀθηναίων, ἵνα μὴ εἴπω μόνος, ἐπιχειρεῖν τῇ ὡς ἀληθῶς πολιτικῇ τέχνῃ καὶ πράττειν τὰ πολιτικὰ μόνος τῶν νῦν, ἅτε οὖν οὐ πρὸς χάριν λέγων τοὺς λόγους οὓς λέγω ἑκάστοτε, ἀλλὰ πρὸς τὸ βέλτιστον, οὐ πρὸς τὸ ἥδιστον, etc.
 
+#### It is unjust to try either the sophists or the statesmen of Athens, by the standard of Plato
+
+It would be not less unjust to appreciate the sophists or the
+statesmen of Athens from the point of view of Plato, than the present
+teachers and politicians of England or France from that of Mr. Owen
+or Fourier. Both the one and the other class labored for society as
+it stood at Athens: the statesmen carried on the business of practical
+politics, the sophist trained up youth for practical life in all its
+departments, as family men, citizens, and leaders, to obey as well
+as to command. Both accepted the system as it stood, without
+contemplating the possibility of a new birth of society: both
+ministered to certain exigences, held their anchorage upon certain
+sentiments, and bowed to a certain morality, actually felt among the
+living men around them. That which Plato says of the statesmen of
+Athens is perfectly true, that they were only servants or ministers
+of the people. He, who tried the people and the entire society by
+comparison with an imaginary standard of his own, might deem all
+these ministers worthless in the lump, as carrying on a system too
+bad to be mended; but, nevertheless, the difference between a
+competent and an incompetent minister, between Periklês and Nikias,
+was of unspeakable moment to the security and happiness of the
+Athenians. What the sophists on their part undertook was, to educate
+young men so as to make them better qualified for statesmen or
+ministers; and Protagoras would have thought it sufficient honor to
+himself, — as well as sufficient benefit to Athens, which assuredly it
+would have been, — if he could have inspired any young Athenian with
+the soul and the capacities of his friend and companion Periklês.
+
+#### Plato distinctly denies that Athenian corruption was to be imputed to the sophists
+
+So far is Plato from considering the sophists as the corruptors of
+Athenian morality, that he distinctly protests against that
+supposition, in a remarkable passage of the "Republic." It is, he
+says, the whole people, or the society, with its established morality,
+intelligence, and tone of sentiment, which is intrinsically vicious;
+the teachers of such a society must be vicious also, otherwise their
+teaching would not be received; and even if their private teaching
+were ever so good, its effect would be washed away, except in some
+few privileged natures, by the overwhelming deluge of pernicious
+social influences.[^619] Nor let any one imagine, as modern readers
+are but too ready to understand it, that this poignant censure is
+intended for Athens so far forth as a democracy. Plato was not the
+man to preach king-worship, or wealth-worship, as social or political
+remedies: he declares emphatically that not one of the societies then
+existing was such that a truly philosophical nature could be engaged
+in active functions under it.[^620] These passages would be alone
+sufficient to repel the assertions of those who denounce the sophists
+as poisoners of Athenian morality, on the alleged authority of Plato.
+
 [^619]: This passage is in Republ. vi, 6, p. 492, *seq.* Sokratês says to Adeimantus: "An tu quoque putas esse quidem sophistas, homines privatos, qui corrumpunt juventutem in quâcunque re mentione dignâ; nec illud tamen animadvertisti et tibi persuasisti, quod multo magis debebas, ipsos Athenienses turpissimos esse aliorum corruptores?" Yet the commentator who translates this passage, does not scruple (in his Prolegomena to the Republic, pp. xliv, xlv, as well as to the Dialogues) to heap upon the sophists aggravated charges, as the actual corruptors of Athenian morality.
 
 [^620]: Plato, Repub. vi, 11, p. 497, B. μηδεμίαν ἀξίαν εἶναι τῶν νῦν κατάστασιν πόλεων φιλοσόφου φύσεως, etc. Compare Plato, Epistol. vii, p. 325, A.
 
+#### The sophists were not teachers of mere words, apart from action
+
+Nor is it at all more true that they were men of mere words, and made
+their pupils no better, — a charge just as vehemently pressed against
+Sokratês as against the sophists, — and by the same class of enemies,
+such as Anytus,[^621] Aristophanês, Eupolis, etc. It was mainly from
+sophists like Hippias that the Athenian youth learned what they knew
+of geometry, astronomy, and arithmetic: but the range of what is
+called special science, possessed even by the teacher, was at that
+time very limited; and the matter of instruction communicated was
+expressed under the general title of "Words, or Discourses," which
+were always taught by the sophists, in connection with thought, and
+in reference to a practical use. The capacities of thought, speech,
+and action, are conceived in conjunction by Greeks generally, and by
+teachers like Isokratês and Quintilian especially; and when young men
+in Greece, like the Bœotian Proxenus, put themselves under training
+by Gorgias or any other sophist, it was with a view of qualifying
+themselves, not merely to speak, but to act.[^622]
+
 [^621]: Anytus was the accuser of Sokratês: his enmity to the sophists may be seen in Plato, Meno. p. 91, C.
 
 [^622]: Xenoph. Anabas. ii, 6. Πρόξενος—εὐθὺς μὲν μειράκιον ὢν ἐπεθύμει γενέσθαι ἀνὴρ τὰ μεγάλα πράττειν ἱκανός· καὶ διὰ ταύτην τὴν ἐπιθυμίαν ἔδωκε Γοργίᾳ ἀργύριον τῷ Λεοντίνῳ.... Τοσούτων δ᾽ ἐπιθυμῶν, σφόδρα ἔνδηλον αὖ καὶ τοῦτο εἶχεν, ὅτι τούτων οὐδὲν ἂν θέλοι κτᾶσθαι μετὰ ἀδικίας, ἀλλὰ σὺν τῷ δικαίῳ καὶ καλῷ ᾤετο δεῖν τούτων τυγχάνειν, ἄνευ δὲ τούτων μή. Proxenus, as described by his friend Xenophon, was certainly a man who did no dishonor to the moral teaching of Gorgias. The connection between thought, speech, and action, is seen even in the jests of Aristophanês upon the purposes of Sokratês and the sophists: Νικᾷν πράττων καὶ βουλεύων καὶ τῇ γλώττῃ πολεμίζων (Nubes, 418).
+
+#### General good effect of their teaching upon the youth
+
+Most of the pupils of the sophists, as of Sokratês[^623] himself,
+were young men of wealth; a fact, at which Plato sneers, and others
+copy him, as if it proved that they cared only about high pay. But I
+do not hesitate to range myself on the side of Isokratês,[^624] and
+to contend that the sophist himself had much to lose by corrupting
+his pupils, — an argument used by Sokratês in defending himself before
+the dikastery, and just as valid in defence of Protagoras or
+Prodikus,[^625] — and strong personal interest in sending them forth
+accomplished and virtuous; that the best-taught youth were decidedly
+the most free from crime and the most active towards good; that among
+the valuable ideas and feelings which a young Athenian had in his
+mind, as well as among the good pursuits which he followed, those
+which he learned from the sophists counted nearly as the best; that,
+if the contrary had been the fact, fathers would not have continued
+so to send their sons, and pay their money. It was not merely that
+these teachers countervailed in part the temptations to dissipated
+enjoyment, but also that they were personally unconcerned in the
+acrimonious slander and warfare of party in his native city; that
+the topics with which they familiarized him were, the general
+interests and duties of men and citizens; that they developed the
+germs of morality in the ancient legends, as in Prodikus's fable,
+and amplified in his mind all the undefined cluster of associations
+connected with the great words of morality; that they vivified in him
+the sentiment of Pan-Hellenic brotherhood; and that, in teaching him
+the art of persuasion,[^626] they could not but make him feel the
+dependence in which he stood towards those who were to be persuaded,
+together with the necessity under which he lay of so conducting
+himself as to conciliate their good-will.
 
 [^623]: Plato, Apol. Sokr. c. 10, p. 23, C; Protagoras, p. 328, C.
 
@@ -1755,6 +2740,46 @@ The intimations given in Plato, of the enthusiastic reception which Protagoras, 
 [^625]: Plato, Apol. Sokrat. c. 13, p. 25, D.
 
 [^626]: See these points strikingly put by Isokratês, in the Orat. xv, De Permutatione, throughout, especially in sects. 294, 297, 305, 307; and again by Xenoph. Memorab. i, 2. 10, in reference to the teaching of Sokratês.
+
+#### Great reputation of the sophists — evidence of respect for intellect and of a good state of public sentiment
+
+The intimations given in Plato, of the enthusiastic reception which
+Protagoras, Prodikus, and other sophists[^627] met with in the various
+cities; the description which we read, in the dialogue called
+Protagoras, of the impatience of the youthful Hippokratês, on hearing
+of the arrival of that sophist, insomuch that he awakens Sokratês
+before daylight, in order to obtain an introduction to the new-comer
+and profit by his teaching; the readiness of such rich young men to
+pay money, and to devote time and trouble, for the purpose of
+acquiring a personal superiority apart from their wealth and station;
+the ardor with which Kallias is represented as employing his house
+for the hospitable entertainment, and his fortune for the aid, of
+the sophists; all this makes upon my mind an impression directly the
+reverse of that ironical and contemptuous phraseology with which it
+is set forth by Plato. Such sophists had nothing to recommend them
+except superior knowledge and intellectual force, combined with an
+imposing personality, making itself felt in their lectures and
+conversation. It is to this that the admiration was shown; and the
+fact that it was so shown, brings to view the best attributes of the
+Greek, especially the Athenian mind. It exhibits those qualities of
+which Periklês made emphatic boast in his celebrated funeral
+oration;[^628] conception of public speech as a practical thing, not
+meant as an excuse for inaction, but combined with energetic action,
+and turning it to good account by full and open discussion beforehand;
+profound sensibility to the charm of manifested intellect, without
+enervating the powers of execution or endurance. Assuredly, a man
+like Protagoras, arriving in a city with all this train of admiration
+laid before him, must have known very little of his own interest or
+position, if he began to preach a low or corrupt morality. If it be
+true generally, as Voltaire has remarked, that "any man who should
+come to preach a relaxed morality would be pelted," much more would
+it be true of a sophist like Protagoras, arriving in a foreign city
+with all the prestige of a great intellectual name, and with the
+imagination of youths on fire to hear and converse with him, that
+any similar doctrine would destroy his reputation at once. Numbers
+of teachers have made their reputation by inculcating overstrained
+asceticism; it will be hard to find an example of success in the
+opposite vein.
 
 [^627]: See a striking passage in Plato's Republic, x, c, 4, p. 600, C.
 
