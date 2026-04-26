@@ -15,7 +15,7 @@ cover:
   caption: "This 15th-century Byzantine manuscript preserves the opening of Aristotle's foundational inquiry into the 'highest human good.' The decorated header, rendered in traditional Greek majuscule, introduces the work as ΑΡΙΣΤΟΤΕΛΟΥΣ ΗΘΙΚΩΝ ΝΙΚΟΜΑΧΕΙΩΝ. Written in elegant minuscule script, the text begins with philosophy's most famous premise: that every art and inquiry aims at some good. This page from the Biblioteca Medicea Laurenziana (Plutei 81.11) represents a vital link in the transmission of classical ethics from antiquity through the Renaissance. Aristotle, Nicomachean Ethics, Book I · Florence, Italy · Biblioteca Medicea Laurenziana, Plutei 81.11."
 ---
 
-> *Unless otherwise noted, translations are from Terence Irwin's* Nicomachean Ethics *(Hackett, Second Edition). References follow standard Bekker numbering (e.g., 1094a1).*
+> *Unless otherwise noted, translations are from Terence Irwin's* Nicomachean Ethics *(Hackett, Third Edition). References follow standard Bekker numbering (e.g., 1094a1).*
 
 ---
 
@@ -29,7 +29,7 @@ The title is ancient and its origin disputed. One tradition says the work was de
 
 The *Ethics* opens with a single sentence that contains, in compressed form, everything that follows:
 
-> Every craft, every line of inquiry, and likewise every action and decision, seems to aim at some good; that is why some people were right to describe the good as what everything aims at. (1094a1–3)
+> Every craft and every discipline, and likewise action and decision, seems to seek some good—that is why some people were right to describe the good as what everything seeks. (1094a1–3)
 
 This is not a neutral observation. It is a methodological commitment: that human life is teleological — oriented toward ends — and that the study of ethics is the study of which end is final, which good is worth pursuing for its own sake rather than for the sake of something else. The answer Aristotle arrives at is *eudaimonia* — a Greek word usually translated as happiness but better understood as flourishing, or living and doing well.
 
@@ -70,7 +70,7 @@ This approach — beginning with widely shared beliefs (*endoxa*) and working by
 
 This has consequences for the kind of precision we should expect:
 
-> Our discussion will be adequate if its degree of clarity fits the subject matter; for we should not seek the same degree of exactness in all sorts of arguments alike, any more than in the products of different crafts. (1094b12–14)
+> But our discussion will be adequate if we make things perspicuous enough to accord with the subject matter; for we should not seek the same degree of exactness in all sorts of arguments alike, any more than in the products of different crafts. (1094b12–14)
 
 This is not a concession to sloppiness. It is a philosophical point about what rigor means in a domain where the evidence is human experience and the method is practical wisdom rather than demonstration. The person who demands geometric certainty from ethics has misunderstood what ethics is about.
 
@@ -92,7 +92,7 @@ This means that the relationship between general moral principles and particular
 
 The *Ethics*'s most striking analogy for this is the craftsman's eye:
 
-> What is required in each case is determined by the situation, just as in medicine and navigation. (1104a7–8)
+> The agents themselves must consider in each case what the opportune action is, as doctors and navigators do. (1104a7–8)
 
 The navigator does not consult a rule-book when the weather changes. She reads the situation and responds. Moral life requires the same kind of skilled, flexible, experienced responsiveness.
 
@@ -100,7 +100,7 @@ The navigator does not consult a rule-book when the weather changes. She reads t
 
 The *Ethics* opens with a sustained polemic against Plato's theory of the Good — the view that there is a single Form of the Good, transcendent and universal, from which all particular goods derive their goodness. Aristotle's objections are multiple. Even if there were such a Form, he argues, it would not be useful to us:
 
-> Even if there is some one good that is predicated in common of all things that are good, or that is separable and itself by itself, clearly it will not be the sort that a human being can achieve in action or possess; but that is the sort we are looking for now. (1096b32–34)
+> For even if there is some one good predicated in common, or some separable good, itself in its own right, clearly that is not the sort of good a human being can achieve in action or possess; but that is the sort we are looking for now. (1096b32–34)
 
 This is the move that sets the entire *Ethics* in motion. The good we are looking for is a *human* good — something achievable by human beings living human lives. Whatever its ultimate metaphysical status, the Good that matters for ethics must be realizable by creatures like us, with our particular capacities, vulnerabilities, and social nature. Aristotle keeps his eyes on that constraint throughout the work.
 
@@ -120,7 +120,7 @@ The architecturally essential book. Aristotle establishes the teleological frame
 
 Book I also contains what may be Aristotle's most quoted methodological remark, offered as consolation for the irreducible difficulty of the inquiry:
 
-> For educated people it is enough to indicate the truth roughly and in outline. (1094b19–20)
+> For the educated person seeks exactness in a given area to the extent that the nature of the subject allows. (1094b19–20)
 
 ### Books II–IV — Virtue of Character
 
@@ -128,7 +128,7 @@ Book II lays the theoretical foundations for virtue ethics: the definition of vi
 
 These books are often skimmed by readers impatient to get to the famous discussions of practical wisdom and friendship. That is a mistake. The catalog of virtues is not pedantic taxonomy — it is an extended argument about what excellent human character looks like in practice, full of observations about social life that have not dated:
 
-> The person who is truthful, then, even in cases where nothing is at stake, will be still more truthful where something is at stake, since he will avoid falsehood as shameful — the sort of person who is to be praised. He leans toward understatement rather than overstatement, since that seems more tasteful, because exaggerations are burdensome. (1127b1–5)
+> For a lover of the truth who is truthful even when nothing / is at stake will be still more concerned to tell the truth when something is at stake, since he will avoid falsehood as shameful when something is at stake, having already avoided it in itself when nothing was at stake. This sort of person is praiseworthy. (1127b1–5)
 
 ### Book V — Justice
 
@@ -142,7 +142,7 @@ The philosophical heart of the work. Aristotle distinguishes five states by whic
 
 Aristotle's analysis of practical wisdom here is one of the most original contributions in all of moral philosophy. He argues that practical wisdom involves a perception of particular situations that is irreducible to the application of general principles, that it requires emotional attunement as well as cognitive clarity, and that it is the virtue that makes all other virtues genuinely virtuous rather than merely behavioral regularities. Without practical wisdom, courage becomes recklessness and justice becomes rigid rule-following:
 
-> Virtue ensures that we aim at the right target, and practical wisdom ensures that we use the right means. (1144a7–8)
+> Further, we fulfil our function insofar as we have prudence and virtue of character; for virtue makes the goal correct, and prudence makes the means to it correct. (1144a7–8)
 
 ### Book VII — Pleasure, Self-Control, and Weakness of Will
 
@@ -156,7 +156,7 @@ The most unexpected and, for many readers, the most moving section of the *Ethic
 
 Three types of friendship are distinguished: friendships of utility, friendships of pleasure, and friendships of virtue — friendships based on the recognition and appreciation of one another's character. Only the last is friendship in the fullest sense, and it is, predictably, rare:
 
-> This kind of friendship requires time and intimacy. As the saying goes, you cannot know each other until you have eaten the stated amount of salt together. And you cannot accept each other as friends, or be friends at all, until each has shown the other that he is worthy of love, and won his trust. (1156b25–29)
+> These kinds of friendships are likely to be rare, since such people are few. Further, they also need time, to grow accustomed to each other; for, as the proverb says, they cannot know each other before they have shared their salt as often as it says, and they cannot accept each other or be friends until each appears lovable to the other and gains the other’s confidence.  (1156b25–29)
 
 Books VIII–IX also contain Aristotle's account of self-love, the relationship between friendship and justice, and the remarkable discussion of why the happy person nevertheless needs the activity of doing good — why virtuous action is not merely instrumental but constitutive of happiness itself.
 
@@ -192,7 +192,7 @@ This is not moral relativism. It is a sophisticated account of context-sensitivi
 
 The problem of *akrasia* — acting against one's better judgment, doing what one knows to be wrong — was one of the central puzzles of Socratic ethics. Plato's Socrates had denied it was possible: what looks like *akrasia* is always really ignorance. Aristotle thinks this is simply false to experience:
 
-> That people behave unjustly while knowing they should not is clear; but then Socrates' view seems to follow — that knowledge could be dragged around like a slave. This seems to conflict with what is evident. (1145b25–28)
+> First of all, some say he cannot have knowledge at the time he acts. For it would be terrible—Socrates used to think—for knowledge to be in someone, but mastered by something else, and dragged around like a slave. (1145b25–28)
 
 Aristotle's analysis distinguishes between knowledge as a general belief ("sweets are bad for me") and knowledge as active application to a particular case ("this is sweet"). In the moment of temptation, passion can disrupt the application of general knowledge to the particular case — the *akratic* person acts on a different, more particular judgment without thereby ceasing to hold the general belief. The general belief is, in the moment, inert.
 
@@ -202,7 +202,7 @@ This analysis opens onto some of the deepest questions in moral psychology: abou
 
 Aristotle's treatment of friendship (*philia*) is unusual in the history of ethics because he insists that it is not merely instrumental to happiness but constitutive of it. The argument is not simply that friends are pleasant or useful, though they are both. The argument is that self-knowledge and self-development require a mirror — another person whose character we recognize as like our own, whose perceptions we trust, whose life illuminates our own:
 
-> The excellent person is related to his friend as he is to himself, since the friend is another himself. (1170b6–7)
+> The excellent person is related to his friend in the same way as he is related to himself, since a friend is another himself. (1170b6–7)
 
 The implications extend in several directions. Friendship of virtue requires time — genuine mutual knowledge of character cannot be achieved quickly. It requires equality — not of social station, but of character and virtue. It is incompatible with a life of pure contemplative withdrawal. And it links ethics to politics: if friends are necessary for the good life, and genuine friendship requires a certain kind of community, then the political order is not merely the backdrop to the moral life but one of its conditions.
 
@@ -212,7 +212,7 @@ The discussion of friendship also contains Aristotle's most sustained account of
 
 The *Ethics* and the *Politics* are, for Aristotle, parts of a single inquiry. The *Ethics* establishes the target — human flourishing, the excellent character — and the *Politics* examines the institutional conditions under which that target can be hit. The closing sentences of the *Ethics* are not a coda; they are a handoff:
 
-> Our predecessors have left the subject of legislation largely unexplored; it is perhaps best, therefore, that we should ourselves study it, and in general study the question of what form of government is best, so as to complete to the best of our ability the philosophy of human nature. (1181b12–15)
+> Since, then, our predecessors have left the area of legislation uncharted, it is presumably better to examine it ourselves instead, and indeed to examine political systems in general, and so to complete the philosophy of human affairs, as far as we are able. (1181b12–15)
 
 This is a claim most modern moral philosophers have resisted. We tend to think of ethics as the study of what individuals should do, and politics as a separate domain. Aristotle thinks this is a mistake. The individual cannot achieve the good life in isolation; human beings are political animals (*zōon politikon*) by nature, and a life conducted outside a political community is either subhuman or superhuman. The conditions for virtue — habituation, law, education, friendship, the material prerequisites of a decent life — are political conditions. Ethics without politics is, for Aristotle, an abstraction that mistakes a part of the inquiry for the whole.
 
@@ -228,7 +228,7 @@ The argument has a deceptive simplicity. Aristotle begins with examples so famil
 
 Aristotle surveys the candidates. Pleasure fails because it is the life of cattle, not human beings in their distinctiveness — or, less dismissively, because it identifies happiness with a sensation rather than an activity. Honor fails because it depends on the recognition of others, while happiness must be something more securely one's own. Wealth fails because it is obviously a means to something else. He settles, provisionally, on the exercise of the soul in accordance with virtue — and immediately hedges:
 
-> Furthermore, in a complete life. For one swallow does not make a spring, nor does one fine day; and so too one day, or a short time, does not make a man blessed and happy. (1098a18–20)
+> Further in a complete life — for one swallow does not make a spring, nor does one day, nor, similarly, does one day or a short time make us blessed and happy. (1098a18–20)
 
 This qualification does a great deal of work. It ensures that happiness is a property of lives, not moments — and that it is therefore vulnerable to what happens to us over time in a way that a feeling of satisfaction is not.
 
@@ -238,21 +238,21 @@ The formal statement of the doctrine of the mean is preceded by a discussion of 
 
 The doctrine of the mean is introduced through the analogy of expert craft. Experts, Aristotle observes, aim at what avoids excess and deficiency:
 
-> This is why it is so hard to be excellent. In each case it is hard work to find the middle. For instance, not everyone can find the middle of a circle, but only someone who knows how. So too, anyone can get angry — that is easy — or can give or spend money; but to feel or act toward the right person to the right extent at the right time for the right reason in the right way — that is not for everyone, nor is it easy; wherefore goodness is both rare and laudable and noble. (1109a24–29)
+> That is why it is also hard work to be excellent. For in each case it is hard work to find the intermediate; for instance, not everyone, but only one who knows, finds the midpoint in a circle. So also getting angry, or giving and spending money, is easy and everyone can do it; but doing it to the right person, in the right amount, at the right time, for the right end, and in the right way is no longer easy, nor can everyone do it. Hence doing these things well is rare, praiseworthy, and fine. (1109a24–29)
 
 The passage is among the most quoted in the *Ethics* because it captures something genuinely observed: the asymmetry between vice and virtue in terms of difficulty. Going wrong is easy; going right is hard; and the difficulty is precisely the kind of fine-grained situational attunement that practical wisdom makes possible.
 
 ### On Practical Wisdom (Book VI, 5 and 12–13)
 
-Book VI's treatment of practical wisdom is the most concentrated piece of moral epistemology in ancient philosophy. Aristotle's definition is careful:
+Book VI's treatment of practical wisdom (prudence) is the most concentrated piece of moral epistemology in ancient philosophy. Aristotle's definition is careful:
 
-> Practical wisdom is a state grasping the truth, involving reason, concerned with action about human goods. (1140b20–21)
+> And so prudence must be a state grasping the truth, involving reason, and concerned with action about human goods. (1140b20–21)
 
 The definition seems modest, but each word carries weight. It is a *state* — stable, reliable, not a lucky hit — *grasping the truth* — not merely believing correctly, but perceiving — *involving reason* — not instinct or passion alone — *concerned with action* — not pure theory — *about human goods* — particular, contextual, not eternal abstractions.
 
 The chapters that follow distinguish practical wisdom from theoretical wisdom, clever calculation, and mere craft. The crucial distinction is from cleverness (*deinotes*): practical wisdom uses the same calculative capacities as cleverness but is distinguished from it by being in the service of genuinely good ends. A clever person can figure out how to get what they want; the person with practical wisdom both wants the right things and figures out how to get them. The *Ethics*'s discussion of the relationship between virtue of character and practical wisdom is among its most delicate:
 
-> It is clear, then, that it is impossible to be fully good without practical wisdom, or practically wise without virtue of character. (1144b30–32)
+> What we have said, then, makes it clear that we cannot be fully good without prudence, or prudent without virtue of character.  (1144b30–32)
 
 This mutual entailment — virtue requires practical wisdom, practical wisdom requires virtue — closes the possibility of moral short-cuts. You cannot be a good strategist in the service of bad ends; you cannot be genuinely virtuous without the practical intelligence to navigate the situations your virtue must address.
 
@@ -260,17 +260,17 @@ This mutual entailment — virtue requires practical wisdom, practical wisdom re
 
 The most memorable passages in Books VIII–IX are not the taxonomic ones — the distinctions between types of friendship — but the phenomenological ones, where Aristotle describes what genuine friendship actually feels like from the inside:
 
-> And in loving a friend, people love what is good for themselves; for the good person, in becoming a friend, becomes a good to the person whose friend he is. Each, then, both loves what is good for himself, and makes an equal return in goodwill and in pleasure; for friendship is said to be equality. (1157b33–35)
+> Moreover, in loving their friend they love what is good for themselves; for when a good person becomes a friend he becomes a good for his friend. Each of them, therefore, loves what is good for himself, and repays in equal measure the wish and the pleasantness of his friend; for friendship is said to be equality. And this is true above all in the friendship of good people. (1157b33–35)
 
 The discussion of whether we can be friends with ourselves — and what self-love, properly understood, consists in — anticipates centuries of debate:
 
-> The decent person, however, has everything in harmony. He wishes what is good and apparent good for himself, he does it (since it is proper to the good person to work hard at what is good), and he does it for his own sake (for he does it for the sake of his thinking part, which seems to be what each person is). He wishes himself to live and to be preserved, and especially the element by which he thinks. For existence is good for the decent person. (1166a12–19)
+> For the excellent person is of one mind with himself, and desires the same things in his whole soul. Hence he wishes goods and apparent goods to himself, and achieves them in his actions, since it is proper to the good person to reach the good by his efforts. He wishes and does them for his own sake, since he does them for the sake of his thinking part, and that is what each person seems to be. Moreover, he wishes himself to live and to be preserved. And he wishes this for his rational part most of all. (1166a12–19)
 
 ### On the Contemplative Life (Book X, 7–8)
 
 The most philosophically contested passage in the *Ethics* — and the most revealing about Aristotle's own ranking of lives:
 
-> If happiness, then, is activity in accord with virtue, it is reasonable for it to accord with the supreme virtue; and this will be the virtue of the best thing. The best thing is understanding (*nous*), or whatever else seems to be the natural ruler and leader, and to understand what is fine and divine, by being itself either divine or the most divine thing in us. Complete happiness, then, will be its activity in accord with its proper virtue; and we have said this is the activity of study. This seems to agree with what we said before and also with the truth. For this activity is supreme, since understanding is the supreme element in us, and the objects of understanding are the supreme objects of knowledge. Further, it is the most continuous activity, since we are more capable of continuous study than of any continuous action. (1177a12–21)
+> If happiness is activity in accord with virtue, it is reasonable for it to be in accord with the supreme virtue, which will be the virtue of the best thing. The best is understanding, or whatever else seems to be the natural ruler and leader, and to understand what is fine and divine, by being itself either divine or the most divine element in us. Hence complete happiness will be its activity in accord with the proper virtue; and it has been said that this activity is an activity of study. This seems to agree with what has been said before, and also with the truth. For this activity is supreme, since understanding is the supreme element in us, and the objects of understanding are the supreme objects of knowledge. Further, it is the most continuous activity, since we are more capable of continuous study than any continuous action. (1177a12–21)
 
 The passage is immediately complicated by what follows: the acknowledgment that this is not the life appropriate to a human being but to "something divine" in us. The life Aristotle has been describing for nine books — of practical wisdom, courage, justice, friendship, and political engagement — is described as happiness "in a secondary way" (*deuterōs*, 1178a9). The tension between these two visions of the good life — the philosophically engaged, socially embedded life of Books I–IX, and the solitary contemplative life of Book X — is one of the great unresolved questions in Aristotelian scholarship.
 
