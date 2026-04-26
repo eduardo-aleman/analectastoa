@@ -4,7 +4,7 @@ title: "Analecta Stoa"
 theme: "PaperMod"
 
 pagination:
-  pagerSize: 10
+  pagerSize: 20
 
 enableRobotsTXT: true
 buildDrafts: false
