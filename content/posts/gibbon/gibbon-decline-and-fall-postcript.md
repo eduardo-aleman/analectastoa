@@ -29,7 +29,7 @@ cover:
 ## Edward Gibbon
 
 <figure>
-  <img src="/edward_gibbon.jpg" width="250" alt="Portrait of Edward Gibbon by Henry Walton, 1774">
+  <img src="/edward_gibbon.png" width="250" alt="Portrait of Edward Gibbon by Henry Walton, 1774">
   <figcaption>
     <i>Edward Gibbon (1737–1794)</i><br>
     <i>Henry Walton, oil on canvas, 1774</i><br><br>
