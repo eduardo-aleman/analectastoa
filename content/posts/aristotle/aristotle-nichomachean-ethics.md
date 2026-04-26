@@ -1,6 +1,6 @@
 ---
 title: "Nicomachean Ethics"
-date: 2026-04-24
+date: 2026-02-24
 authors: ["Aristotle"]
 categories: ["Ancient Philosophy"]
 tags: ["Virtue Ethics", "Eudaimonia", "Golden Mean", "Aristotle", "Byzantine Manuscript", "Classical Wisdom", "Moral Philosophy"]
