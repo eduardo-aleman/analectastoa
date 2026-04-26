@@ -10,7 +10,7 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/gibbon_decline_fall_vol_iii.jp2"
+  image: "/gibbon_decline_fall_vol_iii.jpg"
   alt: "Title page of Vol. 3 of the 1781 edition, containing the General Observations."
   caption: "Title page of Vol. 3 of the first edition (1781). This volume concludes with the 'General Observations,' Gibbon’s most famous philosophical reflection on the transition from the classical world to the Middle Ages. He famously attributes the fall to the 'triumph of barbarism and religion,' while offering a cautiously optimistic view of modern European progress. Edward Gibbon, The History of the Decline and Fall of the Roman Empire, Chapter XXXVIII · Originally published London, Strahan & Cadell, 1776–1788."
 ---
