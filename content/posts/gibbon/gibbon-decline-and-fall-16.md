@@ -14,7 +14,7 @@ tags:
     "Social Transformation",
   ]
 series: ["Gibbon's Decline and Fall"]
-summary: "Chapter XVI of Gibbon’sChapter 16 of Edward Gibbon’s The History of the Decline and Fall of the Roman Empire examines the conduct of the Roman government toward the Christians from the reign of Nero to that of Constantine."
+summary: "Chapter 16 of Edward Gibbon’s The History of the Decline and Fall of the Roman Empire examines the conduct of the Roman government toward the Christians from the reign of Nero to that of Constantine."
 ShowToc: true
 TocOpen: false
 draft: false
@@ -24,7 +24,7 @@ cover:
   caption: "The Rossano Gospels render the trial of Christ before Pilate across two registers: above, Pilate enthroned adjudicates before a divided crowd, while below, Christ stands serene amid figures including Barabbas. One of the earliest surviving illustrated Gospel manuscripts, the scene captures the collision of Roman juridical authority and emergent Christian narrative. Rossano Gospels (Codex Purpureus Rossanensis), folio 16, c. 6th century CE."
 ---
 
-> **Edward Gibbon**, _The History of the Decline and Fall of the Roman Empire_, Chapters XVI & XVII.
+> **Edward Gibbon**, _The History of the Decline and Fall of the Roman Empire_, Chapter XVI.
 > First published London: Strahan & Cadell, 1776–1788.
 > This text is in the **public domain**. The following sections provide
 > Gibbon’s provocative analysis of the early Christian church’s
