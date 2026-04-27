@@ -1,6 +1,6 @@
 ---
 title: "The Decline and Fall of the Roman Empire"
-date: 2025-04-25
+date: 2026-04-25
 authors: ["Edward Gibbon"]
 categories: ["Roman History", "Ancient History", "Historiography"]
 tags: ["Roman Empire", "Byzantine History", "Barbarism", "Christianity", "Political Philosophy", "Enlightenment", "Imperial Decline"]
