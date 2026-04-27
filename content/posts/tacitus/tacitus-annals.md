@@ -1,6 +1,6 @@
 ---
 title: "Annals"
-date: 2025-09-01
+date: 2026-03-01
 authors: ["Tacitus"]
 categories: ["Roman History"]
 tags: ["Augustus", "Tiberius", "Claudius", "Nero", "Principate", "Rome"]
