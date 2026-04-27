@@ -14,7 +14,7 @@ tags:
     "Social Transformation",
   ]
 series: ["Gibbon's Decline and Fall"]
-summary: "Chapter 16 of Edward Gibbon’s The History of the Decline and Fall of the Roman Empire examines the conduct of the Roman government toward the Christians from the reign of Nero to that of Constantine."
+summary: "Chapter XVI of Edward Gibbon’s The History of the Decline and Fall of the Roman Empire examines the conduct of the Roman government toward the Christians from the reign of Nero to that of Constantine."
 ShowToc: true
 TocOpen: false
 draft: false
