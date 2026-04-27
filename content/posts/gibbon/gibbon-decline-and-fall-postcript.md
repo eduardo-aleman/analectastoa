@@ -5,7 +5,7 @@ authors: ["Edward Gibbon"]
 categories: ["Roman History", "Ancient History", "Historiography"]
 tags: ["Roman Empire", "Byzantine History", "Barbarism", "Christianity", "Political Philosophy", "Enlightenment", "Imperial Decline"]
 series: ["Gibbon's Decline and Fall"]
-summary: "Edward Gibbon’s 'General Observations on the Fall of the Roman Empire in the West'—the celebrated postscript to Chapter XXXVIII where he synthesizes the primary causes of Rome’s decay and reflects on the future of European civilization."
+summary: "Edward Gibbon’s celebrated postscript to Chapter XXXVIII where he synthesizes the primary causes of Rome’s decay and reflects on the future of European civilization."
 ShowToc: true
 TocOpen: false
 draft: false
