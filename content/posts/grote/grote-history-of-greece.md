@@ -5,7 +5,7 @@ authors: ["George Grote"]
 categories: ["Ancient History"]
 tags: ["Greek Drama", "Rhetoric", "Dialectics", "Sophists", "Classical Athens", "Greek Philosophy", "Athenian Culture", "Fifth Century BC"]
 series: ["Grote's History of Greece"]
-summary: "Chapter LXVII of George Grote's monumental History of Greece — examining the flowering of Athenian drama alongside the rise of rhetoric, dialectics, and the Sophist movement as transformative intellectual forces in the classical world."
+summary: "Chapter LXVII of George Grote's monumental History of Greece — examining the flowering of Athenian drama alongside the rise of rhetoric, dialectics, and the Sophist movement."
 ShowToc: true
 TocOpen: false
 draft: false
