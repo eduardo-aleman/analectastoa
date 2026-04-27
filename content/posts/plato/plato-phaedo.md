@@ -18,7 +18,7 @@ tags:
     "Eidos",
   ]
 series: ["Plato"]
-summary: "Reading companion and full text of Plato's Phaedo, a Socratic dialogue set on the day of Socrates' death, in which he and his companions explore four arguments for the immortality of the soul and the philosopher's relationship to death, recollection, and the eternal Forms."
+summary: "Reading companion and full text of Plato's Phaedo, a Socratic dialogue set on the day of Socrates' death, in which he and his companions explore four arguments for the immortality of the soul."
 ShowToc: true
 TocOpen: false
 draft: false
