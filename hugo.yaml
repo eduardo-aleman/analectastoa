@@ -28,6 +28,7 @@ params:
   description: "Reading summaries, excerpts, and curated details from classical literature — Tacitus, Josephus, Thucydides, and beyond."
   author: "Eduardo Alemán"
   defaultTheme: "auto"
+  hidemeta: true
   disableThemeToggle: false
   ShowShareButtons: false
   ShowReadingTime: true
