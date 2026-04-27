@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Against the Galileans"
-date: 2025-03-01
+date: 2026-02-04
 authors: ["Julian"]
 categories: ["Roman History", "Late Antiquity"]
 tags: ["Julian the Apostate", "Early Christianity", "Hellenism", "Polemic", "Roman Religion", "Philosophy", "4th Century"]
