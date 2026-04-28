@@ -9,6 +9,10 @@ summary: "A reading companion for Augustine's Confessions — the foundational a
 ShowToc: true
 TocOpen: false
 draft: false
+cover:
+  image: "/augustine_confessions_opening.jpeg"
+  alt: "9th-century semi-uncial Latin manuscript page of Augustine's Confessions, the oldest known witness, with large display capitals and dense cursive text on aged parchment."
+  caption: "The oldest known manuscript of Augustine's Confessions opens with a bold display line in large capitals: MAGNVS ES DOMINE ET LAVDABILIS VALDE — 'Great art Thou, O Lord, and greatly to be praised.' Written in semi-uncial script, likely in a Southern Italian scriptorium, this page preserves Augustine's celebrated address to God that opens Book I of his spiritual autobiography. The manuscript passed through the library of the monastery of San Silvestro di Nonantola before entering the Sessorian Library of Santa Croce in Gerusalemme, Rome. A possession note in the upper margin reads: 'Bibliothece Sancte Crucis in Hierusalem Urbis.' Augustine, Confessions, Book I · Rome, Italy · Biblioteca Nazionale di Roma, Sessorianus 55 (2099)."
 ---
 
 > *Unless otherwise noted, Latin quotations follow the Corpus Christianorum Series Latina text (CCSL 27). References cite book and chapter numbers in the standard form (e.g., 1.1).*
