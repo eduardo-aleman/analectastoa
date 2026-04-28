@@ -117,7 +117,7 @@ The most architecturally complex book. The Archaeology establishes Thucydides's 
 
 
 <figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bust_Pericles_Chiaramonti.jpg" alt="Bust of Pericles wearing a Corinthian helmet" width="250">
+<img src="/pericles_chiaramonti.jpg" width="250">
 <figcaption><i>Bust of Pericles wearing a Corinthian helmet. Roman copy of a lost 5th-century BC Greek bronze original attributed to the sculptor Kresilas. t is inscribed "Pericles, son of Xanthippus, Athenian". Vatican Museums, Museo Chiaramonti, Rome. </i>
 </figcaption>
 </figure>
