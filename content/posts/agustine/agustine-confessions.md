@@ -2,7 +2,7 @@
 title: "Confessions"
 date: 2026-01-09
 authors: ["Augustine of Hippo"]
-categories: ["Medieval Philosophy", "Theology", "Patristics"]
+categories: ["Ancient Philosophy", "Medieval Philosophy", "Theology", "Patristics"]
 tags: ["Augustine", "Confessions", "Neoplatonism", "Memory", "Conversion", "Latin Prose", "Christian Philosophy", "Christianity", "Late Antiquity"]
 series: ["Augustine"]
 summary: "A reading companion for Augustine's Confessions — the foundational autobiography of the Western spiritual tradition, exploring memory, time, restlessness, and the soul's return to God."
