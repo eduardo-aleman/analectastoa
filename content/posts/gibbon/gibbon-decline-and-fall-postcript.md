@@ -2,7 +2,7 @@
 title: "The Decline and Fall of the Roman Empire"
 date: 2025-04-25
 authors: ["Edward Gibbon"]
-categories: ["Roman History", "Ancient History", "Historiography"]
+categories: ["Roman History", "Ancient History"]
 tags: ["Roman Empire", "Byzantine History", "Barbarism", "Christianity", "Political Philosophy", "Enlightenment", "Imperial Decline"]
 series: ["Gibbon's Decline and Fall"]
 summary: "Edward Gibbon’s celebrated postscript to Chapter XXXVIII where he synthesizes the primary causes of Rome’s decay and reflects on the future of European civilization."

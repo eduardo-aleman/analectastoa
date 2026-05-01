@@ -2,7 +2,7 @@
 title: "History of the Peloponnesian War"
 date: 2026-04-26
 authors: ["Thucydides"]
-categories: ["Greek History"]
+categories: ["Greek Historiography"]
 tags: ["Athens", "Sparta", "Peloponnesian War", "Sicily", "Pericles", "Democracy", "Imperialism"]
 series: ["Thucydides"]
 summary: "Reading companion for Thucydides's History of the Peloponnesian War — the foundational text of Western historiography."

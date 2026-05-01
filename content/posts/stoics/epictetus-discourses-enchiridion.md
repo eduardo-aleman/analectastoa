@@ -2,7 +2,7 @@
 title: "Discourses and Enchiridion"
 date: 2025-06-01
 authors: ["Epictetus"]
-categories: ["Philosophy"]
+categories: ["Ancient Philosophy"]
 tags: ["Stoicism", "Epictetus", "Ethics", "Freedom", "Self-Mastery"]
 series: ["Stoic Texts"]
 description: "Reading companion for the Discourses and Enchiridion of Epictetus — the foundational texts of later Stoic practice."

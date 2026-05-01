@@ -2,7 +2,7 @@
 title: "Meditations"
 date: 2025-07-01
 authors: ["Marcus Aurelius"]
-categories: ["Philosophy"]
+categories: ["Ancient Philosophy"]
 tags: ["Stoicism", "Marcus Aurelius", "Antonines", "Ethics", "Self-Examination"]
 series: ["Stoic Texts"]
 description: "Reading companion for the Meditations of Marcus Aurelius — private philosophical notebooks of the Stoic emperor."

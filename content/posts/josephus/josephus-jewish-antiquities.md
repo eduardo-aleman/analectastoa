@@ -2,7 +2,7 @@
 title: "Jewish Antiquities"
 date: 2025-02-01
 authors: ["Josephus"]
-categories: ["Jewish History", "Roman History"]
+categories: ["Jewish Historiography", "Roman Historiography"]
 tags: ["Second Temple", "Herod", "Scripture", "Rome", "Early Christianity"]
 series: ["Josephus"]
 description: "Reading companion for Antiquitates Judaicae — Josephus's vast history of the Jewish people from creation to the eve of the revolt against Rome."

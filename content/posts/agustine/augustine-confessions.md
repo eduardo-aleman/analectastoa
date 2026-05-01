@@ -1,7 +1,7 @@
 ---
 title: "Confessions"
 date: 2026-01-09
-authors: ["Augustine of Hippo"]
+authors: ["Augustine"]
 categories: ["Ancient Philosophy", "Medieval Philosophy", "Theology", "Patristics"]
 tags: ["Augustine", "Confessions", "Neoplatonism", "Memory", "Conversion", "Latin Prose", "Christian Philosophy", "Christianity", "Late Antiquity"]
 series: ["Augustine"]

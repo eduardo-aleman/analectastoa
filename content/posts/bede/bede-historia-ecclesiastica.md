@@ -2,7 +2,7 @@
 title: "Historia Ecclesiastica Gentis Anglorum"
 date: 2025-01-01
 authors: ["Bede"]
-categories: ["Medieval History", "Early Medieval"]
+categories: ["Medieval Historiography", "Early Medieval"]
 tags: ["Bede", "Anglo-Saxon England", "Early Christianity", "Church History", "Northumbria", "Hagiography", "Latin Historiography", "8th Century"]
 series: ["Bede"]
 summary: "Reading companion for the Historia Ecclesiastica Gentis Anglorum — Bede's monumental ecclesiastical history of the English people, tracing the Christianisation of Britain from the Roman mission of Augustine of Canterbury to the early eighth century."

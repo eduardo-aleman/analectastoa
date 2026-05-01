@@ -1,0 +1,17 @@
+{{/* outline-post-list.html — expects a slice of Pages */}}
+{{- if . }}
+  <ul class="outline-posts">
+    {{- range . }}
+      <li class="outline-post">
+        <a href="{{ .Permalink }}">
+          {{- if .Params.cover.image }}
+            <div class="outline-post__cover">
+              <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+            </div>
+          {{- end }}
+          <span class="outline-post__title">{{ .Title }}</span>
+        </a>
+      </li>
+    {{- end }}
+  </ul>
+{{- end }}

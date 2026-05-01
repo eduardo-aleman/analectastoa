@@ -1,0 +1,24 @@
+{{- define "main" }}
+
+<div class="outline-homepage">
+
+  {{- range hugo.Data.outline }}
+    {{/*
+      Each top-level entry is a major section (e.g. "Greek Civilizations").
+      Rendered at depth 1 so it gets the largest heading treatment.
+    */}}
+    <section class="outline-section">
+      <h2 class="outline-section__title">{{ .title }}</h2>
+      {{- with .children }}
+        <div class="outline-children">
+          {{- range . }}
+            {{- partial "outline-node.html" (dict "node" . "depth" 2) }}
+          {{- end }}
+        </div>
+      {{- end }}
+    </section>
+  {{- end }}
+
+</div>
+
+{{- end }}

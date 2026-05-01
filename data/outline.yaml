@@ -1,0 +1,60 @@
+# Analecta Stoa — Homepage Outline
+# Each node may have:
+#   category: slug  → links to /categories/slug/ and lists its posts
+#   author:   slug  → links to /authors/slug/   and lists its posts
+#   children: []    → sub-nodes (branch heading, no link of its own)
+
+- title: "Ancient Greece"
+  children:
+    - title: "Historiography"
+      category: "greek-historiography"
+      children:
+        - title: "Thucydides (companion)"
+          author: "thucydides"
+        - title: "Polybius (companion)"
+          author: "polybius"
+    - title: "Philosophy"
+      category: "ancient-philosophy"
+      children:
+        - title: "Plato (full text)"
+          author: "plato"
+        - title: "Aristotle (companion)"
+          author: "aristotle"
+
+- title: "The Roman World"
+  children:
+    - title: "Historiography"
+      category: "roman-historiography"
+      children:
+        - title: "Tacitus (companion)"
+          author: "tacitus"
+    - title: "Historiography of the Jewish-Roman World"
+      category: "jewish-historiography"
+      children:
+        - title: "Josephus (companion)"
+          author: "josephus"
+
+- title: "Late Antiquity"
+  children:
+    - title: "Late Antiquity"
+      category: "late-antiquity"
+      children:
+        - title: "Emperor Julian the Apostate (full text)"
+          author: "julian"
+        - title: "Augustine of Hippo (companion)"
+          author: "augustine"
+
+- title: "The Medieval World"
+  children:
+    - title: "Early Medieval"
+      category: "early-medieval"
+      children:
+        - title: "Bede (companion)"
+          author: "bede"
+
+- title: "Modern Histories of the Ancient and Medieval World"
+  children:
+    - title: "Edward Gibbon"
+      author: "edward-gibbon"
+    - title: "George Grote"
+      author: "george-grote"

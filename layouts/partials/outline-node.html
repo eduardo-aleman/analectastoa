@@ -1,0 +1,59 @@
+{{/*
+  outline-node.html
+  Called recursively for each node in data/outline.yaml.
+  Expects: dict "node" <node> "depth" <int>
+
+  A node may carry:
+    category: slug  → /categories/slug/  (site.Taxonomies.categories)
+    author:   slug  → /authors/slug/     (site.Taxonomies.authors)
+  Either, both, or neither may be present.
+  If both are present the category link is shown first, then the author link.
+*/}}
+
+{{- $node  := .node  }}
+{{- $depth := .depth }}
+
+<div class="outline-node outline-depth-{{ $depth }}">
+
+  {{- if and $node.category $node.author }}
+    {{/* Node carries both a category and an author link */}}
+    <span class="outline-label-group">
+      {{- partial "outline-node-link.html" (dict "slug" $node.category "base" "categories" "label" $node.title "tax" (index site.Taxonomies.categories ($node.category | urlize))) }}
+      <span class="outline-label-sep">·</span>
+      {{- partial "outline-node-link.html" (dict "slug" $node.author "base" "authors" "label" $node.title "tax" (index site.Taxonomies.authors ($node.author | urlize))) }}
+    </span>
+
+  {{- else if $node.category }}
+    {{- $slug := $node.category | urlize }}
+    {{- $tax  := index site.Taxonomies.categories $slug }}
+    <a class="outline-label outline-label--linked" href="{{ "/categories/" | relURL }}{{ $slug }}/">
+      {{- $node.title }}
+    </a>
+    {{- if $tax }}
+      {{- partial "outline-post-list.html" $tax.Pages }}
+    {{- end }}
+
+  {{- else if $node.author }}
+    {{- $slug := $node.author | urlize }}
+    {{- $tax  := index site.Taxonomies.authors $slug }}
+    <a class="outline-label outline-label--linked" href="{{ "/authors/" | relURL }}{{ $slug }}/">
+      {{- $node.title }}
+    </a>
+    {{- if $tax }}
+      {{- partial "outline-post-list.html" $tax.Pages }}
+    {{- end }}
+
+  {{- else }}
+    {{/* Plain branch heading — no link */}}
+    <span class="outline-label">{{ $node.title }}</span>
+  {{- end }}
+
+  {{- with $node.children }}
+    <div class="outline-children">
+      {{- range . }}
+        {{- partial "outline-node.html" (dict "node" . "depth" (add $depth 1)) }}
+      {{- end }}
+    </div>
+  {{- end }}
+
+</div>

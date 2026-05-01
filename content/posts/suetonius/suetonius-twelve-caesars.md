@@ -2,7 +2,7 @@
 title: "The Twelve Caesars"
 date: 2025-08-01
 authors: ["Suetonius"]
-categories: ["Roman History", "Biography"]
+categories: ["Roman Historiography", "Biography"]
 tags: ["Caesar", "Augustus", "Nero", "Caligula", "Domitian", "Principate", "Biography"]
 series: ["Suetonius"]
 description: "Reading companion for De Vita Caesarum — Suetonius's biographical portraits of the first twelve rulers of Rome."

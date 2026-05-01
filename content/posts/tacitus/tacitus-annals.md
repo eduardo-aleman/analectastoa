@@ -2,7 +2,7 @@
 title: "Annals"
 date: 2026-01-13
 authors: ["Tacitus"]
-categories: ["Roman History"]
+categories: ["Roman Historiography"]
 tags: ["Augustus", "Tiberius", "Claudius", "Nero", "Principate", "Rome"]
 series: ["Tacitus"]
 summary: "Reading companion for the Annals of Tacitus, covering the Julio-Claudian dynasty from the death of Augustus to the reign of Nero."

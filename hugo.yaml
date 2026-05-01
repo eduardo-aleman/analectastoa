@@ -37,19 +37,28 @@ params:
   ShowCodeCopyButtons: true
   ShowToc: true
   TocOpen: false
+
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  # Note: homeInfoParams is superseded by your custom layouts/index.html
+  # and will not be displayed on the homepage. Safe to remove if desired.
   homeInfoParams:
     Title: "Analecta Stoa"
     Content: >
-      Welcome! This is my personal guide to the great works of the ancient world — a space I've put together for anyone curious about where our stories come from. You'll find clear summaries, key passages from the original texts, and notes to help you make sense of it all. By looking at how these foundational works were first written down and passed along, we can start to see surprising reflections of our own world today.
+      Welcome! This is my personal guide to the great works of the ancient world — a space I've put together
+      for anyone curious about where our stories come from. You'll find clear summaries, key passages from
+      the original texts, and notes to help you make sense of it all. By looking at how these foundational
+      works were first written down and passed along, we can start to see surprising reflections of our own
+      world today.
+
   socialIcons:
     - name: "other"
-      url: "https://ealeman.com"
+      url: "https://ealeman.com"  # url must be indented under its list item
 
 taxonomies:
   author: "authors"

@@ -2,7 +2,7 @@
 title: "Histories"
 date: 2026-02-01
 authors: ["Polybius"]
-categories: ["Greek History"]
+categories: ["Greek Historiography"]
 tags: ["Rome", "Carthage", "Macedonia", "Hannibal", "Scipio", "Republic", "Hellenistic World"]
 series: ["Polybius"]
 summary: "Reading companion for the Histories of Polybius, covering Rome's rise to Mediterranean dominance from the First Punic War to the destruction of Carthage."

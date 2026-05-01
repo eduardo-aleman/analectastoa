@@ -2,7 +2,7 @@
 title: "The Jewish War"
 date: 2026-02-01
 authors: ["Josephus"]
-categories: ["Jewish History", "Roman History"]
+categories: ["Jewish Historiography", "Roman Historiography"]
 tags: ["Jerusalem", "Second Temple", "Rome", "Vespasian", "Titus", "Masada", "Revolt"]
 series: ["Josephus"]
 summary: "Reading companion for Bellum Judaicum — Josephus's eyewitness account of the Jewish revolt against Rome and the destruction of the Second Temple."
