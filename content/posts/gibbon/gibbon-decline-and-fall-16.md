@@ -129,7 +129,7 @@ But although the obscurity of the house of David might protect them from the sus
 #### Trajan and his successors establish a legal mode of proceeding against them
 
 <figure>
-  <img src="trajan_louvre.jpg" alt="Marble statue of Emperor Trajan at the Louvre Museum">
+  <img src="/trajan_louvre.jpg" alt="Marble statue of Emperor Trajan at the Louvre Museum">
   <figcaption>
     <i>Colossal Statue of Emperor Trajan (53–117 AD)</i><br>
     <i>Musée du Louvre, Paris, France</i><br>
