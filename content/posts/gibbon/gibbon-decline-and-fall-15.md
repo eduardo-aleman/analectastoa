@@ -413,9 +413,7 @@ Circumcision had been practised by the most ancient Aethiopians, from motives of
 
 [^52]: The preexistence of human souls, so far at least as that doctrine is compatible with religion, was adopted by many of the Greek and Latin fathers. See Beausobre, Hist. du Manicheisme, l. vi. c. 4.
 
-[^53]: See Cicero pro Cluent. c. 61. Caesar ap. Sallust. de Bell. Catilis n 50. Juvenal. Satir. ii. 149.
-
-Esse aliquid manes, et subterranea regna, - - - - - - - Nec pueri credunt, nisi qui nondum aeree lavantae.
+[^53]: See Cicero pro Cluent. c. 61. Caesar ap. Sallust. de Bell. Catilis n 50. Juvenal. Satir. ii. 149. Esse aliquid manes, et subterranea regna, - - - - - - - Nec pueri credunt, nisi qui nondum aeree lavantae.
 
 [^54]: The xith book of the Odyssey gives a very dreary and incoherent account of the infernal shades. Pindar and Virgil have embellished the picture; but even those poets, though more correct than their great model, are guilty of very strange inconsistencies. See Bayle, Responses aux Questions d'un Provincial, part iii. c. 22.
 
