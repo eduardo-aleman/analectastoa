@@ -35,16 +35,6 @@ cover:
 
 ## Edward Gibbon
 
-<figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Temple_of_Antoninus_and_Faustina_%28Roma%29.jpg" width="250" alt="Temple of Antoninus and Faustina">
-  <figcaption>
-    <i>Temple of Antoninus and Faustina</i><br>
-    <i>Rome, Italy</i><br><br>
-    The Temple of Antoninus and Faustina is a well-preserved ancient Roman structure in the Forum Romanum, built in 141 AD by Emperor Antoninus Pius for his deified wife, Faustina the Elder. It was later rededicated to both in 161 AD. Its survival is due to its conversion into the church of San Lorenzo in Miranda.<br>
-    </a>
-  </figcaption>
-</figure>
-
 ### Chapter XVI: The Conduct of the Roman Government towards the Christians from the reign of Nero to that of Constantine
 
 #### Christianity persecuted by the Roman emperors
@@ -129,12 +119,13 @@ But although the obscurity of the house of David might protect them from the sus
 #### Trajan and his successors establish a legal mode of proceeding against them
 
 <figure>
-  <img src="/trajan_louvre.jpg" alt="Marble statue of Emperor Trajan at the Louvre Museum">
+  <img src="/trajan_louvre.jpg" alt="Marble statue of Emperor Trajan at the Louvre Museum" width="250">
   <figcaption>
     <i>Colossal Statue of Emperor Trajan (53–117 AD)</i><br>
     <i>Musée du Louvre, Paris, France</i><br>
     Trajan's reign, considered Rome's golden age of expansion, saw the Empire reach its greatest territorial extent. His military campaigns in Dacia and Parthia, monumental building programs, and reputation for just governance earned him the title <i>Optimus Princeps</i> — the best ruler — a legacy explored throughout the chapters that follow.
-    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> © Eduardo Alemán
+    <br>
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> © Eduardo Alemán
   </figcaption>
 </figure>
 
