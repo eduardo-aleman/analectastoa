@@ -314,49 +314,830 @@ If we are obliged to submit our belief to the authority of Grotius, it must be a
 End Of The First Volume
 
 ### Footnotes
-
-[^1]: In Cyrene, they massacred 220,000 Greeks; in Cyprus, 240,000; in Egypt, a very great multitude. Many of these unhappy victims were sawn asunder, according to a precedent to which David had given the sanction of his example. The victorious Jews devoured the flesh, licked up the blood, and twisted the entrails like a girdle round their bodies. See Dion Cassius, l. lxviii. p. 1145. \* Note: Some commentators, among them Reimar, in his notes on Dion Cassius think that the hatred of the Romans against the Jews has led the historian to exaggerate the cruelties committed by the latter. Don. Cass. lxviii. p. 1146.—G.
-
-[^2]: Without repeating the well-known narratives of Josephus, we may learn from Dion, (l. lxix. p. 1162,) that in Hadrian’s war 580,000 Jews were cut off by the sword, besides an infinite number which perished by famine, by disease, and by fire.
-
-[^3]: For the sect of the Zealots, see Basnage, Histoire des Juifs, l. i. c. 17; for the characters of the Messiah, according to the Rabbis, l. v. c. 11, 12, 13; for the actions of Barchochebas, l. vii. c. 12. (Hist. of Jews iii. 115, &c.)—M.
-
-[^4]: It is to Modestinus, a Roman lawyer (l. vi. regular.) that we are indebted for a distinct knowledge of the Edict of Antoninus. See Casaubon ad Hist. August. p. 27.
-
-[^5]: See Basnage, Histoire des Juifs, l. iii. c. 2, 3. The office of Patriarch was suppressed by Theodosius the younger.
-
-[^6]: We need only mention the Purim, or deliverance of the Jews from he rage of Haman, which, till the reign of Theodosius, was celebrated with insolent triumph and riotous intemperance. Basnage, Hist. des Juifs, l. vi. c. 17, l. viii. c. 6.
-
-[^7]: According to the false Josephus, Tsepho, the grandson of Esau, conducted into Italy the army of Eneas, king of Carthage. Another colony of Idumæans, flying from the sword of David, took refuge in the dominions of Romulus. For these, or for other reasons of equal weight, the name of Edom was applied by the Jews to the Roman empire. \* Note: The false Josephus is a romancer of very modern date, though some of these legends are probably more ancient. It may be worth considering whether many of the stories in the Talmud are not history in a figurative disguise, adopted from prudence. The Jews might dare to say many things of Rome, under the significant appellation of Edom, which they feared to utter publicly. Later and more ignorant ages took literally, and perhaps embellished, what was intelligible among the generation to which it was addressed. Hist. of Jews, iii. 131. ——The false Josephus has the inauguration of the emperor, with the seven electors and apparently the pope assisting at the coronation! Pref. page xxvi.—M.
-
-[^8]: From the arguments of Celsus, as they are represented and refuted by Origen, (l. v. p. 247—259,) we may clearly discover the distinction that was made between the Jewish people and the Christian sect. See, in the Dialogue of Minucius Felix, (c. 5, 6,) a fair and not inelegant description of the popular sentiments, with regard to the desertion of the established worship.
-
-[^9]: Cur nullas aras habent? templa nulla? nulla nota simulacra!—Unde autem, vel quis ille, aut ubi, Deus unicus, solitarius, desti tutus? Minucius Felix, c. 10. The Pagan interlocutor goes on to make a distinction in favor of the Jews, who had once a temple, altars, victims, &c.
-
-[^10]: It is difficult (says Plato) to attain, and dangerous to publish, the knowledge of the true God. See the Theologie des Philosophes, in the Abbé d’Olivet’s French translation of Tully de Naturâ Deorum, tom. i. p. 275.
-
-[^11]: The author of the Philopatris perpetually treats the Christians as a company of dreaming enthusiasts, &c.; and in one place he manifestly alludes to the vision in which St. Paul was transported to the third heaven. In another place, Triephon, who personates a Christian, after deriding the gods of Paganism, proposes a mysterious oath.
-
-[^12]: According to Justin Martyr, (Apolog. Major, c. 70-85,) the dæmon who had gained some imperfect knowledge of the prophecies, purposely contrived this resemblance, which might deter, though by different means, both the people and the philosophers from embracing the faith of Christ.
-
-[^13]: In the first and second books of Origen, Celsus treats the birth and character of our Savior with the most impious contempt. The orator Libanius praises Porphyry and Julian for confuting the folly of a sect., which styles a dead man of Palestine, God, and the Son of God. Socrates, Hist. Ecclesiast. iii. 23.
-
-[^14]: The emperor Trajan refused to incorporate a company of 150 firemen, for the use of the city of Nicomedia. He disliked all associations. See Plin. Epist. x. 42, 43.
-
-[^15]: The proconsul Pliny had published a general edict against unlawful meetings. The prudence of the Christians suspended their Agapæ; but it was impossible for them to omit the exercise of public worship.
-
-[^16]: As the prophecies of the Antichrist, approaching conflagration, &c., provoked those Pagans whom they did not convert, they were mentioned with caution and reserve; and the Montanists were censured for disclosing too freely the dangerous secret. See Mosheim, 413.
-
-[^17]: Neque enim dubitabam, quodcunque esset quod faterentur, (such are the words of Pliny,) pervicacian certe et inflexibilem obstinationem lebere puniri.
-
-[^18]: See Mosheim’s Ecclesiastical History, vol. i. p. 101, and Spanheim, Remarques sur les Cæsars de Julien, p. 468, &c.
-
-[^19]: See Justin Martyr, Apolog. i. 35, ii. 14. Athenagoras, in Legation, c. 27. Tertullian, Apolog. c. 7, 8, 9. Minucius Felix, c. 9, 10, 80, 31. The last of these writers relates the accusation in the most elegant and circumstantial manner. The answer of Tertullian is the boldest and most vigorous.
-
-[^20]: In the persecution of Lyons, some Gentile slaves were compelled, by the fear of tortures, to accuse their Christian master. The church of Lyons, writing to their brethren of Asia, treat the horrid charge with proper indignation and contempt. Euseb. Hist. Eccles. v. i.
-
-[^21]: See Justin Martyr, Apolog. i. 35. Irenæus adv. Hæres. i. 24. Clemens. Alexandrin. Stromat. l. iii. p. 438. Euseb. iv. 8. It would be tedious and disgusting to relate all that the succeeding writers have imagined, all that Epiphanius has received, and all that Tillemont has copied. M. de Beausobre (Hist. du Manicheisme, l. ix. c. 8, 9) has exposed, with great spirit, the disingenuous arts of Augustin and Pope Leo I.
-
-[^22]: When Tertullian became a Montanist, he aspersed the morals of the church which he had so resolutely defended. “Sed majoris est Agape, quia per hanc adolescentes tui cum sororibus dormiunt, appendices scilicet gulæ lascivia et luxuria.” De Jejuniis c. 17. The 85th canon of the council of Illiberis provides against the scandals which too often polluted the vigils of the church, and disgraced the Christian name in the eyes of unbelievers.
-
-[^23]: Tertullian (Apolog. c. 2) expatiates on the fair and honorable testimony of Pliny, with much reason and some declamation.
+[^A]:  The history of the first age of Christianity is only found in the Acts of the Apostles, and in order to speak of the first persecutions experienced by the Christians, that book should naturally have been consulted; those persecutions, then limited to individuals and to a narrow sphere, interested only the persecuted, and have been related by them alone. Gibbon making the persecutions ascend no higher than Nero, has entirely omitted those which preceded this epoch, and of which St. Luke has preserved the memory. The only way to justify this omission was, to attack the authenticity of the Acts of the Apostles; for, if authentic, they must necessarily be consulted and quoted. Now, antiquity has left very few works of which the authenticity is so well established as that of the Acts of the Apostles. (See Lardner's Cred. of Gospel Hist. part iii.) It is therefore, without sufficient reason, that Gibbon has maintained silence concerning the narrative of St. Luke, and this omission is not without importance. - G.																								
+																								
+																								
+																								
+[^1]:  In Cyrene, they massacred 220,000 Greeks; in Cyprus, 240,000; in Egypt, a very great multitude. Many of these unhappy victims were sawn asunder, according to a precedent to which David had given the sanction of his example. The victorious Jews devoured the flesh, licked up the blood, and twisted the entrails like a girdle round their bodies. See Dion Cassius, l. lxviii. p. 1145. Note]:  Some commentators, among them Reimar, in his notes on Dion Cassius think that the hatred of the Romans against the Jews has led the historian to exaggerate the cruelties committed by the latter. Don. Cass. lxviii. p. 1146. - G.																								
+																								
+																								
+																								
+[^2]:  Without repeating the well-known narratives of Josephus, we may learn from Dion, (l. lxix. p. 1162,) that in Hadrian's war 580,000 Jews were cut off by the sword, besides an infinite number which perished by famine, by disease, and by fire.																								
+																								
+																								
+																								
+[^3]:  For the sect of the Zealots, see Basnage, Histoire des Juifs, l. i. c. 17; for the characters of the Messiah, according to the Rabbis, l. v. c. 11, 12, 13; for the actions of Barchochebas, l. vii. c. 12. (Hist. of Jews iii. 115, &c.) - M.																								
+																								
+																								
+																								
+[^4]:  It is to Modestinus, a Roman lawyer (l. vi. regular.) that we are indebted for a distinct knowledge of the Edict of Antoninus. See Casaubon ad Hist. August. p. 27.																								
+																								
+																								
+																								
+[^5]:  See Basnage, Histoire des Juifs, l. iii. c. 2, 3. The office of Patriarch was suppressed by Theodosius the younger.																								
+																								
+																								
+																								
+[^6]:  We need only mention the Purim, or deliverance of the Jews from he rage of Haman, which, till the reign of Theodosius, was celebrated with insolent triumph and riotous intemperance. Basnage, Hist. des Juifs, l. vi. c. 17, l. viii. c. 6.																								
+																								
+																								
+																								
+[^7]:  According to the false Josephus, Tsepho, the grandson of Esau, conducted into Italy the army of Eneas, king of Carthage. Another colony of Idumaeans, flying from the sword of David, took refuge in the dominions of Romulus. For these, or for other reasons of equal weight, the name of Edom was applied by the Jews to the Roman empire. Note]:  The false Josephus is a romancer of very modern date, though some of these legends are probably more ancient. It may be worth considering whether many of the stories in the Talmud are not history in a figurative disguise, adopted from prudence. The Jews might dare to say many things of Rome, under the significant appellation of Edom, which they feared to utter publicly. Later and more ignorant ages took literally, and perhaps embellished, what was intelligible among the generation to which it was addressed. Hist. of Jews, iii. 131. The false Josephus has the inauguration of the emperor, with the seven electors and apparently the pope assisting at the coronation! Pref. page xxvi. - M.																								
+																								
+																								
+																								
+[^8]:  From the arguments of Celsus, as they are represented and refuted by Origen, (l. v. p. 247 - 259,) we may clearly discover the distinction that was made between the Jewish people and the Christian sect. See, in the Dialogue of Minucius Felix, (c. 5, 6,) a fair and not inelegant description of the popular sentiments, with regard to the desertion of the established worship.																								
+																								
+																								
+																								
+[^B]:  In all this there is doubtless much truth; yet does not the more important difference lie on the surface? The Christians made many converts the Jews but few. Had the Jewish been equally a proselyting religion would it not have encountered as violent persecution? - M.																								
+																								
+																								
+																								
+[^9]:  Cur nullas aras habent? templa nulla? nulla nota simulacra! - Unde autem, vel quis ille, aut ubi, Deus unicus, solitarius, desti tutus? Minucius Felix, c. 10. The Pagan interlocutor goes on to make a distinction in favor of the Jews, who had once a temple, altars, victims, &c.																								
+																								
+																								
+																								
+[^10]:  It is difficult (says Plato) to attain, and dangerous to publish, the knowledge of the true God. See the Theologie des Philosophes, in the Abbe d'Olivet's French translation of Tully de Natura Deorum, tom. i. p. 275.																								
+																								
+																								
+																								
+[^11]:  The author of the Philopatris perpetually treats the Christians as a company of dreaming enthusiasts, &c.; and in one place he manifestly alludes to the vision in which St. Paul was transported to the third heaven. In another place, Triephon, who personates a Christian, after deriding the gods of Paganism, proposes a mysterious oath.																								
+																								
+																								
+																								
+[^12]:  According to Justin Martyr, (Apolog. Major, c. 70-85,) the daemon who had gained some imperfect knowledge of the prophecies, purposely contrived this resemblance, which might deter, though by different means, both the people and the philosophers from embracing the faith of Christ.																								
+																								
+																								
+																								
+[^13]:  In the first and second books of Origen, Celsus treats the birth and character of our Savior with the most impious contempt. The orator Libanius praises Porphyry and Julian for confuting the folly of a sect., which styles a dead man of Palestine, God, and the Son of God. Socrates, Hist. Ecclesiast. iii. 23.																								
+																								
+																								
+																								
+[^14]:  The emperor Trajan refused to incorporate a company of 150 firemen, for the use of the city of Nicomedia. He disliked all associations. See Plin. Epist. x. 42, 43.																								
+																								
+																								
+																								
+[^15]:  The proconsul Pliny had published a general edict against unlawful meetings. The prudence of the Christians suspended their Agapae; but it was impossible for them to omit the exercise of public worship.																								
+																								
+																								
+[^16]:  As the prophecies of the Antichrist, approaching conflagration, &c., provoked those Pagans whom they did not convert, they were mentioned with caution and reserve; and the Montanists were censured for disclosing too freely the dangerous secret. See Mosheim, 413.																								
+																								
+																								
+																								
+[^17]:  Neque enim dubitabam, quodcunque esset quod faterentur, (such are the words of Pliny,) pervicacian certe et inflexibilem obstinationem lebere puniri.																								
+																								
+																								
+																								
+[^18]:  See Mosheim's Ecclesiastical History, vol. i. p. 101, and Spanheim, Remarques sur les Caesars de Julien, p. 468, &c.																								
+																								
+																								
+																								
+[^19]:  See Justin Martyr, Apolog. i. 35, ii. 14. Athenagoras, in Legation, c. 27. Tertullian, Apolog. c. 7, 8, 9. Minucius Felix, c. 9, 10, 80, 31. The last of these writers relates the accusation in the most elegant and circumstantial manner. The answer of Tertullian is the boldest and most vigorous.																								
+																								
+																								
+																								
+[^20]:  In the persecution of Lyons, some Gentile slaves were compelled, by the fear of tortures, to accuse their Christian master. The church of Lyons, writing to their brethren of Asia, treat the horrid charge with proper indignation and contempt. Euseb. Hist. Eccles. v. i.																								
+																								
+																								
+[^21]:  See Justin Martyr, Apolog. i. 35. Irenaeus adv. Haeres. i. 24. Clemens. Alexandrin. Stromat. l. iii. p. 438. Euseb. iv. 8. It would be tedious and disgusting to relate all that the succeeding writers have imagined, all that Epiphanius has received, and all that Tillemont has copied. M. de Beausobre (Hist. du Manicheisme, l. ix. c. 8, 9) has exposed, with great spirit, the disingenuous arts of Augustin and Pope Leo I.																								
+																								
+																								
+[^22]:  When Tertullian became a Montanist, he aspersed the morals of the church which he had so resolutely defended. "Sed majoris est Agape, quia per hanc adolescentes tui cum sororibus dormiunt, appendices scilicet gulae lascivia et luxuria." De Jejuniis c. 17. The 85th canon of the council of Illiberis provides against the scandals which too often polluted the vigils of the church, and disgraced the Christian name in the eyes of unbelievers.																								
+																								
+																								
+[^23]:  Tertullian (Apolog. c. 2) expatiates on the fair and honorable testimony of Pliny, with much reason and some declamation.																								
+																								
+																								
+																								
+																								
+[^24]:  In the various compilation of the Augustan History, (a part of which was composed under the reign of Constantine,) there are not six lines which relate to the Christians; nor has the diligence of Xiphilin discovered their name in the large history of Dion Cassius. Note]:  The greater part of the Augustan History is dedicated to Diocletian. This may account for the silence of its authors concerning Christianity. The notices that occur are almost all in the lives composed under the reign of Constantine. It may fairly be concluded, from the language which he had into the mouth of Maecenas, that Dion was an enemy to all innovations in religion. (See Gibbon, infra, note 105.) In fact, when the silence of Pagan historians is noticed, it should be remembered how meagre and mutilated are all the extant histories of the period -M.																								
+																								
+																								
+																								
+[^25]:  An obscure passage of Suetonius (in Claud. c. 25) may seem to offer a proof how strangely the Jews and Christians of Rome were confounded with each other.																								
+																								
+																								
+																								
+[^26]:  See, in the xviiith and xxvth chapters of the Acts of the Apostles, the behavior of Gallio, proconsul of Achaia, and of Festus, procurator of Judea.																								
+																								
+																								
+																								
+[^27]:  In the time of Tertullian and Clemens of Alexandria, the glory of martyrdom was confined to St. Peter, St. Paul, and St. James. It was gradually bestowed on the rest of the apostles, by the more recent Greeks, who prudently selected for the theatre of their preaching and sufferings some remote country beyond the limits of the Roman empire. See Mosheim, p. 81; and Tillemont, Memoires Ecclesiastiques, tom. i. part iii.																								
+																								
+																								
+																								
+[^28]:  Tacit. Annal. xv. 38 - 44. Sueton in Neron. c. 38. Dion Cassius, l. lxii. p. 1014. Orosius, vii. 7.																								
+																								
+																								
+																								
+[^29]:  The price of wheat (probably of the modius,) was reduced as low as terni Nummi; which would be equivalent to about fifteen shillings the English quarter.																								
+																								
+																								
+																								
+[^30]:  We may observe, that the rumor is mentioned by Tacitus with a very becoming distrust and hesitation, whilst it is greedily transcribed by Suetonius, and solemnly confirmed by Dion.																								
+																								
+																								
+																								
+[^31]:  This testimony is alone sufficient to expose the anachronism of the Jews, who place the birth of Christ near a century sooner. (Basnage, Histoire des Juifs, l. v. c. 14, 15.) We may learn from Josephus, (Antiquitat. xviii. 3,) that the procuratorship of Pilate corresponded with the last ten years of Tiberius, A. D. 27 - 37. As to the particular time of the death of Christ, a very early tradition fixed it to the 25th of March, A. D. 29, under the consulship of the two Gemini. (Tertullian adv. Judaeos, c. 8.) This date, which is adopted by Pagi, Cardinal Norris, and Le Clerc, seems at least as probable as the vulgar aera, which is placed (I know not from what conjectures) four years later.																								
+																								
+																								
+																								
+[^C]:  This single phrase, Repressa in praesens exitiabilis superstitio rursus erumpebat, proves that the Christians had already attracted the attention of the government; and that Nero was not the first to persecute them. I am surprised that more stress has not been laid on the confirmation which the Acts of the Apostles derive from these words of Tacitus, Repressa in praesens, and rursus erumpebat. - G. I have been unwilling to suppress this note, but surely the expression of Tacitus refers to the expected extirpation of the religion by the death of its founder, Christ. - M.																								
+																								
+																								
+																								
+[^32]:  Odio humani generis convicti. These words may either signify the hatred of mankind towards the Christians, or the hatred of the Christians towards mankind. I have preferred the latter sense, as the most agreeable to the style of Tacitus, and to the popular error, of which a precept of the gospel (see Luke xiv. 26) had been, perhaps, the innocent occasion. My interpretation is justified by the authority of Lipsius; of the Italian, the French, and the English translators of Tacitus; of Mosheim, (p. 102,) of Le Clerc, (Historia Ecclesiast. p. 427,) of Dr. Lardner, (Testimonies, vol. i. p. 345,) and of the Bishop of Gloucester, (Divine Legation, vol. iii. p. 38.) But as the word convicti does not unite very happily with the rest of the sentence, James Gronovius has preferred the reading of conjuncti, which is authorized by the valuable MS. of Florence.																								
+																								
+																								
+																								
+[^33]:  Tacit. Annal xv. 44.																								
+																								
+																								
+																								
+[^34]:  Nardini Roma Antica, p. 487. Donatus de Roma Antiqua, l. iii. p. 449.																								
+																								
+																								
+																								
+[^35]:  Sueton. in Nerone, c. 16. The epithet of malefica, which some sagacious commentators have translated magical, is considered by the more rational Mosheim as only synonymous to the exitiabilis of Tacitus.																								
+																								
+																								
+																								
+[^36]:  The passage concerning Jesus Christ, which was inserted into the text of Josephus, between the time of Origen and that of Eusebius, may furnish an example of no vulgar forgery. The accomplishment of the prophecies, the virtues, miracles, and resurrection of Jesus, are distinctly related. Josephus acknowledges that he was the Messiah, and hesitates whether he should call him a man. If any doubt can still remain concerning this celebrated passage, the reader may examine the pointed objections of Le Fevre, (Havercamp. Joseph. tom. ii. p. 267-273, the labored answers of Daubuz, (p. 187-232, and the masterly reply (Bibliotheque Ancienne et Moderne, tom. vii. p. 237-288) of an anonymous critic, whom I believe to have been the learned Abbe de Longuerue. Note]:  The modern editor of Eusebius, Heinichen, has adopted, and ably supported, a notion, which had before suggested itself to the editor, that this passage is not altogether a forgery, but interpolated with many additional clauses. Heinichen has endeavored to disengage the original text from the foreign and more recent matter. - M.																								
+																								
+																								
+																								
+[^37]:  See the lives of Tacitus by Lipsius and the Abbe de la Bleterie, Dictionnaire de Bayle a l'article Particle Tacite, and Fabricius, Biblioth. Latin tem. Latin. tom. ii. p. 386, edit. Ernest. Ernst.																								
+																								
+																								
+																								
+[^38]:  Principatum Divi Nervae, et imperium Trajani, uberiorem, securioremque materiam senectuti seposui. Tacit. Hist. i.																								
+																								
+																								
+																								
+[^39]:  See Tacit. Annal. ii. 61, iv. 4. Note]:  The perusal of this passage of Tacitus alone is sufficient, as I have already said, to show that the Christian sect was not so obscure as not already to have been repressed, (repressa,) and that it did not pass for innocent in the eyes of the Romans. - G.																								
+																								
+																								
+																								
+[^40]:  The player's name was Aliturus. Through the same channel, Josephus, (de vita sua, c. 2,) about two years before, had obtained the pardon and release of some Jewish priests, who were prisoners at Rome.																								
+																								
+																								
+																								
+[^41]:  The learned Dr. Lardner (Jewish and Heathen Testimonies, vol ii. p. 102, 103) has proved that the name of Galilaeans was a very ancient, and perhaps the primitive appellation of the Christians.																								
+																								
+																								
+																								
+[^42]:  Joseph. Antiquitat. xviii. 1, 2. Tillemont, Ruine des Juifs, p. 742 The sons of Judas were crucified in the time of Claudius. His grandson Eleazar, after Jerusalem was taken, defended a strong fortress with 960 of his most desperate followers. When the battering ram had made a breach, they turned their swords against their wives their children, and at length against their own breasts. They dies to the last man.																								
+																								
+																								
+																								
+[^D]:  This conjecture is entirely devoid, not merely of verisimilitude, but even of possibility. Tacitus could not be deceived in appropriating to the Christians of Rome the guilt and the sufferings which he might have attributed with far greater truth to the followers of Judas the Gaulonite, for the latter never went to Rome. Their revolt, their attempts, their opinions, their wars, their punishment, had no other theatre but Judaea (Basn. Hist. des. Juifs, t. i. p. 491.) Moreover the name of Christians had long been given in Rome to the disciples of Jesus; and Tacitus affirms too positively, refers too distinctly to its etymology, to allow us to suspect any mistake on his part. - G. M. Guizot's expressions are not in the least too strong against this strange imagination of Gibbon; it may be doubted whether the followers of Judas were known as a sect under the name of Galilaeans. - M.																								
+																								
+																								
+																								
+[^43]:  See Dodwell. Paucitat. Mart. l. xiii. The Spanish Inscription in Gruter. p. 238, No. 9, is a manifest and acknowledged forgery contrived by that noted imposter. Cyriacus of Ancona, to flatter the pride and prejudices of the Spaniards. See Ferreras, Histoire D'Espagne, tom. i. p. 192.																								
+																								
+																								
+																								
+[^E]:  M. Guizot, on the authority of Sulpicius Severus, ii. 37, and of Orosius, viii. 5, inclines to the opinion of those who extend the persecution to the provinces. Mosheim rather leans to that side on this much disputed question, (c. xxxv.) Neander takes the view of Gibbon, which is in general that of the most learned writers. There is indeed no evidence, which I can discover, of its reaching the provinces; and the apparent security, at least as regards his life, with which St. Paul pursued his travels during this period, affords at least a strong inference against a rigid and general inquisition against the Christians in other parts of the empire. - M.																								
+																								
+																								
+																								
+[^44]:  The Capitol was burnt during the civil war between Vitellius and Vespasian, the 19th of December, A. D. 69. On the 10th of August, A. D. 70, the temple of Jerusalem was destroyed by the hands of the Jews themselves, rather than by those of the Romans.																								
+																								
+																								
+																								
+[^45]:  The new Capitol was dedicated by Domitian. Sueton. in Domitian. c. 5. Plutarch in Poplicola, tom. i. p. 230, edit. Bryant. The gilding alone cost 12,000 talents (above two millions and a half.) It was the opinion of Martial, (l. ix. Epigram 3,) that if the emperor had called in his debts, Jupiter himself, even though he had made a general auction of Olympus, would have been unable to pay two shillings in the pound.																								
+																								
+																								
+																								
+[^46]:  With regard to the tribute, see Dion Cassius, l. lxvi. p. 1082, with Reimarus's notes. Spanheim, de Usu Numismatum, tom. ii. p. 571; and Basnage, Histoire des Juifs, l. vii. c. 2.																								
+																								
+																								
+																								
+[^47]:  Suetonius (in Domitian. c. 12) had seen an old man of ninety publicly examined before the procurator's tribunal. This is what Martial calls, Mentula tributis damnata.																								
+																								
+																								
+																								
+[^48]:  This appellation was at first understood in the most obvious sense, and it was supposed, that the brothers of Jesus were the lawful issue of Joseph and Mary. A devout respect for the virginity of the mother of God suggested to the Gnostics, and afterwards to the orthodox Greeks, the expedient of bestowing a second wife on Joseph. The Latins (from the time of Jerome) improved on that hint, asserted the perpetual celibacy of Joseph, and justified by many similar examples the new interpretation that Jude, as well as Simon and James, who were styled the brothers of Jesus Christ, were only his first cousins. See Tillemont, Mem. Ecclesiat. tom. i. part iii.]:  and Beausobre, Hist. Critique du Manicheisme, l. ii. c. 2.																								
+																								
+																								
+																								
+[^49]:  Thirty-nine, squares of a hundred feet each, which, if strictly computed, would scarcely amount to nine acres.																								
+																								
+																								
+																								
+[^50]:  Eusebius, iii. 20. The story is taken from Hegesippus.																								
+																								
+																								
+																								
+[^51]:  See the death and character of Sabinus in Tacitus, (Hist. iii. 74 ) Sabinus was the elder brother, and, till the accession of Vespasian, had been considered as the principal support of the Flavium family																								
+																								
+																								
+																								
+[^52]:  Flavium Clementem patruelem suum contemptissimoe inertice . . ex tenuissima suspicione interemit. Sueton. in Domitian. c. 15.																								
+																								
+																								
+																								
+[^53]:  The Isle of Pandataria, according to Dion. Bruttius Praesens (apud Euseb. iii. 18) banishes her to that of Pontia, which was not far distant from the other. That difference, and a mistake, either of Eusebius or of his transcribers, have given occasion to suppose two Domitillas, the wife and the niece of Clemens. See Tillemont, Memoires Ecclesiastiques, tom. ii. p. 224.																								
+																								
+																								
+																								
+[^54]:  Dion. l. lxvii. p. 1112. If the Bruttius Praesens, from whom it is probable that he collected this account, was the correspondent of Pliny, (Epistol. vii. 3,) we may consider him as a contemporary writer.																								
+																								
+																								
+																								
+[^F]:  This is an uncandid sarcasm. There is nothing to connect Stephen with the religion of Domitilla. He was a knave detected in the malversation of money - interceptarum pecuniaram reus. - M.																								
+																								
+																								
+																								
+[^55]:  Suet. in Domit. c. 17. Philostratus in Vit. Apollon. l. viii.																								
+																								
+																								
+																								
+[^56]:  Dion. l. lxviii. p. 1118. Plin. Epistol. iv. 22.																								
+																								
+																								
+[^57]:  Plin. Epistol. x. 97. The learned Mosheim expresses himself (p. 147, 232) with the highest approbation of Pliny's moderate and candid temper. Notwithstanding Dr. Lardner's suspicions (see Jewish and Heathen Testimonies, vol. ii. p. 46,) I am unable to discover any bigotry in his language or proceedings. Note]:  Yet the humane Pliny put two female attendants, probably deaconesses to the torture, in order to ascertain the real nature of these suspicious meetings]:  necessarium credidi, ex duabus ancillis, quae ministrae dicebantor quid asset veri et per tormenta quaerere. - M.																								
+																								
+																								
+[^58]:  Plin. Epist. v. 8. He pleaded his first cause A. D. 81; the year after the famous eruptions of Mount Vesuvius, in which his uncle lost his life.																								
+																								
+																								
+																								
+																								
+[^59]:  Plin. Epist. x. 98. Tertullian (Apolog. c. 5) considers this rescript as a relaxation of the ancient penal laws, "quas Trajanus exparte frustratus est]:  " and yet Tertullian, in another part of his Apology, exposes the inconsistency of prohibiting inquiries, and enjoining punishments.																								
+																								
+																								
+																								
+[^60]:  Eusebius (Hist. Ecclesiast. l. iv. c. 9) has preserved the edict of Hadrian. He has likewise (c. 13) given us one still more favorable, under the name of Antoninus; the authenticity of which is not so universally allowed. The second Apology of Justin contains some curious particulars relative to the accusations of Christians. Note]:  Professor Hegelmayer has proved the authenticity of the edict of Antoninus, in his Comm. Hist. Theol. in Edict. Imp. Antonini. Tubing. 1777, in 4to. - G. Neander doubts its authenticity, (vol. i. p. 152.) In my opinion, the internal evidence is decisive against it. - M																								
+																								
+																								
+																								
+[^G]:  The enactment of this law affords strong presumption, that accusations of the "crime of Christianity," were by no means so uncommon, nor received with so much mistrust and caution by the ruling authorities, as Gibbon would insinuate. - M.																								
+																								
+																								
+																								
+[^61]:  See Tertullian, (Apolog. c. 40.) The acts of the martyrdom of Polycarp exhibit a lively picture of these tumults, which were usually fomented by the malice of the Jews.																								
+																								
+																								
+																								
+[^62]:  These regulations are inserted in the above mentioned document of Hadrian and Pius. See the apology of Melito, (apud Euseb. l iv 26)																								
+																								
+																								
+																								
+[^63]:  See the rescript of Trajan, and the conduct of Pliny. The most authentic acts of the martyrs abound in these exhortations. Note]:  Pliny's test was the worship of the gods, offerings to the statue of the emperor, and blaspheming Christ - praeterea maledicerent Christo. - M.																								
+																								
+																								
+																								
+[^64]:  In particular, see Tertullian, (Apolog. c. 2, 3,) and Lactantius, (Institut. Divin. v. 9.) Their reasonings are almost the same; but we may discover, that one of these apologists had been a lawyer, and the other a rhetorician.																								
+																								
+																								
+																								
+[^H]:  The more ancient as well as authentic memorials of the church, relate many examples of the fact, (of these severe trials,) which there is nothing to contradict. Tertullian, among others, says, Nam proxime ad lenonem damnando Christianam, potius quam ad leonem, confessi estis labem pudicitiae apud nos atrociorem omni poena et omni morte reputari, Apol. cap. ult. Eusebius likewise says, "Other virgins, dragged to brothels, have lost their life rather than defile their virtue." Euseb. Hist. Ecc. viii. 14. - G. The miraculous interpositions were the offspring of the coarse imaginations of the monks. - M.																								
+																								
+																								
+																								
+[^65]:  See two instances of this kind of torture in the Acta Sincere Martyrum, published by Ruinart, p. 160, 399. Jerome, in his Legend of Paul the Hermit, tells a strange story of a young man, who was chained naked on a bed of flowers, and assaulted by a beautiful and wanton courtesan. He quelled the rising temptation by biting off his tongue.																								
+																								
+																								
+																								
+[^68]:  Neque enim in universum aliquid quod quasi certam formam habeat, constitui potest; an expression of Trajan, which gave a very great latitude to the governors of provinces. Note]:  Gibbon altogether forgets that Trajan fully approved of the course pursued by Pliny. That course was, to order all who persevered in their faith to be led to execution]:  perseverantes duci jussi. - M.																								
+																								
+																								
+																								
+[^69]:  In Metalla damnamur, in insulas relegamur. Tertullian, Apolog. c. 12. The mines of Numidia contained nine bishops, with a proportionable number of their clergy and people, to whom Cyprian addressed a pious epistle of praise and comfort. See Cyprian. Epistol. 76, 77.																								
+																								
+																								
+																								
+[^70]:  Though we cannot receive with entire confidence either the epistles, or the acts, of Ignatius, (they may be found in the 2d volume of the Apostolic Fathers,) yet we may quote that bishop of Antioch as one of these exemplary martyrs. He was sent in chains to Rome as a public spectacle, and when he arrived at Troas, he received the pleasing intelligence, that the persecution of Antioch was already at an end. Note]:  The acts of Ignatius are generally received as authentic, as are seven of his letters. Eusebius and St. Jerome mention them]:  there are two editions; in one, the letters are longer, and many passages appear to have been interpolated; the other edition is that which contains the real letters of St. Ignatius; such at least is the opinion of the wisest and most enlightened critics. (See Lardner. Cred. of Gospel Hist.) Less, uber dis Religion, v. i. p. 529. Usser. Diss. de Ign. Epist. Pearson, Vindic, Ignatianae. It should be remarked, that it was under the reign of Trajan that the bishop Ignatius was carried from Antioch to Rome, to be exposed to the lions in the amphitheatre, the year of J. C. 107, according to some; of 116, according to others. - G.																								
+																								
+																								
+																								
+[^71]:  Among the martyrs of Lyons, (Euseb. l. v. c. 1,) the slave Blandina was distinguished by more exquisite tortures. Of the five martyrs so much celebrated in the acts of Felicitas and Perpetua, two were of a servile, and two others of a very mean, condition.																								
+																								
+																								
+																								
+[^72]:  Origen. advers. Celsum, l. iii. p. 116. His words deserve to be transcribed. Note]:  The words that follow should be quoted. "God not permitting that all his class of men should be exterminated]:  " which appears to indicate that Origen thought the number put to death inconsiderable only when compared to the numbers who had survived. Besides this, he is speaking of the state of the religion under Caracalla, Elagabalus, Alexander Severus, and Philip, who had not persecuted the Christians. It was during the reign of the latter that Origen wrote his books against Celsus. - G.																								
+																								
+																								
+																								
+[^73]:  If we recollect that all the Plebeians of Rome were not Christians, and that all the Christians were not saints and martyrs, we may judge with how much safety religious honors can be ascribed to bones or urns, indiscriminately taken from the public burial-place. After ten centuries of a very free and open trade, some suspicions have arisen among the more learned Catholics. They now require as a proof of sanctity and martyrdom, the letters B.M., a vial full of red liquor supposed to be blood, or the figure of a palm-tree. But the two former signs are of little weight, and with regard to the last, it is observed by the critics, 1. That the figure, as it is called, of a palm, is perhaps a cypress, and perhaps only a stop, the flourish of a comma used in the monumental inscriptions. 2. That the palm was the symbol of victory among the Pagans. 3. That among the Christians it served as the emblem, not only of martyrdom, but in general of a joyful resurrection. See the epistle of P. Mabillon, on the worship of unknown saints, and Muratori sopra le Antichita Italiane, Dissertat. lviii.																								
+																								
+																								
+																								
+[^74]:  As a specimen of these legends, we may be satisfied with 10,000 Christian soldiers crucified in one day, either by Trajan or Hadrian on Mount Ararat. See Baronius ad Martyrologium Romanum; Tille mont, Mem. Ecclesiast. tom. ii. part ii. p. 438; and Geddes's Miscellanies, vol. ii. p. 203. The abbreviation of Mil., which may signify either soldiers or thousands, is said to have occasioned some extraordinary mistakes.																								
+																								
+																								
+																								
+[^75]:  Dionysius ap. Euseb l. vi. c. 41 One of the seventeen was likewise accused of robbery. Note]:  Gibbon ought to have said, was falsely accused of robbery, for so it is in the Greek text. This Christian, named Nemesion, falsely accused of robbery before the centurion, was acquitted of a crime altogether foreign to his character, but he was led before the governor as guilty of being a Christian, and the governor inflicted upon him a double torture. (Euseb. loc. cit.) It must be added, that Saint Dionysius only makes particular mention of the principal martyrs, [^this is very doubtful. - M. and that he says, in general, that the fury of the Pagans against the Christians gave to Alexandria the appearance of a city taken by storm. [^This refers to plunder and ill usage, not to actual slaughter. - M. Finally it should be observed that Origen wrote before the persecution of the emperor Decius. - G.																								
+																								
+																								
+[^76]:  The letters of Cyprian exhibit a very curious and original picture both of the man and of the times. See likewise the two lives of Cyprian, composed with equal accuracy, though with very different views; the one by Le Clerc (Bibliotheque Universelle, tom. xii. p. 208-378,) the other by Tillemont, Memoires Ecclesiastiques, tom. iv part i. p. 76-459.																								
+																								
+																								
+[^77]:  See the polite but severe epistle of the clergy of Rome to the bishop of Carthage. (Cyprian. Epist. 8, 9.) Pontius labors with the greatest care and diligence to justify his master against the general censure.																								
+																								
+																								
+[^78]:  In particular those of Dionysius of Alexandria, and Gregory Thaumaturgus, of Neo-Caesarea. See Euseb. Hist. Ecclesiast. l. vi. c. 40; and Memoires de Tillemont, tom. iv. part ii. p. 685.																								
+																								
+																								
+[^79]:  See Cyprian. Epist. 16, and his life by Pontius.																								
+																								
+																								
+[^80]:  We have an original life of Cyprian by the deacon Pontius, the companion of his exile, and the spectator of his death; and we likewise possess the ancient proconsular acts of his martyrdom. These two relations are consistent with each other, and with probability; and what is somewhat remarkable, they are both unsullied by any miraculous circumstances.																								
+																								
+																								
+																								
+																								
+[^81]:  It should seem that these were circular orders, sent at the same time to all the governors. Dionysius (ap. Euseb. l. vii. c. 11) relates the history of his own banishment from Alexandria almost in the same manner. But as he escaped and survived the persecution, we must account him either more or less fortunate than Cyprian.																								
+																								
+																								
+																								
+[^82]:  See Plin. Hist. Natur. v. 3. Cellarius, Geograph. Antiq. part iii. p. 96. Shaw's Travels, p. 90; and for the adjacent country, (which is terminated by Cape Bona, or the promontory of Mercury,) l'Afrique de Marmol. tom. ii. p. 494. There are the remains of an aqueduct near Curubis, or Curbis, at present altered into Gurbes; and Dr. Shaw read an inscription, which styles that city Colonia Fulvia. The deacon Pontius (in Vit. Cyprian. c. 12) calls it "Apricum et competentem locum, hospitium pro voluntate secretum, et quicquid apponi eis ante promissum est, qui regnum et justitiam Dei quaerunt."																								
+																								
+																								
+																								
+[^83]:  See Cyprian. Epistol. 77, edit. Fell.																								
+																								
+																								
+																								
+[^84]:  Upon his conversion, he had sold those gardens for the benefit of the poor. The indulgence of God (most probably the liberality of some Christian friend) restored them to Cyprian. See Pontius, c. 15.																								
+																								
+																								
+																								
+[^85]:  When Cyprian; a twelvemonth before, was sent into exile, he dreamt that he should be put to death the next day. The event made it necessary to explain that word, as signifying a year. Pontius, c. 12.																								
+																								
+																								
+																								
+[^I]:  This was not, as it appears, the motive which induced St. Cyprian to conceal himself for a short time; he was threatened to be carried to Utica; he preferred remaining at Carthage, in order to suffer martyrdom in the midst of his flock, and in order that his death might conduce to the edification of those whom he had guided during life. Such, at least, is his own explanation of his conduct in one of his letters]:  Cum perlatum ad nos fuisset, fratres carissimi, frumentarios esse missos qui me Uticam per ducerent, consilioque carissimorum persuasum est, ut de hortis interim recederemus, justa interveniente causa, consensi; eo quod congruat episcopum in ea civitate, in qua Ecclesiae dominicae praeest, illie. Dominum confiteri et plebem universam praepositi praesentis confessione clarificari Ep. 83. - G																								
+																								
+																								
+																								
+[^86]:  Pontius (c. 15) acknowledges that Cyprian, with whom he supped, passed the night custodia delicata. The bishop exercised a last and very proper act of jurisdiction, by directing that the younger females, who watched in the streets, should be removed from the dangers and temptations of a nocturnal crowd. Act. Preconsularia, c. 2.																								
+																								
+																								
+																								
+[^87]:  See the original sentence in the Acts, c. 4; and in Pontius, c. 17 The latter expresses it in a more rhetorical manner.																								
+																								
+																								
+																								
+[^J]:  There is nothing in the life of St. Cyprian, by Pontius, nor in the ancient manuscripts, which can make us suppose that the presbyters and deacons in their clerical character, and known to be such, had the permission to attend their holy bishop. Setting aside all religious considerations, it is impossible not to be surprised at the kind of complaisance with which the historian here insists, in favor of the persecutors, on some mitigating circumstances allowed at the death of a man whose only crime was maintaining his own opinions with frankness and courage. - G.																								
+																								
+																								
+																								
+[^88]:  Pontius, c. 19. M. de Tillemont (Memoires, tom. iv. part i. p. 450, note 50) is not pleased with so positive an exclusion of any former martyr of the episcopal rank. Note]:  M. de. Tillemont, as an honest writer, explains the difficulties which he felt about the text of Pontius, and concludes by distinctly stating, that without doubt there is some mistake, and that Pontius must have meant only Africa Minor or Carthage; for St. Cyprian, in his 58th (69th) letter addressed to Pupianus, speaks expressly of many bishops his colleagues, qui proscripti sunt, vel apprehensi in carcere et catenis fuerunt; aut qui in exilium relegati, illustri itinere ed Dominum profecti sunt; aut qui quibusdam locis animadversi, coeleses coronas de Domini clarificatione sumpserunt. - G.																								
+																								
+																								
+																								
+[^89]:  Whatever opinion we may entertain of the character or principles of Thomas Becket, we must acknowledge that he suffered death with a constancy not unworthy of the primitive martyrs. See Lord Lyttleton's History of Henry II. vol. ii. p. 592, &c.																								
+																								
+																								
+																								
+[^90]:  See in particular the treatise of Cyprian de Lapsis, p. 87- 98, edit. Fell. The learning of Dodwell (Dissertat. Cyprianic. xii. xiii.,) and the ingenuity of Middleton, (Free Inquiry, p. 162, &c.,) have left scarcely any thing to add concerning the merit, the honors, and the motives of the martyrs.																								
+																								
+																								
+																								
+[^91]:  Cyprian. Epistol. 5, 6, 7, 22, 24; and de Unitat. Ecclesiae. The number of pretended martyrs has been very much multiplied, by the custom which was introduced of bestowing that honorable name on confessors. Note]:  M. Guizot denies that the letters of Cyprian, to which he refers, bear out the statement in the text. I cannot scruple to admit the accuracy of Gibbon's quotation. To take only the fifth letter, we find this passage]:  Doleo enim quando audio quosdam improbe et insolenter discurrere, et ad ineptian vel ad discordias vacare, Christi membra et jam Christum confessa per concubitus illicitos inquinari, nec a diaconis aut presbyteris regi posse, sed id agere ut per paucorum pravos et malos mores, multorum et bonorum confessorum gloria honesta maculetur. Gibbon's misrepresentation lies in the ambiguous expression "too often." Were the epistles arranged in a different manner in the edition consulted by M. Guizot? - M.																								
+																								
+																								
+																								
+[^92]:  Certatim gloriosa in certamina ruebatur; multique avidius tum martyria gloriosis mortibus quaerebantur, quam nunc Episcopatus pravis ambitionibus appetuntur. Sulpicius Severus, l. ii. He might have omitted the word nunc.																								
+																								
+																								
+																								
+[^93]:  See Epist. ad Roman. c. 4, 5, ap. Patres Apostol. tom. ii. p. 27. It suited the purpose of Bishop Pearson (see Vindiciae Ignatianae, part ii. c. 9) to justify, by a profusion of examples and authorities, the sentiments of Ignatius.																								
+																								
+																								
+																								
+[^94]:  The story of Polyeuctes, on which Corneille has founded a very beautiful tragedy, is one of the most celebrated, though not perhaps the most authentic, instances of this excessive zeal. We should observe, that the 60th canon of the council of Illiberis refuses the title of martyrs to those who exposed themselves to death, by publicly destroying the idols.																								
+																								
+[^95]:  See Epictetus, l. iv. c. 7, (though there is some doubt whether he alludes to the Christians.) Marcus Antoninus de Rebus suis, l. xi. c. 3 Lucian in Peregrin.																								
+																								
+																								
+																								
+[^96]:  Tertullian ad Scapul. c. 5. The learned are divided between three persons of the same name, who were all proconsuls of Asia. I am inclined to ascribe this story to Antoninus Pius, who was afterwards emperor; and who may have governed Asia under the reign of Trajan.																								
+																								
+																								
+																								
+[^97]:  Mosheim, de Rebus Christ, ante Constantin. p. 235.																								
+																								
+																								
+																								
+[^98]:  See the Epistle of the Church of Smyrna, ap. Euseb. Hist. Eccles. Liv. c. 15 Note]:  The 15th chapter of the 10th book of the Eccles. History of Eusebius treats principally of the martyrdom of St. Polycarp, and mentions some other martyrs. A single example of weakness is related; it is that of a Phrygian named Quintus, who, appalled at the sight of the wild beasts and the tortures, renounced his faith. This example proves little against the mass of Christians, and this chapter of Eusebius furnished much stronger evidence of their courage than of their timidity. - G This Quintus had, however, rashly and of his own accord appeared before the tribunal; and the church of Smyrna condemn "his indiscreet ardor," coupled as it was with weakness in the hour of trial. - M.																								
+																								
+																								
+																								
+[^99]:  In the second apology of Justin, there is a particular and very curious instance of this legal delay. The same indulgence was granted to accused Christians, in the persecution of Decius]:  and Cyprian (de Lapsis) expressly mentions the "Dies negantibus praestitutus." Note]:  The examples drawn by the historian from Justin Martyr and Cyprian relate altogether to particular cases, and prove nothing as to the general practice adopted towards the accused; it is evident, on the contrary, from the same apology of St. Justin, that they hardly ever obtained delay. "A man named Lucius, himself a Christian, present at an unjust sentence passed against a Christian by the judge Urbicus, asked him why he thus punished a man who was neither adulterer nor robber, nor guilty of any other crime but that of avowing himself a Christian." Urbicus answered only in these words]:  "Thou also hast the appearance of being a Christian." "Yes, without doubt," replied Lucius. The judge ordered that he should be put to death on the instant. A third, who came up, was condemned to be beaten with rods. Here, then, are three examples where no delay was granted. [^Surely these acts of a single passionate and irritated judge prove the general practice as little as those quoted by Gibbon. - M. There exist a multitude of others, such as those of Ptolemy, Marcellus, &c. Justin expressly charges the judges with ordering the accused to be executed without hearing the cause. The words of St. Cyprian are as particular, and simply say, that he had appointed a day by which the Christians must have renounced their faith; those who had not done it by that time were condemned. - G. This confirms the statement in the text. - M.																								
+																								
+																								
+																								
+[^100]:  Tertullian considers flight from persecution as an imperfect, but very criminal, apostasy, as an impious attempt to elude the will of God, &c., &c. He has written a treatise on this subject, (see p. 536 - 544, edit. Rigalt.,) which is filled with the wildest fanaticism and the most incoherent declamation. It is, however, somewhat remarkable, that Tertullian did not suffer martyrdom himself.																								
+																								
+																								
+																								
+[^101]:  The libellatici, who are chiefly known by the writings of Cyprian, are described with the utmost precision, in the copious commentary of Mosheim, p. 483 - 489.																								
+																								
+																								
+																								
+[^K]:  The penance was not so slight, for it was exactly the same with that of apostates who had sacrificed to idols; it lasted several years. See Fleun Hist. Ecc. v. ii. p. 171. - G.																								
+																								
+																								
+																								
+[^102]:  Plin. Epist. x. 97. Dionysius Alexandrin. ap. Euseb. l. vi. c. 41. Ad prima statim verba minantis inimici maximus fratrum numerus fidem suam prodidit]:  nec prostratus est persecutionis impetu, sed voluntario lapsu seipsum prostravit. Cyprian. Opera, p. 89. Among these deserters were many priests, and even bishops.																								
+																								
+																								
+																								
+[^103]:  It was on this occasion that Cyprian wrote his treatise De Lapsis, and many of his epistles. The controversy concerning the treatment of penitent apostates, does not occur among the Christians of the preceding century. Shall we ascribe this to the superiority of their faith and courage, or to our less intimate knowledge of their history!																								
+																								
+																								
+																								
+[^L]:  Pliny says, that the greater part of the Christians persisted in avowing themselves to be so; the reason for his consulting Trajan was the periclitantium numerus. Eusebius (l. vi. c. 41) does not permit us to doubt that the number of those who renounced their faith was infinitely below the number of those who boldly confessed it. The prefect, he says and his assessors present at the council, were alarmed at seeing the crowd of Christians; the judges themselves trembled. Lastly, St. Cyprian informs us, that the greater part of those who had appeared weak brethren in the persecution of Decius, signalized their courage in that of Gallius. Steterunt fortes, et ipso dolore poenitentiae facti ad praelium fortiores Epist. lx. p. 142. - G.																								
+																								
+																								
+																								
+[^104]:  See Mosheim, p. 97. Sulpicius Severus was the first author of this computation; though he seemed desirous of reserving the tenth and greatest persecution for the coming of the Antichrist.																								
+																								
+																								
+																								
+[^105]:  The testimony given by Pontius Pilate is first mentioned by Justin. The successive improvements which the story acquired (as if has passed through the hands of Tertullian, Eusebius, Epiphanius, Chrysostom, Orosius, Gregory of Tours, and the authors of the several editions of the acts of Pilate) are very fairly stated by Dom Calmet Dissertat. sur l'Ecriture, tom. iii. p. 651, &c.																								
+																								
+																								
+																								
+[^106]:  On this miracle, as it is commonly called, of the thundering legion, see the admirable criticism of Mr. Moyle, in his Works, vol. ii. p. 81 - 390.																								
+																								
+																								
+																								
+[^M]:  Gibbon, with this phrase, and that below, which admits the injustice of Marcus, has dexterously glossed over one of the most remarkable facts in the early Christian history, that the reign of the wisest and most humane of the heathen emperors was the most fatal to the Christians. Most writers have ascribed the persecutions under Marcus to the latent bigotry of his character; Mosheim, to the influence of the philosophic party; but the fact is admitted by all. A late writer (Mr. Waddington, Hist. of the Church, p. 47) has not scrupled to assert, that "this prince polluted every year of a long reign with innocent blood;" but the causes as well as the date of the persecutions authorized or permitted by Marcus are equally uncertain. Of the Asiatic edict recorded by Melito. the date is unknown, nor is it quite clear that it was an Imperial edict. If it was the act under which Polycarp suffered, his martyrdom is placed by Ruinart in the sixth, by Mosheim in the ninth, year of the reign of Marcus. The martyrs of Vienne and Lyons are assigned by Dodwell to the seventh, by most writers to the seventeenth. In fact, the commencement of the persecutions of the Christians appears to synchronize exactly with the period of the breaking out of the Marcomannic war, which seems to have alarmed the whole empire, and the emperor himself, into a paroxysm of returning piety to their gods, of which the Christians were the victims. See Jul, Capit. Script. Hist August. p. 181, edit. 1661. It is remarkable that Tertullian (Apologet. c. v.) distinctly asserts that Verus (M. Aurelius) issued no edicts against the Christians, and almost positively exempts him from the charge of persecution. - M. This remarkable synchronism, which explains the persecutions under M Aurelius, is shown at length in Milman's History of Christianity, book ii. v. - M. 1845.																								
+																								
+																								
+																								
+[^107]:  Dion Cassius, or rather his abbreviator Xiphilin, l. lxxii. p. 1206. Mr. Moyle (p. 266) has explained the condition of the church under the reign of Commodus.																								
+																								
+																								
+																								
+[^N]:  The Jews and Christians contest the honor of having furnished a nurse is the fratricide son of Severus Caracalla. Hist. of Jews, iii. 158. - M.																								
+																								
+																								
+																								
+[^108]:  Compare the life of Caracalla in the Augustan History, with the epistle of Tertullian to Scapula. Dr. Jortin (Remarks on Ecclesiastical History, vol. ii. p. 5, &c.) considers the cure of Severus by the means of holy oil, with a strong desire to convert it into a miracle.																								
+																								
+																								
+																								
+[^109]:  Tertullian de Fuga, c. 13. The present was made during the feast of the Saturnalia; and it is a matter of serious concern to Tertullian, that the faithful should be confounded with the most infamous professions which purchased the connivance of the government.																								
+																								
+																								
+																								
+[^110]:  Euseb. l. v. c. 23, 24. Mosheim, p. 435 - 447.																								
+																								
+[^111]:  Judaeos fieri sub gravi poena vetuit. Idem etiam de Christianis sanxit. Hist. August. p. 70.																								
+																								
+																								
+																								
+[^112]:  Sulpicius Severus, l. ii. p. 384. This computation (allowing for a single exception) is confirmed by the history of Eusebius, and by the writings of Cyprian.																								
+																								
+																								
+																								
+[^113]:  The antiquity of Christian churches is discussed by Tillemont, (Memoires Ecclesiastiques, tom. iii. part ii. p. 68-72,) and by Mr. Moyle, (vol. i. p. 378-398.) The former refers the first construction of them to the peace of Alexander Severus; the latter, to the peace of Gallienus.																								
+																								
+																								
+																								
+[^114]:  See the Augustan History, p. 130. The emperor Alexander adopted their method of publicly proposing the names of those persons who were candidates for ordination. It is true that the honor of this practice is likewise attributed to the Jews.																								
+																								
+																								
+																								
+[^115]:  Euseb. Hist. Ecclesiast. l. vi. c. 21. Hieronym. de Script. Eccles. c. 54. Mammaea was styled a holy and pious woman, both by the Christians and the Pagans. From the former, therefore, it was impossible that she should deserve that honorable epithet.																								
+																								
+																								
+																								
+[^116]:  See the Augustan History, p. 123. Mosheim (p. 465) seems to refine too much on the domestic religion of Alexander. His design of building a public temple to Christ, (Hist. August. p. 129,) and the objection which was suggested either to him, or in similar circumstances to Hadrian, appear to have no other foundation than an improbable report, invented by the Christians, and credulously adopted by an historian of the age of Constantine.																								
+																								
+																								
+																								
+[^117]:  Euseb. l. vi. c. 28. It may be presumed that the success of the Christians had exasperated the increasing bigotry of the Pagans. Dion Cassius, who composed his history under the former reign, had most probably intended for the use of his master those counsels of persecution, which he ascribes to a better age, and to and to the favorite of Augustus. Concerning this oration of Maecenas, or rather of Dion, I may refer to my own unbiased opinion, (vol. i. c. 1, note 25,) and to the Abbe de la Bleterie (Memoires de l'Academie, tom. xxiv. p. 303 tom xxv. p. 432.) Note]:  If this be the case, Dion Cassius must have known the Christians they must have been the subject of his particular attention, since the author supposes that he wished his master to profit by these "counsels of persecution." How are we to reconcile this necessary consequence with what Gibbon has said of the ignorance of Dion Cassius even of the name of the Christians? (c. xvi. n. 24.) [^Gibbon speaks of Dion's silence, not of his ignorance. - M The supposition in this note is supported by no proof; it is probable that Dion Cassius has often designated the Christians by the name of Jews. See Dion Cassius, l. lxvii. c 14, lxviii. l - G. On this point I should adopt the view of Gibbon rather than that of M Guizot. - M																								
+																								
+																								
+																								
+[^O]:  It is with good reason that this massacre has been called a persecution, for it lasted during the whole reign of Maximin, as may be seen in Eusebius. (l. vi. c. 28.) Rufinus expressly confirms it]:  Tribus annis a Maximino persecutione commota, in quibus finem et persecutionis fecit et vitas Hist. l. vi. c. 19. - G.																								
+																								
+																								
+																								
+[^118]:  Orosius, l. vii. c. 19, mentions Origen as the object of Maximin's resentment; and Firmilianus, a Cappadocian bishop of that age, gives a just and confined idea of this persecution, (apud Cyprian Epist. 75.)																								
+																								
+																								
+																								
+[^119]:  The mention of those princes who were publicly supposed to be Christians, as we find it in an epistle of Dionysius of Alexandria, (ap. Euseb. l. vii. c. 10,) evidently alludes to Philip and his family, and forms a contemporary evidence, that such a report had prevailed; but the Egyptian bishop, who lived at an humble distance from the court of Rome, expresses himself with a becoming diffidence concerning the truth of the fact. The epistles of Origen (which were extant in the time of Eusebius, see l. vi. c. 36) would most probably decide this curious rather than important question.																								
+																								
+																								
+																								
+[^120]:  Euseb. l. vi. c. 34. The story, as is usual, has been embellished by succeeding writers, and is confuted, with much superfluous learning, by Frederick Spanheim, (Opera Varia, tom. ii. p. 400, &c.)																								
+																								
+																								
+																								
+[^121]:  Lactantius, de Mortibus Persecutorum, c. 3, 4. After celebrating the felicity and increase of the church, under a long succession of good princes, he adds, "Extitit post annos plurimos, execrabile animal, Decius, qui vexaret Ecclesiam."																								
+																								
+																								
+																								
+[^122]:  Euseb. l. vi. c. 39. Cyprian. Epistol. 55. The see of Rome remained vacant from the martyrdom of Fabianus, the 20th of January, A. D. 259, till the election of Cornelius, the 4th of June, A. D. 251 Decius had probably left Rome, since he was killed before the end of that year.																								
+																								
+																								
+																								
+[^123]:  Euseb. l. vii. c. 10. Mosheim (p. 548) has very clearly shown that the praefect Macrianus, and the Egyptian Magus, are one and the same person.																								
+																								
+																								
+																								
+[^124]:  Eusebius (l. vii. c. 13) gives us a Greek version of this Latin edict, which seems to have been very concise. By another edict, he directed that the Coemeteria should be restored to the Christians.																								
+																								
+																								
+																								
+[^125]:  Euseb. l. vii. c. 30. Lactantius de M. P. c. 6. Hieronym. in Chron. p. 177. Orosius, l. vii. c. 23. Their language is in general so ambiguous and incorrect, that we are at a loss to determine how far Aurelian had carried his intentions before he was assassinated. Most of the moderns (except Dodwell, Dissertat. Cyprian. vi. 64) have seized the occasion of gaining a few extraordinary martyrs. Note]:  Dr. Lardner has detailed, with his usual impartiality, all that has come down to us relating to the persecution of Aurelian, and concludes by saying, "Upon more carefully examining the words of Eusebius, and observing the accounts of other authors, learned men have generally, and, as I think, very judiciously, determined, that Aurelian not only intended, but did actually persecute]:  but his persecution was short, he having died soon after the publication of his edicts." Heathen Test. c. xxxvi. - Basmage positively pronounces the same opinion]:  Non intentatum modo, sed executum quoque brevissimo tempore mandatum, nobis infixum est in aniasis. Basn. Ann. 275, No. 2 and compare Pagi Ann. 272, Nos. 4, 12, 27 - G.																								
+																								
+																								
+																								
+[^126]:  Paul was better pleased with the title of Ducenarius, than with that of bishop. The Ducenarius was an Imperial procurator, so called from his salary of two hundred Sestertia, or 1600l. a year. (See Salmatius ad Hist. August. p. 124.) Some critics suppose that the bishop of Antioch had actually obtained such an office from Zenobia, while others consider it only as a figurative expression of his pomp and insolence.																								
+																								
+																								
+																								
+[^127]:  Simony was not unknown in those times; and the clergy some times bought what they intended to sell. It appears that the bishopric of Carthage was purchased by a wealthy matron, named Lucilla, for her servant Majorinus. The price was 400 Folles. (Monument. Antiq. ad calcem Optati, p. 263.) Every Follis contained 125 pieces of silver, and the whole sum may be computed at about 2400l.																								
+																								
+																								
+																								
+[^128]:  If we are desirous of extenuating the vices of Paul, we must suspect the assembled bishops of the East of publishing the most malicious calumnies in circular epistles addressed to all the churches of the empire, (ap. Euseb. l. vii. c. 30.)																								
+																								
+																								
+																								
+[^P]:  It appears, nevertheless, that the vices and immoralities of Paul of Samosata had much weight in the sentence pronounced against him by the bishops. The object of the letter, addressed by the synod to the bishops of Rome and Alexandria, was to inform them of the change in the faith of Paul, the altercations and discussions to which it had given rise, as well as of his morals and the whole of his conduct. Euseb. Hist. Eccl. l. vii c. xxx - G.																								
+																								
+																								
+																								
+[^129]:  His heresy (like those of Noetus and Sabellius, in the same century) tended to confound the mysterious distinction of the divine persons. See Mosheim, p. 702, &c.																								
+																								
+																								
+																								
+[^Q]:  "Her favorite, (Zenobia's,) Paul of Samosata, seems to have entertained some views of attempting a union between Judaism and Christianity; both parties rejected the unnatural alliance." Hist. of Jews, iii. 175, and Jost. Geschichte der Israeliter, iv. 167. The protection of the severe Zenobia is the only circumstance which may raise a doubt of the notorious immorality of Paul. - M.																								
+																								
+																								
+																								
+[^130]:  Euseb. Hist. Ecclesiast. l. vii. c. 30. We are entirely indebted to him for the curious story of Paul of Samosata.																								
+																								
+																								
+																								
+[^131]:  The Aera of Martyrs, which is still in use among the Copts and the Abyssinians, must be reckoned from the 29th of August, A. D. 284; as the beginning of the Egyptian year was nineteen days earlier than the real accession of Diocletian. See Dissertation Preliminaire a l'Art de verifier les Dates. Note]:  On the aera of martyrs see the very curious dissertations of Mons Letronne on some recently discovered inscriptions in Egypt and Nubis, p. 102, &c. - M.																								
+																								
+																								
+																								
+[^132]:  The expression of Lactantius, (de M. P. c. 15,) "sacrificio pollui coegit," implies their antecedent conversion to the faith, but does not seem to justify the assertion of Mosheim, (p. 912,) that they had been privately baptized.																								
+																								
+																								
+																								
+[^133]:  M. de Tillemont (Memoires Ecclesiastiques, tom. v. part i. p. 11, 12) has quoted from the Spicilegium of Dom Luc d'Archeri a very curious instruction which Bishop Theonas composed for the use of Lucian.																								
+																								
+																								
+																								
+[^134]:  Lactantius, de M. P. c. 10.																								
+																								
+																								
+																								
+[^135]:  Eusebius, Hist. Ecclesiast. l. viii. c. 1. The reader who consults the original will not accuse me of heightening the picture. Eusebius was about sixteen years of age at the accession of the emperor Diocletian.																								
+																								
+																								
+																								
+[^136]:  We might quote, among a great number of instances, the mysterious worship of Mythras, and the Taurobolia; the latter of which became fashionable in the time of the Antonines, (see a Dissertation of M. de Boze, in the Memoires de l'Academie des Inscriptions, tom. ii. p. 443.) The romance of Apuleius is as full of devotion as of satire. Note]:  On the extraordinary progress of the Mahriac rites, in the West, see De Guigniaud's translation of Creuzer, vol. i. p. 365, and Note 9, tom. i. part 2, p. 738, &c. - M.																								
+																								
+																								
+																								
+[^137]:  The impostor Alexander very strongly recommended the oracle of Trophonius at Mallos, and those of Apollo at Claros and Miletus, (Lucian, tom. ii. p. 236, edit. Reitz.) The last of these, whose singular history would furnish a very curious episode, was consulted by Diocletian before he published his edicts of persecution, (Lactantius, de M. P. c. 11.)																								
+																								
+																								
+																								
+[^138]:  Besides the ancient stories of Pythagoras and Aristeas, the cures performed at the shrine of Aesculapius, and the fables related of Apollonius of Tyana, were frequently opposed to the miracles of Christ; though I agree with Dr. Lardner, (see Testimonies, vol. iii. p. 253, 352,) that when Philostratus composed the life of Apollonius, he had no such intention.																								
+																								
+																								
+																								
+[^139]:  It is seriously to be lamented, that the Christian fathers, by acknowledging the supernatural, or, as they deem it, the infernal part of Paganism, destroy with their own hands the great advantage which we might otherwise derive from the liberal concessions of our adversaries.																								
+																								
+																								
+																								
+[^140]:  Julian (p. 301, edit. Spanheim) expresses a pious joy, that the providence of the gods had extinguished the impious sects, and for the most part destroyed the books of the Pyrrhonians and Epicuraeans, which had been very numerous, since Epicurus himself composed no less than 300 volumes. See Diogenes Laertius, l. x. c. 26.																								
+																								
+																								
+																								
+[^141]:  Cumque alios audiam mussitare indignanter, et dicere opportere statui per Senatum, aboleantur ut haec scripta, quibus Christiana Religio comprobetur, et vetustatis opprimatur auctoritas. Arnobius adversus Gentes, l. iii. p. 103, 104. He adds very properly, Erroris convincite Ciceronem . . . nam intercipere scripta, et publicatam velle submergere lectionem, non est Deum defendere sed veritatis testificationem timere.																								
+																								
+																								
+																								
+[^142]:  Lactantius (Divin. Institut. l. v. c. 2, 3) gives a very clear and spirited account of two of these philosophic adversaries of the faith. The large treatise of Porphyry against the Christians consisted of thirty books, and was composed in Sicily about the year 270.																								
+																								
+																								
+																								
+[^143]:  See Socrates, Hist. Ecclesiast. l. i. c. 9, and Codex Justinian. l. i. i. l. s.																								
+																								
+																								
+																								
+[^144]:  Eusebius, l. viii. c. 4, c. 17. He limits the number of military martyrs, by a remarkable expression, of which neither his Latin nor French translator have rendered the energy. Notwithstanding the authority of Eusebius, and the silence of Lactantius, Ambrose, Sulpicius, Orosius, &c., it has been long believed, that the Thebaean legion, consisting of 6000 Christians, suffered martyrdom by the order of Maximian, in the valley of the Pennine Alps. The story was first published about the middle of the 5th century, by Eucherius, bishop of Lyons, who received it from certain persons, who received it from Isaac, bishop of Geneva, who is said to have received it from Theodore, bishop of Octodurum. The abbey of St. Maurice still subsists, a rich monument of the credulity of Sigismund, king of Burgundy. See an excellent Dissertation in xxxvith volume of the Bibliotheque Raisonnee, p. 427-454.																								
+																								
+																								
+																								
+[^R]:  M. Guizot criticizes Gibbon's account of this incident. He supposes that Maximilian was not "produced by his father as a recruit," but was obliged to appear by the law, which compelled the sons of soldiers to serve at 21 years old. Was not this a law of Constantine? Neither does this circumstance appear in the acts. His father had clearly expected him to serve, as he had bought him a new dress for the occasion; yet he refused to force the conscience of his son. and when Maximilian was condemned to death, the father returned home in joy, blessing God for having bestowed upon him such a son. - M.																								
+																								
+																								
+																								
+[^145]:  See the Acta Sincera, p. 299. The accounts of his martyrdom and that of Marcellus, bear every mark of truth and authenticity.																								
+																								
+																								
+																								
+[^146]:  Acta Sincera, p. 302. Note]:  M. Guizot here justly observes, that it was the necessity of sacrificing to the gods, which induced Marcellus to act in this manner. - M.																								
+																								
+																								
+																								
+[^147]:  De M. P. c. 11. Lactantius (or whoever was the author of this little treatise) was, at that time, an inhabitant of Nicomedia; but it seems difficult to conceive how he could acquire so accurate a knowledge of what passed in the Imperial cabinet. Note]:  Lactantius, who was subsequently chosen by Constantine to educate Crispus, might easily have learned these details from Constantine himself, already of sufficient age to interest himself in the affairs of the government, and in a position to obtain the best information. - G. This assumes the doubtful point of the authorship of the Treatise. - M.																								
+																								
+																								
+																								
+[^S]:  This permission was not extorted from Diocletian; he took the step of his own accord. Lactantius says, in truth, Nec tamen deflectere potuit (Diocletianus) praecipitis hominis insaniam; placuit ergo amicorum sententiam experiri. (De Mort. Pers. c. 11.) But this measure was in accordance with the artificial character of Diocletian, who wished to have the appearance of doing good by his own impulse and evil by the impulse of others. Nam erat hujus malitiae, cum bonum quid facere decrevisse sine consilio faciebat, ut ipse laudaretur. Cum autem malum. quoniam id reprehendendum sciebat, in consilium multos advocabat, ut alioram culpao adscriberetur quicquid ipse deliquerat. Lact. ib. Eutropius says likewise, Miratus callide fuit, sagax praeterea et admodum subtilis ingenio, et qui severitatem suam aliena invidia vellet explere. Eutrop. ix. c. 26. - G. The manner in which the coarse and unfriendly pencil of the author of the Treatise de Mort. Pers. has drawn the character of Diocletian, seems inconsistent with this profound subtilty. Many readers will perhaps agree with Gibbon. - M.																								
+																								
+																								
+																								
+[^148]:  The only circumstance which we can discover, is the devotion and jealousy of the mother of Galerius. She is described by Lactantius, as Deorum montium cultrix; mulier admodum superstitiosa. She had a great influence over her son, and was offended by the disregard of some of her Christian servants. Note]:  This disregard consisted in the Christians fasting and praying instead of participating in the banquets and sacrifices which she celebrated with the Pagans. Dapibus sacrificabat poene quotidie ac vicariis suis epulis exhibebat. Christiani abstinebant, et illa cum gentibus epulante, jejuniis hi et oratiomibus insisteban; hine concepit odium Lact de Hist. Pers. c. 11. - G.																								
+																								
+																								
+																								
+[^149]:  The worship and festival of the god Terminus are elegantly illustrated by M. de Boze, Mem. de l'Academie des Inscriptions, tom. i. p. 50.																								
+																								
+																								
+																								
+[^150]:  In our only MS. of Lactantius, we read profectus; but reason, and the authority of all the critics, allow us, instead of that word, which destroys the sense of the passage, to substitute proefectus.																								
+																								
+																								
+																								
+[^151]:  Lactantius, de M. P. c. 12, gives a very lively picture of the destruction of the church.																								
+																								
+																								
+																								
+[^152]:  Mosheim, (p. 922 - 926,) from man scattered passages of Lactantius and Eusebius, has collected a very just and accurate notion of this edict though he sometimes deviates into conjecture and refinement.																								
+																								
+																								
+																								
+[^T]:  This wants proof. The edict of Diocletian was executed in all its right during the rest of his reign. Euseb. Hist. Eccl. l viii. c. 13. - G.																								
+																								
+																								
+																								
+[^153]:  Many ages afterwards, Edward J. practised, with great success, the same mode of persecution against the clergy of England. See Hume's History of England, vol. ii. p. 300, last 4to edition.																								
+																								
+																								
+																								
+[^154]:  Lactantius only calls him quidam, et si non recte, magno tamer animo, &c., c. 12. Eusebius (l. viii. c. 5) adorns him with secular honora Neither have condescended to mention his name; but the Greeks celebrate his memory under that of John. See Tillemont, Memones Ecclesiastiques, tom. v. part ii. p. 320.																								
+																								
+																								
+																								
+[^155]:  Lactantius de M. P. c. 13, 14. Potentissimi quondam Eunuchi necati, per quos Palatium et ipse constabat. Eusebius (l. viii. c. 6) mentions the cruel executions of the eunuchs, Gorgonius and Dorotheus, and of Anthimius, bishop of Nicomedia; and both those writers describe, in a vague but tragical manner, the horrid scenes which were acted even in the Imperial presence.																								
+																								
+																								
+																								
+[^156]:  See Lactantius, Eusebius, and Constantine, ad Coetum Sanctorum, c. xxv. Eusebius confesses his ignorance of the cause of this fire. Note]:  As the history of these times affords us no example of any attempts made by the Christians against their persecutors, we have no reason, not the slightest probability, to attribute to them the fire in the palace; and the authority of Constantine and Lactantius remains to explain it. M. de Tillemont has shown how they can be reconciled. Hist. des Empereurs, Vie de Diocletian, xix. - G. Had it been done by a Christian, it would probably have been a fanatic, who would have avowed and gloried in it. Tillemont's supposition that the fire was first caused by lightning, and fed and increased by the malice of Galerius, seems singularly improbable. - M.																								
+																								
+																								
+																								
+[^157]:  Tillemont, Memoires Ecclesiast. tom. v. part i. p. 43.																								
+																								
+																								
+																								
+[^158]:  See the Acta Sincera of Ruinart, p. 353; those of Felix of Thibara, or Tibiur, appear much less corrupted than in the other editions, which afford a lively specimen of legendary license.																								
+																								
+																								
+																								
+[^159]:  See the first book of Optatus of Milevis against the Donatiste, Paris, 1700, edit. Dupin. He lived under the reign of Valens.																								
+																								
+																								
+																								
+[^160]:  The ancient monuments, published at the end of Optatus, p. 261, &c. describe, in a very circumstantial manner, the proceedings of the governors in the destruction of churches. They made a minute inventory of the plate, &c., which they found in them. That of the church of Cirta, in Numidia, is still extant. It consisted of two chalices of gold, and six of silver; six urns, one kettle, seven lamps, all likewise of silver; besides a large quantity of brass utensils, and wearing apparel.																								
+																								
+																								
+																								
+[^161]:  Lactantius (Institut. Divin. v. 11) confines the calamity to the conventiculum, with its congregation. Eusebius (viii. 11) extends it to a whole city, and introduces something very like a regular siege. His ancient Latin translator, Rufinus, adds the important circumstance of the permission given to the inhabitants of retiring from thence. As Phrygia reached to the confines of Isauria, it is possible that the restless temper of those independent barbarians may have contributed to this misfortune. Note]:  Universum populum. Lact. Inst. Div. v. 11. - G.																								
+																								
+																								
+																								
+[^162]:  Eusebius, l. viii. c. 6. M. de Valois (with some probability) thinks that he has discovered the Syrian rebellion in an oration of Libanius; and that it was a rash attempt of the tribune Eugenius, who with only five hundred men seized Antioch, and might perhaps allure the Christians by the promise of religious toleration. From Eusebius, (l. ix. c. 8,) as well as from Moses of Chorene, (Hist. Armen. l. ii. 77, &c.,) it may be inferred, that Christianity was already introduced into Armenia.																								
+																								
+																								
+																								
+[^U]:  He had already passed them in his first edict. It does not appear that resentment or fear had any share in the new persecutions]:  perhaps they originated in superstition, and a specious apparent respect for its ministers. The oracle of Apollo, consulted by Diocletian, gave no answer; and said that just men hindered it from speaking. Constantine, who assisted at the ceremony, affirms, with an oath, that when questioned about these men, the high priest named the Christians. "The Emperor eagerly seized on this answer; and drew against the innocent a sword, destined only to punish the guilty]:  he instantly issued edicts, written, if I may use the expression, with a poniard; and ordered the judges to employ all their skill to invent new modes of punishment. Euseb. Vit Constant. l. ii c 54." - G.																								
+																								
+																								
+																								
+[^163]:  See Mosheim, p. 938]:  the text of Eusebius very plainly shows that the governors, whose powers were enlarged, not restrained, by the new laws, could punish with death the most obstinate Christians as an example to their brethren.																								
+																								
+																								
+																								
+[^164]:  Athanasius, p. 833, ap. Tillemont, Mem. Ecclesiast. tom v part i. 90.																								
+																								
+																								
+																								
+[^165]:  Eusebius, l. viii. c. 13. Lactantius de M. P. c. 15. Dodwell (Dissertat. Cyprian. xi. 75) represents them as inconsistent with each other. But the former evidently speaks of Constantius in the station of Caesar, and the latter of the same prince in the rank of Augustus.																								
+																								
+																								
+																								
+[^166]:  Datianus is mentioned, in Gruter's Inscriptions, as having determined the limits between the territories of Pax Julia, and those of Ebora, both cities in the southern part of Lusitania. If we recollect the neighborhood of those places to Cape St. Vincent, we may suspect that the celebrated deacon and martyr of that name had been inaccurately assigned by Prudentius, &c., to Saragossa, or Valentia. See the pompous history of his sufferings, in the Memoires de Tillemont, tom. v. part ii. p. 58-85. Some critics are of opinion, that the department of Constantius, as Caesar, did not include Spain, which still continued under the immediate jurisdiction of Maximian.																								
+																								
+																								
+																								
+[^167]:  Eusebius, l. viii. c. 11. Gruter, Inscrip. p. 1171, No. 18. Rufinus has mistaken the office of Adauctus, as well as the place of his martyrdom. Note]:  M. Guizot suggests the powerful cunuchs of the palace. Dorotheus, Gorgonius, and Andrew, admitted by Gibbon himself to have been put to death, p. 66.																								
+																								
+																								
+																								
+[^168]:  Eusebius, l. viii. c. 14. But as Maxentius was vanquished by Constantine, it suited the purpose of Lactantius to place his death among those of the persecutors. Note]:  M. Guizot directly contradicts this statement of Gibbon, and appeals to Eusebius. Maxentius, who assumed the power in Italy, pretended at first to be a Christian, to gain the favor of the Roman people; he ordered his ministers to cease to persecute the Christians, affecting a hypocritical piety, in order to appear more mild than his predecessors; but his actions soon proved that he was very different from what they had at first hoped." The actions of Maxentius were those of a cruel tyrant,but not those of a persecutor]:  the Christians, like the rest of his subjects, suffered from his vices, but they were not oppressed as a sect. Christian females were exposed to his lusts, as well as to the brutal violence of his colleague Maximian, but they were not selected as Christians. - M.																								
+																								
+																								
+																								
+[^169]:  The epitaph of Marcellus is to be found in Gruter, Inscrip. p 1172, No. 3, and it contains all that we know of his history. Marcellinus and Marcellus, whose names follow in the list of popes, are supposed by many critics to be different persons; but the learned Abbe de Longuerue was convinced that they were one and the same. Veridicus rector lapsis quia crimina flere Praedixit miseris, fuit omnibus hostis amarus. Hinc furor, hinc odium; sequitur discordia, lites, Seditio, caedes; solvuntur foedera pacis. Crimen ob alterius, Christum qui in pace negavit Finibus expulsus patriae est feritate Tyranni. Haec breviter Damasus voluit comperta referre]:  Marcelli populus meritum cognoscere posset. We may observe that Damasus was made Bishop of Rome, A. D. 366.																								
+																								
+																								
+																								
+[^170]:  Optatus contr. Donatist. l. i. c. 17, 18. Note]:  The words of Optatus are, Profectus (Roman) causam dixit; jussus con reverti Carthaginem; perhaps, in pleading his cause, he exculpated himself, since he received an order to return to Carthage. - G.																								
+																								
+																								
+																								
+[^171]:  The Acts of the Passion of St. Boniface, which abound in miracles and declamation, are published by Ruinart, (p. 283 - 291,) both in Greek and Latin, from the authority of very ancient manuscripts. Note]:  We are ignorant whether Aglae and Boniface were Christians at the time of their unlawful connection. See Tillemont. Mem, Eccles. Note on the Persecution of Domitian, tom. v. note 82. M. de Tillemont proves also that the history is doubtful. - G. Sir D. Dalrymple (Lord Hailes) calls the story of Aglae and Boniface as of equal authority with our popular histories of Whittington and Hickathrift. Christian Antiquities, ii. 64. - M.																								
+																								
+																								
+																								
+[^V]:  A little after this, Christianity was propagated to the north of the Roman provinces, among the tribes of Germany]:  a multitude of Christians, forced by the persecutions of the Emperors to take refuge among the Barbarians, were received with kindness. Euseb. de Vit. Constant. ii. 53. Semler Select. cap. H. E. p. 115. The Goths owed their first knowledge of Christianity to a young girl, a prisoner of war; she continued in the midst of them her exercises of piety; she fasted, prayed, and praised God day and night. When she was asked what good would come of so much painful trouble she answered, "It is thus that Christ, the Son of God, is to be honored." Sozomen, ii. c. 6. - G.																								
+																								
+																								
+																								
+[^172]:  During the four first centuries, there exist few traces of either bishops or bishoprics in the western Illyricum. It has been thought probable that the primate of Milan extended his jurisdiction over Sirmium, the capital of that great province. See the Geographia Sacra of Charles de St. Paul, p. 68-76, with the observations of Lucas Holstenius.																								
+																								
+																								
+																								
+[^173]:  The viiith book of Eusebius, as well as the supplement concerning the martyrs of Palestine, principally relate to the persecution of Galerius and Maximin. The general lamentations with which Lactantius opens the vth book of his Divine Institutions allude to their cruelty.																								
+																								
+																								
+																								
+[^174]:  Eusebius (l. viii. c. 17) has given us a Greek version, and Lactantius (de M. P. c. 34) the Latin original, of this memorable edict. Neither of these writers seems to recollect how directly it contradicts whatever they have just affirmed of the remorse and repentance of Galerius. Note]:  But Gibbon has answered this by his just observation, that it is not in the language of edicts and manifestos that we should search * * for the secre motives of princes. - M.																								
+																								
+																								
+																								
+[^175]:  Eusebius, l. ix. c. 1. He inserts the epistle of the praefect.																								
+																								
+																								
+																								
+[^176]:  See Eusebius, l. viii. c. 14, l. ix. c. 2 - 8. Lactantius de M. P. c. 36. These writers agree in representing the arts of Maximin; but the former relates the execution of several martyrs, while the latter expressly affirms, occidi servos Dei vetuit. Note]:  It is easy to reconcile them; it is sufficient to quote the entire text of Lactantius]:  Nam cum clementiam specie tenus profiteretur, occidi servos Dei vetuit, debilitari jussit. Itaque confessoribus effodiebantur oculi, amputabantur manus, nares vel auriculae desecabantur. Haec ille moliens Constantini litteris deterretur. Dissimulavit ergo, et tamen, si quis inciderit. mari occulte mergebatur. This detail of torments inflicted on the Christians easily reconciles Lactantius and Eusebius. Those who died in consequence of their tortures, those who were plunged into the sea, might well pass for martyrs. The mutilation of the words of Lactantius has alone given rise to the apparent contradiction. - G. Eusebius. ch. vi., relates the public martyrdom of the aged bishop of Emesa, with two others, who were thrown to the wild beasts, the beheading of Peter, bishop of Alexandria, with several others, and the death of Lucian, presbyter of Antioch, who was carried to Numidia, and put to death in prison. The contradiction is direct and undeniable, for although Eusebius may have misplaced the former martyrdoms, it may be doubted whether the authority of Maximin extended to Nicomedia till after the death of Galerius. The last edict of toleration issued by Maximin and published by Eusebius himself, Eccl. Hist. ix. 9. confirms the statement of Lactantius. - M.																								
+																								
+																								
+																								
+[^177]:  A few days before his death, he published a very ample edict of toleration, in which he imputes all the severities which the Christians suffered to the judges and governors, who had misunderstood his intentions.See the edict of Eusebius, l. ix. c. 10.																								
+																								
+																								
+																								
+[^178]:  Such is the fair deduction from two remarkable passages in Eusebius, l. viii. c. 2, and de Martyr. Palestin. c. 12. The prudence of the historian has exposed his own character to censure and suspicion. It was well known that he himself had been thrown into prison; and it was suggested that he had purchased his deliverance by some dishonorable compliance. The reproach was urged in his lifetime, and even in his presence, at the council of Tyre. See Tillemont, Memoires Ecclesiastiques, tom. viii. part i. p. 67.																								
+																								
+																								
+																								
+[^W]:  Historical criticism does not consist in rejecting indiscriminately all the facts which do not agree with a particular system, as Gibbon does in this chapter, in which, except at the last extremity, he will not consent to believe a martyrdom. Authorities are to be weighed, not excluded from examination. Now, the Pagan historians justify in many places the detail which have been transmitted to us by the historians of the church, concerning the tortures endured by the Christians. Celsus reproaches the Christians with holding their assemblies in secret, on account of the fear inspired by their sufferings, "for when you are arrested," he says, "you are dragged to punishment]:  and, before you are put to death, you have to suffer all kinds of tortures." Origen cont. Cels. l. i. ii. vi. viii. passing. Libanius, the panegyrist of Julian, says, while speaking of the Christians. Those who followed a corrupt religion were in continual apprehensions; they feared lest Julian should invent tortures still more refined than those to which they had been exposed before, as mutilation, burning alive, &c.; for the emperors had inflicted upon them all these barbarities." Lib. Parent in Julian. ap. Fab. Bib. Graec. No. 9, No. 58, p. 283 - G.																								
+																								
+																								
+																								
+[^*]:  This sentence of Gibbon has given rise to several learned dissertation]:  Moller, de Fide Eusebii Caesar, &c., Havniae, 1813. Danzius, de Eusebio Caes. Hist. Eccl. Scriptore, ejusque tide historica recte aestimanda, &c., Jenae, 1815. Kestner Commentatio de Eusebii Hist. Eccles. conditoris auctoritate et fide, &c. See also Reuterdahl, de Fontibus Historiae Eccles. Eusebianae, Lond. Goth., 1826. Gibbon's inference may appear stronger than the text will warrant, yet it is difficult, after reading the passages, to dismiss all suspicion of partiality from the mind. - M.																								
+																								
+																								
+																								
+[^179]:  The ancient, and perhaps authentic, account of the sufferings of Tarachus and his companions, (Acta Sincera Ruinart, p. 419 - 448,) is filled with strong expressions of resentment and contempt, which could not fail of irritating the magistrate. The behavior of Aedesius to Hierocles, praefect of Egypt, was still more extraordinary. Euseb. de Martyr. Palestin. c. 5. Note]:  M. Guizot states, that the acts of Tarachus and his companion contain nothing that appears dictated by violent feelings, (sentiment outre.) Nothing can be more painful than the constant attempt of Gibbon throughout this discussion, to find some flaw in the virtue and heroism of the martyrs, some extenuation for the cruelty of the persecutors. But truth must not be sacrificed even to well-grounded moral indignation. Though the language of these martyrs is in great part that of calm de fiance, of noble firmness, yet there are many expressions which betray "resentment and contempt." "Children of Satan, worshippers of Devils," is their common appellation of the heathen. One of them calls the judge another, one curses, and declares that he will curse the Emperors, as pestilential and bloodthirsty tyrants, whom God will soon visit in his wrath. On the other hand, though at first they speak the milder language of persuasion, the cold barbarity of the judges and officers might surely have called forth one sentence of abhorrence from Gibbon. On the first unsatisfactory answer, "Break his jaw," is the order of the judge. They direct and witness the most excruciating tortures; the people, as M. Guizot observers, were so much revolted by the cruelty of Maximus that when the martyrs appeared in the amphitheatre, fear seized on all hearts, and general murmurs against the unjust judge rank through the assembly. It is singular, at least, that Gibbon should have quoted "as probably authentic," acts so much embellished with miracle as these of Tarachus are, particularly towards the end. - M. Note]:  Scarcely were the authorities informed of this, than the president of the province, a man, says Eusebius, harsh and cruel, banished the confessors, some to Cyprus, others to different parts of Palestine, and ordered them to be tormented by being set to the most painful labors. Four of them, whom he required to abjure their faith and refused, were burnt alive. Euseb. de Mart. Palest. c. xiii. - G. Two of these were bishops; a fifth, Silvanus, bishop of Gaza, was the last martyr; another, named John was blinded, but used to officiate, and recite from memory long passages of the sacred writings - M.																								
+																								
+																								
+																								
+[^180]:  Euseb. de Martyr. Palestin. c. 13.																								
+																								
+																								
+																								
+[^181]:  Augustin. Collat. Carthagin. Dei, iii. c. 13, ap. Tillanant, Memoires Ecclesiastiques, tom. v. part i. p. 46. The controversy with the Donatists, has reflected some, though perhaps a partial, light on the history of the African church.																								
+																								
+																								
+																								
+[^X]:  Perhaps there never was an instance of an author committing so deliberately the fault which he reprobates so strongly in others. What is the dexterous management of the more inartificial historians of Christianity, in exaggerating the numbers of the martyrs, compared to the unfair address with which Gibbon here quietly dismisses from the account all the horrible and excruciating tortures which fell short of death? The reader may refer to the xiith chapter (book viii.) of Eusebius for the description and for the scenes of these tortures. - M.																								
+																								
+																								
+																								
+[^182]:  Eusebius de Martyr. Palestin. c. 13. He closes his narration by assuring us that these were the martyrdoms inflicted in Palestine, during the whole course of the persecution. The 9th chapter of his viiith book, which relates to the province of Thebais in Egypt, may seem to contradict our moderate computation; but it will only lead us to admire the artful management of the historian. Choosing for the scene of the most exquisite cruelty the most remote and sequestered country of the Roman empire, he relates that in Thebais from ten to one hundred persons had frequently suffered martyrdom in the same day. But when he proceeds to mention his own journey into Egypt, his language insensibly becomes more cautious and moderate. Instead of a large, but definite number, he speaks of many Christians, and most artfully selects two ambiguous words, which may signify either what he had seen, or what he had heard; either the expectation, or the execution of the punishment. Having thus provided a secure evasion, he commits the equivocal passage to his readers and translators; justly conceiving that their piety would induce them to prefer the most favorable sense. There was perhaps some malice in the remark of Theodorus Metochita, that all who, like Eusebius, had been conversant with the Egyptians, delighted in an obscure and intricate style. (See Valesius ad loc.)																								
+																								
+																								
+																								
+[^Y]:  This calculation is made from the martyrs, of whom Eusebius speaks by name; but he recognizes a much greater number. Thus the ninth and tenth chapters of his work are entitled, "Of Antoninus, Zebinus, Germanus, and other martyrs; of Peter the monk. of Asclepius the Maroionite, and other martyrs." [^Are these vague contents of chapters very good authority? - M. Speaking of those who suffered under Diocletian, he says, "I will only relate the death of one of these, from which, the reader may divine what befell the rest." Hist. Eccl. viii. 6. [^This relates only to the martyrs in the royal household. - M. Dodwell had made, before Gibbon, this calculation and these objections; but Ruinart (Act. Mart. Pref p. 27, et seq.) has answered him in a peremptory manner]:  Nobis constat Eusebium in historia infinitos passim martyres admisisse. quamvis revera paucorum nomina recensuerit. Nec alium Eusebii interpretem quam ipsummet Eusebium proferimus, qui (l. iii. c. 33) ait sub Trajano plurimosa ex fidelibus martyrii certamen subiisse (l. v. init.) sub Antonino et Vero innumerabiles prope martyres per universum orbem enituisse affirmat. (L. vi. c. 1.) Severum persecutionem concitasse refert, in qua per omnes ubique locorum Ecclesias, ab athletis pro pietate certantibus, illustria confecta fuerunt martyria. Sic de Decii, sic de Valeriani, persecutionibus loquitur, quae an Dodwelli faveant conjectionibus judicet aequus lector. Even in the persecutions which Gibbon has represented as much more mild than that of Diocletian, the number of martyrs appears much greater than that to which he limits the martyrs of the latter]:  and this number is attested by incontestable monuments. I will quote but one example. We find among the letters of St. Cyprian one from Lucianus to Celerinus, written from the depth of a prison, in which Lucianus names seventeen of his brethren dead, some in the quarries, some in the midst of tortures some of starvation in prison. Jussi sumus (he proceeds) secundum prae ceptum imperatoris, fame et siti necari, et reclusi sumus in duabus cellis, ta ut nos afficerent fame et siti et ignis vapore. - G.																								
+																								
+																								
+																								
+[^183]:  When Palestine was divided into three, the praefecture of the East contained forty-eight provinces. As the ancient distinctions of nations were long since abolished, the Romans distributed the provinces according to a general proportion of their extent and opulence.																								
+																								
+																								
+																								
+[^184]:  Ut gloriari possint nullam se innocentium poremisse, nam et ipse audivi aloquos gloriantes, quia administratio sua, in hac paris merit incruenta. Lactant. Institur. Divin v. 11.																								
+																								
+																								
+[^185]:  Grot. Annal. de Rebus Belgicis, l. i. p. 12, edit. fol.																								
+																								
+																								
+[^186]:  Fra Paola (Istoria del Concilio Tridentino, l. iii.) reduces the number of the Belgic martyrs to 50,000. In learning and moderation Fra Paola was not inferior to Grotius. The priority of time gives some advantage to the evidence of the former, which he loses, on the other hand, by the distance of Venice from the Netherlands.																								
+																								
+																								
+[^Z]:  Eusebius and the author of the Treatise de Mortibus Persecutorum. It is deeply to be regretted that the history of this period rest so much on the loose and, it must be admitted, by no means scrupulous authority of Eusebius. Ecclesiastical history is a solemn and melancholy lesson that the best, even the most sacred, cause will eventually the least departure from truth! - M.																								
+																																									
