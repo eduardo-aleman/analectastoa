@@ -2,7 +2,7 @@
 title: "The Growth of the Christian Church and the Impact on the Roman Empire"
 date: 2026-04-25
 authors: ["Edward Gibbon"]
-categories: ["Roman History", "Religious History", "Ancient History"]
+categories: ["Roman History", "Religious History"]
 tags: ["Roman Empire", "Christianity", "Constantine", "Religious Persecution", "Church History", "Enlightenment", "Social Transformation"]
 series: ["Gibbon's Decline and Fall"]
 summary: "Chapters XVI and XVII of Gibbon’s masterpiece, exploring the legal, social, and political ascent of Christianity within the Roman framework and the subsequent restructuring of the imperial administration."
