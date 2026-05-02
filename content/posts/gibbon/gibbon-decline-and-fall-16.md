@@ -1,6 +1,6 @@
 ---
 title: "The Conduct of the Roman Government towards the Christians from the reign of Nero to that of Constantine"
-date: 2025-04-25
+date: 2025-04-24
 authors: ["Edward Gibbon"]
 categories: ["Roman History", "Religious History", "Ancient History"]
 tags:

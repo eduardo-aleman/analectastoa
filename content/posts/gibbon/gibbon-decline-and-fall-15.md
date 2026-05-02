@@ -1,6 +1,6 @@
 ---
 title: "The Progress of the Christian Religion, and the Sentiments, Manners, Numbers, and Condition of the Primitive Christians"
-date: 2025-04-25
+date: 2025-04-23
 authors: ["Edward Gibbon"]
 categories: ["Roman History", "Religious History", "Ancient History"]
 tags:
