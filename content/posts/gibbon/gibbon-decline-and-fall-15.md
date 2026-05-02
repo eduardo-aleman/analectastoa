@@ -311,35 +311,21 @@ But how shall we excuse the supine inattention of the Pagan and philosophic worl
 
 [^2]: Diodorus Siculus, l. xl. Dion Cassius, l. xxxvii. p. 121. Tacit Hist. v. 1 - 9. Justin xxxvi. 2, 3.
 
-[^3]:
-
-Tradidit arcano quaecunque volumine Moses, Non monstrare vias cadem nisi sacra colenti, Quaesitum ad fontem solos deducere verpas.
-
-The letter of this law is not to be found in the present volume of Moses. But the wise, the humane Maimonides openly teaches that if an idolater fall into the water, a Jew ought not to save him from instant death. See Basnage, Histoire des Juifs, l. vi. c. 28.
-
-Note: It is diametrically opposed to its spirit and to its letter, see, among other passages, Deut. v. 18. 19, (God) "loveth the stranger in giving him food and raiment. Love ye, therefore, the stranger: for ye were strangers in the land of Egypt." Comp. Lev. xxiii. 25. Juvenal is a satirist, whose strong expressions can hardly be received as historic evidence; and he wrote after the horrible cruelties of the Romans, which, during and after the war, might give some cause for the complete isolation of the Jew from the rest of the world. The Jew was a bigot, but his religion was not the only source of his bigotry. After how many centuries of mutual wrong and hatred, which had still further estranged the Jew from mankind, did Maimonides write? - M.
+[^3]: Tradidit arcano quaecunque volumine Moses, Non monstrare vias cadem nisi sacra colenti, Quaesitum ad fontem solos deducere verpas.
 
 [^4]: A Jewish sect, which indulged themselves in a sort of occasional conformity, derived from Herod, by whose example and authority they had been seduced, the name of Herodians. But their numbers were so inconsiderable, and their duration so short, that Josephus has not thought them worthy of his notice. See Prideaux's Connection, vol. ii. p. 285.
 
-Note: The Herodians were probably more of a political party than a religious sect, though Gibbon is most likely right as to their occasional conformity. See Hist. of the Jews, ii. 108. - M.
-
 [^5]: Cicero pro Flacco, c. 28.
-
-Note: The edicts of Julius Caesar, and of some of the cities in Asia Minor (Krebs. Decret. pro Judaeis,) in favor of the nation in general, or of the Asiatic Jews, speak a different language. - M.
 
 [^6]: Philo de Legatione. Augustus left a foundation for a perpetual sacrifice. Yet he approved of the neglect which his grandson Caius expressed towards the temple of Jerusalem. See Sueton. in August. c. 93, and Casaubon's notes on that passage.
 
 [^7]: See, in particular, Joseph. Antiquitat. xvii. 6, xviii. 3; and de Bell. Judiac. i. 33, and ii. 9, edit. Havercamp.
-
-Note: This was during the government of Pontius Pilate. (Hist. of Jews, ii. 156.) Probably in part to avoid this collision, the Roman governor, in general, resided at Caesarea. - M.
 
 [^8]: Jussi a Caio Caesare, effigiem ejus in templo locare, arma potius sumpsere. Tacit. Hist. v. 9. Philo and Josephus gave a very circumstantial, but a very rhetorical, account of this transaction, which exceedingly perplexed the governor of Syria. At the first mention of this idolatrous proposal, King Agrippa fainted away; and did not recover his senses until the third day. (Hist. of Jews, ii. 181, &c.)
 
 [^9]: For the enumeration of the Syrian and Arabian deities, it may be observed, that Milton has comprised in one hundred and thirty very beautiful lines the two large and learned syntagmas which Selden had composed on that abstruse subject.
 
 [^10]: "How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shown among them?" (Numbers xiv. 11.) It would be easy, but it would be unbecoming, to justify the complaint of the Deity from the whole tenor of the Mosaic history.
-
-Note: Among a rude and barbarous people, religious impressions are easily made, and are as soon effaced. The ignorance which multiplies imaginary wonders, would weaken and destroy the effect of real miracle. At the period of the Jewish history, referred to in the passage from Numbers, their fears predominated over their faith, - the fears of an unwarlike people, just rescued from debasing slavery, and commanded to attack a fierce, a well-armed, a gigantic, and a far more numerous race, the inhabitants of Canaan. As to the frequent apostasy of the Jews, their religion was beyond their state of civilization. Nor is it uncommon for a people to cling with passionate attachment to that of which, at first, they could not appreciate the value. Patriotism and national pride will contend, even to death, for political rights which have been forced upon a reluctant people. The Christian may at least retort, with justice, that the great sign of his religion, the resurrection of Jesus, was most ardently believed, and most resolutely asserted, by the eye witnesses of the fact. - M.
 
 [^11]: All that relates to the Jewish proselytes has been very ably by Basnage, Hist. des Juifs, l. vi. c. 6, 7.
 
@@ -357,8 +343,6 @@ Note: Among a rude and barbarous people, religious impressions are easily made, 
 
 [^18]: Mosheim de Rebus Christianis ante Constantinum Magnum, page 153. In this masterly performance, which I shall often have occasion to quote he enters much more fully into the state of the primitive church than he has an opportunity of doing in his General History.
 
-[^E: This is incorrect: all the traditions concur in placing the abandonment of the city by the Christians, not only before it was in ruins, but before the seige had commenced. Euseb. loc. cit., and Le Clerc. - M.
-
 [^19]: Eusebius, l. iii. c. 5. Le Clerc, Hist. Ecclesiast. p. 605. During this occasional absence, the bishop and church of Pella still retained the title of Jerusalem. In the same manner, the Roman pontiffs resided seventy years at Avignon; and the patriarchs of Alexandria have long since transferred their episcopal seat to Cairo.
 
 [^20]: Dion Cassius, l. lxix. The exile of the Jewish nation from Jerusalem is attested by Aristo of Pella, (apud Euseb. l. iv. c. 6,) and is mentioned by several ecclesiastical writers; though some of them too hastily extend this interdiction to the whole country of Palestine.
@@ -369,11 +353,7 @@ Note: Among a rude and barbarous people, religious impressions are easily made, 
 
 [^23]: Some writers have been pleased to create an Ebion, the imaginary author of their sect and name. But we can more safely rely on the learned Eusebius than on the vehement Tertullian, or the credulous Epiphanius. According to Le Clerc, the Hebrew word Ebjonim may be translated into Latin by that of Pauperes. See Hist. Ecclesiast. p. 477.
 
-Note: The opinion of Le Clerc is generally admitted; but Neander has suggested some good reasons for supposing that this term only applied to poverty of condition. The obscure history of their tenets and divisions, is clearly and rationally traced in his History of the Church, vol. i. part ii. p. 612, &c., Germ. edit. - M.
-
 [^24]: See the very curious Dialogue of Justin Martyr with the Jew Tryphon. The conference between them was held at Ephesus, in the reign of Antoninus Pius, and about twenty years after the return of the church of Pella to Jerusalem. For this date consult the accurate note of Tillemont, Memoires Ecclesiastiques, tom. ii. p. 511.
-
-Note: Justin Martyr makes an important distinction, which Gibbon has neglected to notice. ** * There were some who were not content with observing the Mosaic law themselves, but enforced the same observance, as necessary to salvation, upon the heathen converts, and refused all social intercourse with them if they did not conform to the law. Justin Martyr himself freely admits those who kept the law themselves to Christian communion, though he acknowledges that some, not the Church, thought otherwise; of the other party, he himself thought less favorably. The former by some are considered the Nazarenes the atter the Ebionites - G and M.
 
 [^25]: Of all the systems of Christianity, that of Abyssinia is the only one which still adheres to the Mosaic rites. (Geddes's Church History of Aethiopia, and Dissertations de La Grand sur la Relation du P. Lobo.) The eunuch of the queen Candace might suggest some suspicious; but as we are assured (Socrates, i. 19. Sozomen, ii. 24. Ludolphus, p. 281) that the Aethiopians were not converted till the fourth century, it is more reasonable to believe that they respected the sabbath, and distinguished the forbidden meats, in imitation of the Jews, who, in a very early period, were seated on both sides of the Red Sea.
 
@@ -381,35 +361,21 @@ Circumcision had been practised by the most ancient Aethiopians, from motives of
 
 [^26]: Beausobre, Histoire du Manicheisme, l. i. c. 3, has stated their objections, particularly those of Faustus, the adversary of Augustin, with the most learned impartiality.
 
-[^F: On the "war law" of the Jews, see Hist. of Jews, i. 137. - M.
-
 [^27]: Apud ipsos fides obstinata, misericordia in promptu: adversus amnes alios hostile odium. Tacit. Hist. v. 4. Surely Tacitus had seen the Jews with too favorable an eye. The perusal of Josephus must have destroyed the antithesis.
-
-Note: Few writers have suspected Tacitus of partiality towards the Jews. The whole later history of the Jews illustrates as well their strong feelings of humanity to their brethren, as their hostility to the rest of mankind. The character and the position of Josephus with the Roman authorities, must be kept in mind during the perusal of his History. Perhaps he has not exaggerated the ferocity and fanaticism of the Jews at that time; but insurrectionary warfare is not the best school for the humaner virtues, and much must be allowed for the grinding tyranny of the later Roman governors. See Hist. of Jews, ii. 254. - M.
 
 [^28]: Dr. Burnet (Archaeologia, l. ii. c. 7) has discussed the first chapters of Genesis with too much wit and freedom.
 
-Note: Dr. Burnet apologized for the levity with which he had conducted some of his arguments, by the excuse that he wrote in a learned language for scholars alone, not for the vulgar. Whatever may be thought of his success in tracing an Eastern allegory in the first chapters of Genesis, his other works prove him to have been a man of great genius, and of sincere piety. - M
-
 [^29]: The milder Gnostics considered Jehovah, the Creator, as a Being of a mixed nature between God and the Daemon. Others confounded him with an evil principle. Consult the second century of the general history of Mosheim, which gives a very distinct, though concise, account of their strange opinions on this subject.
-
-[^G: The Gnostics, and the historian who has stated these plausible objections with so much force as almost to make them his own, would have shown a more considerate and not less reasonable philosophy, if they had considered the religion of Moses with reference to the age in which it was promulgated; if they had done justice to its sublime as well as its more imperfect views of the divine nature; the humane and civilizing provisions of the Hebrew law, as well as those adapted for an infant and barbarous people. See Hist of Jews, i. 36, 37, &c. - M.
 
 [^30]: See Beausobre, Hist. du Manicheisme, l. i. c. 4. Origen and St. Augustin were among the allegorists.
 
 [^31]: Hegesippus, ap. Euseb. l. iii. 32, iv. 22. Clemens Alexandrin Stromat. vii. 17.
 
-Note: The assertion of Hegesippus is not so positive: it is sufficient to read the whole passage in Eusebius, to see that the former part is modified by the matter. Hegesippus adds, that up to this period the church had remained pure and immaculate as a virgin. Those who labored to corrupt the doctrines of the gospel worked as yet in obscurity - G
-
 [^32]: In the account of the Gnostics of the second and third centuries, Mosheim is ingenious and candid; Le Clerc dull, but exact; Beausobre almost always an apologist; and it is much to be feared that the primitive fathers are very frequently calumniators.
-
-Note The Histoire du Gnosticisme of M. Matter is at once the fairest and most complete account of these sects. - M.
 
 [^33]: See the catalogues of Irenaeus and Epiphanius. It must indeed be allowed, that those writers were inclined to multiply the number of sects which opposed the unity of the church.
 
 [^34]: Eusebius, l. iv. c. 15. Sozomen, l. ii. c. 32. See in Bayle, in the article of Marcion, a curious detail of a dispute on that subject. It should seem that some of the Gnostics (the Basilidians) declined, and even refused the honor of Martyrdom. Their reasons were singular and abstruse. See Mosheim, p. 539.
-
-[^H: M. Hahn has restored the Marcionite Gospel with great ingenuity. His work is reprinted in Thilo. Codex. Apoc. Nov. Test. vol. i. - M.
 
 [^35]: See a very remarkable passage of Origen, (Proem. ad Lucam.) That indefatigable writer, who had consumed his life in the study of the Scriptures, relies for their authenticity on the inspired authority of the church. It was impossible that the Gnostics could receive our present Gospels, many parts of which (particularly in the resurrection of Christ) are directly, and as it might seem designedly, pointed against their favorite tenets. It is therefore somewhat singular that Ignatius (Epist. ad Smyrn. Patr. Apostol. tom. ii. p. 34) should choose to employ a vague and doubtful tradition, instead of quoting the certain testimony of the evangelists. Note: Bishop Pearson has attempted very happily to explain this singularity.' The first Christians were acquainted with a number of sayings of Jesus Christ, which are not related in our Gospels, and indeed have never been written. Why might not St. Ignatius, who had lived with the apostles or their disciples, repeat in other words that which St. Luke has related, particularly at a time when, being in prison, he could have the Gospels at hand? Pearson, Vind Ign. pp. 2, 9 p. 396 in tom. ii. Patres Apost. ed. Coteler - G.
 
@@ -433,21 +399,15 @@ Note The Histoire du Gnosticisme of M. Matter is at once the fairest and most co
 
 [^45]: The ancient funerals (in those of Misenus and Pallas) are no less accurately described by Virgil, than they are illustrated by his commentator Servius. The pile itself was an altar, the flames were fed with the blood of victims, and all the assistants were sprinkled with lustral water.
 
-[^46]: Tertullian de Idololatria, c. 11.
-
-Note: The exaggerated and declamatory opinions of Tertullian ought not to be taken as the general sentiment of the early Christians. Gibbon has too often allowed himself to consider the peculiar notions of certain Fathers of the Church as inherent in Christianity. This is not accurate. - G.
+[^46]: Tertullian de Idololatria, c. 11. Note: The exaggerated and declamatory opinions of Tertullian ought not to be taken as the general sentiment of the early Christians. Gibbon has too often allowed himself to consider the peculiar notions of certain Fathers of the Church as inherent in Christianity. This is not accurate. - G.
 
 [^47]: See every part of Montfaucon's Antiquities. Even the reverses of the Greek and Roman coins were frequently of an idolatrous nature. Here indeed the scruples of the Christian were suspended by a stronger passion.
-
-Note: All this scrupulous nicety is at variance with the decision of St. Paul about meat offered to idols, 1 Cor. x. 21 - 32. - M.
 
 [^48]: Tertullian de Idololatria, c. 20, 21, 22. If a Pagan friend (on the occasion perhaps of sneezing) used the familiar expression of "Jupiter bless you," the Christian was obliged to protest against the divinity of Jupiter.
 
 [^49]: Consult the most labored work of Ovid, his imperfect Fasti. He finished no more than the first six months of the year. The compilation of Macrobius is called the Saturnalia, but it is only a small part of the first book that bears any relation to the title.
 
 [^50]: Tertullian has composed a defence, or rather panegyric, of the rash action of a Christian soldier, who, by throwing away his crown of laurel, had exposed himself and his brethren to the most imminent danger. By the mention of the emperors, (Severus and Caracalla,) it is evident, notwithstanding the wishes of M. de Tillemont, that Tertullian composed his treatise De Corona long before he was engaged in the errors of the Montanists. See Memoires Ecclesiastiques, tom. iii. p. 384. Note: The soldier did not tear off his crown to throw it down with contempt; he did not even throw it away; he held it in his hand, while others wore it on their heads. Solus libero capite, ornamento in manu otioso. - G Note: Tertullian does not expressly name the two emperors, Severus and Caracalla: he speaks only of two emperors, and of a long peace which the church had enjoyed. It is generally agreed that Tertullian became a Montanist about the year 200]: his work, de Corona Militis, appears to have been written, at the earliest about the year 202 before the persecution of Severus: it may be maintained, then, that it is subsequent to the Montanism of the author. See Mosheim, Diss. de Apol. Tertull. p. 53. Biblioth. Amsterd. tom. x. part ii. p. 292. Cave's Hist. Lit. p. 92, 93. - G.
-
-The state of Tertullian's opinions at the particular period is almost an idle question. "The fiery African" is not at any time to be considered a fair representative of Christianity. - M.
 
 [^51]: In particular, the first book of the Tusculan Questions, and the treatise De Senectute, and the Somnium Scipionis, contain, in the most beautiful language, every thing that Grecian philosophy, on Roman good sense, could possibly suggest on this dark but important object.
 
@@ -465,29 +425,15 @@ Esse aliquid manes, et subterranea regna, - - - - - - - Nec pueri credunt, nisi 
 
 [^57]: The right reverend author of the Divine Legation of Moses as signs a very curious reason for the omission, and most ingeniously retorts it on the unbelievers.
 
-Note: The hypothesis of Warburton concerning this remarkable fact, which, as far as the Law of Moses, is unquestionable, made few disciples; and it is difficult to suppose that it could be intended by the author himself for more than a display of intellectual strength. Modern writers have accounted in various ways for the silence of the Hebrew legislator on the immortality of the soul. According to Michaelis, "Moses wrote as an historian and as a lawgiver; he regulated the ecclesiastical discipline, rather than the religious belief of his people; and the sanctions of the law being temporal, he had no occasion, and as a civil legislator could not with propriety, threaten punishments in another world. See Michaelis, Laws of Moses, art. 272, vol. iv. p. 209, Eng. Trans.; and Syntagma Commentationum, p. 80, quoted by Guizot. M. Guizot adds, the "ingenious conjecture of a philosophic theologian," which approximates to an opinion long entertained by the Editor. That writer believes, that in the state of civilization at the time of the legislator, this doctrine, become popular among the Jews, would necessarily have given birth to a multitude of idolatrous superstitions which he wished to prevent. His primary object was to establish a firm theocracy, to make his people the conservators of the doctrine of the Divine Unity, the basis upon which Christianity was hereafter to rest. He carefully excluded everything which could obscure or weaken that doctrine. Other nations had strangely abused their notions on the immortality of the soul; Moses wished to prevent this abuse: hence he forbade the Jews from consulting necromancers, (those who evoke the spirits of the dead.) Deut. xviii. 11. Those who reflect on the state of the Pagans and the Jews, and on the facility with which idolatry crept in on every side, will not be astonished that Moses has not developed a doctrine of which the influence might be more pernicious than useful to his people. Orat. Fest. de Vitae Immort. Spe., &c., auct. Ph. Alb. Stapfer, p. 12 13, 20. Berne, 1787.
-
-Moses, as well from the intimations scattered in his writings, the passage relating to the translation of Enoch, (Gen. v. 24,) the prohibition of necromancy, (Michaelis believes him to be the author of the Book of Job though this opinion is in general rejected; other learned writers consider this Book to be coeval with and known to Moses,) as from his long residence in Egypt, and his acquaintance with Egyptian wisdom, could not be ignorant of the doctrine of the immortality of the soul. But this doctrine if popularly known among the Jews, must have been purely Egyptian, and as so, intimately connected with the whole religious system of that country. It was no doubt moulded up with the tenet of the transmigration of the soul, perhaps with notions analogous to the emanation system of India in which the human soul was an efflux from or indeed a part of, the Deity. The Mosaic religion drew a wide and impassable interval between the Creator and created human beings: in this it differed from the Egyptian and all the Eastern religions. As then the immortality of the soul was thus inseparably blended with those foreign religions which were altogether to be effaced from the minds of the people, and by no means necessary for the establishment of the theocracy, Moses maintained silence on this point and a purer notion of it was left to be developed at a more favorable period in the history of man. - M.
-
 [^58]: See Le Clerc (Prolegomena ad Hist. Ecclesiast. sect. 1, c. 8 His authority seems to carry the greater weight, as he has written a learned and judicious commentary on the books of the Old Testament.
 
 [^59]: Joseph. Antiquitat. l. xiii. c. 10. De Bell. Jud. ii. 8. According to the most natural interpretation of his words, the Sadducees admitted only the Pentateuch; but it has pleased some modern critics to add the Prophets to their creed, and to suppose that they contented themselves with rejecting the traditions of the Pharisees. Dr. Jortin has argued that point in his Remarks on Ecclesiastical History, vol. ii. p. 103.
 
-[^I: This was, in fact, an integral part of the Jewish notion of the Messiah, from which the minds of the apostles themselves were but gradually detached. See Bertholdt, Christologia Judaeorum, concluding chapters - M.
-
-[^60]: This expectation was countenanced by the twenty-fourth chapter of St. Matthew, and by the first epistle of St. Paul to the Thessalonians. Erasmus removes the difficulty by the help of allegory and metaphor; and the learned Grotius ventures to insinuate, that, for wise purposes, the pious deception was permitted to take place.
-
-Note: Some modern theologians explain it without discovering either allegory or deception. They say, that Jesus Christ, after having proclaimed the ruin of Jerusalem and of the Temple, speaks of his second coming and the signs which were to precede it; but those who believed that the moment was near deceived themselves as to the sense of two words, an error which still subsists in our versions of the Gospel according to St. Matthew, xxiv. 29, 34. In verse 29, we read, "Immediately after the tribulation of those days shall the sun be darkened," &c. The Greek word signifies all at once, suddenly, not immediately; so that it signifies only the sudden appearance of the signs which Jesus Christ announces not the shortness of the interval which was to separate them from the "days of tribulation," of which he was speaking. The verse 34 is this "Verily I say unto you, This generation shall not pass till all these things shall be fulfilled." Jesus, speaking to his disciples, uses these words, which the translators have rendered by this generation, but which means the race, the filiation of my disciples; that is, he speaks of a class of men, not of a generation. The true sense then, according to these learned men, is, In truth I tell you that this race of men, of which you are the commencement, shall not pass away till this shall take place; that is to say, the succession of Christians shall not cease till his coming. See Commentary of M. Paulus on the New Test., edit. 1802, tom. iii. p. 445, - 446. - G.
-
-Others, as Rosenmuller and Kuinoel, in loc., confine this passage to a highly figurative description of the ruins of the Jewish city and polity. - M.
+[^60]: This expectation was countenanced by the twenty-fourth chapter of St. Matthew, and by the first epistle of St. Paul to the Thessalonians. Erasmus removes the difficulty by the help of allegory and metaphor; and the learned Grotius ventures to insinuate, that, for wise purposes, the pious deception was permitted to take place. Note: Some modern theologians explain it without discovering either allegory or deception. They say, that Jesus Christ, after having proclaimed the ruin of Jerusalem and of the Temple, speaks of his second coming and the signs which were to precede it; but those who believed that the moment was near deceived themselves as to the sense of two words, an error which still subsists in our versions of the Gospel according to St. Matthew, xxiv. 29, 34. In verse 29, we read, "Immediately after the tribulation of those days shall the sun be darkened," &c. The Greek word signifies all at once, suddenly, not immediately; so that it signifies only the sudden appearance of the signs which Jesus Christ announces not the shortness of the interval which was to separate them from the "days of tribulation," of which he was speaking. The verse 34 is this "Verily I say unto you, This generation shall not pass till all these things shall be fulfilled." Jesus, speaking to his disciples, uses these words, which the translators have rendered by this generation, but which means the race, the filiation of my disciples; that is, he speaks of a class of men, not of a generation. The true sense then, according to these learned men, is, In truth I tell you that this race of men, of which you are the commencement, shall not pass away till this shall take place; that is to say, the succession of Christians shall not cease till his coming. See Commentary of M. Paulus on the New Test., edit. 1802, tom. iii. p. 445, - 446. - G.
 
 [^61]: See Burnet's Sacred Theory, part iii. c. 5. This tradition may be traced as high as the the author of Epistle of Barnabas, who wrote in the first century, and who seems to have been half a Jew.
 
-Note: In fact it is purely Jewish. See Mosheim, De Reb. Christ. ii. 8. Lightfoot's Works, 8vo. edit. vol. iii. p. 37. Bertholdt, Christologia Judaeorum ch. 38. - M.
-
 [^62]: The primitive church of Antioch computed almost 6000 years from the creation of the world to the birth of Christ. Africanus, Lactantius, and the Greek church, have reduced that number to 5500, and Eusebius has contented himself with 5200 years. These calculations were formed on the Septuagint, which was universally received during the six first centuries. The authority of the vulgate and of the Hebrew text has determined the moderns, Protestants as well as Catholics, to prefer a period of about 4000 years; though, in the study of profane antiquity, they often find themselves straitened by those narrow limits.
-
-Note: Most of the more learned modern English Protestants, Dr. Hales, Mr. Faber, Dr. Russel, as well as the Continental writers, adopt the larger chronology. There is little doubt that the narrower system was framed by the Jews of Tiberias; it was clearly neither that of St. Paul, nor of Josephus, nor of the Samaritan Text. It is greatly to be regretted that the chronology of the earlier Scriptures should ever have been made a religious question - M.
 
 [^63]: Most of these pictures were borrowed from a misrepresentation of Isaiah, Daniel, and the Apocalypse. One of the grossest images may be found in Irenaeus, (l. v. p. 455,) the disciple of Papias, who had seen the apostle St. John.
 
@@ -495,15 +441,11 @@ Note: Most of the more learned modern English Protestants, Dr. Hales, Mr. Faber,
 
 [^65]: The testimony of Justin of his own faith and that of his orthodox brethren, in the doctrine of a Millennium, is delivered in the clearest and most solemn manner, (Dialog. cum Tryphonte Jud. p. 177, 178, edit. Benedictin.) If in the beginning of this important passage there is any thing like an inconsistency, we may impute it, as we think proper, either to the author or to his transcribers.
 
-Note: The Millenium is described in what once stood as the XLIst Article of the English Church (see Collier, Eccles. Hist., for Articles of Edw. VI.) as "a fable of Jewish dotage." The whole of these gross and earthly images may be traced in the works which treat on the Jewish traditions, in Lightfoot, Schoetgen, and Eisenmenger; "Das enthdeckte Judenthum" t. ii 809; and briefly in Bertholdt, i. c. 38, 39. - M.
-
 [^66]: Dupin, Bibliotheque Ecclesiastique, tom. i. p. 223, tom. ii. p. 366, and Mosheim, p. 720; though the latter of these learned divines is not altogether candid on this occasion.
 
-[^67]: In the council of Laodicea, (about the year 360,) the Apocalypse was tacitly excluded from the sacred canon, by the same churches of Asia to which it is addressed; and we may learn from the complaint of Sulpicius Severus, that their sentence had been ratified by the greater number of Christians of his time. From what causes then is the Apocalypse at present so generally received by the Greek, the Roman, and the Protestant churches? The following ones may be assigned. 1. The Greeks were subdued by the authority of an impostor, who, in the sixth century, assumed the character of Dionysius the Areopagite. 2. A just apprehension that the grammarians might become more important than the theologians, engaged the council of Trent to fix the seal of their infallibility on all the books of Scripture contained in the Latin Vulgate, in the number of which the Apocalypse was fortunately included. (Fr. Paolo, Istoria del Concilio Tridentino, l. ii.) 3. The advantage of turning those mysterious prophecies against the See of Rome, inspired the Protestants with uncommon veneration for so useful an ally. See the ingenious and elegant discourses of the present bishop of Litchfield on that unpromising subject. ^! Note: The exclusion of the Apocalypse is not improbably assigned to its obvious unfitness to be read in churches. It is to be feared that a history of the interpretation of the Apocalypse would not give a very favorable view either of the wisdom or the charity of the successive ages of Christianity. Wetstein's interpretation, differently modified, is adopted by most Continental scholars. - M.
+[^67]: In the council of Laodicea, (about the year 360,) the Apocalypse was tacitly excluded from the sacred canon, by the same churches of Asia to which it is addressed; and we may learn from the complaint of Sulpicius Severus, that their sentence had been ratified by the greater number of Christians of his time. From what causes then is the Apocalypse at present so generally received by the Greek, the Roman, and the Protestant churches? The following ones may be assigned. 1. The Greeks were subdued by the authority of an impostor, who, in the sixth century, assumed the character of Dionysius the Areopagite. 2. A just apprehension that the grammarians might become more important than the theologians, engaged the council of Trent to fix the seal of their infallibility on all the books of Scripture contained in the Latin Vulgate, in the number of which the Apocalypse was fortunately included. (Fr. Paolo, Istoria del Concilio Tridentino, l. ii.) 3. The advantage of turning those mysterious prophecies against the See of Rome, inspired the Protestants with uncommon veneration for so useful an ally. See the ingenious and elegant discourses of the present bishop of Litchfield on that unpromising subject.
 
 [^68]: Lactantius (Institut. Divin. vii. 15, &c.) relates the dismal talk of futurity with great spirit and eloquence.
-
-Note: Lactantius had a notion of a great Asiatic empire, which was previously to rise on the ruins of the Roman: quod Romanum nomen animus dicere, sed dicam. quia futurum est) tolletur de terra, et impere. Asiam revertetur. - M.
 
 [^69]: On this subject every reader of taste will be entertained with the third part of Burnet's Sacred Theory. He blends philosophy, Scripture, and tradition, into one magnificent system; in the description of which he displays a strength of fancy not inferior to that of Milton himself.
 
@@ -511,69 +453,37 @@ Note: Lactantius had a notion of a great Asiatic empire, which was previously to
 
 [^71]: Justin and Clemens of Alexandria allow that some of the philosophers were instructed by the Logos; confounding its double signification of the human reason, and of the Divine Word.
 
-[^J: This translation is not exact: the first sentence is imperfect. Tertullian says, Ille dies nationibus insperatus, ille derisus, cum tanta sacculi vetustas et tot ejus nativitates uno igne haurientur. The text does not authorize the exaggerated expressions, so many magistrates, so many sago philosophers, so many poets, &c.; but simply magistrates, philosophers, poets. - G.
-
-It is not clear that Gibbon's version or paraphrase is incorrect: Tertullian writes, tot tantosque reges item praesides, &c. - M.
-
 [^72]: Tertullian, de Spectaculis, c. 30. In order to ascertain the degree of authority which the zealous African had acquired it may be sufficient to allege the testimony of Cyprian, the doctor and guide of all the western churches. (See Prudent. Hym. xiii. 100.) As often as he applied himself to his daily study of the writings of Tertullian, he was accustomed to say, "Da mihi magistrum, Give me my master." (Hieronym. de Viris Illustribus, tom. i. p. 284.)
-
-[^K: The object of Tertullian's vehemence in his Treatise, was to keep the Christians away from the secular games celebrated by the Emperor Severus: It has not prevented him from showing himself in other places full of benevolence and charity towards unbelievers: the spirit of the gospel has sometimes prevailed over the violence of human passions: Qui ergo putaveris nihil nos de salute Caesaris curare (he says in his Apology) inspice Dei voces, literas nostras. Scitote ex illis praeceptum esse nobis ad redudantionem, benignitates etiam pro inimicis Deum orare, et pro persecutoribus cona precari. Sed etiam nominatim atque manifeste orate inquit (Christus) pro regibus et pro principibus et potestatibus ut omnia sint tranquilla vobis Tert. Apol. c. 31. - G.
-
-It would be wiser for Christianity, retreating upon its genuine records in the New Testament, to disclaim this fierce African, than to identify itself with his furious invectives by unsatisfactory apologies for their unchristian fanaticism. - M.
 
 [^73]: Notwithstanding the evasions of Dr. Middleton, it is impossible to overlook the clear traces of visions and inspiration, which may be found in the apostolic fathers.
 
-Note: Gibbon should have noticed the distinct and remarkable passage from Chrysostom, quoted by Middleton, (Works, vol. i. p. 105,) in which he affirms the long discontinuance of miracles as a notorious fact. - M.
-
 [^74]: Irenaeus adv. Haeres. Proem. p.3 Dr. Middleton (Free Inquiry, p. 96, &c.) observes, that as this pretension of all others was the most difficult to support by art, it was the soonest given up. The observation suits his hypothesis.
-
-Note: This passage of Irenaeus contains no allusion to the gift of tongues; it is merely an apology for a rude and unpolished Greek style, which could not be expected from one who passed his life in a remote and barbarous province, and was continually obliged to speak the Celtic language. - M. Note: Except in the life of Pachomius, an Egyptian monk of the fourth century. (see Jortin, Ecc. Hist. i. p. 368, edit. 1805,) and the latter (not earlier) lives of Xavier, there is no claim laid to the gift of tongues since the time of Irenaeus; and of this claim, Xavier's own letters are profoundly silent. See Douglas's Criterion, p. 76 edit. 1807. - M.
 
 [^75]: Athenagoras in Legatione. Justin Martyr, Cohort. ad Gentes Tertullian advers. Marcionit. l. iv. These descriptions are not very unlike the prophetic fury, for which Cicero (de Divinat.ii. 54) expresses so little reverence.
 
 [^76]: Tertullian (Apolog. c. 23) throws out a bold defiance to the Pagan magistrates. Of the primitive miracles, the power of exorcising is the only one which has been assumed by Protestants.
 
-Note: But by Protestants neither of the most enlightened ages nor most reasoning minds. - M.
-
 [^77]: Irenaeus adv. Haereses, l. ii. 56, 57, l. v. c. 6. Mr. Dodwell (Dissertat. ad Irenaeum, ii. 42) concludes, that the second century was still more fertile in miracles than the first.
 
-Note: It is difficult to answer Middleton's objection to this statement of Irenae us: "It is very strange, that from the time of the apostles there is not a single instance of this miracle to be found in the three first centuries; except a single case, slightly intimated in Eusebius, from the Works of Papias; which he seems to rank among the other fabulous stories delivered by that weak man." Middleton, Works, vol. i. p. 59. Bp. Douglas (Criterion, p 389) would consider Irenaeus to speak of what had "been performed formerly." not in his own time. - M.
-
 [^78]: Theophilus ad Autolycum, l. i. p. 345. Edit. Benedictin. Paris, 1742.
-
-Note: A candid sceptic might discern some impropriety in the Bishop being called upon to perform a miracle on demand. - M.
 
 [^79]: Dr. Middleton sent out his Introduction in the year 1747, published his Free Inquiry in 1749, and before his death, which happened in 1750, he had prepared a vindication of it against his numerous adversaries.
 
 [^80]: The university of Oxford conferred degrees on his opponents. From the indignation of Mosheim, (p. 221,) we may discover the sentiments of the Lutheran divines.
 
-Note: Yet many Protestant divines will now without reluctance confine miracles to the time of the apostles, or at least to the first century. - M
-
 [^81]: It may seem somewhat remarkable, that Bernard of Clairvaux, who records so many miracles of his friend St. Malachi, never takes any notice of his own, which, in their turn, however, are carefully related by his companions and disciples. In the long series of ecclesiastical history, does there exist a single instance of a saint asserting that he himself possessed the gift of miracles?
 
 [^82]: The conversion of Constantine is the aera which is most usually fixed by Protestants. The more rational divines are unwilling to admit the miracles of the ivth, whilst the more credulous are unwilling to reject those of the vth century.
-
-Note: All this appears to proceed on the principle that any distinct line can be drawn in an unphilosophic age between wonders and miracles, or between what piety, from their unexpected and extraordinary nature, the marvellous concurrence of secondary causes to some remarkable end, may consider providential interpositions, and miracles strictly so called, in which the laws of nature are suspended or violated. It is impossible to assign, on one side, limits to human credulity, on the other, to the influence of the imagination on the bodily frame; but some of the miracles recorded in the Gospels are such palpable impossibilities, according to the known laws and operations of nature, that if recorded on sufficient evidence, and the evidence we believe to be that of eye-witnesses, we cannot reject them, without either asserting, with Hume, that no evidence can prove a miracle, or that the Author of Nature has no power of suspending its ordinary laws. But which of the post-apostolic miracles will bear this test? - M.
-
-[^L: These, in the opinion of the editor, are the most uncandid paragraphs in Gibbon's History. He ought either, with manly courage, to have denied the moral reformation introduced by Christianity, or fairly to have investigated all its motives; not to have confined himself to an insidious and sarcastic description of the less pure and generous elements of the Christian character as it appeared even at that early time. - M.
 
 [^83]: The imputations of Celsus and Julian, with the defence of the fathers, are very fairly stated by Spanheim, Commentaire sur les Cesars de Julian, p. 468.
 
 [^84]: Plin. Epist. x. 97.
 
-Note: Is not the sense of Tertullian rather, if guilty of any other offence, be had thereby ceased to be a Christian? - M.
-
-[^M: And this blamelessness was fully admitted by the candid and enlightened Roman. - M.
-
 [^85]: Tertullian, Apolog. c. 44. He adds, however, with some degree of hesitation, "Aut si aliud, jam non Christianus."
-
-Note: Tertullian says positively no Christian, nemo illic Christianus; for the rest, the limitation which he himself subjoins, and which Gibbon quotes in the foregoing note, diminishes the force of this assertion, and appears to prove that at least he knew none such. - G.
 
 [^86]: The philosopher Peregrinus (of whose life and death Lucian has left us so entertaining an account) imposed, for a long time, on the credulous simplicity of the Christians of Asia.
 
 [^87]: See a very judicious treatise of Barbeyrac sur la Morale des Peres.
-
-[^N: El que me fait cette homelie semi-stoicienne, semi-epicurienne? t'on jamais regarde l'amour du plaisir comme l'un des principes de la perfection morale? Et de quel droit faites vous de l'amour de l'action, et de l'amour du plaisir, les seuls elemens de l'etre humain? Est ce que vous faites abstraction de la verite en elle-meme, de la conscience et du sentiment du devoir? Est ce que vous ne sentez point, par exemple, que le sacrifice du moi a la justice et a la verite, est aussi dans le coeur de l'homme: que tout n'est pas pour lui action ou plaisir, et que dans le bien ce n'est pas le mouvement, mais la verite, qu'il cherche? Et puis ** Thucy dide et Tacite. ces maitres de l'histoire, ont ils jamais introduits dans leur recits un fragment de dissertation sur le plaisir et sur l'action. Villemain Cours de Lit. Franc part ii. Lecon v. - M.
 
 [^88]: Lactant. Institut. Divin. l. vi. c. 20, 21, 22.
 
@@ -582,8 +492,6 @@ Note: Tertullian says positively no Christian, nemo illic Christianus; for the r
 [^90]: Tertullian, de Spectaculis, c. 23. Clemens Alexandrin. Paedagog. l. iii. c. 8.
 
 [^91]: Beausobro, Hist. Critique du Manicheisme, l. vii. c. 3. Justin, Gregory of Nyssa, Augustin, &c., strongly incline to this opinion.
-
-Note: But these were Gnostic or Manichean opinions. Beausobre distinctly describes Autustine's bias to his recent escape from Manicheism; and adds that be afterwards changed his views. - M.
 
 [^92]: Some of the Gnostic heretics were more consistent; they rejected the use of marriage.
 
@@ -607,16 +515,6 @@ Note: But these were Gnostic or Manichean opinions. Beausobre distinctly describ
 
 [^102]: Tertullian (de Corona Militis, c. 11) suggested to them the expedient of deserting; a counsel which, if it had been generally known, was not very proper to conciliate the favor of the emperors towards the Christian sect.
 
-Note: There is nothing which ought to astonish us in the refusal of the primitive Christians to take part in public affairs; it was the natural consequence of the contrariety of their principles to the customs, laws, and active life of the Pagan world. As Christians, they could not enter into the senate, which, according to Gibbon himself, always assembled in a temple or consecrated place, and where each senator, before he took his seat, made a libation of a few drops of wine, and burnt incense on the altar; as Christians, they could not assist at festivals and banquets, which always terminated with libations, &c.; finally, as "the innumerable deities and rites of polytheism were closely interwoven with every circumstance of public and private life," the Christians could not participate in them without incurring, according to their principles, the guilt of impiety. It was then much less by an effect of their doctrine, than by the consequence of their situation, that they stood aloof from public business. Whenever this situation offered no impediment, they showed as much activity as the Pagans. Proinde, says Justin Martyr, (Apol. c. 17,) nos solum Deum adoramus, et vobis in rebus aliis laeti inservimus. - G.
-
-This latter passage, M. Guizot quotes in Latin; if he had consulted the original, he would have found it to be altogether irrelevant: it merely relates to the payment of taxes. - M.
-
-Tertullian does not suggest to the soldiers the expedient of deserting; he says that they ought to be constantly on their guard to do nothing during their service contrary to the law of God, and to resolve to suffer martyrdom rather than submit to a base compliance, or openly to renounce the service. (De Cor. Mil. ii. p. 127.) He does not positively decide that the military service is not permitted to Christians; he ends, indeed, by saying, Puta denique licere militiam usque ad causam coronae. - G.
-
-M. Guizot is. I think, again unfortunate in his defence of Tertullian. That father says, that many Christian soldiers had deserted, aut deserendum statim sit, ut a multis actum. The latter sentence, Puta, &c, &c., is a concession for the sake of argument: wha follows is more to the purpose. - M. Many other passages of Tertullian prove that the army was full of Christians, Hesterni sumus et vestra omnia implevimus, urbes, insulas, castella, municipia, conciliabula, castra ipsa. (Apol. c. 37.) Navigamus et not vobiscum et militamus. (c. 42.) Origen, in truth, appears to have maintained a more rigid opinion, (Cont. Cels. l. viii.;) but he has often renounced this exaggerated severity, perhaps necessary to produce great results, and be speaks of the profession of arms as an honorable one. (l. iv. c. 218.) - G.
-
-On these points Christian opinion, it should seem, was much divided Tertullian, when he wrote the De Cor. Mil., was evidently inclining to more ascetic opinions, and Origen was of the same class. See Neander, vol. l part ii. p. 305, edit. 1828. - M.
-
 [^103]: As well as we can judge from the mutilated representation of Origen, (1. viii. p. 423,) his adversary, Celsus, had urged his objection with great force and candor.
 
 [^104]: The aristocratical party in France, as well as in England, has strenuously maintained the divine origin of bishops. But the Calvinistical presbyters were impatient of a superior; and the Roman Pontiff refused to acknowledge an equal. See Fra Paolo.
@@ -625,17 +523,7 @@ On these points Christian opinion, it should seem, was much divided Tertullian, 
 
 [^106]: For the prophets of the primitive church, see Mosheim, Dissertationes ad Hist. Eccles. pertinentes, tom. ii. p. 132 - 208.
 
-[^O: St. Paul distinctly reproves the intrusion of females into the prophets office. 1 Cor. xiv. 34, 35. 1 Tim. ii. 11. - M.
-
 [^107]: See the epistles of St. Paul, and of Clemens, to the Corinthians.
-
-Note: The first ministers established in the church were the deacons, appointed at Jerusalem, seven in number; they were charged with the distribution of the alms; even females had a share in this employment. After the deacons came the elders or priests, charged with the maintenance of order and decorum in the community, and to act every where in its name. The bishops were afterwards charged to watch over the faith and the instruction of the disciples: the apostles themselves appointed several bishops.
-
-Tertullian, (adv. Marium, c. v.,) Clement of Alexandria, and many fathers of the second and third century, do not permit us to doubt this fact. The equality of rank between these different functionaries did not prevent their functions being, even in their origin, distinct; they became subsequently still more so. See Plank, Geschichte der Christ. Kirch. Verfassung., vol. i. p. 24. - G.
-
-On this extremely obscure subject, which has been so much perplexed by passion and interest, it is impossible to justify any opinion without entering into long and controversial details.
-
-It must be admitted, in opposition to Plank, that in the New Testament, several words are sometimes indiscriminately used. (Acts xx. v. 17, comp. with 28 Tit. i. 5 and 7. Philip. i. 1.) But it is as clear, that as soon as we can discern the form of church government, at a period closely bordering upon, if not within, the apostolic age, it appears with a bishop at the head of each community, holding some superiority over the presbyters. Whether he was, as Gibbon from Mosheim supposes, merely an elective head of the College of Presbyters, (for this we have, in fact, no valid authority,) or whether his distinct functions were established on apostolic authority, is still contested. The universal submission to this episcopacy, in every part of the Christian world appears to me strongly to favor the latter view. - M.
 
 [^108]: Hooker's Ecclesiastical Polity, l. vii.
 
@@ -650,12 +538,6 @@ It must be admitted, in opposition to Plank, that in the New Testament, several 
 [^113]: See Mosheim in the first and second centuries. Ignatius (ad Smyrnaeos, c. 3, &c.) is fond of exalting the episcopal dignity. Le Clerc (Hist. Eccles. p. 569) very bluntly censures his conduct, Mosheim, with a more critical judgment, (p. 161,) suspects the purity even of the smaller epistles.
 
 [^114]: Nonne et Laici sacerdotes sumus? Tertullian, Exhort. ad Castitat. c. 7. As the human heart is still the same, several of the observations which Mr. Hume has made on Enthusiasm, (Essays, vol. i. p. 76, quarto edit.) may be applied even to real inspiration.
-
-Note: This expression was employed by the earlier Christian writers in the sense used by St. Peter, 1 Ep ii. 9. It was the sanctity and virtue not the power of priesthood, in which all Christians were to be equally distinguished. - M.
-
-[^P: The synods were not the first means taken by the insulated churches to enter into communion and to assume a corporate character. The dioceses were first formed by the union of several country churches with a church in a city: many churches in one city uniting among themselves, or joining a more considerable church, became metropolitan. The dioceses were not formed before the beginning of the second century: before that time the Christians had not established sufficient churches in the country to stand in need of that union. It is towards the middle of the same century that we discover the first traces of the metropolitan constitution. (Probably the country churches were founded in general by missionaries from those in the city, and would preserve a natural connection with the parent church.) - M.
-
-The provincial synods did not commence till towards the middle of the third century, and were not the first synods. History gives us distinct notions of the synods, held towards the end of the second century, at Ephesus at Jerusalem, at Pontus, and at Rome, to put an end to the disputes which had arisen between the Latin and Asiatic churches about the celebration of Easter. But these synods were not subject to any regular form or periodical return; this regularity was first established with the provincial synods, which were formed by a union of the bishops of a district, subject to a metropolitan. Plank, p. 90. Geschichte der Christ. Kirch. Verfassung - G
 
 [^115]: Acta Concil. Carthag. apud Cyprian. edit. Fell, p. 158. This council was composed of eighty-seven bishops from the provinces of Mauritania, Numidia, and Africa; some presbyters and deacons assisted at the assembly; praesente plebis maxima parte.
 
@@ -673,11 +555,7 @@ The provincial synods did not commence till towards the middle of the third cent
 
 [^122]: The journey of St. Peter to Rome is mentioned by most of the ancients, (see Eusebius, ii. 25,) maintained by all the Catholics, allowed by some Protestants, (see Pearson and Dodwell de Success. Episcop. Roman,) but has been vigorously attacked by Spanheim, (Miscellanes Sacra, iii. 3.) According to Father Hardouin, the monks of the thirteenth century, who composed the Aeneid, represented St. Peter under the allegorical character of the Trojan hero.
 
-Note: It is quite clear that, strictly speaking, the church of Rome was not founded by either of these apostles. St. Paul's Epistle to the Romans proves undeniably the flourishing state of the church before his visit to the city; and many Roman Catholic writers have given up the impracticable task of reconciling with chronology any visit of St. Peter to Rome before the end of the reign of Claudius, or the beginning of that of Nero. - M.
-
 [^123]: It is in French only that the famous allusion to St. Peter's name is exact. Tu es Pierre, et sur cette pierre. - The same is imperfect in Greek, Latin, Italian, &c., and totally unintelligible in our Tentonic languages.
-
-Note: It is exact in Syro-Chaldaic, the language in which it was spoken by Jesus Christ. (St. Matt. xvi. 17.) Peter was called Cephas; and cepha signifies base, foundation, rock - G.
 
 [^124]: Irenaeus adv. Haereses, iii. 3. Tertullian de Praescription. c. 36, and Cyprian, Epistol. 27, 55, 71, 75. Le Clere (Hist. Eccles. p. 764) and Mosheim (p. 258, 578) labor in the interpretation of these passages. But the loose and rhetorical style of the fathers often appears favorable to the pretensions of Rome.
 
@@ -693,8 +571,6 @@ Note: It is exact in Syro-Chaldaic, the language in which it was spoken by Jesus
 
 [^130]: See the Acts of the Apostles, c. 2, 4, 5, with Grotius's Commentary. Mosheim, in a particular dissertation, attacks the common opinion with very inconclusive arguments.
 
-Note: This is not the general judgment on Mosheim's learned dissertation. There is no trace in the latter part of the New Testament of this community of goods, and many distinct proofs of the contrary. All exhortations to almsgiving would have been unmeaning if property had been in common - M.
-
 [^131]: Justin Martyr, Apolog. Major, c. 89. Tertullian, Apolog. c. 39.
 
 [^132]: Irenaeus ad Haeres. l. iv. c. 27, 34. Origen in Num. Hom. ii Cyprian de Unitat. Eccles. Constitut. Apostol. l. ii. c. 34, 35, with the notes of Cotelerius. The Constitutions introduce this divine precept, by declaring that priests are as much above kings as the soul is above the body. Among the tithable articles, they enumerate corn, wine, oil, and wool. On this interesting subject, consult Prideaux's History of Tithes, and Fra Paolo delle Materie Beneficiarie; two writers of a very different character.
@@ -703,10 +579,6 @@ Note: This is not the general judgment on Mosheim's learned dissertation. There 
 
 [^134]: Tum summa cura est fratribus (Ut sermo testatur loquax.) Offerre, fundis venditis Sestertiorum millia. Addicta avorum praedia Foedis sub auctionibus, Successor exheres gemit Sanctis egens Parentibus. Haec occuluntur abditis Ecclesiarum in angulis. Et summa pietas creditur Nudare dulces liberos.
 
-Prudent. Hymn 2.
-
-The subsequent conduct of the deacon Laurence only proves how proper a use was made of the wealth of the Roman church; it was undoubtedly very considerable; but Fra Paolo (c. 3) appears to exaggerate, when he supposes that the successors of Commodus were urged to persecute the Christians by their own avarice, or that of their Praetorian praefects.
-
 [^135]: Cyprian, Epistol. 62.
 
 [^136]: Tertullian de Praescriptione, c. 30.
@@ -714,8 +586,6 @@ The subsequent conduct of the deacon Laurence only proves how proper a use was m
 [^137]: Diocletian gave a rescript, which is only a declaration of the old law; "Collegium, si nullo speciali privilegio subnixum sit, haereditatem capere non posse, dubium non est." Fra Paolo (c. 4) thinks that these regulations had been much neglected since the reign of Valerian.
 
 [^138]: Hist. August. p. 131. The ground had been public; and was row disputed between the society of Christians and that of butchers.
-
-Note: Carponarii, rather victuallers. - M.
 
 [^139]: Constitut. Apostol. ii. 35.
 
@@ -737,13 +607,7 @@ Note: Carponarii, rather victuallers. - M.
 
 [^148]: See in Dupin, Bibliotheque Ecclesiastique, tom. ii. p. 304 - 313, a short but rational exposition of the canons of those councils, which were assembled in the first moments of tranquillity, after the persecution of Diocletian. This persecution had been much less severely felt in Spain than in Galatia; a difference which may, in some measure account for the contrast of their regulations.
 
-[^Q: Gibbon has been accused of injustice to the character of Cyprian, as exalting the "censures and authority of the church above the observance of the moral duties." Felicissimus had been condemned by a synod of bishops, (non tantum mea, sed plurimorum coepiscorum, sententia condemnatum,) on the charge not only of schism, but of embezzlement of public money, the debauching of virgins, and frequent acts of adultery. His violent menaces had extorted his readmission into the church, against which Cyprian protests with much vehemence: ne pecuniae commissae sibi fraudator, ne stuprator virginum, ne matrimoniorum multorum depopulator et corruptor, ultra adhuc sponsam Christi incorruptam praesentiae suae dedecore, et impudica atque incesta contagione, violaret. See Chelsum's Remarks, p. 134. If these charges against Felicissimus were true, they were something more than "irregularities," A Roman censor would have been a fairer subject of comparison than a consul. On the other hand, it must be admitted that the charge of adultery deepens very rapidly as the controversy becomes more violent. It is first represented as a single act, recently detected, and which men of character were prepared to substantiate: adulterii etiam crimen accedit. quod patres nostri graves viri deprehendisse se nuntiaverunt, et probaturos se asseverarunt. Epist. xxxviii. The heretic has now darkened into a man of notorious and general profligacy. Nor can it be denied that of the whole long epistle, very far the larger and the more passionate part dwells on the breach of ecclesiastical unity rather than on the violation of Christian holiness. - M.
-
 [^149]: Cyprian Epist. 69.
-
-[^R: This supposition appears unfounded: the birth and the talents of Cyprian might make us presume the contrary. Thascius Caecilius Cyprianus, Carthaginensis, artis oratoriae professione clarus, magnam sibi gloriam, opes, honores acquisivit, epularibus caenis et largis dapibus assuetus, pretiosa veste conspicuus, auro atque purpura fulgens, fascibus oblectatus et honoribus, stipatus clientium cuneis, frequentiore comitatu officii agminis honestatus, ut ipse de se loquitur in Epistola ad Donatum. See De Cave, Hist. Liter. b. i. p. 87. - G.
-
-Cave has rather embellished Cyprian's language. - M.
 
 [^150]: The arts, the manners, and the vices of the priests of the Syrian goddess are very humorously described by Apuleius, in the eighth book of his Metamorphosis.
 
@@ -751,21 +615,13 @@ Cave has rather embellished Cyprian's language. - M.
 
 [^152]: The modern critics are not disposed to believe what the fathers almost unanimously assert, that St. Matthew composed a Hebrew gospel, of which only the Greek translation is extant. It seems, however, dangerous to reject their testimony.
 
-Note: Strong reasons appear to confirm this testimony. Papias, contemporary of the Apostle St. John, says positively that Matthew had written the discourses of Jesus Christ in Hebrew, and that each interpreted them as he could. This Hebrew was the Syro-Chaldaic dialect, then in use at Jerusalem: Origen, Irenaeus, Eusebius, Jerome, Epiphanius, confirm this statement. Jesus Christ preached himself in Syro-Chaldaic, as is proved by many words which he used, and which the Evangelists have taken the pains to translate. St. Paul, addressing the Jews, used the same language: Acts xxi. 40, xxii. 2, xxvi. 14. The opinions of some critics prove nothing against such undeniable testimonies. Moreover, their principal objection is, that St. Matthew quotes the Old Testament according to the Greek version of the LXX., which is inaccurate; for of ten quotations, found in his Gospel, seven are evidently taken from the Hebrew text; the threo others offer little that differ: moreover, the latter are not literal quotations. St. Jerome says positively, that, according to a copy which he had seen in the library of Caesarea, the quotations were made in Hebrew (in Catal.) More modern critics, among others Michaelis, do not entertain a doubt on the subject. The Greek version appears to have been made in the time of the apostles, as St. Jerome and St. Augustus affirm, perhaps by one of them. - G.
-
-Among modern critics, Dr. Hug has asserted the Greek original of St. Matthew, but the general opinion of the most learned biblical writer, supports the view of M. Guizot. - M.
-
 [^153]: Under the reigns of Nero and Domitian, and in the cities of Alexandria, Antioch, Rome, and Ephesus. See Mill. Prolegomena ad Nov. Testament, and Dr. Lardner's fair and extensive collection, vol. xv.
-
-Note: This question has, it is well known, been most elaborately discussed since the time of Gibbon. The Preface to the Translation of Schleier Macher's Version of St. Luke contains a very able summary of the various theories. - M.
 
 [^154]: The Alogians (Epiphanius de Haeres. 51) disputed the genuineness of the Apocalypse, because the church of Thyatira was not yet founded. Epiphanius, who allows the fact, extricates himself from the difficulty by ingeniously supposing that St. John wrote in the spirit of prophecy. See Abauzit, Discours sur l'Apocalypse.
 
 [^155]: The epistles of Ignatius and Dionysius (ap. Euseb. iv. 23) point out many churches in Asia and Greece. That of Athens seems to have been one of the least flourishing.
 
 [^156]: Lucian in Alexandro, c. 25. Christianity however, must have been very unequally diffused over Pontus; since, in the middle of the third century, there was no more than seventeen believers in the extensive diocese of Neo-Caesarea. See M. de Tillemont, Memoires Ecclesiast. tom. iv. p. 675, from Basil and Gregory of Nyssa, who were themselves natives of Cappadocia.
-
-Note: Gibbon forgot the conclusion of this story, that Gregory left only seventeen heathens in his diocese. The antithesis is suspicious, and both numbers may have been chosen to magnify the spiritual fame of the wonder-worker. - M.
 
 [^157]: According to the ancients, Jesus Christ suffered under the consulship of the two Gemini, in the year 29 of our present aera. Pliny was sent into Bithynia (according to Pagi) in the year 110.
 
@@ -776,8 +632,6 @@ Note: Gibbon forgot the conclusion of this story, that Gregory left only sevente
 [^160]: John Malala, tom. ii. p. 144. He draws the same conclusion with regard to the populousness of antioch.
 
 [^161]: Chrysostom. tom. i. p. 592. I am indebted for these passages, though not for my inference, to the learned Dr. Lardner. Credibility of the Gospel of History, vol. xii. p. 370.
-
-Note: The statements of Chrysostom with regard to the population of Antioch, whatever may be their accuracy, are perfectly consistent. In one passage he reckons the population at 200,000. In a second the Christians at 100,000. In a third he states that the Christians formed more than half the population. Gibbon has neglected to notice the first passage, and has drawn by estimate of the population of Antioch from other sources. The 8000 maintained by alms were widows and virgins alone - M.
 
 [^162]: Basnage, Histoire des Juifs, l. 2, c. 20, 21, 22, 23, has examined with the most critical accuracy the curious treatise of Philo, which describes the Therapeutae. By proving that it was composed as early as the time of Augustus, Basnage has demonstrated, in spite of Eusebius (l. ii. c. 17) and a crowd of modern Catholics, that the Therapeutae were neither Christians nor monks. It still remains probable that they changed their name, preserved their manners, adopted some new articles of faith, and gradually became the fathers of the Egyptian Ascetics.
 
@@ -813,8 +667,6 @@ Note: The statements of Chrysostom with regard to the population of Antioch, wha
 
 [^178]: See the fourth century of Mosheim's History of the Church. Many, though very confused circumstances, that relate to the conversion of Iberia and Armenia, may be found in Moses of Chorene, l. ii. c. 78 - 89.
 
-Note: Mons. St. Martin has shown that Armenia was the first nation that embraced Christianity. Memoires sur l'Armenie, vol. i. p. 306, and notes to Le Beae. Gibbon, indeed had expressed his intention of withdrawing the words "of Armenia" from the text of future editions. (Vindication, Works, iv. 577.) He was bitterly taunted by Person for neglecting or declining to fulfil his promise. Preface to Letters to Travis. - M.
-
 [^179]: According to Tertullian, the Christian faith had penetrated into parts of Britain inaccessible to the Roman arms. About a century afterwards, Ossian, the son of Fingal, is said to have disputed, in his extreme old age, with one of the foreign missionaries, and the dispute is still extant, in verse, and in the Erse language. See Mr. Macpher son's Dissertation on the Antiquity of Ossian's Poems, p. 10.
 
 [^180]: The Goths, who ravaged Asia in the reign of Gallienus, carried away great numbers of captives; some of whom were Christians, and became missionaries. See Tillemont, Memoires Ecclesiast. tom. iv. p. 44.
@@ -833,21 +685,13 @@ Note: Mons. St. Martin has shown that Armenia was the first nation that embraced
 
 [^187]: Eusebius, v. 28. It may be hoped, that none, except the heretics, gave occasion to the complaint of Celsus, (ap. Origen, l. ii. p. 77,) that the Christians were perpetually correcting and altering their Gospels.
 
-Note: Origen states in reply, that he knows of none who had altered the Gospels except the Marcionites, the Valentinians, and perhaps some followers of Lucanus. - M.
-
 [^188]: Plin. Epist. x. 97. Fuerunt alii similis amentiae, cives Romani - - Multi enim omnis aetatis, omnis ordinis, utriusque sexus, etiam vocuntur in periculum et vocabuntur.
 
 [^189]: Tertullian ad Scapulum. Yet even his rhetoric rises no higher than to claim a tenth part of Carthage.
 
 [^190]: Cyprian. Epist. 70.
 
-[^S: This incomplete enumeration ought to be increased by the names of several Pagans converted at the dawn of Christianity, and whose conversion weakens the reproach which the historian appears to support. Such are, the Proconsul Sergius Paulus, converted at Paphos, (Acts xiii. 7 - 12.) Dionysius, member of the Areopagus, converted with several others, al Athens, (Acts xvii. 34;) several persons at the court of Nero, (Philip. iv 22;) Erastus, receiver at Corinth, (Rom. xvi.23;) some Asiarchs, (Acts xix. 31) As to the philosophers, we may add Tatian, Athenagoras, Theophilus of Antioch, Hegesippus, Melito, Miltiades, Pantaenus, Ammenius, all distinguished for their genius and learning. - G.
-
 [^191]: Dr. Lardner, in his first and second volumes of Jewish and Christian testimonies, collects and illustrates those of Pliny the younger, of Tacitus, of Galen, of Marcus Antoninus, and perhaps of Epictetus, (for it is doubtful whether that philosopher means to speak of the Christians.) The new sect is totally unnoticed by Seneca, the elder Pliny, and Plutarch.
-
-[^T: The emperors Hadrian, Antoninus &c., read with astonishment the apologies of Justin Martyr, of Aristides, of Melito, &c. (See St. Hieron. ad mag. orat. Orosius, lviii. c. 13.) Eusebius says expressly, that the cause of Christianity was defended before the senate, in a very elegant discourse, by Apollonius the Martyr. - G.
-
-Gibbon, in his severer spirit of criticism, may have questioned the authority of Jerome and Eusebius. There are some difficulties about Apollonius, which Heinichen (note in loc. Eusebii) would solve, by suppose lag him to have been, as Jerome states, a senator. - M.
 
 [^192]: If the famous prophecy of the Seventy Weeks had been alleged to a Roman philosopher, would he not have replied in the words of Cicero, "Quae tandem ista auguratio est, annorum potius quam aut raensium aut dierum?" De Divinatione, ii. 30. Observe with what irreverence Lucian, (in Alexandro, c. 13.) and his friend Celsus ap. Origen, (l. vii. p. 327,) express themselves concerning the Hebrew prophets.
 
@@ -858,10 +702,6 @@ Gibbon, in his severer spirit of criticism, may have questioned the authority of
 [^195]: Origen ad Matth. c. 27, and a few modern critics, Beza, Le Clerc, Lardner, &c., are desirous of confining it to the land of Judea.
 
 [^196]: The celebrated passage of Phlegon is now wisely abandoned. When Tertullian assures the Pagans that the mention of the prodigy is found in Arcanis (not Archivis) vestris, (see his Apology, c. 21,) he probably appeals to the Sibylline verses, which relate it exactly in the words of the Gospel.
-
-Note: According to some learned theologians a misunderstanding of the text in the Gospel has given rise to this mistake, which has employed and wearied so many laborious commentators, though Origen had already taken the pains to preinform them. The expression does not mean, they assert, an eclipse, but any kind of obscurity occasioned in the atmosphere, whether by clouds or any other cause. As this obscuration of the sun rarely took place in Palestine, where in the middle of April the sky was usually clear, it assumed, in the eyes of the Jews and Christians, an importance conformable to the received notion, that the sun concealed at midday was a sinister presage. See Amos viii. 9, 10. The word is often taken in this sense by contemporary writers; the Apocalypse says the sun was concealed, when speaking of an obscuration caused by smoke and dust. (Revel. ix. 2.) Moreover, the Hebrew word ophal, which in the LXX. answers to the Greek, signifies any darkness; and the Evangelists, who have modelled the sense of their expressions by those of the LXX., must have taken it in the same latitude. This darkening of the sky usually precedes earthquakes. (Matt. xxvii. 51.) The Heathen authors furnish us a number of examples, of which a miraculous explanation was given at the time. See Ovid. ii. v. 33, l. xv. v. 785. Pliny, Hist. Nat. l. ii. c 30. Wetstein has collected all these examples in his edition of the New Testament.
-
-We need not, then, be astonished at the silence of the Pagan authors concerning a phenomenon which did not extend beyond Jerusalem, and which might have nothing contrary to the laws of nature; although the Christians and the Jews may have regarded it as a sinister presage. See Michaelia Notes on New Testament, v. i. p. 290. Paulus, Commentary on New Testament, iii. p. 760. - G.
 
 [^197]: Seneca, Quaest. Natur. l. i. 15, vi. l. vii. 17. Plin. Hist. Natur. l. ii.
 
