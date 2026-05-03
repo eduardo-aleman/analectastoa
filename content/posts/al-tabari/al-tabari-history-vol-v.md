@@ -6,16 +6,16 @@ translator: "Clifford Edmund Bosworth"
 categories: ["Early Islamic Historiography"]
 tags:
   [
-    "al-Tabarī",
-    "Sasanids",
-    "Byzantines",
-    "Lakhmids",
-    "Yemen",
-    "Late Antiquity",
-    "Pre-Islamic Arabia",
-    "Arabic Historiography",
-    "Islamic History",
-    "SUNY Series",
+"al-Tabarī",
+"Sasanids",
+"Byzantines",
+"Lakhmids",
+"Yemen",
+"Late Antiquity",
+"Pre-Islamic Arabia",
+"Arabic Historiography",
+"Islamic History",
+"SUNY Series",
   ]
 series: ["al-Ṭabarī"]
 summary: "Reading companion for Vol. V of The History of al-Ṭabarī — covering the Sāsānid empire, Byzantium, the Lakhmid client kingdom, and pre-Islamic Yemen — in the annotated translation by Clifford Edmund Bosworth (SUNY Press, 1999)."
