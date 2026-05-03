@@ -6,7 +6,7 @@ translator: "Clifford Edmund Bosworth"
 categories: ["Early Islamic Historiography"]
 tags:
   [
-"al-Tabarī",
+"al-Ṭabarī",
 "Sasanids",
 "Byzantines",
 "Lakhmids",
