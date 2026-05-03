@@ -1,7 +1,7 @@
 ---
 title: "Ta'rīkh al-Rusul wa-al-Mulūk, Vol. V: The Sāsānids, the Byzantines, the Lakhmids, and Yemen"
 date: 2025-01-01
-authors: ["al-Tabarī"]
+authors: ["al-Tabari"]
 translator: "Clifford Edmund Bosworth"
 categories: ["Early Islamic Historiography"]
 tags:
@@ -23,7 +23,7 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/george_grote.jpg"
+  image: "/sassanid_cup.jpg"
   alt: "Sassanid Cup (Cup of Solomon), Iran, 6th century CE, rock crystal cameo, gold, garnet, and green glass, H. 5 cm, D. 28.2 cm, Bibliothèque nationale de France, Département des Monnaies, Médailles et Antiques, Cameo.379. The central medallion, engraved in cameo on the reverse of a disc of exceptional rock crystal, depicts a Sassanid king enthroned on a banquet bed whose feet are formed by protomes of winged horses. Dressed in embroidered court costume and wearing a pendant necklace and pear earrings, the king bears a crenellated crown adorned with a crescent moon on the forehead and surmounted by a second crescent enclosing the korymbos — the solar globe of Sassanid royal iconography. The smooth, uncurled beard is specific to Kavadh I (r. 488–531), who is the most plausible candidate for the cup's patron. The six cushions of the banquet bed, with the bed itself forming the seventh, symbolise the seven kešvars or climates over which the Sassanid king reigned as master of the world. The medallion is set within a heavy gold mesh enclosing three concentric rows of rock crystal roundels and Rajasthani almandine garnets alternating with deep green glass lozenges, all carved in relief with florets on their reverse. A Pahlavi inscription engraved on the interior of the foot records the gold weight of the mount at manufacture: 107 staters (approximately 1.73 kg), attesting to production in a royal workshop. Seized from the treasury of the abbey of Saint-Denis by Revolutionary commissioners on 30 September 1791, the cup had been in the abbey's possession since at least 877 CE, when Charles the Bald gave it to Saint-Denis as the Hanap of Solomon — an attribution that, through the medieval Islamic identification of Chosroes I with Solomon, preserves a distant memory of the cup's Sassanid origin."
   caption: "Sassanid Cup (Cup of Solomon), Iran, 6th century CE, rock crystal cameo, gold, garnet, and green glass, H. 5 cm, D. 28.2 cm, Bibliothèque nationale de France, Département des Monnaies, Médailles et Antiques, Cameo.379. The central medallion depicts a Sassanid king — most plausibly Kavadh I (r. 488–531), identified by the smooth beard specific to his coinage — enthroned on a banquet bed with winged-horse protomes, wearing the korymbos crown of Sassanid royal iconography. A Pahlavi inscription on the interior of the foot records the gold weight at manufacture (107 staters, c. 1.73 kg), confirming production in a royal workshop. Given to the abbey of Saint-Denis by Charles the Bald in 877 CE as the Hanap of Solomon, the cup passed to the Bibliothèque nationale de France on its seizure from the Saint-Denis treasury in 1791. © Bibliothèque nationale de France."
 ---
