@@ -51,6 +51,11 @@
       children:
         - title: "Bede (full text)"
           author: "bede"
+    - title: "Early Islamic Historiography"
+      category: "early-islamic-historiography"
+      children:
+        - title: "al-Ṭabarī (companion)"
+          author: "al-tabari"
 
 - title: "Modern Histories of the Ancient and Medieval World"
   children:

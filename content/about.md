@@ -161,6 +161,9 @@ mere chronicle but as providential narrative. It is at once a work of history,
 theology, hagiography, and political thought, and stands as the culmination of
 early medieval Latin scholarship in Britain.
 
+**al-Ṭabarī** — *The History of the Prophets and Kings* (*Ta'rīkh al-Rusul wa-al-Mulūk*) (c. 915 CE)
+: The most comprehensive universal history to survive from the early Islamic world, composed in Arabic by the Persian scholar Abū Jaʿfar Muḥammad ibn Jarīr al-Ṭabarī. Spanning from creation to al-Ṭabarī's own time, the *Ta'rīkh* draws on an extraordinary range of sources — Arabic, Persian, and Syriac — many of which it alone preserves. It is treated here through the annotated translation series published by the State University of New York Press; the volume of primary concern is Vol. V, *The Sāsānids, the Byzantines, the Lakhmids, and Yemen*, translated and annotated by Clifford Edmund Bosworth (1999), which covers the pre-Islamic Near East and the last century of Sasanid power — material that situates the emergence of Islam within the long history of late antique civilisations.
+
 ### Philosophy
 
 **Plato** — *Meno* (c. 385 BCE)
