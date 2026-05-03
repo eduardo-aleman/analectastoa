@@ -1,7 +1,7 @@
 ---
 title: "Ta'rīkh al-Rusul wa-al-Mulūk, Vol. V: The Sāsānids, the Byzantines, the Lakhmids, and Yemen"
 date: 2025-01-01
-authors: ["al-tabarī"]
+authors: ["al-Tabarī"]
 translator: "Clifford Edmund Bosworth"
 categories: ["Early Islamic Historiography"]
 tags:
