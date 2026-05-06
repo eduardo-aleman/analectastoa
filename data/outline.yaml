@@ -59,11 +59,11 @@
 
 - title: "Modern Histories of the Ancient and Medieval World"
   children:
+    - title: "Marc Bloch"
+      author: "marc-bloch"
     - title: "Edward Gibbon"
       author: "edward-gibbon"
     - title: "George Grote"
       author: "george-grote"
     - title: "Theodor Mommsen"
       author: "theodor-mommsen"
-    - title: "Marc Bloch"
-      author: "marc-bloch"
