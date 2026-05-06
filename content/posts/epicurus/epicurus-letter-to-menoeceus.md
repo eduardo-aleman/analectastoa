@@ -24,9 +24,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "/btv1b8470453h_497.jpeg"
+  alt: "Folio 249 of Codex Parisinus gr. 1759, a 14th-century Greek paper manuscript held at the Bibliothèque nationale de France"
+  caption: "Codex Parisinus gr. 1759 (siglum P), fol. 249r. A 14th-century Greek paper manuscript, copied from an exemplar dated to approximately 1075–1150. The page displays a continuous block of minuscule Greek script in dark brown ink, with marginal annotations and corrections visible in the left and right margins. The manuscript transmits the text of Diogenes Laërtius' Lives of Eminent Philosophers (3rd century CE), the principal source through which Epicurus' Letter to Menoeceus has survived antiquity — preserved in its entirety because Diogenes Laërtius quoted it in full within his biographical account of Epicurus. The manuscript is associated with Cardinal Bessarion's collection. Bibliothèque nationale de France, Département des Manuscrits, Grec 1759. Source: gallica.bnf.fr / BnF."
 ---
 
 # LETTER TO MENOECEUS
