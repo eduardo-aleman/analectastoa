@@ -11,4 +11,4 @@ TocOpen: false
 draft: false
 ---
 
-<iframe src="https://archive.org/embed/in.ernet.dli.2015.170906" width="full" height="484" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/in.ernet.dli.2015.170906" width="100%" height="484" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
