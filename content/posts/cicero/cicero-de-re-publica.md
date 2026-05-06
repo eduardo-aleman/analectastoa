@@ -25,9 +25,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "/1r_m.jpg"
+  alt: "First page of Vat. lat. 5757, a palimpsest manuscript from Bobbio"
+  caption: "Vat. lat. 5757, first page. This 7th-century palimpsest from the monastery of Bobbio, Italy, preserves two layers of text: the upper script, copied by a monastic scribe, contains a portion of Saint Augustine's Expositions on the Psalms (Ps. 119–141), while the erased undertext conceals Cicero's De re publica, transcribed in Uncial script in the late 4th or early 5th century. The manuscript entered the Vatican Library in 1618, and Cicero's hidden text was rediscovered by Angelo Mai in 1819. Vatican Apostolic Library, Rome."
 ---
 
 # DE RE PUBLICA
