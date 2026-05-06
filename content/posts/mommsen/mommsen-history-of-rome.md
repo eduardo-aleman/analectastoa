@@ -11,4 +11,6 @@ TocOpen: false
 draft: false
 ---
 
+> Theodor Mommsen’s Nobel Prize-winning masterpiece provides a vivid, often partisan account of the Roman Republic. Mommsen treats the ancient political factions of the Optimates and Populares with the visceral energy of 19th-century parliamentary debate, culminating in his celebrated (and controversial) portrayal of Julius Caesar as the necessary savior of the Roman state. Theodor Mommsen, History of Rome · Originally published Leipzig, 1854–1856.
+
 <iframe src="https://archive.org/embed/in.ernet.dli.2015.170906" width="100%" height="484" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
