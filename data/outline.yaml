@@ -21,6 +21,14 @@
           author: "aristotle"
         - title: "Epicurus (full text)"
           author: "epicurus"
+    - title: "Ancient Greek Literature"
+      category: "ancient-greek-literature"
+      children:
+        - title: "Tragedy"
+          category: "greek-tragedy"
+          children:
+            - title: "Aeschylus (full text)"
+              author: "aeschylus"
 - title: "The Roman World"
   children:
     - title: "Historiography"
