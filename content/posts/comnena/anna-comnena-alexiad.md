@@ -1,7 +1,7 @@
 ---
 title: "The Alexiad"
 date: 2026-05-06
-authors: ["Anna Comnena"]
+authors: ["Comnena"]
 categories: ["High Middle Ages"]
 tags:
   [

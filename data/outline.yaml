@@ -68,7 +68,7 @@
       category: "high-middle-ages"
       children:
         - title: "Anna Comnena (full text)"
-          author: "anna-comnena"
+          author: "comnena"
 - title: "Modern Histories of the Ancient and Medieval World"
   children:
     - title: "Marc Bloch"
