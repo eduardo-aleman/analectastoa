@@ -10,7 +10,7 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "https://archive.org/services/img/ammianus-marcellinus-in-three-volumes.-vol.-1-books-xiv-xix-loeb-300"
+  image: "/ammianus-vol-1.png"
   alt: "Cover of the 1935 Loeb Classical Library edition of Ammianus Marcellinus, Vol. 1 (Books XIV–XIX), translated by John C. Rolfe. Harvard University Press and William Heinemann Ltd."
   caption: "Volume 1 of John C. Rolfe's three-volume Loeb Classical Library edition of Ammianus Marcellinus (Loeb 300), published in 1935 by Harvard University Press and William Heinemann Ltd. The volume presents Books XIV–XIX of the *Res Gestae* in the standard Loeb format of Latin text and English translation on facing pages. It was the first major English edition of Ammianus since C.D. Yonge's 1862 rendering, and remains the most widely cited scholarly translation of the work."
 ---
