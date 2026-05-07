@@ -1,7 +1,7 @@
 ---
 title: "History of the Later Roman Empire, Vol. 2"
 date: 2025-01-01
-authors: ["J.B. Bury"]
+authors: ["Bury"]
 categories: ["Late Roman History", "Byzantine History"]
 tags: ["Late Roman Empire", "Byzantine Empire", "Eastern Empire", "Justinian", "Belisarius", "Narses", "Barbarian Kingdoms", "Late Antiquity"]
 series: ["Bury's History of the Later Roman Empire"]
