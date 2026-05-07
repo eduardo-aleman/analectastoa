@@ -12,7 +12,7 @@ draft: false
 cover:
   image: "/Portret_van_Henri_Pirenne.jpg"
   alt: "Author Schaffers, Nestor, 1826-1896 (viaf)302528355 Title [photograph] Portrait of Henri Pirenne (1862-1935), historian, professor at the Faculty of Arts and Philosophy and rector of Ghent University during the academic years 1919-1920 and 1920-1921. Description 1 photo ; 9.1 x 5.6cm (10.4 x 6.2cm). Publisher Gand : Nestor Schaffers, ca. 1890."
-  caption: "Author Schaffers, Nestor, 1826-1896 (viaf)302528355 Title [photograph] Portrait of Henri Pirenne (1862-1935), historian, professor at the Faculty of Arts and Philosophy and rector of Ghent University during the academic years 1919-1920 and 1920-1921. Description 1 photo ; 9.1 x 5.6cm (10.4 x 6.2cm). Publisher Gand : Nestor Schaffers, ca. 1890. Source: Wikipedia."
+  caption: "Nestor Schaffers (1826–1896), a prominent 19th-century photographer based in Ghent, captured this striking studio portrait of Henri Pirenne (1862–1935) around 1890. At the time of this sitting, Pirenne was a rising intellectual force, having recently been appointed to the Faculty of Arts and Philosophy at Ghent University in 1886. The photograph, a classic portrait measuring 9.1 x 5.6 cm on a 10.4 x 6.2 cm mount, reflects the formal academic aesthetic of the Belle Époque and serves as a visual record of the man who would eventually redefine European historiography. This portrait, preserved through the university's archives and digitized via Wikipedia, stands as a testament to the early career of a scholar who would become a symbol of Belgian academic rigor and national identity."
 ---
 
 > **Henri Pirenne**, *Mohammed and Charlemagne* (**Mahomet et Charlemagne**).
@@ -28,7 +28,7 @@ cover:
 
 Henri Pirenne (1862–1935) spent part of the First World War interned as a German prisoner, and it was in captivity — without access to books or libraries — that he worked out the thesis that would reshape medieval historiography. *Mohammed and Charlemagne*, completed in the final years of his life and published posthumously in 1937, is the culmination of a career spent questioning received periodizations and looking beneath political events for the economic and social structures that determined the longue durée.
 
-The Pirenne Thesis has been contested, refined, and partially rehabilitated by subsequent archaeology — ceramic evidence, coin finds, and pollen analysis have both complicated and, in places, supported his picture of Mediterranean disruption. Whatever its limits as a finished argument, it remains one of the most generative hypotheses in the discipline: the starting point for any serious engagement with how antiquity became the Middle Ages, and a model of how economic history and political history can be made to illuminate each other.
+Pirenne is celebrated today as one of the most influential medievalists in history, most notably for the "Pirenne Thesis," which argued that the true end of the Roman world was caused by the expansion of Islam rather than Germanic invasions. His legacy at Ghent University extended far beyond the classroom; following his courageous non-violent resistance during the German occupation in World War I, he was elected Rector of the university for the 1919–1920 and 1920–1921 academic years.
 
 ## Review by Peter Brown
 
