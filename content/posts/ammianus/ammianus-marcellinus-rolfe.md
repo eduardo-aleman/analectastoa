@@ -77,7 +77,7 @@ For most of the twentieth century, Rolfe's was the Ammianus. The appearance of J
 
 Volume 1 (Books XIV–XIX), 1935 — via Internet Archive:
 
-<iframe src="https://archive.org/embed/ammianusmarcelli0001ammi" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/ammianus-marcellinus-in-three-volumes.-vol.-1-books-xiv-xix-loeb-300" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ---
 
