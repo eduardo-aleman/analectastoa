@@ -21,7 +21,7 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/anna-comnena-alexiad-manuscript.jpg"
+  image: "/alexiad-manuscript.jpg"
   alt: "Laurentianus Plut. 70.2, Biblioteca Medicea Laurenziana, Florence, a 12th-century Greek manuscript of Anna Comnena's Alexiad and one of the oldest surviving witnesses to the text."
   caption: "Laurentianus Plut. 70.2, Biblioteca Medicea Laurenziana, Florence. Dated to the 12th century (c. 1101–1200), this manuscript was copied within living memory of the Alexiad's composition and stands as one of the earliest surviving witnesses to the text."
 ---
