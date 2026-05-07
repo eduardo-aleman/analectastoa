@@ -2,7 +2,7 @@
 title: "De Re Publica"
 date: 2026-05-05
 authors: ["Cicero"]
-categories: ["Ancient Philosophy"]
+categories: ["Roman Philosophy"]
 tags:
   [
     "Cicero",

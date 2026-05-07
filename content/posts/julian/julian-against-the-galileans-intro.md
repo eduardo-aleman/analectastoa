@@ -2,7 +2,7 @@
 title: "Introduction to Against the Galileans"
 date: 2026-02-04
 authors: ["Julian"]
-categories: ["Roman History", "Late Antiquity"]
+categories: ["Roman Historiography", "Late Antiquity"]
 tags: ["Julian the Apostate", "Early Christianity", "Hellenism", "Polemic", "Roman Religion", "Philosophy", "4th Century"]
 series: ["Julian"]
 summary: "Introduction for Contra Galilaeos — Emperor Julian's philosophical polemic against Christianity, preserved in fragments through Cyril of Alexandria's rebuttal."

@@ -2,7 +2,7 @@
 title: "History of the Later Roman Empire, Vol. 1"
 date: 2025-01-01
 authors: ["Bury"]
-categories: ["Late Roman History", "Byzantine History"]
+categories: ["Roman Historiography", "Late Antiquity"]
 tags: ["Late Roman Empire", "Byzantine Empire", "Eastern Empire", "Theodosius", "Arcadius", "Stilicho", "Barbarian Invasions", "Late Antiquity"]
 series: ["Bury's History of the Later Roman Empire"]
 summary: "The first volume of J.B. Bury's authoritative history of the Later Roman Empire, covering the reigns from the death of Theodosius I through the accession of Anastasius — an age of barbarian pressure, dynastic crisis, and the definitive parting of East and West."

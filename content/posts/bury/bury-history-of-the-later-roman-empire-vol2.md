@@ -2,7 +2,7 @@
 title: "History of the Later Roman Empire, Vol. 2"
 date: 2025-01-01
 authors: ["Bury"]
-categories: ["Late Roman History", "Byzantine History"]
+categories: ["Roman Historiography", "Late Antiquity"]
 tags: ["Late Roman Empire", "Byzantine Empire", "Eastern Empire", "Justinian", "Belisarius", "Narses", "Barbarian Kingdoms", "Late Antiquity"]
 series: ["Bury's History of the Later Roman Empire"]
 summary: "The second volume of J.B. Bury's authoritative history of the Eastern Empire, covering the reigns of Anastasius, Justin I, and Justinian — including the great reconquests of Africa and Italy under Belisarius and Narses."

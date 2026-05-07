@@ -2,7 +2,7 @@
 title: "Res Gestae (Ammianus Marcellinus, Rolfe Translation)"
 date: 2026-01-11
 authors: ["Ammianus"]
-categories: ["Roman Historiography", "Late Antiquity", "Loeb Classical Library"]
+categories: ["Roman Historiography", "Late Antiquity"]
 tags: ["Ammianus Marcellinus", "Res Gestae", "John C. Rolfe", "Loeb Classical Library", "Roman History", "4th Century", "Latin Prose", "Late Antiquity", "Translation"]
 series: ["Ammianus Marcellinus"]
 summary: "Full text of Ammianus Marcellinus' Res Gestae in the Loeb Classical Library edition (vols. 300, 315, 331), translated by John C. Rolfe — the standard 20th-century English rendering of the last great Latin historian of Rome."
