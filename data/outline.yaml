@@ -64,6 +64,11 @@
       children:
         - title: "al-Ṭabarī (companion)"
           author: "al-tabari"
+    - title: "High Middle Ages"
+      category: "high-middle-ages"
+      children:
+        - title: "Anna Comnena (full text)"
+          author: "anna-comnena"
 - title: "Modern Histories of the Ancient and Medieval World"
   children:
     - title: "Marc Bloch"
