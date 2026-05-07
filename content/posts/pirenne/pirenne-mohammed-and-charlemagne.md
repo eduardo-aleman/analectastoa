@@ -9,6 +9,10 @@ summary: "Pirenne's landmark posthumous argument that the Islamic conquest of th
 ShowToc: true
 TocOpen: false
 draft: false
+cover:
+  image: "/Portret_van_Henri_Pirenne.jpg"
+  alt: "Author Schaffers, Nestor, 1826-1896 (viaf)302528355 Title [photograph] Portrait of Henri Pirenne (1862-1935), historian, professor at the Faculty of Arts and Philosophy and rector of Ghent University during the academic years 1919-1920 and 1920-1921. Description 1 photo ; 9.1 x 5.6cm (10.4 x 6.2cm). Publisher Gand : Nestor Schaffers, ca. 1890."
+  caption: "Author Schaffers, Nestor, 1826-1896 (viaf)302528355 Title [photograph] Portrait of Henri Pirenne (1862-1935), historian, professor at the Faculty of Arts and Philosophy and rector of Ghent University during the academic years 1919-1920 and 1920-1921. Description 1 photo ; 9.1 x 5.6cm (10.4 x 6.2cm). Publisher Gand : Nestor Schaffers, ca. 1890. Source: Wikipedia."
 ---
 
 > **Henri Pirenne**, *Mohammed and Charlemagne* (**Mahomet et Charlemagne**).
