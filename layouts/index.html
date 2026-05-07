@@ -102,10 +102,11 @@
       {{- end }}
 
       {{/* ── Optional era image card ─────────────────────────────── */}}
+      {{- $era := . }}
       {{- with .image }}
       <div class="oh-card oh-card--image" aria-hidden="true">
         <img src="{{ . }}"
-             alt="{{ $.imageAlt | default $.title }}"
+             alt="{{ $era.imageAlt | default $era.title }}"
              class="oh-era__img"
              loading="lazy">
       </div>
