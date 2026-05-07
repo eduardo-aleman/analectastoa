@@ -2,14 +2,47 @@
 
 {{/* ── Hero ─────────────────────────────────────────────────── */}}
 <header class="oh-hero">
-  <div class="oh-hero__inner">
-    <p class="oh-hero__eyebrow">Analecta Stoa</p>
-    <h1 class="oh-hero__title">
-      Reading the<br>Ancient World & Medieval World
-    </h1>
-    <p class="oh-hero__desc">
-      Welcome! This is my personal guide to the great works of the ancient and medieval worlds — a space I've put together for anyone curious about where our stories come from. You'll find full texts, clear summaries, key passages from the original texts, and notes to help you make sense of it all. By looking at how these foundational works were first written down and passed along, we can start to see surprising reflections of our own world today. </p>
+  <div class="oh-hero__layout">
+
+    {{/* Text column */}}
+    <div class="oh-hero__text">
+      <p class="oh-hero__eyebrow">Analecta Stoa</p>
+      <h1 class="oh-hero__title">
+        Reading the<br>Ancient &amp; Medieval World
+      </h1>
+      <p class="oh-hero__desc">
+        Summaries, key passages, and curated notes from the foundational
+        works of classical antiquity — Tacitus, Josephus, Thucydides,
+        and beyond.
+      </p>
+    </div>
+
+    {{/* Image column — two square placeholders aligned with title and subtitle */}}
+    <div class="oh-hero__images">
+      <figure class="oh-hero__img-wrap">
+        {{/*
+          Replace src with your image path, e.g.:
+          src="/images/hero-title.jpg"
+        */}}
+        <img class="oh-hero__img"
+             src=""
+             alt="Hero image"
+             aria-label="Title image placeholder">
+      </figure>
+      <figure class="oh-hero__img-wrap">
+        {{/*
+          Replace src with your image path, e.g.:
+          src="/images/hero-subtitle.jpg"
+        */}}
+        <img class="oh-hero__img"
+             src=""
+             alt="Subtitle image"
+             aria-label="Subtitle image placeholder">
+      </figure>
+    </div>
+
   </div>
+
   <div class="oh-hero__rule" aria-hidden="true">
     <span>· · · · ·</span>
   </div>
