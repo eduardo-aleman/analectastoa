@@ -48,6 +48,8 @@
     - title: "Late Antiquity"
       category: "late-antiquity"
       children:
+        - title: "Ammianus Marcellinus (full text)"
+          author: "ammianus"
         - title: "Emperor Julian the Apostate (full text)"
           author: "julian"
         - title: "Augustine of Hippo (companion)"
