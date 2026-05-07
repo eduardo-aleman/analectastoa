@@ -1,5 +1,5 @@
 ---
-title: "The Decline and Fall of the Roman Empire"
+title: "General Observations on the Fall of the Roman Empire in the West"
 date: 2025-04-25
 authors: ["Gibbon"]
 categories: ["Roman Historiography"]
