@@ -44,7 +44,7 @@
         - title: "Josephus (companion)"
           author: "josephus"
 - title: "Late Antiquity"
-  image: /images/late-antiquity.jpg
+  image: /late-antiquity.jpg
   children:
     - title: "Late Antiquity"
       category: "late-antiquity"
