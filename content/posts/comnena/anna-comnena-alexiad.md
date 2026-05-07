@@ -22,8 +22,8 @@ TocOpen: false
 draft: false
 cover:
   image: "/anna-comnena-alexiad-manuscript.jpg"
-  alt: "Codex Parisinus graecus 1712, Bibliothèque nationale de France, a 13th-century Byzantine manuscript and one of the primary witnesses to the text of Anna Comnena's Alexiad."
-  caption: "Codex Parisinus graecus 1712 (Bibliothèque nationale de France), a 13th-century Byzantine manuscript and one of the principal witnesses to the text of the Alexiad. Written in a careful minuscule hand with marginal annotations, it preserves Anna Comnena's account of her father's reign in the form closest to the original compilation."
+  alt: "Laurentianus Plut. 70.2, Biblioteca Medicea Laurenziana, Florence, a 12th-century Greek manuscript of Anna Comnena's Alexiad and one of the oldest surviving witnesses to the text."
+  caption: "Laurentianus Plut. 70.2, Biblioteca Medicea Laurenziana, Florence. Dated to the 12th century (c. 1101–1200), this manuscript was copied within living memory of the Alexiad's composition and stands as one of the earliest surviving witnesses to the text."
 ---
 
 ## THE ALEXIAD
@@ -62,7 +62,7 @@ Elizabeth A. S. Dawes's 1928 translation, published by Kegan Paul, Trench, Trüb
 
 ---
 
-<iframe src="https://archive.org/embed/alexiad-english-dawes-1928" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<!-- IFRAME PLACEHOLDER — insert Archive.org embed here -->
 
 ---
 
