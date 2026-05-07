@@ -2,7 +2,7 @@
 title: "The Oresteia Trilogy"
 date: 2026-05-06
 authors: ["Aeschylus"]
-categories: ["Ancient Greek Literature"]
+categories: ["Ancient Greek Literature", "Greek Tragedy"]
 tags:
   [
     "Aeschylus",
