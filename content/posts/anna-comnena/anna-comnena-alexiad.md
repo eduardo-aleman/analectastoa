@@ -2,7 +2,7 @@
 title: "The Alexiad"
 date: 2026-05-06
 authors: ["Anna Comnena"]
-categories: ["Medieval Historiography", "High Middle Ages"]
+categories: [ls "High Middle Ages"]
 tags:
   [
     "Anna Comnena",
@@ -62,7 +62,7 @@ Elizabeth A. S. Dawes's 1928 translation, published by Kegan Paul, Trench, Trüb
 
 ---
 
-<!-- IFRAME PLACEHOLDER — insert Archive.org embed here -->
+<iframe src="https://archive.org/embed/alexiad-english-dawes-1928" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ---
 
