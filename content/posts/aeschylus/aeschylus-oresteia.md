@@ -45,7 +45,7 @@ The *Oresteia* is the founding document of Western tragedy, of the philosophy of
 
 ---
 
-<iframe src="https://archive.org/embed/L146NAeschylusIIOresteiaAgamemnonEumenides" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/L146NAeschylusIIOresteiaAgamemnonEumenides" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ---
 
