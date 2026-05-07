@@ -110,6 +110,12 @@ Bosworth's translation is accurate and readable without sacrificing precision. H
 
 ---
 
+---
+
+<iframe src="https://archive.org/embed/the-history-of-al-tabari/Tabari_Volume_05" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+---
+
 ## Further Reading
 
 **Al-Ṭabarī and Islamic Historiography**

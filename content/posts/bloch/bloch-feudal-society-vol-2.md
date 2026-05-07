@@ -13,5 +13,5 @@ draft: false
 
 > A cornerstone of the Annales School of history, 'Feudal Society' (La Société féodale) eschews traditional 'great man' narratives to examine the collective memory, legal ties, and emotional bonds of the medieval world. Bloch explores how the collapse of the Carolingian Empire gave rise to a unique system of protection and service that reshaped Western Europe. Marc Bloch, Feudal Society · Originally published Paris, 1939–1940."
 
-<iframe src="https://archive.org/embed/bwb_KR-584-492_2" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/bwb_KR-584-492_2" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
