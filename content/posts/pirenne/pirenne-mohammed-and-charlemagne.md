@@ -6,7 +6,7 @@ categories: ["Early Medieval"]
 tags: ["Early Medieval", "Mediterranean", "Islamic Expansion", "Carolingian", "Late Antiquity", "Trade", "Merovingian", "Franks", "Pirenne Thesis"]
 series: ["Pirenne's Medieval Studies"]
 summary: "Pirenne's landmark posthumous argument that the Islamic conquest of the Mediterranean, not the Germanic migrations of the fifth century, ended the ancient world and inaugurated the Middle Ages."
-ShowToc: false
+ShowToc: true
 TocOpen: false
 draft: false
 ---
