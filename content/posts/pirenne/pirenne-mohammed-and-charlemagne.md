@@ -1,7 +1,7 @@
 ---
 title: "Mohammed and Charlemagne"
 date: 2025-01-01
-authors: ["Henri Pirenne"]
+authors: ["Pirenne"]
 categories: ["Medieval History", "Ancient History"]
 tags: ["Early Medieval", "Mediterranean", "Islamic Expansion", "Carolingian", "Late Antiquity", "Trade", "Merovingian", "Franks", "Pirenne Thesis"]
 series: ["Pirenne's Medieval Studies"]

@@ -1,7 +1,7 @@
 ---
 title: "History of Rome: Volume 1"
 date: 2025-07-24
-authors: ["Theodor Mommsen"]
+authors: ["Mommsen"]
 categories: ["Ancient History"]
 tags: ["Roman Republic", "Julius Caesar", "Agrarian Laws", "Italian Unification", "Constitutional History", "Punic Wars", "Roman Law"]
 series: ["Mommsen's History of Rome"]

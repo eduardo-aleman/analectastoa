@@ -1,7 +1,7 @@
 ---
 title: "Feudal Society: Volume 2"
 date: 2025-07-24
-authors: ["Marc Bloch"]
+authors: ["Bloch"]
 categories: ["Medieval History"]
 tags: ["Annales School", "Manorialism", "Vassalage", "Knighthood", "Medieval Mentalities", "Social Hierarchy", "European Middle Ages"]
 series: ["Foundations of Modern History"]
