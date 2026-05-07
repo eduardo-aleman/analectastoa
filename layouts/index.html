@@ -1,24 +1,73 @@
 {{- define "main" }}
 
-<div class="outline-homepage">
+{{/* ── Hero ─────────────────────────────────────────────────── */}}
+<header class="oh-hero">
+  <div class="oh-hero__inner">
+    <p class="oh-hero__eyebrow">Analecta Stoa</p>
+    <h1 class="oh-hero__title">
+      Reading the<br>Ancient World
+    </h1>
+    <p class="oh-hero__desc">
+      Summaries, key passages, and curated notes from the foundational
+      works of classical antiquity — Tacitus, Josephus, Thucydides,
+      and beyond.
+    </p>
+  </div>
+  <div class="oh-hero__rule" aria-hidden="true">
+    <span>· · · · ·</span>
+  </div>
+</header>
 
+{{/* ── Body: one section per top-level outline entry ──────── */}}
+<div class="oh-body">
   {{- range hugo.Data.outline }}
-    {{/*
-      Each top-level entry is a major section (e.g. "Greek Civilizations").
-      Rendered at depth 1 so it gets the largest heading treatment.
-    */}}
-    <section class="outline-section">
-      <h2 class="outline-section__title">{{ .title }}</h2>
-      {{- with .children }}
-        <div class="outline-children">
-          {{- range . }}
-            {{- partial "outline-node.html" (dict "node" . "depth" 2) }}
-          {{- end }}
-        </div>
-      {{- end }}
-    </section>
-  {{- end }}
+  <section class="oh-era">
 
+    <h2 class="oh-era__title">{{ .title }}</h2>
+
+    {{- with .children }}
+    <div class="oh-card-grid">
+      {{- range . }}
+      <article class="oh-card">
+
+        {{/* Card heading — linked if there's a URL */}}
+        {{- if .url }}
+          <a class="oh-card__heading oh-card__heading--linked" href="{{ .url }}">
+            {{- .title -}}
+          </a>
+        {{- else }}
+          <span class="oh-card__heading">{{ .title }}</span>
+        {{- end }}
+
+        {{/* Nested posts listed inside the card */}}
+        {{- with .children }}
+        <ul class="oh-card__posts">
+          {{- range . }}
+          <li class="oh-card__post">
+            {{- if .url }}
+            <a href="{{ .url }}">
+              {{- if .cover }}
+              <span class="oh-card__thumb">
+                <img src="{{ .cover }}" alt="" loading="lazy">
+              </span>
+              {{- end }}
+              <span class="oh-card__post-title">{{ .title }}</span>
+            </a>
+            {{- else }}
+            <span class="oh-card__post-title oh-card__post-title--plain">{{ .title }}</span>
+            {{- end }}
+          </li>
+          {{- end }}
+        </ul>
+        {{- end }}
+
+      </article>
+      {{- end }}
+    </div>
+    {{- end }}
+
+  </section>
+  {{- end }}
 </div>
 
 {{- end }}

@@ -1,130 +1,241 @@
 /* ================================================================
-   Analecta Stoa — Outline Homepage
+   Analecta Stoa — Outline Homepage (card revision)
    Place this file at: assets/css/extended/outline.css
    PaperMod will pick it up automatically.
+
+   Depends on CSS custom properties defined in custom.css:
+     --font-body, --font-ui, --theme, --entry, --primary,
+     --secondary, --tertiary, --content, --accent, --accent-hover,
+     --border
    ================================================================ */
 
-/* ── Page container ───────────────────────────────────────────── */
-.outline-homepage {
-  max-width: 860px;
-  margin: 0 auto;
-  padding: 2rem 1.5rem 4rem;
-  font-family: var(--font-body);
+
+/* ── Hero ─────────────────────────────────────────────────────── */
+
+.oh-hero {
+  padding: 4rem 0 0;
 }
 
-/* ── Top-level section (e.g. "Greek Civilizations") ───────────── */
-.outline-section {
+.oh-hero__inner {
+  max-width: 560px;
+}
+
+.oh-hero__eyebrow {
+  font-family: var(--font-ui);
+  font-size: 0.6rem;
+  font-weight: 400;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 1.1rem;
+}
+
+.oh-hero__title {
+  font-family: var(--font-body);
+  font-size: clamp(2.4rem, 6vw, 3.6rem);
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  color: var(--primary);
+  margin: 0 0 1.25rem;
+}
+
+.oh-hero__desc {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 300;
+  line-height: 1.8;
+  color: var(--secondary);
+  max-width: 52ch;
+  margin: 0;
+}
+
+/* Ornamental divider separating hero from body */
+.oh-hero__rule {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 3rem 0 0;
+  color: var(--tertiary);
+}
+
+.oh-hero__rule::before,
+.oh-hero__rule::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--tertiary);
+}
+
+.oh-hero__rule span {
+  font-family: var(--font-ui);
+  font-size: 0.6rem;
+  letter-spacing: 0.4em;
+  white-space: nowrap;
+}
+
+
+/* ── Body ─────────────────────────────────────────────────────── */
+
+.oh-body {
+  padding: 3rem 0 5rem;
+}
+
+
+/* ── Era section label ────────────────────────────────────────── */
+
+.oh-era {
   margin-bottom: 3.5rem;
 }
 
-.outline-section__title {
+.oh-era__title {
   font-family: var(--font-ui);
-  font-size: 0.68rem;
+  font-size: 0.62rem;
   font-weight: 500;
-  letter-spacing: 0.28em;
+  letter-spacing: 0.32em;
   text-transform: uppercase;
   color: var(--accent);
+  padding-bottom: 0.55rem;
   border-bottom: 1px solid var(--tertiary);
-  padding-bottom: 0.5rem;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
 }
 
-/* ── Recursive node wrapper ───────────────────────────────────── */
-.outline-node {
-  margin: 0.2rem 0;
+
+/* ── Card grid ────────────────────────────────────────────────── */
+
+.oh-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1px;                       /* hair-line gaps between cards */
+  background: var(--tertiary);    /* the gap colour is the border  */
+  border: 1px solid var(--tertiary);
 }
 
-/* ── Indentation by depth ─────────────────────────────────────── */
-.outline-children {
-  padding-left: 1.25rem;
-  border-left: 1px solid var(--border);
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
+
+/* ── Individual card ──────────────────────────────────────────── */
+
+.oh-card {
+  background: var(--theme);
+  padding: 1.35rem 1.4rem 1.5rem;
+  position: relative;
+  transition: background 0.18s;
+  /* top accent bar — hidden by default, revealed on hover */
+  border-top: 2px solid transparent;
 }
 
-/* ── Node labels (headings) ───────────────────────────────────── */
-.outline-label {
-  display: inline-block;
-  padding: 0.2rem 0;
-  font-size: 0.95rem;
-  color: var(--secondary);
+.oh-card::before {
+  content: '';
+  position: absolute;
+  top: -2px;          /* sit above the card's own top edge */
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--accent);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.oh-card:hover {
+  background: var(--entry);
+}
+
+.oh-card:hover::before {
+  opacity: 1;
+}
+
+
+/* ── Card heading ─────────────────────────────────────────────── */
+
+.oh-card__heading {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 500;
   font-style: italic;
+  color: var(--primary);
+  line-height: 1.3;
+  margin-bottom: 0.9rem;
+  text-decoration: none;
 }
 
-.outline-label--linked {
+.oh-card__heading--linked {
   color: var(--accent);
   font-style: normal;
-  text-decoration: none;
-  font-weight: 400;
   transition: color 0.2s;
 }
 
-.outline-label--linked:hover {
+.oh-card__heading--linked:hover {
   color: var(--accent-hover);
-  text-decoration: underline;
-  text-underline-offset: 3px;
 }
 
-/* depth-2 labels are slightly larger */
-.outline-depth-2 > .outline-label,
-.outline-depth-2 > .outline-label--linked {
-  font-size: 1rem;
-}
 
-/* ── Post list under a category node ─────────────────────────── */
-.outline-posts {
+/* ── Post list inside a card ──────────────────────────────────── */
+
+.oh-card__posts {
   list-style: none;
-  padding: 0.4rem 0 0.4rem 0;
   margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.6rem;
+  gap: 0.55rem;
 }
 
-.outline-post a {
+.oh-card__post a {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: 0.65rem;
   text-decoration: none;
-  color: var(--primary);
+  color: var(--secondary);
   transition: color 0.2s;
 }
 
-.outline-post a:hover {
-  color: var(--accent-hover);
+.oh-card__post a:hover {
+  color: var(--accent);
 }
 
-/* ── Cover thumbnail ──────────────────────────────────────────── */
-.outline-post__cover {
+/* Thumbnail */
+.oh-card__thumb {
   flex-shrink: 0;
-  width: 56px;
-  height: 40px;
-  border-radius: 3px;
+  width: 48px;
+  height: 36px;
   overflow: hidden;
   background: var(--tertiary);
 }
 
-.outline-post__cover img {
+.oh-card__thumb img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
 }
 
-/* ── Post title ───────────────────────────────────────────────── */
-.outline-post__title {
-  font-size: 0.875rem;
+/* Post title text */
+.oh-card__post-title {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 300;
   line-height: 1.35;
 }
 
+.oh-card__post-title--plain {
+  color: var(--secondary);
+  font-style: italic;
+}
+
+
 /* ── Responsive ───────────────────────────────────────────────── */
+
 @media (max-width: 600px) {
-  .outline-children {
-    padding-left: 0.75rem;
+  .oh-hero {
+    padding-top: 2.5rem;
   }
 
-  .outline-post__cover {
-    width: 44px;
-    height: 32px;
+  .oh-card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .oh-card {
+    padding: 1.1rem 1.1rem 1.2rem;
   }
 }
