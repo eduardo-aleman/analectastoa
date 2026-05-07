@@ -26,4 +26,4 @@ John Bagnell Bury (1861–1927) held the Regius Chair of Modern History at Cambr
 
 Volume II opens with the reign of Anastasius and reaches its climax in the extraordinary reconquests of Justinian — Belisarius's campaigns in Africa and Italy, Narses's destruction of the Ostrogothic kingdom, and the final, fleeting reassembly of something resembling a unified Mediterranean empire. Bury gives equal weight to the administrative, legal, and theological dimensions of the age: the *Corpus Iuris Civilis*, the Three Chapters controversy, the building of Hagia Sophia. The result is a picture of an empire not dying but transforming — under enormous pressure, but still capable of creative institutional invention.
 
-<iframe src="https://archive.org/embed/historyoflaterro02buryuoft" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/historyoflaterro0002bury_m6b4" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
