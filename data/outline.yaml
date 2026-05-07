@@ -21,8 +21,8 @@
           author: "aristotle"
         - title: "Epicurus (full text)"
           author: "epicurus"
-    - title: "Literature — Tragedy"
-      category: "ancient-greek-literature"
+    - title: "Tragedy"
+      category: "ancient-greek-tragedy"
       children:
         - title: "Aeschylus (full text)"
           author: "aeschylus"
