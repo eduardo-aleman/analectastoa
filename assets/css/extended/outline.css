@@ -211,6 +211,54 @@
 }
 
 
+/* ── Era image card ───────────────────────────────────────────── */
+
+/*
+  .oh-card--image fills the remaining grid column(s) with a
+  decorative image sourced from `image:` in the outline YAML.
+  It spans all leftover columns so it always fills the row gap,
+  regardless of how many content cards precede it.
+
+  padding: 0 removes the standard card inset so the image bleeds
+  to every edge exactly as the card border would.
+  The ::before accent bar is suppressed — images need no overlay.
+*/
+
+.oh-card--image {
+  padding: 0;
+  overflow: hidden;
+  /* Fill however many columns remain after the content cards */
+  grid-column: span 1;
+  /* Inherit the grid's minimum track size; let the image stretch */
+  min-height: 200px;
+}
+
+/* Suppress the hover accent bar on image cards */
+.oh-card--image::before {
+  display: none;
+}
+
+/* Suppress the hover background shift — image is already vivid */
+.oh-card--image:hover {
+  background: var(--theme);
+}
+
+.oh-era__img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  /* Slight desaturation keeps the image subordinate to the content */
+  filter: saturate(0.85);
+  transition: filter 0.3s;
+}
+
+.oh-card--image:hover .oh-era__img {
+  filter: saturate(1);
+}
+
+
 /* ── Card heading (category or plain label) ───────────────────── */
 
 .oh-card__heading {
@@ -340,6 +388,11 @@
     width: 80px;
     height: 80px;
   }
+
+  /* Image card collapses to a fixed shorter height on narrow screens */
+  .oh-card--image {
+    min-height: 140px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -353,5 +406,11 @@
 
   .oh-card {
     padding: 1.1rem 1.1rem 1.2rem;
+  }
+
+  /* Hide image card on single-column layout — it would just be
+     a full-width banner interrupting the content flow */
+  .oh-card--image {
+    display: none;
   }
 }

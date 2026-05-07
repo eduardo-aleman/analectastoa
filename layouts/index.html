@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-{{/* ── Hero ─────────────────────────────────────────────────── */}}
+{{/* ── Hero ─────────────────────────────────────────────────────── */}}
 <header class="oh-hero">
   <div class="oh-hero__layout">
 
@@ -100,6 +100,17 @@
 
       </article>
       {{- end }}
+
+      {{/* ── Optional era image card ─────────────────────────────── */}}
+      {{- with .image }}
+      <div class="oh-card oh-card--image" aria-hidden="true">
+        <img src="{{ . }}"
+             alt="{{ $.imageAlt | default $.title }}"
+             class="oh-era__img"
+             loading="lazy">
+      </div>
+      {{- end }}
+
     </div>
 
   </section>
