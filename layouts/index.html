@@ -18,53 +18,61 @@
   </div>
 </header>
 
-{{/* ── Body: one section per top-level outline entry ──────── */}}
+{{/* ── Body ────────────────────────────────────────────────── */}}
 <div class="oh-body">
   {{- range hugo.Data.outline }}
   <section class="oh-era">
 
     <h2 class="oh-era__title">{{ .title }}</h2>
 
-    {{- with .children }}
     <div class="oh-card-grid">
-      {{- range . }}
+      {{- range .children }}
       <article class="oh-card">
 
-        {{/* Card heading — linked if there's a URL */}}
-        {{- if .url }}
-          <a class="oh-card__heading oh-card__heading--linked" href="{{ .url }}">
-            {{- .title -}}
-          </a>
+        {{/* ── Card heading: category link, author link, or plain ── */}}
+        {{- if .category }}
+          {{- $slug := .category | urlize }}
+          <a class="oh-card__heading oh-card__heading--linked"
+             href="{{ "/categories/" | relURL }}{{ $slug }}/">{{ .title }}</a>
+
+        {{- else if .author }}
+          {{- $slug := .author | urlize }}
+          <a class="oh-card__heading oh-card__heading--linked"
+             href="{{ "/authors/" | relURL }}{{ $slug }}/">{{ .title }}</a>
+
         {{- else }}
           <span class="oh-card__heading">{{ .title }}</span>
         {{- end }}
 
-        {{/* Nested posts listed inside the card */}}
+        {{/* ── Author sub-nodes (depth-3) ───────────────────────── */}}
         {{- with .children }}
-        <ul class="oh-card__posts">
+        <ul class="oh-card__authors">
           {{- range . }}
-          <li class="oh-card__post">
-            {{- if .url }}
-            <a href="{{ .url }}">
-              {{- if .cover }}
-              <span class="oh-card__thumb">
-                <img src="{{ .cover }}" alt="" loading="lazy">
-              </span>
-              {{- end }}
-              <span class="oh-card__post-title">{{ .title }}</span>
-            </a>
-            {{- else }}
-            <span class="oh-card__post-title oh-card__post-title--plain">{{ .title }}</span>
+          {{- $aslug := .author | urlize }}
+          {{- $atax  := index site.Taxonomies.authors $aslug }}
+          <li class="oh-card__author-item">
+            <a class="oh-card__author-link"
+               href="{{ "/authors/" | relURL }}{{ $aslug }}/">{{ .title }}</a>
+            {{- if $atax }}
+              {{- partial "outline-post-list.html" $atax.Pages }}
             {{- end }}
           </li>
           {{- end }}
         </ul>
         {{- end }}
 
+        {{/* ── Direct author node with no children — show its posts ── */}}
+        {{- if and .author (not .children) }}
+          {{- $slug := .author | urlize }}
+          {{- $tax  := index site.Taxonomies.authors $slug }}
+          {{- if $tax }}
+            {{- partial "outline-post-list.html" $tax.Pages }}
+          {{- end }}
+        {{- end }}
+
       </article>
       {{- end }}
     </div>
-    {{- end }}
 
   </section>
   {{- end }}
