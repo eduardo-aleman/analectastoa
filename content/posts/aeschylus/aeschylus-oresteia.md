@@ -33,7 +33,7 @@ cover:
 
 ### by Aeschylus
 
-### Translated by E. D. A. Morshead
+### Translated by Herbert Weir Smyth
 
 ---
 
