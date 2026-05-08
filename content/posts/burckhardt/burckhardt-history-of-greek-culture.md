@@ -18,4 +18,6 @@ cover:
 
 > A landmark of cultural history, 'History of Greek Culture' (Griechische Kulturgeschichte) moves beyond political narrative to explore the inner life of ancient Greek civilization — its gods and festivals, its poets and philosophers, its city-states and their contests. Burckhardt treats Greek culture as an organic whole, tracing the forces of creativity and decline that shaped one of humanity's most formative civilizations. Jacob Burckhardt, History of Greek Culture · Originally published Basel, 1898–1902.
 
+Note: Internet Archive requires users to login and borrow this book. Here is the [direct link](https://archive.org/details/historyofgreekcu0000burc)
+
 <iframe src="https://archive.org/embed/historyofgreekcu0000burc" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
