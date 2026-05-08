@@ -1,7 +1,7 @@
 ---
 title: "The Ancient City: A Study on the Religion, Laws and Institutions of Greece and Rome"
 date: 2025-07-24
-authors: ["Fustel de Coulanges"]
+authors: ["Fustel"]
 categories: ["Ancient History"]
 tags: ["Classical Antiquity", "Religion", "Roman Law", "Greek Institutions", "City-State", "Polis", "Roman Republic", "Ancient Religion", "Political Institutions"]
 series: ["Foundations of Modern History"]
