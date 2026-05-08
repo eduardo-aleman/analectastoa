@@ -18,7 +18,7 @@ series: ["Bury's History of the Later Roman Empire"]
 summary: "The first volume of J.B. Bury's authoritative history of the Later Roman Empire, covering the reigns from the death of Theodosius I through the accession of Anastasius — an age of barbarian pressure, dynastic crisis, and the definitive parting of East and West."
 ShowToc: false
 TocOpen: false
-draft: true
+draft: false
 Cover:
   image: "/Gold_Solidus_of_Theodosius_II,_425-429.jpg"
   alt: "Gold Solidus of Theodosius II (425–429 AD)."

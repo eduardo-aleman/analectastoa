@@ -18,7 +18,7 @@ series: ["Bury's History of the Later Roman Empire"]
 summary: "The second volume of J.B. Bury's authoritative history of the Eastern Empire, covering the reigns of Anastasius, Justin I, and Justinian — including the great reconquests of Africa and Italy under Belisarius and Narses."
 ShowToc: false
 TocOpen: false
-draft: true
+draft: false
 Cover:
   image: "/Emperor_Justinian_and_his_retinue._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena,_Italy.jpg"
   alt: "Emperor Justinian I and his retinue. Detail of the apse mosaic, Basilica of San Vitale, Ravenna, Italy, c. 547 AD."
