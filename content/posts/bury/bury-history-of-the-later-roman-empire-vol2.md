@@ -9,6 +9,10 @@ summary: "The second volume of J.B. Bury's authoritative history of the Eastern 
 ShowToc: false
 TocOpen: false
 draft: false
+Cover:
+    image: "/Emperor_Justinian_and_his_retinue._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena,_Italy.jpg" 
+    alt: "Emperor Justinian I and his retinue. Detail of the apse mosaic, Basilica of San Vitale, Ravenna, Italy, c. 547 AD."
+    caption: "**Emperor Justinian I and his retinue. Detail of the apse mosaic, Basilica of San Vitale, Ravenna, Italy, c. 547 AD.** Justinian I (r. 527–565) is depicted at center, distinguished by his golden halo, jeweled crown, and purple imperial robes, offering a golden paten as a gift to the church. To his right stands Bishop Maximianus, identified by the Greek inscription *MAXIMIA[NUS]* above him and holding a jeweled cross. Flanking the emperor are courtiers and members of the imperial guard. The mosaic is a masterpiece of Byzantine art, conveying Justinian's dual role as both secular ruler and defender of the Christian faith. Along with its companion panel depicting Empress Theodora, it remains one of the best-preserved and most iconic examples of Early Byzantine mosaic art in the world."
 ---
 
 > **J.B. Bury**, *History of the Later Roman Empire: From the Death of Theodosius I to the Death of Justinian*.

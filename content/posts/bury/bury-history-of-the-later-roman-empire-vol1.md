@@ -9,7 +9,7 @@ summary: "The first volume of J.B. Bury's authoritative history of the Later Rom
 ShowToc: false
 TocOpen: false
 draft: false
-over:
+Cover:
   image: "/Gold_Solidus_of_Theodosius_II,_425-429.jpg"
   alt: "Gold Solidus of Theodosius II (425–429 AD)."
   caption: "**Gold Solidus of Theodosius II (425–429 AD).** The obverse depicts the Eastern Roman Emperor Theodosius II in a frontal bust, wearing a helmet, imperial armor, and a pearl diadem. He holds a spear over his right shoulder and a shield adorned with a horseman motif. The Latin legend reads *D N THEODO SIVS P F AVG* ('Dominus Noster Theodosius Pius Felix Augustus' — 'Our Lord Theodosius, Pious, Fortunate, Augustus'). The solidus was the dominant gold coin of the Late Roman and early Byzantine Empire, weighing approximately 4.5 grams."
