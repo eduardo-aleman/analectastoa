@@ -9,6 +9,10 @@ summary: "Fustel de Coulanges's landmark study tracing the origins of Greek and 
 ShowToc: true
 TocOpen: false
 draft: false
+cover:
+    image: "/Numa_Fustel_de_Coulanges.jpg"
+    alt: "Photographic portrait of Numa Denis Fustel de Coulanges."
+    caption: "Photographic portrait of Numa Denis Fustel de Coulanges."
 ---
 
 > A foundational work of comparative ancient history, 'The Ancient City' (La Cité antique) argues that the political and legal institutions of Greece and Rome cannot be understood apart from their religious origins. Fustel de Coulanges traces the evolution of the family, the tribe, and the city-state back to the cult of the sacred hearth and ancestor worship, revealing the deep entanglement of religion and civic order in the ancient world. Fustel de Coulanges, The Ancient City · Originally published Paris, 1864.
