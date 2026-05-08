@@ -1,7 +1,7 @@
 ---
 title: "History of Greek Culture"
 date: 2025-07-24
-authors: ["Burckhardt, Jacob"]
+authors: ["Burckhardt"]
 categories: ["Ancient History"]
 tags: ["Ancient Greece", "Greek Culture", "Classical Antiquity", "Art and Architecture", "Greek Religion", "Polis", "Greek Literature", "Cultural History"]
 series: ["Foundations of Modern History"]
