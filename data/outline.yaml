@@ -3,6 +3,7 @@
 #   category: slug  → links to /categories/slug/ and lists its posts
 #   author:   slug  → links to /authors/slug/   and lists its posts
 #   children: []    → sub-nodes (branch heading, no link of its own)
+
 - title: "Ancient Greece"
   children:
     - title: "Historiography"
@@ -26,11 +27,20 @@
       children:
         - title: "Aeschylus (full text)"
           author: "aeschylus"
+        - title: "Sophocles (full text)"
+          author: "sophocles"
+        - title: "Euripides (full text)"
+          author: "euripides"
+
 - title: "The Roman World"
   children:
     - title: "Historiography"
       category: "roman-historiography"
       children:
+        - title: "Livy (companion)"
+          author: "livy"
+        - title: "Suetonius (full text)"
+          author: "suetonius"
         - title: "Tacitus (companion)"
           author: "tacitus"
     - title: "Philosophy"
@@ -38,11 +48,18 @@
       children:
         - title: "Cicero (full text)"
           author: "cicero"
+        - title: "Seneca the Younger (full text)"
+          author: "seneca"
+        - title: "Epictetus (full text)"
+          author: "epictetus"
+        - title: "Marcus Aurelius (full text)"
+          author: "marcus-aurelius"
     - title: "Historiography of the Jewish-Roman World"
       category: "jewish-historiography"
       children:
         - title: "Josephus (companion)"
           author: "josephus"
+
 - title: "Late Antiquity"
   image: /hands.jpg
   children:
@@ -55,6 +72,9 @@
           author: "julian"
         - title: "Augustine of Hippo (companion)"
           author: "augustine"
+        - title: "Boethius (full text)"
+          author: "boethius"
+
 - title: "The Medieval World"
   children:
     - title: "Early Medieval"
@@ -62,16 +82,19 @@
       children:
         - title: "Bede (full text)"
           author: "bede"
-    - title: "Early Islamic Historiography"
-      category: "early-islamic-historiography"
+    - title: "Islamic Historiography & Philosophy"
+      category: "islamic-historiography"
       children:
         - title: "al-Ṭabarī (companion)"
           author: "al-tabari"
+        - title: "Ibn Khaldun (companion)"
+          author: "ibn-khaldun"
     - title: "High Middle Ages"
       category: "high-middle-ages"
       children:
         - title: "Anna Comnena (full text)"
           author: "comnena"
+
 - title: "Modern Histories of the Ancient and Medieval World"
   children:
     - title: "J.B. Bury"
@@ -86,3 +109,7 @@
       author: "mommsen"
     - title: "Henri Pirenne"
       author: "pirenne"
+    - title: "Jacob Burckhardt"
+      author: "burckhardt"
+    - title: "Fustel de Coulanges"
+      author: "coulanges"
