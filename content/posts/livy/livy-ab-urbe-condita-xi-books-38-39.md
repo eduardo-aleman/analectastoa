@@ -1,6 +1,6 @@
 ---
 title: "Ab Urbe Condita, Volume XI: Books 38–39"
-date: 2026-05-08
+date: 2026-05-04
 authors: ["Livy"]
 categories: ["Roman History"]
 tags:

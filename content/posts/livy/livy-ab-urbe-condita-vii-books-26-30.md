@@ -1,6 +1,6 @@
 ---
 title: "Ab Urbe Condita, Volume VII: Books 26–30"
-date: 2026-05-08
+date: 2026-05-06
 authors: ["Livy"]
 categories: ["Roman History"]
 tags:

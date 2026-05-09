@@ -1,6 +1,6 @@
 ---
 title: "Ab Urbe Condita, Volume X: Books 35–37"
-date: 2026-05-08
+date: 2026-05-05
 authors: ["Livy"]
 categories: ["Roman History"]
 tags:
