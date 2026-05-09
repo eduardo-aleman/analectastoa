@@ -1,74 +1,118 @@
 ---
-title: "The Twelve Caesars"
-date: 2025-08-01
+title: "The Lives of the Caesars, Volume I"
+date: 2026-05-08
 authors: ["Suetonius"]
-categories: ["Roman Historiography"]
-tags: ["Caesar", "Augustus", "Nero", "Caligula", "Domitian", "Principate", "Biography"]
+categories: ["Roman History"]
+tags:
+  [
+    "Suetonius",
+    "Caesar",
+    "Augustus",
+    "Tiberius",
+    "Caligula",
+    "Biography",
+    "Imperial Rome",
+    "Roman History",
+    "Principate",
+    "Julius Caesar",
+    "Roman Literature",
+    "Lives",
+    "Gossip",
+    "Anecdote",
+  ]
 series: ["Suetonius"]
-description: "Reading companion for De Vita Caesarum — Suetonius's biographical portraits of the first twelve rulers of Rome."
+summary: "Reading companion and full text of Suetonius's De Vita Caesarum (The Lives of the Caesars), Volume I, translated by J. C. Rolfe — biographies of Julius Caesar, Augustus, Tiberius, and Caligula, combining official record, anecdote, and scandal into the foundational portraits of Rome's first rulers."
 ShowToc: true
 TocOpen: false
-draft: true
+draft: false
+cover:
+  image: "/suetonius_ms.jpg"
+  alt: "Illuminated manuscript page of Suetonius, De Vita Caesarum"
+  caption: "A medieval manuscript of Suetonius's De Vita Caesarum. Unlike many classical texts, Suetonius was never wholly lost; copies circulated in Carolingian scriptoria and the work was known to scholars throughout the Middle Ages, making it one of the better-transmitted Latin prose texts of antiquity."
 ---
 
-## Overview
+# THE LIVES OF THE CAESARS
 
-*Placeholder. Introduce the work: twelve biographies from Julius Caesar through Domitian, composed under Hadrian, and their place in the ancient biographical tradition.*
+## Volume I: Julius Caesar · Augustus · Tiberius · Caligula
 
-## The Author
+### by Suetonius
 
-*Placeholder. Gaius Suetonius Tranquillus — secretary to Hadrian, his access to the imperial archives, and his fall from favour.*
+### Translated by J. C. Rolfe
 
-## Method: Biography vs. History
+---
 
-*Placeholder. Suetonius organizes by category (military record, personal habits, appearance, omens) rather than chronologically. How this differs from Tacitus and what it reveals that annalistic history cannot.*
+## INTRODUCTION
 
-## The Lives
+*De Vita Caesarum* (*The Lives of the Caesars*), commonly known as *The Twelve Caesars*, is the most widely read work of Gaius Suetonius Tranquillus (c. 69 – after 122 CE) and one of the most influential documents of classical antiquity. Composed during the reign of Hadrian, to whom Suetonius had served as private secretary (*ab epistulis*) until his dismissal from court around 122 CE, the work presents biographies of the first twelve rulers of Rome: Julius Caesar, Augustus, Tiberius, Caligula, Claudius, Nero, Galba, Otho, Vitellius, Vespasian, Titus, and Domitian. Volume I of the Loeb edition contains the lives of the first four: Caesar, Augustus, Tiberius, and Caligula.
 
-### Julius Caesar
-*Placeholder. The first life — strictly speaking, not an emperor but the figure who made the Principate possible.*
+Suetonius wrote at the intersection of the scholarly and the imperial. As a senior court official under Trajan and Hadrian, he had access to the imperial archives — palace correspondence, Augustus's personal letters, official acta — and he cites these with the specificity of a researcher who had read them directly. At the same time, he was steeped in the tradition of Roman biography and *exempla* literature, in which great men were portrayed through revealing particulars rather than continuous narrative. The result is a form unlike either annalistic history in the manner of Tacitus or philosophical biography in the manner of Plutarch: a genre organised not chronologically but thematically within each life, moving through the subject's ancestry, birth, appearance, private habits, public achievements, omens, and death, assembling character through accumulation rather than argument.
 
-### Augustus
-*Placeholder. The longest and most admiring life. The architect of the imperial system.*
+### Method and Organisation
 
-### Tiberius
-*Placeholder. A portrait of increasing withdrawal and suspicion — to be read alongside Tacitus's Annals.*
+Each *Life* is structured around a set of recurring rubrics. Suetonius typically opens with the subject's family and origins, then treats his public career — offices held, wars conducted, legislation enacted — before turning to private character: physical description, daily routine, sexual conduct, table habits, literary tastes, religious practices, superstitions, and the signs that attended birth and death. This organisation, which modern readers sometimes mistake for naivety or disorder, is in fact a systematic attempt to reveal the whole man by cataloguing the domains of life in which character discloses itself. The physical description of Augustus — his teeth, his eyes, his dislike of cold — is as much a part of his portrait as the settlement of the Principate.
 
-### Caligula
-*Placeholder. The most sensational of the lives. The question of how much to trust Suetonius on Caligula.*
+This thematic approach has consequences for the prose. Suetonius rarely narrates at length; he enumerates, illustrates, qualifies. The characteristic Suetonian sentence bundles several examples together, often without connecting them causally: *fertur etiam* ("it is also said that"), *tradunt* ("they say"), *constat* ("it is agreed"). This scrupulous attribution of testimony — distinguishing what is recorded in documents from what circulates as report — is a form of scholarly conscientiousness, though it also licenses the inclusion of scandalous material that Suetonius would otherwise have no warrant to present. The result is a text that is simultaneously a work of research and an anthology of Roman gossip, and its combination of archival precision and anecdotal vividness accounts for much of its extraordinary readability across twenty centuries.
 
-### Claudius
-*Placeholder. The scholar-emperor — pedantic, absent-minded, and more capable than his image suggests.*
+### The Four Lives in Volume I
 
-### Nero
-*Placeholder. Artist, matricide, persecutor of Christians. Suetonius on the burning of Rome.*
+**Julius Caesar** is the longest and arguably the most carefully constructed of the twelve lives. Caesar had not been an emperor — the Principate began with Augustus — but Suetonius places him first as the dynastic and symbolic origin of the series; the title *Caesar* became the title of all his successors. The life draws on Caesar's own writings, on the works of historians now lost, and on the oral traditions of a family whose memory was still politically charged under the Julio-Claudian and Flavian dynasties. It is here that some of the most celebrated passages in Suetonius appear: the account of the Ides of March, the list of Caesar's sexual liaisons (memorably summarised by a soldier's marching song as quoted by Suetonius himself), and the enumeration of the omens that preceded the assassination.
 
-### Galba
-*Placeholder. The brief reign of the first of the year of four emperors.*
+**Augustus** is the longest life in the corpus and the one in which Suetonius's access to primary documents is most evident. He quotes directly from Augustus's letters to Livia about the young Claudius, from Augustus's own account of his military campaigns, and from his will. The portrait that emerges is of a man of enormous self-discipline and administrative genius who constructed the machinery of one-man rule with such care that it survived for three centuries after him — and who remained, to the end, capable of personal cruelty when the stability of his system required it.
 
-### Otho
-*Placeholder. The shortest life — a reign of three months.*
+**Tiberius** traces one of Rome's most contested reigns. Suetonius draws a before-and-after portrait: the disciplined general and reluctant heir who accepted the Principate with public diffidence, set against the withdrawn, suspicious, and (by Suetonius's account) sexually depraved recluse of the Capri years. The life is deeply coloured by the senatorial tradition hostile to Tiberius, which Suetonius seems largely to have accepted, and it should be read alongside Tacitus's *Annales* for a sense of how the same events could be organised into a radically different kind of narrative.
 
-### Vitellius
-*Placeholder. Famous chiefly for gluttony.*
+**Caligula** (*Gaius*) is the shortest of the four and the most lurid. Suetonius begins with the charming young prince, beloved by the legions who had known him as a child in the camp — the original *caligula*, "little boot," was a soldier's nickname — and then charts what he presents as an abrupt transformation into tyranny, cruelty, and madness following an illness in the first year of his reign. Whether this transformation was real, exaggerated by hostile sources, or partly a literary construction imposed on an autocrat whose behaviour was merely less restrained than his predecessors', remains a question that Suetonius's method cannot settle: he accumulates the evidence rather than adjudicating it.
 
-### Vespasian
-*Placeholder. The founder of the Flavian dynasty — earthy, sardonic, competent.*
+### Suetonius and His Sources
 
-### Titus
-*Placeholder. "The darling of the human race." The destroyer of Jerusalem and the briefest of the Flavians.*
+Suetonius was writing biography, not history in the ancient technical sense, and he is franker than most ancient authors about the uncertainty of his sources and the limits of what can be known. He distinguishes between official documents he has read, earlier histories he has consulted, contemporary report, and common tradition. His use of the imperial archives — particularly for the lives of Julius Caesar and Augustus — is one of the distinctive features of his work; when he lost his secretarial position, he may also have lost access to those archives, which may partly account for the shorter and less document-rich later lives. The fragmentary remains of his other biographical works, including *De Viris Illustribus* (a collection of literary biographies that survives in part), confirm that the method of the *Caesars* was consistent across his output.
 
-### Domitian
-*Placeholder. The last Caesar — a reign of terror that ended in assassination.*
+### Transmission
 
-## Key Themes
+Unlike many classical texts, *De Vita Caesarum* was never wholly lost. It circulated in the Carolingian period, was known to Einhard — whose *Life of Charlemagne* is explicitly modelled on it — and remained available to scholars throughout the Middle Ages. The text rests on a relatively limited number of medieval manuscripts, the most important of which derive from a lost Carolingian archetype; there are also extracts and epitomes that complicate the stemma. The result is a text better preserved than most Latin prose of its period, though not without corruptions and lacunae, particularly in the later lives. The editio princeps was printed at Rome around 1470, making Suetonius one of the earliest classical authors to appear in print.
 
-*Placeholder. The character of absolute power, the role of omens and portents, the tension between public image and private vice.*
+### This Translation
 
-## Selected Excerpts
+The translation is that of John Carew Rolfe, published in two volumes as Numbers 31 and 38 of the Loeb Classical Library (Cambridge, MA: Harvard University Press, 1914). Rolfe presents the Latin text on facing pages with his English translation and supplies an index of names. The translation is in the public domain.
 
-*Placeholder. Add notable passages with brief commentary.*
+---
 
-## Further Reading
+## FULL TEXT
 
-*Placeholder. Standard editions, translations, and secondary literature.*
+### The Life of Julius Caesar
+
+*[The life opens without preface. Suetonius begins directly with Caesar's family and the events of his sixteenth year.]*
+
+**I.** In the sixteenth year of his age[^1] he lost his father. In the beginning of the following year, having been nominated to the office of flamen Dialis[^2], he broke his engagement with Cossutia, a girl of only equestrian, although wealthy, family, who had been betrothed to him before he assumed the gown of manhood[^3], and married Cornelia, the daughter of that Cinna[^4] who had been four times consul. By her he had a daughter Julia[^5] in the following year. Not long afterwards he resisted the dictator Sulla who wished him to put away Cornelia, and on this account he not only lost his priesthood, his wife's dowry, and his family estate, but was actually regarded as one of his opponents' party. He was therefore compelled to go into hiding, and, though hampered by a tertian ague[^6], to change from place to place almost every night. He finally saved himself from Sulla's search by bribing the soldiers who tracked him down. At last, through the intercession of the Vestal Virgins and of his near kinsmen and connections, Mamercus Aemilius and Aurelius Cotta, he obtained pardon. Sulla had long refused the requests of these men, who were very powerful, but finally gave way. When some of his intimate advisers spoke against it, Sulla said, according to some, that he would some day deal a mortal blow to the cause of the aristocracy, for in Caesar there were many Mariuses.
+
+**II.** He served his first campaign in Asia on the personal staff of Marcus Thermus, the praetor. When Thermus sent him to Bithynia to fetch a fleet, he remained so long at the court of Nicomedes[^7] that a report arose of an improper connection between himself and the king. He increased the gossip by going back to Bithynia a second time, under the pretext of collecting a debt due to a freedman, one of his clients. For the rest of the campaign he enjoyed a better reputation, and was decorated with the civic crown by Thermus for his conduct at the storming of Mytilene.
+
+<iframe src="https://archive.org/embed/L031SuetoniusTheLivesOfTheCaesarsI" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+---
+
+### Bibliography
+
+Rolfe, J. C., trans. *Suetonius: Lives of the Caesars, Volume I.* Loeb Classical Library 31. Cambridge, MA: Harvard University Press, 1914. Revised edition with new introduction by K. R. Bradley. 1998.
+
+Baldwin, Barry. *Suetonius.* Amsterdam: Adolf M. Hakkert, 1983.
+
+Bradley, K. R. "The Significance of the Spectacula in Suetonius' Caesares." *Rivista Storica dell'Antichità* 11 (1981): 129–137.
+
+Wallace-Hadrill, Andrew. *Suetonius: The Scholar and His Caesars.* London: Duckworth, 1983.
+
+Footnotes
+
+[^1]: Caesar was born in 100 BCE; his father died in 85 BCE, when Caesar was in his sixteenth year by inclusive Roman reckoning.
+
+[^2]: The *flamen Dialis* was the priest of Jupiter, one of the fifteen *flamines* of the Roman state religion, and among the most ancient and restrictive of Roman priestly offices. The nomination was never completed; Caesar abandoned the priesthood before consecration.
+
+[^3]: The *toga virilis*, the plain white toga that replaced the boyhood *toga praetexta* at the ceremony of manhood, typically assumed at age fifteen or sixteen.
+
+[^4]: Lucius Cornelius Cinna, a Marian leader who held the consulship in 87–84 BCE and was the dominant power in Rome during Sulla's absence in the East. His daughter Cornelia became Caesar's first wife.
+
+[^5]: Julia, Caesar's only legitimate child, who later married Pompey and whose death in 54 BCE was a significant blow to the alliance between the two men.
+
+[^6]: A fever recurring every third day (i.e., with one day's interval), identified in antiquity with a form of malaria.
+
+[^7]: Nicomedes IV of Bithynia. The allegation of a sexual relationship between Caesar and the king was one that Caesar's political enemies never allowed to be forgotten; Suetonius returns to it later in the life.
