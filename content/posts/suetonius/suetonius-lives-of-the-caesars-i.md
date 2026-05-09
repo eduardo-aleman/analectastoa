@@ -26,9 +26,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/suetonius_ms.jpg"
-  alt: "Illuminated manuscript page of Suetonius, De Vita Caesarum"
-  caption: "A medieval manuscript of Suetonius's De Vita Caesarum. Unlike many classical texts, Suetonius was never wholly lost; copies circulated in Carolingian scriptoria and the work was known to scholars throughout the Middle Ages, making it one of the better-transmitted Latin prose texts of antiquity."
+  image: "/268_gud_lat_1v.jpg"
+  alt: "Fol. 1v of Cod. Guelf. 268 Gud. lat., opening of Suetonius's De vita Caesarum, Eichstätt, second half of the 11th century"
+  caption: "Cod. Guelf. 268 Gud. lat., fol. 1v. This parchment manuscript of 173 leaves (20 × 15.5 cm) was produced in the second half of the 11th century at the Cathedral scriptorium of Eichstätt, Bavaria. The opening page bears a 3.5 cm splitting strip initial with vigorous bulbous leaf tendrils drawn in red, marking the beginning of the Life of Julius Caesar. The manuscript is written in Carolingian minuscule by at least eight distinguishable hands, the principal of which (Hand A) has been identified by Hoffmann and Pokorny as identical to Hand F of the Pontificale Gundekarianum (Eichstätt, Diocesan Archive, Cod. B 4), firmly anchoring the codex within the Eichstätt scriptorium. In the late Middle Ages the manuscript was held at the Benedictine monastery of St. Ulrich and Afra in Augsburg — a connection established through a missal fragment reused as a pastedown that can be traced to a manuscript certainly produced there (Munich, BSB, Clm 4317). It subsequently passed to the Westphalian scholar Bernhard Rottendorf, then into the collection of Marquard Gude, and entered the Herzog August Bibliothek, Wolfenbüttel, in 1710, where it remains (shelfmark Cod. Guelf. 268 Gud. lat.). Preliminary description by Stefanie Westphal, Herzog August Bibliothek."
 ---
 
 # THE LIVES OF THE CAESARS
@@ -69,7 +69,9 @@ Suetonius was writing biography, not history in the ancient technical sense, and
 
 ### Transmission
 
-Unlike many classical texts, *De Vita Caesarum* was never wholly lost. It circulated in the Carolingian period, was known to Einhard — whose *Life of Charlemagne* is explicitly modelled on it — and remained available to scholars throughout the Middle Ages. The text rests on a relatively limited number of medieval manuscripts, the most important of which derive from a lost Carolingian archetype; there are also extracts and epitomes that complicate the stemma. The result is a text better preserved than most Latin prose of its period, though not without corruptions and lacunae, particularly in the later lives. The editio princeps was printed at Rome around 1470, making Suetonius one of the earliest classical authors to appear in print.
+Unlike many classical texts, *De Vita Caesarum* was never wholly lost. It circulated in the Carolingian period, was known to Einhard — whose *Life of Charlemagne* is explicitly modelled on it — and remained available to scholars throughout the Middle Ages. The text rests on a relatively limited number of medieval manuscripts deriving from a lost Carolingian archetype; there are also extracts and epitomes that complicate the stemma. The result is a text better preserved than most Latin prose of its period, though not without corruptions and lacunae, particularly in the later lives. The *editio princeps* was printed at Rome around 1470, making Suetonius one of the earliest classical authors to appear in print.
+
+The manuscript reproduced on the cover of this volume — Cod. Guelf. 268 Gud. lat., now in the Herzog August Bibliothek, Wolfenbüttel — is among the most significant surviving witnesses to the text. Produced in the second half of the eleventh century at the Cathedral scriptorium of Eichstätt in Bavaria, it transmits the complete *De vita Caesarum* across 173 parchment leaves in Carolingian minuscule by at least eight distinguishable hands. The principal hand (Hand A) has been identified by Hoffmann and Pokorny as the same scribe responsible for part of the Pontificale Gundekarianum (Eichstätt, Diocesan Archive, Cod. B 4), one of the most richly illuminated liturgical manuscripts of the Ottonian period. The opening page (fol. 1v) bears a 3.5 cm splitting strip initial with vigorous bulbous leaf tendrils drawn in red; a second decorated initial of the same type marks the opening of the Life of Augustus at fol. 23v. A small ink drawing of a four-legged mythical creature appears in the lower margin of fol. 17r. In the late Middle Ages the codex was held at the Benedictine monastery of St. Ulrich and Afra in Augsburg — a connection established through a missal fragment reused as pastedown material that can be traced to a manuscript certainly produced there (Munich, BSB, Clm 4317) — before passing through the collections of the Westphalian scholar Bernhard Rottendorf and the collector Marquard Gude into the Herzog August Bibliothek in 1710, where it remains.
 
 ### This Translation
 
@@ -100,6 +102,8 @@ Baldwin, Barry. *Suetonius.* Amsterdam: Adolf M. Hakkert, 1983.
 Bradley, K. R. "The Significance of the Spectacula in Suetonius' Caesares." *Rivista Storica dell'Antichità* 11 (1981): 129–137.
 
 Wallace-Hadrill, Andrew. *Suetonius: The Scholar and His Caesars.* London: Duckworth, 1983.
+
+Westphal, Stefanie. "Cod. Guelf. 268 Gud. lat." In *Die illuminierten Handschriften der Herzog August Bibliothek, Teil 1: 6. bis 11. Jahrhundert* (in progress). Wolfenbüttel: Herzog August Bibliothek. Preliminary description available at diglib.hab.de.
 
 Footnotes
 
