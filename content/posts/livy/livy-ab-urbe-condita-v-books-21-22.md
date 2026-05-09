@@ -2,7 +2,7 @@
 title: "Ab Urbe Condita, Volume V: Books 21–22"
 date: 2026-05-08
 authors: ["Livy"]
-categories: ["Roman History"]
+categories: ["Roman Historiography"]
 tags:
   [
     "Livy",
