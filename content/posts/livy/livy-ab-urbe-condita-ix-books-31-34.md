@@ -1,6 +1,6 @@
 ---
 title: "Ab Urbe Condita, Volume IX: Books 31–34"
-date: 2026-05-06
+date: 2026-05-05
 authors: ["Livy"]
 categories: ["Roman History"]
 tags:

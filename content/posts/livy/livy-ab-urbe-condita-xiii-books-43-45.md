@@ -1,6 +1,6 @@
 ---
 title: "Ab Urbe Condita, Volume XIII: Books 43–45"
-date: 2026-05-02
+date: 2026-05-01
 authors: ["Livy"]
 categories: ["Roman History"]
 tags:

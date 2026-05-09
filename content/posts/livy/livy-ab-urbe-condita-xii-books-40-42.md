@@ -1,6 +1,6 @@
 ---
 title: "Ab Urbe Condita, Volume XII: Books 40–42"
-date: 2026-05-03
+date: 2026-05-02
 authors: ["Livy"]
 categories: ["Roman History"]
 tags:
