@@ -1,6 +1,6 @@
 ---
 title: "Ab Urbe Condita, Volume VII: Books 26–30"
-date: 2026-05-06
+date: 2026-05-08
 authors: ["Livy"]
 categories: ["Roman History"]
 tags:
@@ -25,9 +25,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/livy_puteanus_26.jpg"
-  alt: "Paris, Bibliothèque nationale de France, lat. 5730 (Puteanus), fifth-century uncial manuscript of Livy's Third Decade"
-  caption: "Paris, BnF, lat. 5730, the Puteanus. The final books of the Third Decade — including Books 26–30 contained in the present volume — are preserved in this fifth-century uncial manuscript, the primary witness to the whole of Livy's account of the Second Punic War. The manuscript is written in an elegant late antique uncial hand and shows signs of careful scholarly correction, probably in late antiquity. Bibliothèque nationale de France, Paris."
+  image: "/vat_lat_1848_f112r.jpg"
+  alt: "Biblioteca Apostolica Vaticana, Vat. lat. 1848, fol. 112r — opening of Livy Book 26, illuminated by Bartolomeo della Gatta, Rome, c. 1475–1480"
+  caption: "Biblioteca Apostolica Vaticana, Vat. lat. 1848, fol. 112r. This folio opens Book 26 of Livy's Ab Urbe Condita — the first book of the present Loeb volume — within the luxury parchment manuscript commissioned by Ludovico Agnelli, protonotary apostolic, in Rome around the mid-1470s. The rubric is again written in the epigraphic capitals of Bartolomeo Sanvito (1435–1511), identifying the book within the series; the decorated initial, gold-leaf body on a polychrome ground of blue, green, and red within a gilded frame with phytofloral ornament, is the sixth of nine such initials marking the book divisions of the Third Decade and opens the account of 211 BCE — the year of Hannibal's march on Rome and the appointment of the young Scipio to command in Spain. This folio falls at the physical midpoint of the manuscript (173 leaves precede it, 114 follow) and marks the pivot of the whole Third Decade: the moment at which Roman strategic initiative passes from defence to offence. The manuscript is attributed to Bartolomeo della Gatta (1448–1502) and passed from Agnelli's estate through the collection of Pope Julius II into the Biblioteca Apostolica Vaticana, where it remains alongside its companion volumes Borgh. 368 and Vat. lat. 1853. Biblioteca Apostolica Vaticana, Rome."
 ---
 
 # AB URBE CONDITA

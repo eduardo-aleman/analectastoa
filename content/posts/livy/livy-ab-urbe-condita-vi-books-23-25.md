@@ -1,6 +1,6 @@
 ---
 title: "Ab Urbe Condita, Volume VI: Books 23–25"
-date: 2026-05-07
+date: 2026-05-08
 authors: ["Livy"]
 categories: ["Roman History"]
 tags:
@@ -25,9 +25,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/livy_puteanus_23.jpg"
-  alt: "Paris, Bibliothèque nationale de France, lat. 5730 (Puteanus), fifth-century uncial manuscript of Livy's Third Decade"
-  caption: "Paris, BnF, lat. 5730, the Puteanus. This fifth-century uncial manuscript is the oldest and most authoritative witness to Books 21–30 of Livy's Ab Urbe Condita, including the text of Books 23–25 contained in the present volume. The manuscript was in French royal hands by the sixteenth century and entered the Bibliothèque nationale de France, where it remains. Bibliothèque nationale de France, Paris."
+  image: "/vat_lat_1848_f48v.jpg"
+  alt: "Biblioteca Apostolica Vaticana, Vat. lat. 1848, fol. 48v — opening of Livy Book 23, illuminated by Bartolomeo della Gatta, Rome, c. 1475–1480"
+  caption: "Biblioteca Apostolica Vaticana, Vat. lat. 1848, fol. 48v. This folio opens Book 23 of Livy's Ab Urbe Condita — the first book of the present Loeb volume — within the luxury parchment manuscript commissioned by Ludovico Agnelli, protonotary apostolic, in Rome around the mid-1470s. The rubric, written in the distinctive epigraphic capitals of the calligrapher Bartolomeo Sanvito (1435–1511), reads: T. LIVII PATAVINI HISTORICI OMNIUM LINGUAE LATINAE PERITISSIMI DE II BELLO PUNICO LIBRI III INCIPIT — identifying this as the third book of the Second Punic War in the manuscript's internal numbering. The decorated initial, gold-leaf body on a polychrome ground of blue, green, and red enclosed within a gilded metal frame and ornamented with phytofloral motifs, is one of nine such initials marking the book divisions of the Third Decade (ff. 24r, 48v, 70v, 91v, 112r, 136r, 161v, 195r, 207v); it opens the words Haec Hannibal post Cannensem pugnam — the first sentence of Book 23. The manuscript as a whole is attributed to Bartolomeo della Gatta (1448–1502) and forms the second volume of a three-part Livy set alongside Borgh. 368 (First Decade) and Vat. lat. 1853 (Fourth Decade). It passed from Agnelli's estate to Pope Julius II and from the papal collection into the Biblioteca Apostolica Vaticana, where it remains. Biblioteca Apostolica Vaticana, Rome."
 ---
 
 # AB URBE CONDITA
