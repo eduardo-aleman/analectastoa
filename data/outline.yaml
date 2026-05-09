@@ -37,7 +37,7 @@
     - title: "Historiography"
       category: "roman-historiography"
       children:
-        - title: "Livy (companion)"
+        - title: "Livy (full text)"
           author: "livy"
           children:
             - title: "The Second Punic War · Books 21–30"
