@@ -24,9 +24,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/livy_fourth_decade_35.jpg"
-  alt: "Medieval manuscript of Livy's Fourth Decade"
-  caption: "A medieval manuscript witness to Livy's Fourth Decade (Books 31–45). The transmission of these books depends on a group of Carolingian and later medieval copies whose relationships have been carefully studied by editors from the Renaissance onwards. No manuscript of the Fourth or Fifth Decades approaches the antiquity of the Puteanus for the Third Decade."
+  image: "/editio_moguntina_1519_privilegium.jpg"
+  alt: "Privilegium page of the 1519 Editio Moguntina of Livy, imperial privilege granted by Maximilian I to Johannes Scheffer of Mainz — Bayerische Staatsbibliothek, Munich, Res/2 A.lat.b. 422"
+  caption: "Bayerische Staatsbibliothek, Munich, Res/2 A.lat.b. 422, Privilegium page. This page opens the 1519 Editio Moguntina of Livy — T. Livius Patavinus Historicus Duobus Libris Auctus, published at Mainz by Nicolaus Carbachius and Wolfgang Angst, printed by Johannes Scheffer — and reproduces the imperial privilege granted by Emperor Maximilian I to the printer Scheffer (Ioanni Scheffer Chalcographo Moguntino) on 9 December 1518 at Wels, signed by the imperial secretary Jakob Spiegel. Maximilian died on 12 January 1519, five weeks after signing this document, making it among the last acts of his reign. The edition's historical importance far exceeds its printing history: Carbachius had discovered an an
 ---
 
 # AB URBE CONDITA
@@ -59,7 +59,11 @@ The most celebrated anecdote in these books — recorded by Livy as reported spe
 
 ### Transmission
 
-Books 35–37 belong to the same medieval manuscript tradition as the rest of the Fourth Decade, described in the introduction to Volume IX. The text of these books is generally well preserved but contains passages — particularly in the military narrative of Magnesia — where the manuscripts diverge and editors have been forced to emend. The accounts of the battle in Livy and in Appian (*Syriaca* 30–36) serve as mutual checks, though they are ultimately derived from the same Greek sources (primarily Polybius) and so do not provide fully independent testimony.
+### Transmission
+
+The text of Books 35–37 is shaped decisively by a discovery that constitutes one of the most significant events in the modern history of Livy's text. In the early sixteenth century, the scholar Nicolaus Carbachius found at Mainz an ancient manuscript — designated by scholars as the **Moguntinus** (Mg), apparently a fifth-century codex — containing portions of Livy absent from the entire Italian manuscript tradition. The Italian *recentiores* lacked Book 33 from chapter 17.6 onwards, and were deficient in other passages reaching through Book 40; the Moguntinus supplied these gaps, most critically restoring Book 33 from 33.17.6 to its end. Carbachius and Wolfgang Angst published the text recovered from the Moguntinus in the **1519 Editio Moguntina** — *T. Livius Patavinus Historicus Duobus Libris Auctus*, printed at Mainz by Johannes Scheffer under an imperial privilege granted by Emperor Maximilian I on 9 December 1518. The Moguntinus disappeared shortly after the edition went to press. The 1519 printed text is consequently the sole surviving witness to the readings it alone preserved, and modern critical editions must treat it as a primary source — a printed book standing in place of a lost manuscript, occupying a role analogous to that of the Puteanus for the Third Decade.
+
+For Books 35–37 specifically, the interplay between the Moguntinus tradition as transmitted through the Editio Moguntina and the medieval manuscript witnesses — including Bamberg, Staatsbibliothek, Msc.Class.35, which contains Books 31–38 — must be carefully negotiated by editors. The precise contribution of the Moguntinus to the text of each chapter is detailed in Michael Reeve's chapter on Livy in L. D. Reynolds (ed.), *Texts and Transmission: A Survey of the Latin Classics* (Oxford: Clarendon Press, 1983), pp. 205–214.
 
 ### This Translation
 
@@ -90,6 +94,8 @@ Bar-Kochva, Bezalel. *The Seleucid Army: Organisation and Tactics in the Great C
 Grainger, John D. *The Roman War of Antiochos the Great.* Leiden: Brill, 2002.
 
 Gruen, Erich S. *The Hellenistic World and the Coming of Rome.* 2 vols. Berkeley: University of California Press, 1984.
+
+Reeve, Michael D. "Livy." In L. D. Reynolds, ed., *Texts and Transmission: A Survey of the Latin Classics*, pp. 205–214. Oxford: Clarendon Press, 1983.
 
 Sherwin-White, Susan, and Amélie Kuhrt. *From Samarkhand to Sardis: A New Approach to the Seleucid Empire.* London: Duckworth, 1993.
 
