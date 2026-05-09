@@ -39,8 +39,24 @@
       children:
         - title: "Livy (companion)"
           author: "livy"
+          children:
+            - title: "The Second Punic War · Books 21–30"
+              children:
+                - title: "Books 21–22 · Loeb V (B. O. Foster)"
+                - title: "Books 23–25 · Loeb VI (F. G. Moore)"
+                - title: "Books 26–30 · Loeb VII (F. G. Moore)"
+            - title: "Expansion into Greece and Asia · Books 31–45"
+              children:
+                - title: "Books 31–34 · Loeb IX (Evan T. Sage)"
+                - title: "Books 35–37 · Loeb X (Evan T. Sage)"
+                - title: "Books 38–39 · Loeb XI (Evan T. Sage)"
+                - title: "Books 40–42 · Loeb XII (Sage & Schlesinger)"
+                - title: "Books 43–45 · Loeb XIII (A. C. Schlesinger)"
         - title: "Suetonius (full text)"
           author: "suetonius"
+          children:
+            - title: "Volume I · Loeb 31 (J. C. Rolfe)"
+            - title: "Volume II · Loeb 38 (J. C. Rolfe)"
         - title: "Tacitus (companion)"
           author: "tacitus"
     - title: "Philosophy"
