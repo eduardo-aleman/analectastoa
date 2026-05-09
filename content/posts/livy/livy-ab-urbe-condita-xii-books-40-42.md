@@ -24,9 +24,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/livy_fourth_decade_40.jpg"
-  alt: "Medieval manuscript of Livy's Fourth and Fifth Decades"
-  caption: "A medieval manuscript of Livy's Ab Urbe Condita, covering the Fourth and Fifth Decades. Books 40–42 mark the transition between two translators in the Loeb edition — Evan T. Sage and A. C. Schlesinger — and fall in the midst of Livy's account of the decades preceding the final Roman reckoning with Macedon."
+  image: "/vat_lat_1848_1r.jpg"
+  alt: "Biblioteca Apostolica Vaticana, Vat. lat. 1848, fol. 1r — incipit page of Livy's Third Decade, illuminated by Bartolomeo della Gatta, Rome, c. 1475–1480"
+  caption: "Biblioteca Apostolica Vaticana, Vat. lat. 1848, fol. 1r. This luxury parchment manuscript (377 × 255 mm, 226 leaves, Humanistic script) transmits the Third Decade of Livy's Ab Urbe Condita (Books 21–30) and is the second volume of a three-part set commissioned by Ludovico Agnelli, protonotary apostolic and client of Cardinal Francesco Gonzaga: the First Decade is preserved in Borgh. 368 and the Fourth Decade in Vat. lat. 1853, all three copied by a single scribe and conceived as a complete corpus of the surviving Livy. The incipit page reproduced here is attributed to Bartolomeo della Gatta (1448–1502) — a Camaldolese monk who would shortly afterwards contribute to the decoration of the Sistine Chapel — and is considered the earliest securely datable example of his work as a miniaturist. The border is constructed in the antiquarian Roman manner: candelabra frames on three sides with putti, festoons, and allegorical figures in the angles, set against a palette of blue, green, pink, red, and ochre; the tabular miniature (170 × 132 mm) opens a perspectival loggia with a velarium in which Carthaginian figures are seated, the illusionistic space extending the picture plane into a genuine cubic depth. The rubrics are the work of the calligrapher Bartolomeo Sanvito (1435–1511); marginal annotations in the first fourteen leaves are by Marco Lucido Fazzini (Phosphorus), a member of Pomponio Leto's Roman Academy. The coat of arms at the bas-de-page belongs to Pope Julius II (1503–1513), who acquired the manuscript shortly after Agnelli's death in 1499; it entered the Biblioteca Apostolica Vaticana from the papal collection and is recorded in the 1533 Vatican inventory as 'Titus Livius de bello Punico, ex membranis in tabulis.' Biblioteca Apostolica Vaticana, Rome."
 ---
 
 # AB URBE CONDITA
@@ -60,6 +60,8 @@ The Macedonian story that runs through Books 40–42 is, in Livy's hands, as muc
 ### Transmission
 
 Books 40–42 belong to the same medieval manuscript tradition as the rest of the Fourth and Fifth Decades, described in the introduction to Volume IX. The text of these books presents some of the more heavily emended passages in the surviving Livy, particularly in the annalistic sections covering the Ligurian and Spanish campaigns, where the manuscript tradition appears to have suffered damage or confusion in transmission. The narrative passages — particularly the dramatic account of Philip and Demetrius in Book 40 — are generally in better condition.
+
+Book 40 sits at the boundary between the Fourth and Fifth Decades and marks a point where the manuscript tradition shifts character. The earliest witnesses to Books 40–42 specifically — their shelfmarks, dates, and relationships to the lost Carolingian archetype — are a question requiring the detailed stemmatic analysis in Michael Reeve's chapter on Livy in L. D. Reynolds (ed.), *Texts and Transmission: A Survey of the Latin Classics* (Oxford: Clarendon Press, 1983), pp. 205–214, which remains the standard reference for this part of the tradition. Cover image sourcing for this volume should be revisited once those witnesses have been identified.
 
 ### This Translation
 
