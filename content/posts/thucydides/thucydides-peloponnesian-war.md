@@ -290,7 +290,7 @@ Thucydides maintains throughout what can only be called a compassionate detachme
 
 > The Syracusans treated the men in the quarries badly at first. They were crowded together in a small sunken area without a roof where they were tormented by the sun’s heat and stifling air, followed by cold nights, as autumn was coming on—a change that gave them new diseases. They had to do everything in the same narrow space, and, in addition, the carcasses of the dead, who had died of their wounds or the change in temperature or some such cause, were heaped up together and the stench was unbearable. All the while they were afflicted with hunger and thirst, for during an eight-month period the Syracusans fed each prisoner a cup of water and two cups of grain each day. In short, they were not spared a single one of the miseries you’d expect when men are thrown into a place like that.
 
-> This was the greatest action of the war—in my opinion, the greatest in all Greek history—the most glorious victory for the winners, and the worst calamity for the losers. They were utterly vanquished on all points, and none of their losses was small. It was “total destruction” as the saying is, for the army and navy alike. There was nothing that was not lost, and few out of many returned home.37 That is what happened on Sicily.
+> This was the greatest action of the war—in my opinion, the greatest in all Greek history—the most glorious victory for the winners, and the worst calamity for the losers. They were utterly vanquished on all points, and none of their losses was small. It was “total destruction” as the saying is, for the army and navy alike. There was nothing that was not lost, and few out of many returned home. That is what happened on Sicily.
 
 ---
 
