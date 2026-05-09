@@ -24,9 +24,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/livy_fourth_decade_38.jpg"
-  alt: "Medieval manuscript of Livy's Fourth Decade"
-  caption: "A medieval manuscript of Livy's Ab Urbe Condita, Fourth Decade. Books 38–39 are preserved in the same tradition of Carolingian and later medieval manuscripts that transmits the rest of the Fourth Decade, a group distinguished from the Third Decade's tradition by its dependence on copies rather than a surviving late antique exemplar."
+  image: "/bamberg_msc_class35_f198v.jpg"
+  alt: "Bamberg, Staatsbibliothek, Msc.Class.35, fol. 198v — transition from Book 37 to Book 38 of Livy's Ab Urbe Condita, Caroline minuscule, medieval"
+  caption: "Bamberg, Staatsbibliothek, Msc.Class.35, fol. 198v. This folio marks the transition from Book 37 to Book 38 of Livy's Ab Urbe Condita — the opening book of the present Loeb volume. The left column closes the text of Book 37, then presents a formal colophon framed by three decorative wavy-line separators: T I TI LI VI AD VRBE CONDITA / LIBER XXXVII EXPLICIT / INCIPIT LIBER XXXVIII. The right column opens Book 38 immediately beneath the header L° XXXVIII. This transitional folio is the last book-division marker in the manuscript's Fourth Decade section: Msc.Class.35 contains Books 31–38 only, and the text ends with Book 38 — meaning that Book 39, the second book of this Loeb volume, is absent from this manuscript and must be supplied from other witnesses in the Fourth Decade tradition. The manuscript is written in Caroline minuscule and also contains Books 24–30 of the Third Decade in a separate section beginning at fol. 1; the Fourth Decade opens at fol. 128r. Staatsbibliothek Bamberg, Bamberg."
 ---
 
 # AB URBE CONDITA
