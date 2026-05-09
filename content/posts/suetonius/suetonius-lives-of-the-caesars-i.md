@@ -2,7 +2,7 @@
 title: "The Lives of the Caesars, Volume I"
 date: 2026-05-08
 authors: ["Suetonius"]
-categories: ["Roman History"]
+categories: ["Roman Historiography"]
 tags:
   [
     "Suetonius",
