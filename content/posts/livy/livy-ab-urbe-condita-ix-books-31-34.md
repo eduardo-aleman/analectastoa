@@ -24,9 +24,9 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/livy_fourth_decade_31.jpg"
-  alt: "Medieval manuscript of Livy's Fourth Decade, Books 31–45"
-  caption: "A medieval manuscript of Livy's Fourth Decade. Unlike the Third Decade, which is preserved primarily in the late antique Puteanus, the Fourth and Fifth Decades (Books 31–45) depend on a more diffuse tradition of medieval copies, none of earlier than the Carolingian period, whose relationships with one another and with a lost archetype have been the subject of sustained scholarly investigation."
+  image: "/bamberg_msc_class35_f128r.jpg"
+  alt: "Bamberg, Staatsbibliothek, Msc.Class.35, fol. 128r — opening of Livy Book 31, Caroline minuscule, medieval"
+  caption: "Bamberg, Staatsbibliothek, Msc.Class.35, fol. 128r. This folio opens Book 31 of Livy's Ab Urbe Condita — the first book of the present Loeb volume — in one of the most important medieval witnesses to the Fourth Decade. The left-margin header reads Lib. XXXI. C. 1., and the text begins with Livy's celebrated transitional passage: Me quoque iuvat, velut ipse in parte laboris ac periculi fuerim, ad finem belli Punici pervenisse — 'I too feel joy, as if I myself had shared in the toil and danger, at having come to the end of the Punic War.' The manuscript is written in Caroline minuscule and contains two sections of the Ab Urbe Condita bound together: Books 31–38 (the greater part of the Fourth Decade) and Books 24–30 (the latter portion of the Third Decade), with the Fourth Decade beginning at the present folio 128 — the manuscript's physical pivot point. The folio shows the characteristic condition of a heavily used medieval copy: extensive foxing, a central perforation, and staining along the edges. Msc.Class.35 is one of the key witnesses to the transmission of Books 31–45, a tradition that, unlike the Third Decade's Puteanus, depends entirely on medieval copies descended from a lost Carolingian archetype. Staatsbibliothek Bamberg, Bamberg."
 ---
 
 # AB URBE CONDITA
