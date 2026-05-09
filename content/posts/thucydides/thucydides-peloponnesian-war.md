@@ -3,7 +3,16 @@ title: "History of the Peloponnesian War"
 date: 2026-04-26
 authors: ["Thucydides"]
 categories: ["Greek Historiography"]
-tags: ["Athens", "Sparta", "Peloponnesian War", "Sicily", "Pericles", "Democracy", "Imperialism"]
+tags:
+  [
+    "Athens",
+    "Sparta",
+    "Peloponnesian War",
+    "Sicily",
+    "Pericles",
+    "Democracy",
+    "Imperialism",
+  ]
 series: ["Thucydides"]
 summary: "Reading companion for Thucydides's History of the Peloponnesian War — the foundational text of Western historiography."
 ShowToc: true
@@ -15,7 +24,7 @@ cover:
   caption: "Nearly 2,300 years ago, a reader in provincial Egypt owned a copy of one of history's greatest works. This fragile papyrus preserves part of Thucydides' account of the Battle of Sphacteria — where a force of Spartan soldiers did the unthinkable and surrendered. Among the oldest manuscripts of Thucydides anywhere in the world, it bridges the ancient and modern transmission of a text that has never stopped being read. Thucydides, History of the Peloponnesian War, Book IV.36–41 · el-Hibeh, Egypt · Penn Museum, E 2747."
 ---
 
-> *All translations are from Paul Woodruff's* The Essential Thucydides: On Justice, Power, and Human Nature *(Second Edition). Selections from* The History of the Peloponnesian War.
+> _All translations are from Paul Woodruff's_ The Essential Thucydides: On Justice, Power, and Human Nature _(Second Edition). Selections from_ The History of the Peloponnesian War.
 
 ---
 
@@ -29,11 +38,11 @@ The Peloponnesian War (431–404 BCE) engulfed virtually the entire Greek world,
 
 ### A Possession for All Time
 
-Near the opening of his *History*, Thucydides draws a sharp contrast between his work and everything before it. He dismisses the poets for embellishing events, the early chroniclers for writing to win an immediate audience rather than to record what actually happened. What he is offering instead, he says, is something harder and more durable — a work for those who
+Near the opening of his _History_, Thucydides draws a sharp contrast between his work and everything before it. He dismisses the poets for embellishing events, the early chroniclers for writing to win an immediate audience rather than to record what actually happened. What he is offering instead, he says, is something harder and more durable — a work for those who
 
 > want to understand clearly the events which happened in the past and which (human nature being what it is) will, at some time or other and in much the same ways, be repeated in the future.
 
-This is an astonishing claim. Thucydides is not simply saying his account is more accurate than Homer's. He is proposing a new theory of what history is *for*. The past is not a storehouse of glorious deeds or divine moral lessons — it is a pattern built into human nature itself, and if you study it with sufficient rigor and honesty, you will be equipped to understand the present and anticipate the future. History, in this view, is a form of political science.
+This is an astonishing claim. Thucydides is not simply saying his account is more accurate than Homer's. He is proposing a new theory of what history is _for_. The past is not a storehouse of glorious deeds or divine moral lessons — it is a pattern built into human nature itself, and if you study it with sufficient rigor and honesty, you will be equipped to understand the present and anticipate the future. History, in this view, is a form of political science.
 
 ### What Sets It Apart
 
@@ -43,7 +52,7 @@ Thucydides reads like a different species of mind entirely:
 
 **Radical exclusion of the supernatural.** The gods do not act in Thucydides. Oracles appear only as things people believe in. The causes of events are always human — fear, honor, interest. He essentially invented secular historical explanation.
 
-**The speeches.** Thucydides punctuates his narrative with formal speeches — the *Funeral Oration of Pericles*, the *Melian Dialogue*, the *Mytilenean Debate* — which he acknowledges he could not have recorded verbatim. He aimed instead to reproduce "the general sense of what was actually said" while keeping to what was called for by each situation. The result is neither pure document nor pure invention: intellectual drama in which the arguments are real even if the words are reconstructed. The *Melian Dialogue* presses the logic of power to conclusions that real diplomatic negotiations rarely reach. When the Athenian envoys address Melos, they set aside the language of justice altogether:
+**The speeches.** Thucydides punctuates his narrative with formal speeches — the _Funeral Oration of Pericles_, the _Melian Dialogue_, the _Mytilenean Debate_ — which he acknowledges he could not have recorded verbatim. He aimed instead to reproduce "the general sense of what was actually said" while keeping to what was called for by each situation. The result is neither pure document nor pure invention: intellectual drama in which the arguments are real even if the words are reconstructed. The _Melian Dialogue_ presses the logic of power to conclusions that real diplomatic negotiations rarely reach. When the Athenian envoys address Melos, they set aside the language of justice altogether:
 
 > We both know that decisions about justice are made in human discussions only when both sides are under equal compulsion; but when one side is stronger, it gets as much as it can, and the weak must accept that.
 
@@ -53,15 +62,15 @@ It remains one of the most unflinching analyses of power ever written.
 
 > I believe that the truest reason for the quarrel, though least evident in what was said at the time, was the growth of Athenian power, which put fear into the Lacedaemonians and so compelled them into war.
 
-**Incompleteness.** The *History* simply stops. We never get Thucydides's account of Sicily's aftermath, the revolution of 411, or the final Spartan victory. It reads like a ruin — and ruins last.
+**Incompleteness.** The _History_ simply stops. We never get Thucydides's account of Sicily's aftermath, the revolution of 411, or the final Spartan victory. It reads like a ruin — and ruins last.
 
 ---
 
 ## The Author
 
-Thucydides was an Athenian general and aristocrat who lived through the events he described. He contracted the plague that devastated Athens in 430 BCE and survived it. Elected *strategos* (general) in 424 BCE, he failed to prevent the fall of Amphipolis to the Spartan commander Brasidas and was exiled for it. That exile, lasting twenty years, gave him something invaluable: the freedom to travel both sides of the war, to interview participants on every front, and to observe the conflict with the detachment that defeat forces upon a man.
+Thucydides was an Athenian general and aristocrat who lived through the events he described. He contracted the plague that devastated Athens in 430 BCE and survived it. Elected _strategos_ (general) in 424 BCE, he failed to prevent the fall of Amphipolis to the Spartan commander Brasidas and was exiled for it. That exile, lasting twenty years, gave him something invaluable: the freedom to travel both sides of the war, to interview participants on every front, and to observe the conflict with the detachment that defeat forces upon a man.
 
-He almost certainly did not live to finish his work. The *History* breaks off abruptly in 411 BCE, mid-sentence, mid-war, thirteen years before the end.
+He almost certainly did not live to finish his work. The _History_ breaks off abruptly in 411 BCE, mid-sentence, mid-war, thirteen years before the end.
 
 ---
 
@@ -85,7 +94,7 @@ Thucydides describes his evidentiary practice with a self-awareness bordering on
 
 What he does not do — and this absence is itself a method — is appeal to divine will, fate, or any cause that cannot be traced to human decision and human character. His preface closes with a declaration of purpose that doubles as a rebuke to every more entertaining work that preceded his:
 
-> This history may not be the most delightful to hear, since there is no mythology in it. But those who want to look into the truth of what was done in the past — which, given the human condition, will recur in the future, either in the same fashion or nearly so — those readers will find this *History* valuable enough, as this was composed to be a possession for all time, and not to be heard for a prize at the moment of a contest.
+> This history may not be the most delightful to hear, since there is no mythology in it. But those who want to look into the truth of what was done in the past — which, given the human condition, will recur in the future, either in the same fashion or nearly so — those readers will find this _History_ valuable enough, as this was composed to be a possession for all time, and not to be heard for a prize at the moment of a contest.
 
 ### The Speeches: The Central Methodological Problem
 
@@ -93,7 +102,7 @@ No aspect of Thucydides's method has generated more scholarly controversy than h
 
 > The words particular people said in their speeches, either just before or during the war, were hard to record exactly, whether they were speeches I heard myself or those that were reported to me at second hand. I have written down what I thought the situation demanded for each speaker, keeping as near as possible to the general sense of what was actually said.
 
-This statement has two halves that pull against each other — a commitment to accuracy and a license for invention — and both are operative at once, which is exactly what makes the speeches so strange and so powerful. Some are probably close to what was actually said. The *Melian Dialogue* reads like a philosophical dialogue distilled to a purity no actual negotiation could achieve.
+This statement has two halves that pull against each other — a commitment to accuracy and a license for invention — and both are operative at once, which is exactly what makes the speeches so strange and so powerful. Some are probably close to what was actually said. The _Melian Dialogue_ reads like a philosophical dialogue distilled to a purity no actual negotiation could achieve.
 
 The speeches function as analytical instruments. By juxtaposing them — the Mytilenean debate's Cleon and Diodotus, the Nicias and Alcibiades arguments over Sicily — Thucydides makes the reader a participant in the decisions of the past, and therefore better equipped to recognize the same structures of argument in the present.
 
@@ -103,18 +112,17 @@ The speeches function as analytical instruments. By juxtaposing them — the Myt
 
 ### What We Have
 
-The *History* comes down to us in eight books — a division almost certainly not Thucydides's own, but the work of later Alexandrian editors. What Thucydides left was a continuous Greek prose manuscript that runs from the war's origins in 431 BCE to a sentence in 411 BCE, and then simply stops. The war it is describing still has seven years left to run.
+The _History_ comes down to us in eight books — a division almost certainly not Thucydides's own, but the work of later Alexandrian editors. What Thucydides left was a continuous Greek prose manuscript that runs from the war's origins in 431 BCE to a sentence in 411 BCE, and then simply stops. The war it is describing still has seven years left to run.
 
 This is not a rhetorical device. It is a death.
 
-*(Other editions, like Mynott's, structure the text around Thucydides's own method of dividing the war into summers and winters, as he explicitly outlines in the text — e.g., II.1, V.20.)*
+_(Other editions, like Mynott's, structure the text around Thucydides's own method of dividing the war into summers and winters, as he explicitly outlines in the text — e.g., II.1, V.20.)_
 
 ### Book I — Archaeology and Causes
 
 The most architecturally complex book. The Archaeology establishes Thucydides's evidentiary standards; the Pentecontaetia — a compressed history of the fifty years between the Persian Wars and the Peloponnesian War — provides the essential backstory: how Athens built its empire, how Spartan anxiety grew, why collision was inevitable. Book I is simultaneously preface, methodology, backstory, and opening act.
 
 ### Books II–III — The First Years, Mytilene and Corcyra
-
 
 <figure>
 <img src="/pericles_chiaramonti.jpg" width="250">
@@ -124,13 +132,13 @@ The most architecturally complex book. The Archaeology establishes Thucydides's 
 
 Book II opens with the Theban attack on Plataea, then delivers the Funeral Oration of Pericles — and within pages, the plague of 430. The juxtaposition is devastating: Pericles has just delivered the most eloquent defense of Athenian civilization ever recorded, and the city is dying in the streets. Thucydides does not editorialize. The structure speaks.
 
-Book III contains the *Mytilenean Debate* — the assembly's two-day argument over whether to massacre the population of a rebel ally — and the Corcyrean Revolution, Thucydides's analysis of civil war as a general political pathology. Both concern the corruption of judgment under pressure. Placed in quick succession, the thematic orchestration is unmistakable.
+Book III contains the _Mytilenean Debate_ — the assembly's two-day argument over whether to massacre the population of a rebel ally — and the Corcyrean Revolution, Thucydides's analysis of civil war as a general political pathology. Both concern the corruption of judgment under pressure. Placed in quick succession, the thematic orchestration is unmistakable.
 
-### Books IV–V — The Middle Years and the *Melian Dialogue*
+### Books IV–V — The Middle Years and the _Melian Dialogue_
 
 These books cover the Archidamian War's later campaigns and the Peace of Nicias (421 BCE). Book IV includes the famous Athenian victory at Pylos and the capture of Spartan soldiers at Sphacteria — significant beyond its military weight, since the inviolability of the Spartan warrior had been a cornerstone of Greek psychology, and these men surrendered.
 
-Book V contains the *Melian Dialogue* (416 BCE), positioned with deliberate care immediately before the Sicilian Expedition. The Athenians force neutral Melos into submission, execute its men, enslave its women and children. The next book opens with the decision to invade Sicily. The placement is Thucydides's quiet argument: Athens has become what it claimed to oppose, and what follows is consequence.
+Book V contains the _Melian Dialogue_ (416 BCE), positioned with deliberate care immediately before the Sicilian Expedition. The Athenians force neutral Melos into submission, execute its men, enslave its women and children. The next book opens with the decision to invade Sicily. The placement is Thucydides's quiet argument: Athens has become what it claimed to oppose, and what follows is consequence.
 
 ### Books VI–VII — The Sicilian Expedition
 
@@ -144,7 +152,7 @@ Noticeably different in texture. The speeches largely disappear. The narrative i
 
 Signs of incompletion are visible throughout: duplicate or inconsistent passages, a "second preface" at V.26 that reads as a note to himself never quite integrated, and cross-references pointing forward to discussions that never appear. Most conspicuously, the final decade of the war — the role of Persian gold, the Athenian defeat at Aegospotami, the fall of Athens in 404 — is simply absent. Thucydides knew it; his second preface says he lived until the war's end. He did not write it.
 
-Antiquity felt the incompleteness and produced two ancient responses: Xenophon's *Hellenica*, which begins almost exactly where Thucydides breaks off, and the anonymous *Oxyrhynchus Historian*, known only from fragments. Neither is Thucydides. Neither could be.
+Antiquity felt the incompleteness and produced two ancient responses: Xenophon's _Hellenica_, which begins almost exactly where Thucydides breaks off, and the anonymous _Oxyrhynchus Historian_, known only from fragments. Neither is Thucydides. Neither could be.
 
 ---
 
@@ -166,11 +174,11 @@ The core problem is the relationship between democratic decision-making and long
 
 What follows is a study in democratic degeneration. Cleon nearly engineers a massacre in the Mytilenean Debate. Alcibiades persuades the assembly to approve the Sicilian expedition with a vision of empire, is recalled before it reaches its objective, and defects to Sparta. The assembly that Pericles could lead becomes one that its leaders must flatter — and that eventually votes for Sicily not because it has been given an honest strategic assessment but because Alcibiades has made empire feel glorious, and Nicias's cautious opposition has paradoxically strengthened the case for going, since the assembly interpreted his emphasis on the expedition's scale as an argument for sending more ships rather than fewer.
 
-Democracy, in Thucydides's view, is not a natural equilibrium. It is an achievement, continuously maintained against pressures that are always working to undo it. Pericles's Athens was democracy's best possible case. The rest of the *History* is what happens when those conditions cease to obtain.
+Democracy, in Thucydides's view, is not a natural equilibrium. It is an achievement, continuously maintained against pressures that are always working to undo it. Pericles's Athens was democracy's best possible case. The rest of the _History_ is what happens when those conditions cease to obtain.
 
 ### The Corruption of Language
 
-The most philosophically radical passage in the *History* is Thucydides's account of the civil war at Corcyra in Book III. Under the pressure of factional violence, he observes, words changed their meanings — the vocabulary of virtue was systematically reassigned to serve the vocabulary of power:
+The most philosophically radical passage in the _History_ is Thucydides's account of the civil war at Corcyra in Book III. Under the pressure of factional violence, he observes, words changed their meanings — the vocabulary of virtue was systematically reassigned to serve the vocabulary of power:
 
 > Civil war ran through the cities; those it struck later heard what the first cities had done and far exceeded them in inventing artful means for attack and bizarre forms of revenge. And they reversed the usual way of using words to evaluate what they did. Ill-considered boldness was counted as loyal manliness; prudent hesitation was held to be cowardice in disguise, and moderation merely the cloak of an unmanly nature. A mind that could grasp the good of the whole was considered wholly lazy. Sudden fury was accepted as part of manly valor, while plotting for one's own security was thought a reasonable excuse for delaying action. A man who expressed anger was always to be trusted, while one who opposed him was under suspicion. A man who made a plot was intelligent if it happened to succeed, while one who could smell out a plot was deemed even more clever. Anyone who took precautions, however, so as not to need to do either one (they would say), had been frightened by the other side into subverting his own political party. In brief, a man was praised if he could commit some evil action before anyone else did, or if he could urge on another person who had never meant to do such a thing.
 
@@ -240,9 +248,9 @@ Thucydides steps back from the narrative to offer an analysis that is among the 
 
 What Thucydides offers at the end of the passage is as close as he ever comes to diagnosing the root cause of political breakdown. The war itself, he argues, is the teacher — it provides the conditions under which the restraints on human behavior become costly, and costly restraints are abandoned. The passage is a compressed theory of how civilizations lose the capacity to govern themselves: not through conquest from without but through the progressive derangement, under pressure, of the shared language in which self-governance is conducted. Read alongside the Mytilenean Debate and the Sicilian Debate, it forms the third panel of a triptych about democratic institutions failing — in the assembly, in foreign policy, and in the city's capacity to remain a city at all.
 
-> Most of these atrocities, then, were committed first in Corcyra, including all the acts of revenge people take, when they have the opportunity, against rulers who have shown more arrogance (*hubris*) than good sense (*sôphrosunê*), and all the actions people choose unjustly in order to escape long-standing poverty, especially if they had been thrown into it. Most of these acted from a passionate desire for their neighbors' possessions, but there were also those who attacked the wealthy not to get more than their share, but primarily out of zeal for equality, and they were the most carried away by their undisciplined passion to commit savage and pitiless attacks. Life in the city had been thrown into such confusion at this time that human nature, having become accustomed to violate justice and laws, now came to dominate law altogether, and showed itself with delight to be the slave of passion, the victor over justice, and the enemy of anyone superior. Without the destructive force of envy, you see, people would not value revenge over reverence, or profits over justice. When they want revenge on others, people are determined first to destroy without a trace the laws that commonly govern such matters, though it is only because of these that anyone in trouble can hope to be saved, even though anyone might be in danger someday and stand in need of such laws.
+> Most of these atrocities, then, were committed first in Corcyra, including all the acts of revenge people take, when they have the opportunity, against rulers who have shown more arrogance (_hubris_) than good sense (_sôphrosunê_), and all the actions people choose unjustly in order to escape long-standing poverty, especially if they had been thrown into it. Most of these acted from a passionate desire for their neighbors' possessions, but there were also those who attacked the wealthy not to get more than their share, but primarily out of zeal for equality, and they were the most carried away by their undisciplined passion to commit savage and pitiless attacks. Life in the city had been thrown into such confusion at this time that human nature, having become accustomed to violate justice and laws, now came to dominate law altogether, and showed itself with delight to be the slave of passion, the victor over justice, and the enemy of anyone superior. Without the destructive force of envy, you see, people would not value revenge over reverence, or profits over justice. When they want revenge on others, people are determined first to destroy without a trace the laws that commonly govern such matters, though it is only because of these that anyone in trouble can hope to be saved, even though anyone might be in danger someday and stand in need of such laws.
 
-### The *Melian Dialogue* (Book V, 84–116)
+### The _Melian Dialogue_ (Book V, 84–116)
 
 In 416 BCE, an Athenian fleet arrived at Melos — a Spartan colony that had refused to join the Athenian empire and tried to remain neutral. The Athenians sent envoys to negotiate before attacking, and Thucydides renders what followed as a formal philosophical dialogue: claim and counter-claim, pressed to logical conclusions that real diplomatic negotiations rarely reach.
 
@@ -296,11 +304,11 @@ Thucydides maintains throughout what can only be called a compassionate detachme
 
 **Thomas Hobbes (1629)** — the earliest major English translation, made before Hobbes had written his own philosophical work. Knotted and muscular, not always reliable, but an irreplaceable encounter between two of the most unsentimental minds in Western political thought.
 
-**Paul Woodruff (Hackett, 1993; revised 2021)** — curates key passages focused on the stark realism of Athenian power politics, highlighting the tension between justice and raw power. Features the war's opening, the plague, the Mytilenean debate, the civil war in Corcyra, and the Sicilian Expedition, with a mixture of full translations of key speeches and summaries of surrounding historical context, making it easier to navigate than the complete *History*.
+**Paul Woodruff (Hackett, 1993; revised 2021)** — curates key passages focused on the stark realism of Athenian power politics, highlighting the tension between justice and raw power. Features the war's opening, the plague, the Mytilenean debate, the civil war in Corcyra, and the Sicilian Expedition, with a mixture of full translations of key speeches and summaries of surrounding historical context, making it easier to navigate than the complete _History_.
 
 **Richard Crawley (1874)** — fluent, dignified Victorian prose, with a genuinely moving Funeral Oration. The best starting point for a reader who wants the narrative to move, though he occasionally smooths over the Greek's notorious syntactic difficulty.
 
-**Rex Warner (Penguin Classics, 1954; revised 1972)** — lucid and modern, probably still the most widely read version. His *Melian Dialogue* is particularly strong.
+**Rex Warner (Penguin Classics, 1954; revised 1972)** — lucid and modern, probably still the most widely read version. His _Melian Dialogue_ is particularly strong.
 
 **Steven Lattimore (Hackett, 1998)** — the preferred scholarly translation for academic use. Lattimore takes the Greek's difficulty seriously, reproducing ambiguities rather than resolving them. The edition to use for serious engagement with what Thucydides is actually saying.
 
@@ -308,26 +316,26 @@ For the speeches — where the gap between translations is widest — reading Cr
 
 ### General Studies
 
-**Jacqueline de Romilly, *Thucydides and Athenian Imperialism* (1947; English translation 1963)** — the foundational modern study of Thucydides's political thought, essential for understanding how he traces the development and self-corruption of Athenian imperial ideology. Her later *Thucydides* (1985) is a more accessible single-volume introduction.
+**Jacqueline de Romilly, _Thucydides and Athenian Imperialism_ (1947; English translation 1963)** — the foundational modern study of Thucydides's political thought, essential for understanding how he traces the development and self-corruption of Athenian imperial ideology. Her later _Thucydides_ (1985) is a more accessible single-volume introduction.
 
-**W. Robert Connor, *Thucydides* (Princeton, 1984)** — transformed scholarship by reading the *History* as a literary and rhetorical construction rather than primarily as a historical source. His reading of the Sicilian narrative as tragic structure is particularly influential.
+**W. Robert Connor, _Thucydides_ (Princeton, 1984)** — transformed scholarship by reading the _History_ as a literary and rhetorical construction rather than primarily as a historical source. His reading of the Sicilian narrative as tragic structure is particularly influential.
 
-**Simon Hornblower, *A Commentary on Thucydides*, 3 vols. (Oxford, 1991–2008)** — comprehensive and philologically rigorous. Essential for serious academic work; not designed for non-specialists.
+**Simon Hornblower, _A Commentary on Thucydides_, 3 vols. (Oxford, 1991–2008)** — comprehensive and philologically rigorous. Essential for serious academic work; not designed for non-specialists.
 
-**Donald Kagan, *The Peloponnesian War* (Viking, 2003)** — an accessible one-volume condensation of Kagan's monumental four-volume history. Consistently willing to disagree with Thucydides's interpretations, and the disagreements are productive.
+**Donald Kagan, _The Peloponnesian War_ (Viking, 2003)** — an accessible one-volume condensation of Kagan's monumental four-volume history. Consistently willing to disagree with Thucydides's interpretations, and the disagreements are productive.
 
-**A. W. Gomme, A. Andrewes, and K. J. Dover, *A Historical Commentary on Thucydides*, 5 vols. (Oxford, 1945–1981)** — still the most exhaustive line-by-line commentary in English. Indispensable for anyone working closely with the Greek.
+**A. W. Gomme, A. Andrewes, and K. J. Dover, _A Historical Commentary on Thucydides_, 5 vols. (Oxford, 1945–1981)** — still the most exhaustive line-by-line commentary in English. Indispensable for anyone working closely with the Greek.
 
 ### Political Theory and Reception
 
-**Graham Allison, *Destined for War: Can America and China Escape Thucydides's Trap?* (Houghton Mifflin Harcourt, 2017)** — the most influential recent application of Thucydidean analysis to contemporary geopolitics. Uneven as political science but valuable as an illustration of why Thucydides's structural analysis retains its explanatory force.
+**Graham Allison, _Destined for War: Can America and China Escape Thucydides's Trap?_ (Houghton Mifflin Harcourt, 2017)** — the most influential recent application of Thucydidean analysis to contemporary geopolitics. Uneven as political science but valuable as an illustration of why Thucydides's structural analysis retains its explanatory force.
 
-**Leo Strauss, *The City and Man* (1964)** — contains a long, philosophically demanding chapter arguing that Thucydides has a hidden political teaching accessible only through attention to the work's silences and structural choices, deeply skeptical of both democracy and imperialism. Requires engagement whether or not one accepts its method.
+**Leo Strauss, _The City and Man_ (1964)** — contains a long, philosophically demanding chapter arguing that Thucydides has a hidden political teaching accessible only through attention to the work's silences and structural choices, deeply skeptical of both democracy and imperialism. Requires engagement whether or not one accepts its method.
 
-**Michael Doyle, *Ways of War and Peace* (Norton, 1997)** — situates Thucydides within the history of realist international relations theory, from Machiavelli and Hobbes through contemporary IR scholarship.
+**Michael Doyle, _Ways of War and Peace_ (Norton, 1997)** — situates Thucydides within the history of realist international relations theory, from Machiavelli and Hobbes through contemporary IR scholarship.
 
 ### On the Speeches and Democratic Thought
 
-**Nicole Loraux, *The Invention of Athens* (Harvard, 1986)** — the definitive study of the Athenian funeral oration as a genre and institution, revealing as much about Athenian ideology as about any individual speaker.
+**Nicole Loraux, _The Invention of Athens_ (Harvard, 1986)** — the definitive study of the Athenian funeral oration as a genre and institution, revealing as much about Athenian ideology as about any individual speaker.
 
-**Cynthia Farrar, *The Origins of Democratic Thinking* (Cambridge, 1988)** — situates the Funeral Oration and Thucydides's democratic analysis in the broader context of fifth-century Athenian political thought.
+**Cynthia Farrar, _The Origins of Democratic Thinking_ (Cambridge, 1988)** — situates the Funeral Oration and Thucydides's democratic analysis in the broader context of fifth-century Athenian political thought.
