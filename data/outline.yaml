@@ -103,8 +103,8 @@
       children:
         - title: "al-Ṭabarī (companion)"
           author: "al-tabari"
-        - title: "Ibn Khaldun (companion)"
-          author: "ibn-khaldun"
+        - title: "Ibn Khaldun (full text)"
+          author: "khaldun"
     - title: "High Middle Ages"
       category: "high-middle-ages"
       children:
