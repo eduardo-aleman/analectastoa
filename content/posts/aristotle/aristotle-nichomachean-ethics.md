@@ -274,11 +274,15 @@ The most philosophically contested passage in the *Ethics* — and the most reve
 
 The passage is immediately complicated by what follows: the acknowledgment that this is not the life appropriate to a human being but to "something divine" in us. The life Aristotle has been describing for nine books — of practical wisdom, courage, justice, friendship, and political engagement — is described as happiness "in a secondary way" (*deuterōs*, 1178a9). The tension between these two visions of the good life — the philosophically engaged, socially embedded life of Books I–IX, and the solitary contemplative life of Book X — is one of the great unresolved questions in Aristotelian scholarship.
 
+<iframe src="https://archive.org/embed/in.ernet.dli.2015.183333" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 ## Further Reading
 
 ### Translations
+
+**Aristotle., Rackham, H. (translator). Aristotle: The Nicomachean Ethics, Translated by H. Rackham. United Kingdom: Harvard University Press, 1934.**
 
 **Terence Irwin (Hackett, Second Edition, 1999)** — the standard philosophical translation, used by most anglophone philosophy departments. Precise, consistent in rendering technical terms, and accompanied by an extensive commentary. Not always graceful, but philosophically reliable. The second edition improves significantly on the first in several contested passages.
 
