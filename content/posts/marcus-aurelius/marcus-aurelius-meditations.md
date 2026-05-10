@@ -1,7 +1,7 @@
 ---
 title: "Meditations"
 date: 2026-05-08
-authors: ["Marcus Aurelius"]
+authors: ["Aurelius"]
 categories: ["Roman Philosophy"]
 tags:
   [
