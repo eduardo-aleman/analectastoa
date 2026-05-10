@@ -18,7 +18,7 @@
       children:
         - title: "Plato (full text)"
           author: "plato"
-        - title: "Aristotle (companion)"
+        - title: "Aristotle (full text and companion)"
           author: "aristotle"
         - title: "Epicurus (full text)"
           author: "epicurus"
