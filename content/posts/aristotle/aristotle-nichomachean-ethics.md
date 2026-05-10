@@ -284,6 +284,8 @@ The passage is immediately complicated by what follows: the acknowledgment that 
 
 **Aristotle., Rackham, H. (translator). Aristotle: The Nicomachean Ethics, Translated by H. Rackham. United Kingdom: Harvard University Press, 1934.**
 
+**Aristotle in 23 Volumes, Vol. 19, translated by H. Rackham. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1934.** <https://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.01.0054>
+
 **Terence Irwin (Hackett, Second Edition, 1999)** — the standard philosophical translation, used by most anglophone philosophy departments. Precise, consistent in rendering technical terms, and accompanied by an extensive commentary. Not always graceful, but philosophically reliable. The second edition improves significantly on the first in several contested passages.
 
 **W. D. Ross, revised by J. O. Urmson (Oxford, 1998)** — the older Oxford translation, widely available and still useful, though subsequent scholarship has required corrections in several places. Ross's English captures the text's gravity better than some more recent versions.
