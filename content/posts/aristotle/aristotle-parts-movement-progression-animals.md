@@ -1,0 +1,137 @@
+---
+title: "Parts of Animals · Movement of Animals · Progression of Animals"
+date: 2026-05-08
+authors: ["Aristotle"]
+categories: ["Greek Philosophy"]
+tags:
+  [
+    "Aristotle",
+    "Biology",
+    "Zoology",
+    "De Partibus Animalium",
+    "De Motu Animalium",
+    "De Incessu Animalium",
+    "Teleology",
+    "Natural Philosophy",
+    "Greek Philosophy",
+    "Greek Science",
+    "Lyceum",
+    "Locomotion",
+    "Anatomy",
+    "Physiology",
+  ]
+series: ["Aristotle"]
+summary: "Reading companion and full text of Aristotle's Parts of Animals, Movement of Animals, and Progression of Animals (Loeb Classical Library 323), translated by A. L. Peck and E. S. Forster — three of Aristotle's major biological treatises: the first an enquiry into the bodily parts of animals and the teleological principles that govern their design, the second a short but philosophically rich analysis of the causes of animal locomotion in general, and the third a systematic study of how different kinds of animals actually move."
+ShowToc: true
+TocOpen: false
+draft: false
+cover:
+  image: "/Bodleian-Library-MS-Auct-F-1-15_00013_fol-5r.jpg"
+  alt: "Oxford, Bodleian Library, MS. Auct. F. 1. 15, fol. 5r — Aristotle's biological works with commentary and gloss"
+  caption: "Oxford, Bodleian Library, MS. Auct. F. 1. 15, fol. 5r. This Bodleian volume — catalogued with commentary and gloss and shelved among the library's earliest acquisitions — preserves a text of Aristotle's biological writings alongside scholia and interlinear or marginal annotation characteristic of the learned reception of Aristotle's scientific corpus in both the Byzantine and Latin medieval traditions. Fol. 5r, shown here, is an early folio in a large volume that runs well beyond five hundred folios: the De motu animalium ('Movement of Animals'), one of the three treatises gathered in the present Loeb edition, appears significantly later in the same volume at fols. 542r–545v — a reminder that in the manuscript and early-print tradition the three texts collected here were not always transmitted together or in a fixed order, but were copied as part of larger Aristotelian miscellanies assembled for teaching and study. The Bodleian Library acquired the volume as part of its foundational collection. Bodleian Libraries, University of Oxford."
+---
+
+# ARISTOTLE
+
+## Parts of Animals · Movement of Animals · Progression of Animals
+
+### Parts of Animals translated by A. L. Peck
+### Movement of Animals and Progression of Animals translated by E. S. Forster
+
+---
+
+## INTRODUCTION
+
+Aristotle (384–322 BCE) is the most prolific natural scientist of the ancient world, and the biological treatises gathered in this Loeb volume represent the part of his output that most clearly displays that distinction. He was born at Stagira in Chalcidice, the son of Nicomachus, who served as physician to King Amyntas of Macedon, and his early exposure to a medical household may have shaped the empirical and anatomical orientation of his later scientific work. At eighteen he joined Plato's Academy in Athens and remained there for twenty years, until Plato's death in 347. He then spent approximately five years at Assos and on the island of Lesbos — years that represent the most intensive period of his biological fieldwork — before being called to Macedon to tutor the young Alexander. He returned to Athens in 335 and founded the Lyceum, the school whose name would become synonymous with his philosophical tradition, and there taught and wrote until forced to leave for Chalcis in 323, where he died the following year.
+
+The biological treatises — the *Historia Animalium* (History of Animals), the *De Partibus Animalium* (Parts of Animals), the *De Generatione Animalium* (Generation of Animals), the *De Motu Animalium* (Movement of Animals), and the *De Incessu Animalium* (Progression of Animals) — together constitute what has been called the first systematic zoology in any language. Aristotle observed, described, and in many cases dissected some five hundred species; his account of the development of the chick embryo was not bettered until the seventeenth century; his description of the placenta of the smooth dogfish (*Mustelus laevis*) was confirmed by modern naturalists only in the nineteenth. The biologist D'Arcy Wentworth Thompson, who reviewed this very Loeb volume in *The Classical Review*, described Aristotle as "incomparably the greatest naturalist of antiquity" and as a figure whose scientific imagination ran consistently ahead of his means of verification.
+
+The three texts in Loeb 323 form a philosophically and empirically interlocking set. *Parts of Animals* examines why animals have the parts they have — addressing method as much as substance, and offering the most developed statement in Aristotle's work of the role of teleological explanation in natural science. *Movement of Animals* turns to the general causes of locomotion at the level of soul and body: what makes an animal move at all, and how the soul's desire is converted into the body's motion. *Progression of Animals* examines how that motion is realised in practice across the full diversity of the animal kingdom — why some animals have four limbs and some two, why snakes can move without any limbs at all, what principles govern the geometry of the body in locomotion.
+
+### The Texts in This Volume
+
+**De Partibus Animalium** (*Parts of Animals*, PA) consists of four books. Book I stands apart from the rest: it is a sustained methodological argument for the proper conduct of biological inquiry, and it is one of the most important philosophical texts in Aristotle's entire corpus. Its central claims are that natural science must appeal to final causes — to the purposes that parts serve — and not merely to material or efficient ones; that the form of a living thing, not its matter, is what the biologist must primarily understand; and that the study of animals, however humble their subject matter, is a form of rational enquiry that deserves the same dignity as the study of the stars. The famous argument of PA I.5 — that even animals whose parts seem unpleasant to examine deserve the naturalist's attention, because everywhere in nature there is something of wonder — encapsulates the spirit of the whole biological programme.
+
+Books II through IV carry out the programme in practice. They move systematically through the parts that are common to all blooded animals — blood, bones, flesh, marrow, fat — and then through the principal organs and their functions: brain, heart, lungs, liver, spleen, kidneys, bladder, stomach, intestines. They examine the blood vessels in detail, discuss the anatomy of sense organs, and then move outward through the external parts and their variation across species. The governing question throughout is not merely what each part is, but what it is for: the heart is the seat of the vital heat; the lung is for cooling; the spleen is what it is because the liver requires a counterpart. The teleological architecture is pervasive and explicit, grounded in the principle that nature does nothing in vain.
+
+**De Motu Animalium** (*Movement of Animals*, MA) is a short but philosophically rich work of eleven chapters that addresses a question of great generality: what is the proximate cause of animal locomotion? Aristotle's answer draws together elements from his psychology, his physics, and his biology into an account of how desire (*orexis*) — which is always directed at some imagined or perceived object — produces alterations in the central organ that are converted by the vital *pneuma* into the mechanical movements of the limbs. The unmoved mover is invoked, at the level of cosmology, as the ultimate explanation for why the universe contains movement at all; but the immediate explanation for why this animal moves now is the animal's own desire and the physical chain of events it initiates.
+
+The *De Motu* was for a long time considered of doubtful authenticity — a note in the Loeb volume records that it "has been generally considered a spurious work, though recent opinion has favoured its genuineness" — and the debate continued through the twentieth century. The 2023 critical edition by Oliver Primavesi firmly establishes the text's authenticity and its place in the Aristotelian corpus, treating it as a key link between Aristotle's psychology in the *De Anima* and the practical biology of the *Progression*. The text appears in the present manuscript tradition at fols. 542r–545v of Bodleian MS Auct. F. 1. 15, the volume whose opening folio is reproduced on the cover of this edition.
+
+**De Incessu Animalium** (*Progression of Animals*, IA) consists of nineteen chapters addressing the empirical diversity of animal locomotion: why do animals that move need at least two points of support? Why is the number of limbs always even? Why do blooded animals have at most four limbs, while bloodless animals may have more? Why can snakes, eels, and worms move without limbs at all? The answers draw on both mechanical and teleological considerations — on what the geometry of locomotion requires and on what nature, given its materials, can achieve. The *Progression* is in some ways the most concrete of the three texts, its arguments rooted in observation of how animals actually hold and move their bodies, and it provides an illuminating companion to the more abstract treatment of locomotion in the *Movement*.
+
+### Aristotle and the Biological Sciences
+
+The significance of the biological works extends well beyond their content. In methodology, they represent Aristotle's fullest application of the principle that understanding requires not just description of what is the case but explanation of why it must be so — and specifically the claim that in the case of living things, the teleological explanation (in terms of function and purpose) is irreducible to purely mechanical terms. This is the central philosophical claim of *Parts of Animals* Book I, and it has generated continuous debate from antiquity to the present: whether Aristotle's teleology implies conscious design, whether it is compatible with Darwinian natural selection, and whether functional explanation in biology is genuinely distinct from causal explanation.
+
+In practice, the biological works display an empirical rigour that has repeatedly surprised modern scientists reading them carefully. Aristotle's account of the four-chambered heart (though he misidentified the number of ventricles), his description of the function of the epiglottis, his account of cephalopod anatomy — in particular the hectocotylus arm of the octopus, whose role in reproduction was disputed until the nineteenth century — all represent genuine observational achievement. His mistakes are equally instructive: his insistence that the brain is a cooling organ for the blood, while the heart is the seat of intelligence, reflects the limits of observation without dissection of the nervous system.
+
+The biological works were almost unknown in the Latin West through the early medieval period, surviving only in fragments and summaries. Their recovery came first through Arabic: the ninth-century Baghdad translators rendered the *Historia Animalium* and related texts into Arabic, from which Michael Scot produced the Latin translations that made Aristotle's biology available to Albert the Great and thence to the wider scholastic tradition in the thirteenth century. Direct translations from the Greek, by William of Moerbeke, followed shortly after. The first printed edition of the biological works in any language was Theodorus Gaza's Latin translation of 1476 (Venice: Johann de Colonia and Johannes Manthen); the first Greek text appeared in the Aldine Aristotle of 1497–98.
+
+### Transmission
+
+The transmission of the biological works is considerably more complex than that of Aristotle's logical or ethical treatises, partly because the texts themselves constitute a large corpus and partly because their medieval reception proceeded through two largely independent channels — the Arabic and the Greek — before converging in the Renaissance.
+
+The manuscript tradition of *De Partibus Animalium* alone runs to some fifty Greek codices, an Arabic translation from the ninth century, and two medieval and two Renaissance Latin translations, all of which require consideration for establishing the text. The reconstruction of the stemma reveals two lost late-antique hyparchetypes (designated α and β) whose readings are recoverable through the agreement of independent witnesses. The *De Motu Animalium*, meanwhile, is preserved in forty-seven known Greek manuscripts, a number that reflects its transmission in close association with the *De Incessu* and with the broader Aristotelian corpus in both Byzantine and Latin traditions.
+
+The standard modern critical text for most of the biological works is that of Immanuel Bekker (Berlin, 1831), whose edition established the reference system — work, book, chapter, and Bekker number — used in all modern scholarship. For *De Partibus Animalium*, the Teubner text of Hermann Joachim Dittmeyer (1907) and the Budé edition of Pierre Louis (1956) have served as critical baselines; the manuscript tradition is now the subject of a comprehensive new study by Peter Isépy (De Gruyter, 2026). For *De Motu Animalium*, the 2023 Oxford edition by Oliver Primavesi represents the most thorough critical text yet produced, collating all forty-seven known manuscripts against each other and against the Latin tradition.
+
+The Bodleian volume MS Auct. F. 1. 15, whose opening folio is reproduced on the cover of this edition, preserves a text with scholia of Aristotle's biological works — including *De Motu Animalium* at fols. 542r–545v — in the kind of large collected Aristotelian miscellany that served as the working library of Byzantine and later humanist scholarly tradition. Such volumes, transmitted through the Lyceum's library, Andronicus of Rhodes's first-century BCE editorial organisation of Aristotle's works, and the continuous but uneven tradition of Byzantine copying, are the material foundation on which every modern text of Aristotle's biology rests.
+
+### This Translation
+
+*Parts of Animals* is translated by **Arthur Leslie Peck** (1902–1974), Fellow of Christ's College, Cambridge. Peck brought to the biological texts a combination of philosophical precision and scientific alertness unusual among classical translators of his generation; his introduction to *Parts of Animals* in this volume, running to over a hundred pages, is a major scholarly document in its own right, addressing the teleological methodology of Book I in depth and providing a systematic account of Aristotle's biological terminology. His translation is accompanied by the Greek text on facing pages, following the standard Loeb format.
+
+*Movement of Animals* and *Progression of Animals* are translated by **Edward Seymour Forster** (1879–1950), Lecturer in Classics at the University of Sheffield, who also contributed translations to other Loeb Aristotle volumes. His versions of the two shorter texts are careful and readable, though the *Movement of Animals* in particular has benefited from more recent critical and philosophical attention — especially Martha Nussbaum's 1978 edition with essays and commentary (Princeton University Press), which transformed the scholarly reception of the text and whose discussion of the relationship between the *Movement* and Aristotle's broader psychology remains essential reading.
+
+The volume was published by William Heinemann (London) and Harvard University Press (Cambridge, MA) in 1937. It is Loeb Classical Library 323. The translation is in copyright.
+
+---
+
+## FULL TEXT
+
+### Parts of Animals · Book I
+
+*[Book I of the Parts of Animals is not a study of animal parts but a methodological prolegomenon to the whole biological programme. Chapter 1 opens by identifying the two kinds of competence a student of any subject should possess, before arguing for the distinctiveness and dignity of teleological explanation in natural science. The Bekker reference for the opening of Book I is 639a1.]*
+
+**I.** In every study and enquiry, whether humble or exalted, there appear to be two sorts of proficiency: one of them may properly be called scientific knowledge of the subject, while the other is a kind of educated acquaintance with it. For it is the mark of an educated person to be able to judge, with some accuracy, what is well explained and what is not; and this is in fact what we consider a man of general education to be capable of. We expect such a man to be able to judge on almost any subject. The difference is that whereas the man of general education makes his judgements as an individual, the scientist makes his in a particular field, and only there.[^1]
+
+**II.** Hence it is clear that, as in other sciences, so in the study of Nature there must be certain canons by reference to which a student may appraise the method of a treatise, quite apart from the question whether what is stated is true or false. I mean, for instance, whether we should take each kind of animal severally and define what belongs to it, or whether we should first lay down the attributes which are common to all animals. The same part is often found in many animals, though under differences — for example, feet, wings, scales, and indeed the very name may apply to different things: fish-scales and the scales of reptiles differ, and so do bird-feathers and fish-scales, though all may be called by the same name.
+
+**III.** Now it might seem that we ought to begin with the individual species, as we do in the practical sciences. A doctor does not treat Man in general, but Socrates or Callias or some individual who happens to be a patient. Similarly a trainer does not train Man in general, but some individual. Nevertheless in every case it is the knowledge of the universal that comes first.[^2] The natural scientist is concerned with the nature of the whole as well as with the parts — the nature of animals and of their parts — and must understand both; and his principal aim is not the individual but the kind, the species, the universal, so far as these are relevant to the enquiry.
+
+---
+
+<iframe src="https://archive.org/embed/L323AristotlePartsOfAnimalsMovementOfAnimalsProgressionOfAnimals" width="100%" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+---
+
+### Bibliography
+
+Peck, A. L., trans. *Aristotle: Parts of Animals.* Forster, E. S., trans. *Movement of Animals. Progression of Animals.* Loeb Classical Library 323. London: William Heinemann; Cambridge, MA: Harvard University Press, 1937.
+
+Bekker, Immanuel, ed. *Aristotelis Opera.* 2 vols. Berlin: Reimer, 1831.
+
+Dittmeyer, Hermann Joachim, ed. *Aristotelis De Animalibus Historia.* Leipzig: Teubner, 1907.
+
+Louis, Pierre, ed. and trans. *Aristote: Les Parties des animaux.* Paris: Les Belles Lettres (Budé), 1956.
+
+Nussbaum, Martha C., ed. *Aristotle's De Motu Animalium: Text with Translation, Commentary, and Interpretive Essays.* Princeton: Princeton University Press, 1978.
+
+Primavesi, Oliver, ed. *Aristotle, De Motu Animalium: A New Critical Edition of the Greek Text.* Trans. Benjamin Morison. Oxford: Oxford University Press, 2023.
+
+Isépy, Peter. *A Study on the Manuscript Transmission of Aristotle, De partibus animalium I: With a New Text Based on the Entire Greek, Arabic and Latin Tradition.* Berlin: De Gruyter, 2026.
+
+Balme, D. M., ed. and trans. *Aristotle: De Partibus Animalium I and De Generatione Animalium I.* Oxford: Clarendon Press, 1972.
+
+Thompson, D'Arcy Wentworth. Review of Loeb Classical Library 323. *The Classical Review* 52.1 (1938): 14–16.
+
+Lennox, James G. *Aristotle's Philosophy of Biology: Studies in the Origins of Life Science.* Cambridge: Cambridge University Press, 2001.
+
+Footnotes
+
+[^1]: The distinction Peck renders as "scientific knowledge" and "educated acquaintance" corresponds in the Greek to *episteme* (scientific understanding, the grasp of causes) and *pepaideusthai* (the general cultivation that enables a person to judge intelligently without being a specialist). The opening pages of *Parts of Animals* I constitute one of Aristotle's most direct statements on the methodology of natural science, and their argument — that biological enquiry requires a kind of reasoning distinct from both mathematics and practical knowledge — has been intensely debated in modern Aristotle scholarship.
+
+[^2]: The reference to "Socrates or Callias" as instances of "Man in general" is a characteristic Aristotelian example: the individual — the concrete, particular human being before you — is what medicine or training directly addresses, but the *knowledge* that makes treatment or training possible is always universal, always about kinds and what belongs to them as kinds. The doctor knows that fever of such a type responds to such a treatment, and applies this to Socrates; the scientist of nature knows what it is to be an animal of such a kind, and this knowledge is prior to any encounter with an individual instance of it.
+
+[^3]: Bekker number 639a1 is the standard academic reference for the opening of *De Partibus Animalium* Book I. The Bekker numbering system, established in Immanuel Bekker's 1831 Berlin edition of the complete Aristotle, uses page number, column (a or b), and line number from that edition, and serves as the universal cross-reference system for Aristotle's works across all translations and editions.
