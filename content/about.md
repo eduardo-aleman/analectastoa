@@ -103,11 +103,7 @@ otherwise does them no honour.
 
 ## Image Credits
 
-<img src="/panini_ancient_rome.jpg" width="180" alt="Panini — Ancient Rome"> — Image sourced from the <a href="https://pdimagearchive.org/images/21cbbd7e-5386-431d-a68e-bdd30bf72bde">Public Domain Image Archive / The Metropolitan Museum</a>.
-
 <img src="/holkham_bible.jpg" width="180" alt="Holkham Bible"> — Image sourced from the <a href="https://pdimagearchive.org/images/bde572e6-4441-46ed-b69e-e654d04f1ac0">Public Domain Image Archive / British Library</a>.
-
-<img src="/hands.jpg" width="180" alt="Hands with Busts of Apostles, Saints, Mary, and Christ"> - Image sourced from the <a href="https://pdimagearchive.org/images/aa00b387-202c-42e5-a975-62fb4a8c7bac">Public Domain Image Archive / The Walters Art Museum</a>
 
 ---
 
