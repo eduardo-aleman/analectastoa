@@ -107,7 +107,7 @@ otherwise does them no honour.
 src="/Aqmat_Victoria_and_Albert_Museum.jpg"
 width="200px" >}}
 
-- Dating from the mid-to-late second century (150–200 AD), this striking Palmyrene limestone funerary relief (Museum number 102612) depicts a woman named Aqmat, daughter of Hagagu. Carved with the intricate detail characteristic of Palmyra’s elite commemorative art, the bust shows Aqmat draped in the traditional veil of matronhood and a mantle secured by a circular buckle. Her status is signaled by her elaborate adornments, including a triple necklace, a breastplate chain, and a jeweled fillet across her brow. The piece is notably personal, featuring a three-line inscription in the Palmyrene language that traces her lineage back to her ancestor Ma'an and concludes with the poignant lament, "Alas!" Standing 51 centimeters tall, this well-preserved work—purchased by the British Museum in 1908—serves as a sophisticated testament to the funerary customs and sculptural mastery of ancient Syria. Now on loan at the Victoria and Albert Museum in London. Image by Eduardo Alemán.
+Dating from the mid-to-late second century (150–200 AD), this striking Palmyrene limestone funerary relief (Museum number 102612) depicts a woman named Aqmat, daughter of Hagagu. Carved with the intricate detail characteristic of Palmyra’s elite commemorative art, the bust shows Aqmat draped in the traditional veil of matronhood and a mantle secured by a circular buckle. Her status is signaled by her elaborate adornments, including a triple necklace, a breastplate chain, and a jeweled fillet across her brow. The piece is notably personal, featuring a three-line inscription in the Palmyrene language that traces her lineage back to her ancestor Ma'an and concludes with the poignant lament, "Alas!" Standing 51 centimeters tall, this well-preserved work—purchased by the British Museum in 1908—serves as a sophisticated testament to the funerary customs and sculptural mastery of ancient Syria. Now on loan at the Victoria and Albert Museum in London. Image by Eduardo Alemán.
 
 <br>
 
@@ -115,7 +115,7 @@ width="200px" >}}
 src="/antoninus_pius_british_museum.png"
 width="200px" >}}
 
-- Marble portrait bust of the Roman Emperor Antoninus Pius. He ruled the Roman Empire from 138 to 161 CE, presiding over a period of peace and prosperity. The bust depicts him in military dress with a neatly trimmed beard and curly hair, a style popular during his reign. This specific sculpture is a replica created around 160 CE, based on an original prototype from approximately 140 CE. He was the fourth of the "Five Good Emperors" and a member of the Nerva–Antonine dynasty. It is in the British Museum. Image by Eduardo Alemán.
+Marble portrait bust of the Roman Emperor Antoninus Pius. He ruled the Roman Empire from 138 to 161 CE, presiding over a period of peace and prosperity. The bust depicts him in military dress with a neatly trimmed beard and curly hair, a style popular during his reign. This specific sculpture is a replica created around 160 CE, based on an original prototype from approximately 140 CE. He was the fourth of the "Five Good Emperors" and a member of the Nerva–Antonine dynasty. It is in the British Museum. Image by Eduardo Alemán.
 
 <br>
 
@@ -123,7 +123,7 @@ width="200px" >}}
 src="/socrates_british_museum.png"
 width="200px" >}}
 
-- Marble portrait bust depicting the ancient Greek philosopher Socrates. This particular sculpture is a Roman copy, likely created in the 2nd century CE, based on a Greek original from the 4th century BCE. The sculpture captures Socrates' famously "unattractive" appearance as described by contemporary accounts, including a broad forehead, pug nose, fleshy lips, and a thick, curly beard. These features were often compared to those of a satyr. It is currently held in the collection of the British Museum in London. Image by Eduardo Alemán.
+Marble portrait bust depicting the ancient Greek philosopher Socrates. This particular sculpture is a Roman copy, likely created in the 2nd century CE, based on a Greek original from the 4th century BCE. The sculpture captures Socrates' famously "unattractive" appearance as described by contemporary accounts, including a broad forehead, pug nose, fleshy lips, and a thick, curly beard. These features were often compared to those of a satyr. It is currently held in the collection of the British Museum in London. Image by Eduardo Alemán.
 
 ---
 
