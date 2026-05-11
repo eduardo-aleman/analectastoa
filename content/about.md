@@ -103,7 +103,10 @@ otherwise does them no honour.
 
 ## Image Credits
 
-<img src="/holkham_bible.jpg" width="180" alt="Holkham Bible"> — Image sourced from the <a href="https://pdimagearchive.org/images/bde572e6-4441-46ed-b69e-e654d04f1ac0">Public Domain Image Archive / British Library</a>.
+{{< image
+src="/Marcus_Aurelius_British_Museum.png"
+caption="Dating from the mid-to-late second century (150–200 AD), this striking Palmyrene limestone funerary relief (Museum number 102612) depicts a woman named Aqmat, daughter of Hagagu. Carved with the intricate detail characteristic of Palmyra’s elite commemorative art, the bust shows Aqmat draped in the traditional veil of matronhood and a mantle secured by a circular buckle. Her status is signaled by her elaborate adornments, including a triple necklace, a breastplate chain, and a jeweled fillet across her brow. The piece is notably personal, featuring a three-line inscription in the Palmyrene language that traces her lineage back to her ancestor Ma'an and concludes with the poignant lament, "Alas!" Standing 51 centimeters tall, this well-preserved work—purchased by the British Museum in 1908—serves as a sophisticated testament to the funerary customs and sculptural mastery of ancient Syria. Image by Eduardo Alemán."
+width="300px" >}}
 
 ---
 
