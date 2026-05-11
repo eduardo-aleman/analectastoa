@@ -66,7 +66,7 @@ The three short lives of **Galba**, **Otho**, and **Vitellius** cover the convul
 
 {{< image 
     src="/Roman_Emperor_Titus_British_Museum.png" 
-    caption="This marble bust, currently housed in **The British Museum**, portrays the Roman Emperor **Titus** (reigned 79–81 AD). Excavated in Utica, Tunisia, and dating to approximately 70–80 AD, the portrait captures the Flavian ruler known for his military command during the siege of Jerusalem and his brief but significant reign. Image by **Eduardo Alemán**." 
+    caption="This marble bust, currently housed in **The British Museum**, portrays the Roman Emperor **Titus**. Excavated in Utica, Tunisia, and dating to approximately 70–80 AD, the portrait captures the Flavian ruler known for his military command during the siege of Jerusalem and his brief but significant reign. Image by **Eduardo Alemán**." 
     width="300px" 
 >}}
 
