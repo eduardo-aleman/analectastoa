@@ -58,6 +58,13 @@ Book I is the only book in which Marcus addresses persons rather than himself, a
 
 **Books X through XII** are shorter and denser, and many readers find in them a change of register — a certain accumulated urgency, as though the arguments that earlier books rehearsed at length are being compressed into their most essential form. Book XII, the last, closes not with a formal conclusion but with a cluster of reflections on the soul, its divine origin, its relationship to reason, and the composure with which a rational being ought to face death. The final words of the *Meditations* as they survive — the manuscript breaks off rather than ending — are an injunction to depart willingly, as a ripe olive falls, grateful to the tree that bore it and the season that brought it to ripeness.
 
+{{< image
+src="/Marcus_Aurelius_British_Museum.png"
+caption="This marble bust, held at The British Museum, depicts the Roman Emperor Marcus Aurelius wearing a fringed cloak (paludamentum). Dating to approximately 160–170 AD, the portrait was excavated from the House of Jason Magnus in Cyrenaica, modern-day Libya. It captures the philosopher-emperor during the height of his reign. Image by Eduardo Alemán."
+width="300px"
+
+}}
+
 ### Marcus Aurelius and Stoicism
 
 The Stoicism of the *Meditations* is practical and personal rather than systematic and technical. Marcus does not explain the Stoic theory of the *lekton* or the mechanics of the *pneuma*; he does not argue against the Epicureans or the Sceptics in philosophical detail. What he returns to, obsessively and in constantly varied form, are the three disciplines that the Stoic teacher Epictetus had identified as the core of philosophical practice: the discipline of desire (wanting only what is in one's power); the discipline of action (acting for the common good, with reservation, without attachment to outcomes); and the discipline of assent (not letting impressions run ahead of reason, not judging what merely appears terrible to actually be so).
