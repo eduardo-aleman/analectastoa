@@ -61,9 +61,7 @@ Book I is the only book in which Marcus addresses persons rather than himself, a
 {{< image
 src="/Marcus_Aurelius_British_Museum.png"
 caption="This marble bust, held at The British Museum, depicts the Roman Emperor Marcus Aurelius wearing a fringed cloak (paludamentum). Dating to approximately 160–170 AD, the portrait was excavated from the House of Jason Magnus in Cyrenaica, modern-day Libya. It captures the philosopher-emperor during the height of his reign. Image by Eduardo Alemán."
-width="300px"
-
-}}
+width="300px" >}}
 
 ### Marcus Aurelius and Stoicism
 
