@@ -125,7 +125,6 @@ width="200px" >}}
 
 - Marble portrait bust depicting the ancient Greek philosopher Socrates. This particular sculpture is a Roman copy, likely created in the 2nd century CE, based on a Greek original from the 4th century BCE. The sculpture captures Socrates' famously "unattractive" appearance as described by contemporary accounts, including a broad forehead, pug nose, fleshy lips, and a thick, curly beard. These features were often compared to those of a satyr. It is currently held in the collection of the British Museum in London. Image by Eduardo Alemán.
 
-
 ---
 
 *New entries are added as reading and annotation permit. Suggestions for works
