@@ -75,6 +75,8 @@
       children:
         - title: "Josephus (companion)"
           author: "josephus"
+        - title: "Macabees (full text)"
+          author: "cotton"
 
 - title: "Late Antiquity"
   image: /Aqmat_Victoria_and_Albert_Museum.jpg
