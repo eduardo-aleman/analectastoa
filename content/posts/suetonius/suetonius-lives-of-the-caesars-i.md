@@ -59,6 +59,12 @@ This thematic approach has consequences for the prose. Suetonius rarely narrates
 
 **Augustus** is the longest life in the corpus and the one in which Suetonius's access to primary documents is most evident. He quotes directly from Augustus's letters to Livia about the young Claudius, from Augustus's own account of his military campaigns, and from his will. The portrait that emerges is of a man of enormous self-discipline and administrative genius who constructed the machinery of one-man rule with such care that it survived for three centuries after him — and who remained, to the end, capable of personal cruelty when the stability of his system required it.
 
+{{< image 
+    src="/Roman_Empress_Livia_Drusilla_depicted_as_the_goddess_Ceres_British_Museum.png" 
+    caption="This Roman marble head, currently housed in **The British Museum**, portrays **Livia Drusilla** with the idealized features of the Julio-Claudian style. Created in Sicily between 30 and 50 AD, it depicts her as the goddess **Ceres**. Image by **Eduardo Alemán**." 
+    width="300px" 
+>}}
+
 **Tiberius** traces one of Rome's most contested reigns. Suetonius draws a before-and-after portrait: the disciplined general and reluctant heir who accepted the Principate with public diffidence, set against the withdrawn, suspicious, and (by Suetonius's account) sexually depraved recluse of the Capri years. The life is deeply coloured by the senatorial tradition hostile to Tiberius, which Suetonius seems largely to have accepted, and it should be read alongside Tacitus's *Annales* for a sense of how the same events could be organised into a radically different kind of narrative.
 
 **Caligula** (*Gaius*) is the shortest of the four and the most lurid. Suetonius begins with the charming young prince, beloved by the legions who had known him as a child in the camp — the original *caligula*, "little boot," was a soldier's nickname — and then charts what he presents as an abrupt transformation into tyranny, cruelty, and madness following an illness in the first year of his reign. Whether this transformation was real, exaggerated by hostile sources, or partly a literary construction imposed on an autocrat whose behaviour was merely less restrained than his predecessors', remains a question that Suetonius's method cannot settle: he accumulates the evidence rather than adjudicating it.
