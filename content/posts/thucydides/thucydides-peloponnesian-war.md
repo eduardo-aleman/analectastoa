@@ -125,8 +125,8 @@ The most architecturally complex book. The Archaeology establishes Thucydides's 
 ### Books II–III — The First Years, Mytilene and Corcyra
 
 <figure>
-<img src="/pericles_chiaramonti.jpg" width="250">
-<figcaption><i>Bust of Pericles wearing a Corinthian helmet. Roman copy of a lost 5th-century BC Greek bronze original attributed to the sculptor Kresilas. t is inscribed "Pericles, son of Xanthippus, Athenian". Vatican Museums, Museo Chiaramonti, Rome. </i>
+<img src="/pericles_roman_copy_british_museum.png" width="250">
+<figcaption><i>Marble bust of Pericles wearing a Corinthian helmet pushed back on his head. This is a Roman marble copy from the 2nd century AD, based on a lost Greek bronze original created around 440–430 BC. The base of the bust features an inscription of his name in Greek. This specific copy was found at Hadrian's Villa in Tivoli and is currently housed in the British Museum in London.</i>
 </figcaption>
 </figure>
 
