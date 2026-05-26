@@ -13,6 +13,27 @@
           author: "thucydides"
         - title: "Polybius (companion)"
           author: "polybius"
+        - title: "Diodorus Siculus (companion)"
+          author: "diodorus"
+          children:
+            - title: "Mythography and the Pre-Trojan World · Books 1–8"
+              children:
+                - title: "Books 1–2.34 · Loeb I (C. H. Oldfather)"
+                - title: "Books 2.35–4.58 · Loeb II (C. H. Oldfather)"
+                - title: "Books 4.59–8 · Loeb III (C. H. Oldfather)"
+            - title: "From the Persian Wars to Alexander · Books 9–17"
+              children:
+                - title: "Books 9–12.40 · Loeb IV (C. H. Oldfather)"
+                - title: "Books 12.41–13 · Loeb V (C. H. Oldfather)"
+                - title: "Books 14–15.19 · Loeb VI (C. H. Oldfather)"
+                - title: "Books 15.20–16.65 · Loeb VII (C. L. Sherman)"
+                - title: "Books 16.66–17 · Loeb VIII (C. B. Welles)"
+            - title: "The Diadochi and the Hellenistic World · Books 18–40"
+              children:
+                - title: "Books 18–19.65 · Loeb IX (R. M. Geer)"
+                - title: "Books 19.66–20 · Loeb X (R. M. Geer)"
+                - title: "Fragments of Books 21–32 · Loeb XI (F. R. Walton)"
+                - title: "Fragments of Books 33–40 · Loeb XII (F. R. Walton)"
     - title: "Philosophy"
       category: "ancient-philosophy"
       children:
