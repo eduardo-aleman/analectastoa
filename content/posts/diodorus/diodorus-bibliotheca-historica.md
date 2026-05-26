@@ -1,7 +1,7 @@
 ---
 title: "Bibliotheca Historica"
 date: 2026-05-25
-authors: ["Diodorus Siculus"]
+authors: ["Diodorus"]
 categories: ["Greek Historiography"]
 tags:
   [
