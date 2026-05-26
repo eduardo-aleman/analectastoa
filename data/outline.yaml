@@ -52,17 +52,17 @@
           author: "sophocles"
         - title: "Euripides (full text)"
           author: "euripides"
-    - title: "Historiography of the Jewish-Greek World"
-      category: "jewish-historiography"
-      children:
-        - title: "Macabees (full text)"
-          author: "cotton"
     - title: "Comedy"
       category: "ancient-greek-comedy"
       children:
     - title: "Satyr Play"
       category: "ancient-greek-satyr-play"
       children:
+    - title: "Historiography of the Jewish-Greek World"
+      category: "jewish-historiography"
+      children:
+        - title: "Macabees (full text)"
+          author: "cotton"
 
 - title: "The Roman World"
   children:
