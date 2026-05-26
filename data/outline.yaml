@@ -57,6 +57,12 @@
       children:
         - title: "Macabees (full text)"
           author: "cotton"
+    - title: "Comedy"
+      category: "ancient-greek-comedy"
+      children:
+    - title: "Satyr Play"
+      category: "ancient-greek-satyr-play"
+      children:
 
 - title: "The Roman World"
   children:
