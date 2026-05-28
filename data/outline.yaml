@@ -55,6 +55,8 @@
     - title: "Comedy"
       category: "ancient-greek-comedy"
       children:
+        - title: "Aristophanes (full text)"
+          author: "aristophanes"
     - title: "Satyr Play"
       category: "ancient-greek-satyr-play"
       children:
