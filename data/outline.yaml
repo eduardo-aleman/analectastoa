@@ -2,6 +2,9 @@
 # Each node may have:
 #   category: slug  → links to /categories/slug/ and lists its posts
 #   author:   slug  → links to /authors/slug/   and lists its posts
+#   pages:    [ ]   → explicit content paths; overrides the author dump,
+#                     listing exactly these posts in the order given.
+#                     Use when one author's works span several cards.
 #   children: []    → sub-nodes (branch heading, no link of its own)
 
 - title: "Ancient Greece"
@@ -52,6 +55,8 @@
           author: "sophocles"
         - title: "Euripides (full text)"
           author: "euripides"
+          pages:
+            - "/posts/euripides/euripides-trojan-women-iphigenia-ion"
     - title: "Comedy"
       category: "ancient-greek-comedy"
       children:
@@ -60,6 +65,10 @@
     - title: "Satyr Play"
       category: "ancient-greek-satyr-play"
       children:
+        - title: "Euripides (full text)"
+          author: "euripides"
+          pages:
+            - "/posts/euripides/euripides-cyclops"
     - title: "Historiography of the Jewish-Greek World"
       category: "jewish-historiography"
       children:

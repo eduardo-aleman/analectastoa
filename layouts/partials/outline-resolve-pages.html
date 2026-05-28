@@ -1,0 +1,30 @@
+{{/*
+  outline-resolve-pages.html
+  Given an outline node (dict), return the slice of Pages it should list.
+
+  Resolution order:
+    1. node.pages  → those exact pages, in the order listed
+                     (each entry is a content path, e.g.
+                      "/posts/euripides/euripides-cyclops")
+    2. node.author → every page in that author taxonomy (legacy behaviour)
+    3. neither     → empty slice
+
+  Usage:
+    {{- $pages := partial "outline-resolve-pages.html" . }}
+    {{- with $pages }}{{- partial "outline-post-list.html" . }}{{- end }}
+*/}}
+{{- $node := . -}}
+{{- $pages := slice -}}
+{{- with $node.pages -}}
+  {{- range . -}}
+    {{- with site.GetPage . -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- with $node.author -}}
+    {{- $tax := index site.Taxonomies.authors (. | urlize) -}}
+    {{- with $tax -}}{{- $pages = .Pages -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $pages -}}

@@ -73,24 +73,25 @@
         <ul class="oh-card__authors">
           {{- range . }}
           {{- $aslug := .author | urlize }}
-          {{- $atax  := index site.Taxonomies.authors $aslug }}
           <li class="oh-card__author-item">
             <a class="oh-card__author-link"
                href="{{ "/authors/" | relURL }}{{ $aslug }}/">{{ .title }}</a>
-            {{- if $atax }}
-              {{- partial "outline-post-list.html" $atax.Pages }}
+            {{/* posts come from the node's explicit `pages:` if present,
+                 otherwise from the author taxonomy (see partial) */}}
+            {{- $pages := partial "outline-resolve-pages.html" . }}
+            {{- with $pages }}
+              {{- partial "outline-post-list.html" . }}
             {{- end }}
           </li>
           {{- end }}
         </ul>
         {{- end }}
 
-        {{/* ── Direct author node with no children — show its posts ── */}}
-        {{- if and .author (not .children) }}
-          {{- $slug := .author | urlize }}
-          {{- $tax  := index site.Taxonomies.authors $slug }}
-          {{- if $tax }}
-            {{- partial "outline-post-list.html" $tax.Pages }}
+        {{/* ── Direct author/page node with no children — show its posts ── */}}
+        {{- if and (or .author .pages) (not .children) }}
+          {{- $pages := partial "outline-resolve-pages.html" . }}
+          {{- with $pages }}
+            {{- partial "outline-post-list.html" . }}
           {{- end }}
         {{- end }}
 
